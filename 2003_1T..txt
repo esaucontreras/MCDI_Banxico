@@ -1,0 +1,2449 @@
+ Informe sobre 
+la Inflación 
+ 2003 
+Enero – Marzo
+ 
+ 
+ 
+ 
+ 
+   
+ABRIL, 2003
+    
+JUNTA DE GOBIERNO 
+ 
+Gobernador 
+ 
+GUILLERMO ORTIZ MARTÍNEZ 
+ 
+Subgobernadores 
+ 
+EVERARDO ELIZONDO ALMAGUER 
+GUILLERMO GÜÉMEZ GARCÍA 
+JESÚS MARCOS YACAMÁN 
+JOSÉ JULIÁN SIDAOUI DIB 
+ 
+    
+ 
+ADVERTENCIA 
+ 
+A  menos  que  se  especifique  lo  contrario,  este  documento  está  elaborado  con 
+información disponible al 25 de abril de 2003. Las cifras son de carácter preliminar 
+y están sujetas a revisiones.   INDICE 
+I.  Introducción  1 
+II.  Evolución Reciente de la Inflación  3 
+II.1.  Comportamiento de los Distintos Indicadores de 
+Inflación  4 
+II.1.1.  Inflación Anual del Indice Nacional de  
+Precios al Consumidor y del Indice de Precios 
+Subyacente  4 
+II.1.2.  Inflación Mensual del Indice Nacional de  
+Precios al Consumidor y del Indice de Precios 
+Subyacente  6 
+II.1.3.  Indice Nacional de Precios Productor (INPP)  8 
+II.2.  Principales Determinantes de la Inflación  8 
+II.2.1.  Entorno Externo  9 
+II.2.2.  Remuneraciones, Salarios y Empleo  15 
+II.2.3.  Oferta y Demanda Agregadas  19 
+II.2.4.  Balanza de Pagos, Flujos de Capital  
+y Tipo de Cambio  25 
+II.2.5.  Precios Administrados y Concertados  30 
+II.2.6.  Fenómenos Transitorios que Afectaron  
+a la Inflación  32 
+III.  La Política Monetaria Durante el Primer Trimestre de 
+2003  33 
+III.1.1. Acciones de Política Monetaria  33 
+III.2. Agregados Monetarios y Crediticios  38 
+III.2.1. Base Monetaria, Crédito Interno Neto y  
+Activos Internacionales Netos  40 
+III.2.2. Agregados Monetarios  45 
+III.2.3. Financiamiento al Sector Privado  46 
+IV.  Perspectivas del Sector Privado para 2003  48 
+IV.1. Pronóstico sobre los Principales Determinantes de 
+la Inflación  48 
+IV.2. Expectativas sobre la Inflación  50 
+V.  Balance de Riesgos  51   INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+I.  Introducción 
+La  evolución  de  la  inflación  y  de  sus  principales 
+determinantes durante el primer trimestre de 2003, así como el 
+desempeño que se espera de éstos a lo largo del resto del año, son 
+en  lo  general  compatibles  con  la  convergencia  al  cierre  de 
+diciembre con una inflación anual del Indice Nacional de Precios al 
+Consumidor  (INPC)  de  3  por  ciento,  con  un  intervalo  de 
+variabilidad de más/menos uno por ciento. En particular, se aprecia 
+que las condiciones financieras actuales, una recuperación de la 
+economía  más  débil  que  la  esperada  al  inicio  del  año  y  la 
+intensificación  preventiva  de  la  restricción  monetaria, 
+previsiblemente conseguirán contener las presiones inflacionarias. 
+No  obstante,  por  razones  tanto  de  índole  externa  como  interna 
+prevalece un inusual grado de incertidumbre. Por tanto, la Junta de 
+Gobierno  del  Banco  de  México  continuará  evaluando 
+rigurosamente el conjunto de indicadores que utiliza para detectar 
+la presencia de presiones inflacionarias que pudieran desviar la 
+trayectoria de la inflación de la meta propuesta. En este último 
+caso, la Junta adoptaría las medidas necesarias para reestablecer las 
+condiciones  monetarias  que  conduzcan  la  inflación  hacia  el 
+objetivo.  
+En el primer trimestre de 2003 la economía mexicana se 
+vio  afectada  de  manera  adversa  por  un  entorno  internacional 
+particularmente complejo. La economía de los Estados Unidos, que 
+había mostrado señales de recuperación hacia mediados del año 
+anterior, volvió a debilitarse, sin que ello fuese compensado por un 
+crecimiento  significativo  en  el  resto  del  mundo.  Además,  los 
+principales  mercados  financieros  internacionales  se  vieron 
+influidos por resultados mediocres de las empresas, reducciones de 
+los precios de las acciones y quebrantos en las carteras de los 
+inversionistas.  Así, en los países industrializados tuvo lugar una 
+disminución en los índices de confianza de los consumidores y de 
+las empresas y, en general, prevaleció un ambiente poco propicio 
+para la reactivación de la demanda. 
+La  mayoría  de  los  indicadores  sobre  la  evolución  del 
+sector real apunta a que en los primeros tres meses del año el 
+crecimiento  de  la  economía  mexicana  fue  débil.  En  el  último 
+trimestre de 2002 la expansión de la economía se estancó debido a 
+la falta de vigor del gasto privado en consumo e inversión, y a la 
+atenuación del ritmo de aumento de las exportaciones. En las cifras 
+hasta ahora disponibles, se percibe todavía la falta de fuerza en el 
+1  BANCO DE MÉXICO 
+gasto  de  las  familias,  de  las  empresas  y  de  los  mercados  del 
+exterior.  Una expansión poco robusta de la demanda tuvo como 
+contrapartida condiciones de mayor holgura en el mercado laboral. 
+La postura restrictiva de la política monetaria se acentuó 
+en tres ocasiones durante el trimestre. Con ello, desde septiembre 
+de 2002 se han acumulado cinco acciones en el mismo sentido. 
+Durante el periodo de referencia las tasas de interés aumentaron de 
+manera congruente con los incrementos del “corto”. El alza de las 
+tasas de interés internas contrastó con el bajo nivel y la estabilidad 
+de las tasas de interés en los Estados Unidos, así como con la 
+reducción del rendimiento neto de los bonos soberanos de México 
+colocados en el exterior. 
+En un contexto de debilidad económica y de condiciones 
+monetarias restrictivas, la inflación anual del INPC se mantuvo 
+relativamente estable durante el primer trimestre del presente año. 
+La  inflación  anual  subyacente  se  movió  en  una  trayectoria 
+descendente,  impulsada  por  la  reducción  de  la  del  subíndice 
+correspondiente de los servicios, la cual había mostrado a lo largo 
+de 2002 cierta rigidez a la baja. Por su parte, la inflación anual 
+subyacente de las mercancías permaneció en un nivel cercano a 2 
+por ciento en el trimestre. Así, hasta el momento de publicar este 
+Informe no hay evidencia de una reactivación del traspaso de la 
+depreciación del tipo de cambio a los precios al consumidor. Sin 
+embargo,  la  reducción  que  experimentó  la  inflación  anual 
+subyacente no se reflejó en una disminución más pronunciada de la 
+inflación  anual  general.    Ello  puede  atribuirse,  en  parte,  a  la 
+evolución desfavorable del subíndice de precios agropecuarios. 
+En los siguientes capítulos de este documento se presenta 
+el  análisis  detallado  del  desempeño  de  la  inflación  y  de  sus 
+principales determinantes durante el periodo enero-marzo de 2003, 
+y se delinean las perspectivas que avizora la Junta de Gobierno del 
+Banco de México respecto de su evolución. 
+2  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+II.  Evolución Reciente de la Inflación 
+La trayectoria de los precios durante el primer trimestre de 
+2003 resultó, en términos generales, acorde con lo pronosticado en 
+el anterior Informe  sobre la Inflación. Al respecto, la inflación 
+anual  general  se  ubicó  en  un  nivel  ligeramente  inferior  al  de 
+diciembre  anterior  y  la  inflación  anual  subyacente  continuó 
+disminuyendo. La diferencia en el comportamiento de estos dos 
+índices de precios se explica por el crecimiento de los precios de 
+los productos agropecuarios. Así, en materia de inflación durante el 
+periodo enero-marzo de 2003 puede destacarse lo siguiente: 
+(a)  La inflación anual del INPC se mantuvo relativamente 
+estable; 
+(b)  La  inflación  anual  subyacente  se  redujo 
+significativamente  como  consecuencia  de  la  baja  que 
+mostró la del rubro de los servicios, al haberse revertido 
+el repunte que había registrado la inflación anual de tres 
+conceptos: vivienda propia, vivienda en renta y seguro de 
+automóvil; 
+(c)  La  inflación  anual  subyacente  de  las  mercancías  se 
+sostuvo en un ritmo similar al del trimestre anterior, aún 
+cuando  el  tipo  de  cambio  registró  una  depreciación 
+significativa; 
+(d)  La  inflación  anual  de  los  productos  agropecuarios 
+aumentó  marcadamente  debido  a  dos  factores:  una 
+reducción  menos  pronunciada  en  los  precios  del 
+componente de frutas y verduras que la observada en el 
+mismo trimestre del año pasado, y un incremento de los 
+precios de la carne y del huevo; 
+(e)  La inflación anual de los bienes y servicios con precios 
+concertados disminuyó notablemente, mientras que la del 
+subíndice  de  los  administrados  tuvo  una  reducción 
+moderada; y 
+(f)  La  depreciación  del  tipo  de  cambio  se  reflejó  en  un 
+incremento  de  la  inflación  del  componente  de 
+exportaciones del INPP sin petróleo. 
+3  BANCO DE MÉXICO 
+II.1.  Comportamiento de los Distintos Indicadores de 
+Inflación 
+II.1.1.  Inflación  Anual  del  Indice  Nacional  de  Precios  al 
+Consumidor y del Indice de Precios Subyacente 
+Al cierre del primer trimestre de 2003 la inflación del 
+INPC resultó de 5.64 por ciento, en tanto que la subyacente fue de 
+3.53  por  ciento.  La  reducción  que  mostró  durante  el  trimestre 
+reportado  la  inflación  subyacente  fue  0.18  puntos  porcentuales 
+mayor que la del INPC (Gráfica 1). 
+Gráfica 1  Indice  Nacional  de  Precios  al  Consumidor  e  Indice  de  Precios 
+Subyacente 
+Variación anual en por ciento 
+11 1
+1
+9 10.9.739.489.419.129.108.858.918.878.96 INPC Subyacente
+1
+1
+8.
+7 7.097.177.116.9557
+6. 4
+5 5.885.936.15.895.39404.794.794.664.704.684.945.515.294.954.945.395.705.165.525.64
+4.
+3
+Mar  Jun   Sep   Dic   Mar  Jun   Sep   Dic   Mar  Jun   Sep   Dic   Mar 
+2000 2001 2002 2003
+ 
+La evolución de la inflación general en el trimestre se 
+determinó en gran medida por la del componente no subyacente del 
+INPC. Cabe destacar el elevado incremento que mostró la inflación 
+de los productos agropecuarios. Ello se debió en buena medida a 
+que en igual trimestre del año anterior el subíndice de los precios 
+agropecuarios registró, en el rubro de frutas y verduras, una baja 
+más pronunciada que en el actual, mientras que los precios de la 
+carne y el huevo experimentaron un incremento significativo. 
+4  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+Por otro lado, la inflación de los bienes y servicios con 
+precios administrados y concertados se mantuvo en un nivel alto, a 
+pesar  de  la  notable  reducción  de  la  inflación  del  subíndice  de 
+precios concertados (Cuadro 1). Al interior del subíndice de precios 
+administrados,  los  incrementos  experimentados  en  los  meses 
+finales del año pasado por los precios del gas doméstico afectaron 
+adversamente  a  la  inflación.  Asimismo,  también  ejerció  una 
+influencia alcista la elevación que tuvo en los primeros tres meses 
+del  presente  año  el  precio  de  la  gasolina,  en  particular  en  las 
+ciudades de la frontera norte. 
+Cuadro 1  Indices de Precios: INPC, Subyacente, Productos Agropecuarios, 
+Educación y Administrados y Concertados 
+Por ciento 
+Variaciones Anuales Variaciones Trimestrales
+Mar 2003/ Dic 2002/ Mar 2002/ Mar 2003/ Dic 2002/ Mar 2002/
+ Mar 2002  Dic 2001  Mar 2001  Dic 2002  Sep 2002  Dic 2001
+INPC 5.64 5.70 4.66 1.32 1.69 1.37
+Subyacente 3.53 3.77 4.54 1.43 0.71 1.67
+Mercancías 2.03 1.95 2.84 1.09 0.55 1.01
+Servicios 5.40 6.23 7.02 1.81 0.89 2.61
+Agropecuarios 13.42 8.65 2.85 -0.77 6.22 -4.95
+Frutas y Verduras 28.90 22.23 0.06 -6.55 14.22 -11.38
+Carne y Huevo 4.37 -0.10 4.56 3.73 0.72 -0.71
+Educación 10.24 10.04 13.61 1.17 0.00 0.98
+Administrados y
+8.22 10.96 4.58 1.93 4.07 4.51
+Concertados
+Administrados 15.02 16.84 1.35 3.09 8.46 4.73
+Concertados 2.60 6.12 7.28 0.88 0.39 4.34  
+Durante  el  periodo  enero-marzo  de  2003,  la  inflación 
+subyacente de las mercancías permaneció en un nivel similar al del 
+cierre  del  trimestre  anterior  (Gráfica  2).  Por  tanto,  hasta  el 
+momento no hay evidencia de que la depreciación que presentó el 
+tipo de cambio desde el segundo trimestre del año pasado, se haya 
+traducido en una inflación adicional de los precios al consumidor. 
+El componente de los  servicios  dentro  de la inflación 
+subyacente  tuvo  un  comportamiento  favorable  en  el  primer 
+trimestre  de  2003  (Gráfica  2).  La  reducción  de  la  tasa  de 
+crecimiento de este subíndice, la más pronunciada en los últimos 8 
+trimestres, se explica por el descenso de la inflación en la mayoría 
+de  los  genéricos  que  lo  integran.  En  particular,  se  revirtió  la 
+tendencia alcista de la inflación de la vivienda propia y en renta, y 
+del  seguro  de  automóvil,  que  en  trimestres  precedentes  había 
+5  BANCO DE MÉXICO 
+constituido  un  escollo  para  que  la  inflación  en  este  sector 
+disminuyese a un ritmo más rápido. 
+Gráfica 2  Indices Subyacentes de las Mercancías y de los Servicios 
+Variación anual en por ciento 
+11
+Mercancías
+9
+Servicios
+7
+5
+3
+1
+Mar  Jun   Sep   Dic   Mar  Jun   Sep   Dic   Mar  Jun   Sep   Dic   Mar 
+2000 2001 2002 2003
+ 
+II.1.2.  Inflación Mensual del Indice Nacional de Precios al 
+Consumidor y del Indice de Precios Subyacente 
+En el primer trimestre de 2003, la serie de tendencia de la 
+inflación del INPC registró un ligero incremento (Gráfica 3). Cabe 
+señalar  que  la  serie  de  tendencia  permite  eliminar  los  efectos 
+calendario que afectan de manera recurrente a la inflación cada 
+año.  
+6  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+Gráfica 3  Indice Nacional de Precios al Consumidor  
+Variación mensual en por ciento  
+INPC Tendencia
+0.9
+0.6
+0.3
+0.0
+-0.3
+Mar Jun Sep Dic Mar Jun Sep Dic Mar Jun Sep Dic Mar
+2000 2001 2002 2003
+ 
+En enero y febrero de 2003 la inflación resultó inferior a 
+la  pronosticada  por  los  especialistas  en  economía  del  sector 
+privado.  Sin  embargo,  en  marzo  ocurrió  lo  contrario.    Ello, 
+principalmente por el incremento de los precios de los productos 
+agropecuarios  que,  debido  a  su  volatilidad,  son  difíciles  de 
+anticipar (Cuadro 2). 
+Cuadro 2  Inflación Mensual Observada y Esperada  
+Variación mensual en por ciento 
+2003 2002
+Observada Esperada 1/ Observada Esperada 1/
+Enero 0.40 0.59 0.92 0.92
+Febrero 0.28 0.30 -0.06 0.48
+Marzo 0.63 0.33 0.51 0.39
+ 
+1/ Inflación esperada al final del trimestre previo según la Encuesta sobre las Expectativas de los Especialistas en 
+Economía del Sector Privado que recaba el Banco de México. 
+De  diciembre  de  2002  a  marzo  de  2003,  la  serie  de 
+tendencia de la inflación subyacente de las mercancías mostró un 
+ligero repunte; no obstante, se mantuvo por abajo de 0.2 por ciento. 
+Por otro lado, la serie de tendencia de la inflación subyacente de los 
+7  BANCO DE MÉXICO 
+servicios permaneció en el mismo nivel que registró al cierre del 
+trimestre anterior (Gráfica 4). 
+Gráfica 4  Indices Subyacentes de las Mercancías y de los Servicios 
+Variación mensual en por ciento 
+1.1 1.1
+ Mercancías
+Tendencia
+0.8 0.8
+0.5 0.5
+Servicios
+0.2 0.2
+Tendencia 
+-0.1 -0.1
+M J N M J N M J N M M J N M J N M J N M
+2000 2001 2002 2003 2000 2001 2002 2003
+II.1.3.  Indice Nacional de Precios Productor (INPP) 
+En  el  primer  trimestre  de  2003,  la  trayectoria  de  la 
+inflación anual del INPP sin petróleo y sin servicios continuó al 
+alza. Así, al cierre del trimestre ésta fue de 8.34 por ciento, lo que 
+significó un incremento de 2.05 puntos porcentuales respecto al 
+nivel  observado  al  final  del  cuarto  trimestre  de  2002.  Dicho 
+aumento se encuentra asociado principalmente a la depreciación 
+que mostró el tipo de cambio durante el periodo de referencia. 
+II.2.  Principales Determinantes de la Inflación 
+En esta sección se examinan los factores que incidieron, 
+directa e indirectamente, sobre la evolución de la inflación en el 
+trimestre enero-marzo.  A tal fin, primero se analiza el entorno 
+internacional, el cual ha estado caracterizado por una recuperación 
+débil  de  la  economía  estadounidense  y  del  resto  de  los  países 
+industrializados. Segundo, se revisa la evolución de la demanda y 
+oferta  agregadas,  así  como  la  del  mercado  laboral.  Tercero,  se 
+estudia el comportamiento de la balanza de pagos, de los flujos de 
+capital y del tipo de cambio.  Finalmente, se describe la trayectoria 
+del subíndice de los precios administrados y concertados por el 
+8  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+sector público, así como del subíndice de precios de los productos 
+agropecuarios. 
+II.2.1.  Entorno Externo 
+Durante el primer trimestre de 2003 el entorno externo 
+influyó  de  manera  desfavorable  sobre  la  actividad  económica 
+nacional.  Aunque  ello  posiblemente  contribuyó  a  reducir  las 
+presiones  inflacionarias  en  México,  a  través  de  un  menor 
+crecimiento  de  la  demanda  agregada,  también  podría  tener  un 
+efecto indirecto adverso sobre la inflación.  Lo anterior en caso de 
+que  eventualmente  llegara  a  incidir  negativamente  sobre  las 
+variables financieras, en particular sobre el tipo de cambio. 
+Durante  el  trimestre  referido,  el  ambiente  económico 
+global  estuvo  marcado  por  la  incertidumbre  causada  por  la 
+complicada situación geopolítica que desembocó en la guerra en 
+Irak. La falta de claridad en cuanto a la duración del conflicto, sus 
+costos  y  sus  consecuencias  causó  volatilidad  en  los  precios 
+internacionales del petróleo y provocó pérdida de confianza de los 
+consumidores e inversionistas de todo el mundo. Lo anterior se 
+reflejó en los mercados financieros y dio lugar a caídas en los 
+índices bursátiles de los países desarrollados. 
+En los Estados Unidos, el balance general en el primer 
+trimestre  de  los  indicadores  de  la  actividad  económica  resultó 
+negativo. Por ello, se ha revisado a la baja la expectativa sobre la 
+velocidad  con  la  cual  la  economía  estadounidense  pudiera 
+recuperarse en el primer semestre de 2003, así como la relativa al 
+crecimiento  del  PIB  real  para  todo  el  año.  Por  otra  parte,  los 
+indicadores  oportunos  para  las  economías  de  la  zona  del  euro 
+muestran que la expansión resultó menos vigorosa que la prevista 
+originalmente. Por su parte, la economía japonesa, presentó signos 
+de una recuperación muy endeble. 
+II.2.1.1.  Precio del Petróleo 
+En el primer trimestre de 2003 el precio promedio del 
+crudo WTI se ubicó en 34.32 dólares por barril, 6 dólares por 
+encima de los 28.35 dólares registrados en el cuarto trimestre de 
+2002.  Durante  la  mayor  parte  del  periodo  enero-marzo,  la 
+cotización aludida se sostuvo en los niveles que alcanzó a finales 
+de 2002. Si bien a principios de marzo la percepción cada vez más 
+arraigada de un conflicto bélico breve en Irak impulsó a la baja 
+dicho precio, al final de ese mes empezó a repuntar nuevamente. 
+9  BANCO DE MÉXICO 
+Ello obedeció a que las expectativas optimistas respecto a la guerra 
+se empezaron a cuestionar. 
+Durante el trimestre reportado, el precio del barril de la 
+mezcla mexicana de exportación mostró una evolución similar a la 
+de  los  crudos  de  referencia.  Así,  el  precio  promedio  de  dicha 
+mezcla se ubicó en el período en 26.99 dólares por barril, nivel que 
+resultó  4.28  dólares  mayor  que  el  prevaleciente  en  el  cuarto 
+trimestre de 2002 (Gráfica 5). 
+Gráfica 5  Precio de la Mezcla Mexicana de Petróleo de Exportación 
+Dólares por barril 
+29
+28.33
+28.13
+27
+25 Precio Diario
+24.77
+Promedio del Mes 
+23
+21
+19
+3 3 3 3 3 3 3 3 3 3 3 3 3
+0 0 0 0 0 0 0 0 0 0 0 0 0
+Ene- Ene- Ene- Ene- Ene- Feb- Feb- Feb- Feb- Mar- Mar- Mar- Mar-
+1- 8- 5- 2- 9- 5- 2- 9- 6- 5- 2- 9- 6-
+1 2 2 1 1 2 1 1 2  
+Fuente: Reuters. 
+El hecho de que el precio del petróleo se mantenga en un 
+nivel elevado tiene varios efectos sobre la economía nacional. Por 
+un  lado,  el  incremento  de  los  ingresos  petroleros  contribuye  a 
+reducir tanto el ajuste procíclico del gasto público como el déficit 
+externo. Por otro, tiene una influencia adversa sobre la posibilidad 
+de  recuperación  de  la  economía  mundial  y  del  comercio 
+internacional. En consecuencia, el efecto neto sobre la economía 
+mexicana, y especialmente sobre la inflación, es incierto, como se 
+explica de manera más detallada en la sección V de este Informe. 
+10  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+II.2.1.2.  Evolución de la Economía de los Estados 
+Unidos 
+Los  indicadores  oportunos  sobre  la  economía  de  los 
+Estados  Unidos  muestran  que  su  desempeño  durante  el  primer 
+trimestre de 2003 resultó poco robusto, a pesar de que las cifras 
+disponibles  a  principios  del  año  parecían  promisorias.  En 
+particular,  al  inicio  del  trimestre  el  índice  de  volumen  de  la 
+producción  industrial  y  diversos  datos  de  pedidos  en  el  sector 
+industrial generaron la percepción de que la economía comenzaba a 
+repuntar. Sin embargo, a mediados y finales del trimestre las cifras 
+de empleo, las encuestas de opinión de los gerentes de compras en 
+los  sectores  manufacturero  y  no  manufacturero,  así  como  los 
+índices de confianza de los consumidores reflejaron una situación 
+menos favorable. 
+La fragilidad de la recuperación, manifestada claramente 
+en los indicadores de la actividad económica del periodo enero-
+marzo  de  2003,  se  sumó  a  la  confirmación  de  un  crecimiento 
+modesto en el cuarto trimestre de 2002. Así, en los últimos tres 
+meses del año anterior la tasa de incremento trimestral anualizada 
+del  PIB  real  resultó  de  1.4  por  ciento,  lo  que  significó  una 
+reducción muy considerable con relación a la observada en el tercer 
+trimestre (4 por ciento).1 
+A  pesar  del  endeble  entorno  descrito,  no  hubo  un 
+relajamiento  adicional  de  la  política  monetaria  por  parte  de  la 
+Reserva  Federal  en  su  reunión  del  18  de  marzo  de  2003.  Lo 
+anterior es atribuible a que el Comité de Operaciones de Mercado 
+Abierto opinó que una parte importante de la debilidad de las cifras 
+que se dieron a conocer en los primeros meses del año obedecía 
+principalmente  al  incremento  del  precio  del  petróleo  y  a  la 
+incertidumbre  geopolítica  imperante.  Por  lo  anterior,  el  órgano 
+encargado de tomar las decisiones de política monetaria en los 
+Estados  Unidos  consideró  que  las  condiciones  monetarias  y  el 
+incremento de la productividad serían impulsos suficientes para la 
+reactivación de la economía, tan pronto se disipara la incertidumbre 
+causada por la guerra. 
+                                                 
+1  El componente de la demanda agregada que más contribuyó a la desaceleración del 
+crecimiento en el cuarto trimestre de 2002 fue el consumo privado, el cual aumentó 1.7 
+por ciento, en comparación con 4.2 por ciento en el trimestre anterior. En contraste, los 
+incrementos del gasto público y de la inversión privada contribuyeron de manera 
+positiva a la expansión del PIB y en mayor grado que en el periodo anterior. La 
+variación del gasto público pasó de 2.9 a 4.9 por ciento entre el tercero y cuarto 
+trimestres de 2002 y la correspondiente a la inversión fija privada de -0.3 a 4.6 por 
+ciento. De esta manera, el crecimiento promedio anual del PIB real de los Estados 
+Unidos en 2002 se ubicó en 2.4 por ciento, que fue significativamente más alto que el 
+de 2001. 
+11  BANCO DE MÉXICO 
+Consecuentemente,  los  pronósticos  para  el  crecimiento 
+anual promedio del PIB real estadounidense en 2003 se redujeron 
+de manera congruente con el desempeño adverso que ha mostrado 
+dicha  economía.  Los  analistas  (Consensus  Forecasts)  han 
+modificado a la baja sus expectativas respecto al crecimiento anual 
+promedio en 2003, de 2.7 por ciento en enero a alrededor de 2.3 
+por ciento en abril. Esta última cifra es similar a la anticipada por el 
+FMI, de 2.2 por ciento (Cuadro 3).  Sin embargo, a finales de abril 
+la expectativa promedio de los analistas (corredurías) sobre la tasa 
+de crecimiento trimestral anualizada del PIB para el periodo enero-
+marzo siguió siendo de alrededor de 2.2 por ciento. 
+Cuadro 3  Pronósticos del Crecimiento del PIB de los Estados Unidos 
+Variación anual en por ciento 
+Principios de Enero 2003  Finales de Abril 2003 
+I/2003 2003 I/2003 2003
+Consensus Forecasts 1/ n.d. 2.7 n.d. 2.3
+Deutsche Bank 2.0 2.8 2.0 2.5
+Goldman Sachs 1.5 2.1 2.0 2.2
+JP Morgan 3.0 2.8 2.5 2.4
+ 
+1/ Consensus Forecasts del 13 de enero y 7 de abril de 2003. El pronóstico trimestral se refiere a la encuesta 
+realizada en una fecha que no corresponde a la indicada. Por ese motivo no se hace referencia al pronóstico 
+trimestral en este documento. 
+II.2.1.3.  Evolución de la Economía del Resto del 
+Mundo 
+Los países de la zona del euro también han experimentado 
+una recuperación menos robusta que la esperada, con un desempleo 
+ligeramente  creciente  y  una  caída  en  la  confianza  de  los 
+consumidores y de los inversionistas. En 2002 el crecimiento del 
+PIB real en la euro-zona resultó de 0.8 por ciento, cifra que es 
+menor  que  el  potencial  de  la  región.  Para  2003  se  prevé  una 
+recuperación modesta y los pronósticos se sitúan en alrededor de 
+1.1 por ciento (Cuadro 4). 
+El desempeño poco vigoroso de la economía alemana es 
+uno de los principales elementos de riesgo que subsisten para la 
+región europea, dada la debilidad que han mostrado los indicadores 
+oportunos  de  producción,  confianza  empresarial  y  ventas. 
+Asimismo, cabe señalar que en Alemania no se espera un impulso 
+fiscal ni monetario en 2003, toda vez que la inflación en la zona del 
+euro cerró 2002 en 2.2 por ciento, ligeramente por arriba del techo 
+de 2 por ciento fijado por el Banco Central Europeo (BCE) y que 
+los acuerdos de convergencia entre los países europeos restringen 
+el margen de maniobra para las autoridades fiscales. 
+12  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+La  economía  de  Japón  presenta  signos  de  una 
+recuperación  muy  raquítica  y  la  deflación  no  ha  podido  ser 
+erradicada.  En  enero,  la  tasa  de  desempleo  resultó  de  5.5  por 
+ciento, nivel que se ha venido registrando desde octubre de 2002. 
+Para 2003 se prevé un crecimiento anual del PIB real de tan sólo 
+0.8 por ciento.  
+Para América Latina se anticipa que en 2003 el PIB real 
+alcance un incremento de alrededor de 1.5 por ciento, después de 
+que  en  2002  disminuyó  0.1  por  ciento.  Dichos  niveles  de 
+crecimiento se encuentran por debajo de los necesarios para colocar 
+a los países de la región en trayectorias fiscales sostenibles. Sin 
+embargo,  algunas  medidas  de  consolidación  de  las  finanzas 
+públicas han reducido la probabilidad de enfrentar dificultades en 
+el servicio de la deuda. 
+Al  respecto,  resulta  importante  destacar  la  evolución 
+reciente  de  dos  países  que  fueron  fuentes  de  inestabilidad  en 
+América  Latina  durante  2002.  En  primer  lugar,  recientemente 
+Brasil ha generado expectativas favorables entre los inversionistas, 
+toda vez que el gobierno ha procurado un manejo conservador de 
+las finanzas publicas. Así, la nueva administración ha logrado un 
+superávit  primario  mayor  que  el  programado  inicialmente,  ha 
+promovido reformas estructurales en materia de seguridad social y 
+con relación a la autonomía del banco central. En segundo lugar, ha 
+cumplido  holgadamente  con  los  compromisos  con  el  FMI.  Lo 
+anterior  ha  mitigado  los  riesgos  de  insolvencia  del  gobierno 
+brasileño en el corto plazo. Sin embargo, aún subsisten temores 
+respecto a la capacidad de generar recurrentemente un superávit 
+primario elevado y, por ende, sobre la sostenibilidad de la deuda 
+pública. El FMI pronostica un crecimiento real de la economía 
+brasileña en 2003 de 2.8 por ciento y una inflación anual promedio 
+de 14 por ciento. 
+El  segundo  caso  es  el  de  Argentina,  cuya  economía 
+parece haber tocado fondo en el último trimestre de 2002. En el 
+lado positivo, puede mencionarse el repunte observado en algunos 
+sectores manufactureros y el considerable superávit comercial que 
+se ha acumulado. Esto último ha coadyuvado a la estabilidad e 
+incluso apreciación de la divisa. En el lado negativo, subsisten 
+serias dudas respecto a la posibilidad de consolidar la recuperación 
+del  crecimiento  sin  contar  con  acceso  a  los  mercados 
+internacionales  de  crédito,  dado  el  excesivo  nivel  de 
+endeudamiento  que  tiene  este  país.    Adicionalmente,  existe  el 
+riesgo de un repunte inflacionario por la liberación de los depósitos 
+bancarios previamente congelados. Así, los pronósticos del FMI 
+sobre la expansión real para la economía argentina en 2003 se 
+13  BANCO DE MÉXICO 
+sitúan en 3 por ciento, con una inflación anual promedio de 22.3 
+por ciento (Cuadro 4). 
+Cuadro 4  Pronósticos del Fondo Monetario Internacional (FMI) Relativos al 
+Crecimiento del Producto Interno Bruto 
+Variación anual en por ciento 
+2001 2002 2003 e/ 2004 e/
+Mundo 2.3 3.0 3.2 4.1
+Economías Avanzadas 0.9 1.8 1.9 2.9
+Estados Unidos 0.3 2.4 2.2 3.6
+Japón 0.4 0.3 0.8 1.0
+Alemania 0.6 0.2 0.5 1.9
+Francia 1.8 1.2 1.2 2.4
+Italia 1.8 0.4 1.1 2.3
+Reino Unido 2.0 1.6 2.0 2.5
+Canadá 1.5 3.4 2.8 3.2
+Otros países 1.6 2.7 2.5 3.2
+Zona del Euro 1.4 0.8 1.1 2.3
+ERI1/ de Asia 0.8 4.6 4.1 4.5
+Latinoamérica  0.6 -0.1 1.5 4.2
+Argentina -4.4 -11.0 3.0 4.5
+Brasil 1.4 1.5 2.8 3.5
+Chile 2.8 2.0 3.1 4.8
+México -0.3 0.9 2.3 3.7
+Uruguay -3.1 -10.8 -2.0 4.5
+Venezuela 2.8 -8.9 -17.0 13.4  
+Fuente: World Economic Outlook, 9 de abril 2003, FMI. 
+e/ Estimado 
+  1/ Economías de Reciente Industrialización 
+Los flujos de capital hacia América Latina registraron una 
+severa contracción durante 2002. No obstante, México se mantuvo 
+como  un  destino  atractivo  para  el  capital  externo  (ver  Sección 
+II.2.4.). Para 2003, se anticipa un reestablecimiento de los flujos de 
+capital  dirigidos  hacia  la  región.  En  particular,  se  espera  que 
+Latinoamérica reciba un mayor volumen de capital privado y que 
+continúe reduciéndose el proveniente de fuentes oficiales (Cuadro 
+5). 
+14  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+Cuadro 5  Flujos de Capital: Economías Emergentes 
+Miles de millones de dólares 
+2001 2002 2003e/
+Total1/ 77.6 111.7 88.4
+Africa 7.6 7.6 11.3
+Asia2/ 9.4 59.3 12.7
+Medio Oriente y Turquía3/ -32.1 -12.8 -2.3
+Países en Transición 34.2 37.0 32.2
+América Latina 58.5 20.6 34.5
+Flujos Netos de Capital Privado4/ 34.8 2.2 27.5
+Inversión Extranjera Directa Neta 65.9 38.5 36.0
+Inversión en Cartera Neta 2.8 -6.5 6.4
+Otros Flujos Privados Netos -33.9 -29.8 -14.9
+Flujos Oficiales Netos 23.7 18.4 7.0 
+Fuente: Fondo Monetario Internacional, (2003), World Economic Outlook, abril. 
+e/ Estimación. 
+1/ Incluye la inversión extranjera directa neta, la inversión en cartera (neta) y otros flujos de corto y largo 
+plazo, incluyendo préstamos privados y oficiales. 
+2/ No incluye a Hong Kong. 
+3/ Incluye también a Israel y Malta. 
+4/ Debido a las limitaciones de los datos, el renglón Otros Flujos Privados Netos puede incluir algunos 
+flujos oficiales. 
+II.2.2.  Remuneraciones, Salarios y Empleo 
+Durante el primer trimestre de 2003 el mercado laboral 
+continuó mostrando signos de estancamiento. Al respecto, la tasa 
+de desempleo permaneció en niveles similares a los observados en 
+el trimestre anterior y el empleo formal se contrajo. No obstante, en 
+enero  el  crecimiento  de  las  remuneraciones  reales  a  tasa  anual 
+repuntó  en  todos  los  sectores,  debido  al  efecto  estadístico  que 
+generó la contracción de éstas en igual periodo del año previo. Por 
+otra parte, el aumento de los salarios contractuales se mantuvo en 
+niveles superiores a la inflación esperada. Así, en el actual contexto 
+de crecimiento económico lento, el Banco de México reitera la 
+conveniencia  de  que  los  incrementos  salariales  continúen 
+moderándose a fin de propiciar una recuperación del empleo. 
+II.2.2.1.  Remuneraciones 
+En enero de 2003 tanto las remuneraciones2 nominales 
+como las reales mostraron en todos los sectores variaciones anuales 
+significativamente  mayores  que  las  registradas  en  el  último 
+trimestre de 2002 (Cuadro 6). 
+                                                 
+2  Las remuneraciones incluyen los ingresos totales de los trabajadores de la industria 
+manufacturera, de  la  industria maquiladora  y  del sector  comercio  en el  mes  de 
+referencia.    Así,  son  un  indicador  del  nivel  actual  de  las  percepciones  de  los 
+trabajadores mientras que las revisiones de los salarios contractuales son un indicador 
+del nivel futuro. 
+15  BANCO DE MÉXICO 
+Cuadro 6  Remuneraciones por Trabajador 
+Variación anual en por ciento 
+Nominal Real
+2002 2003 Promedio 2002 2003 Promedio
+Ene-Dic Ene-Dic
+Jul Ago Sep Oct Nov Dic Ene Jul Ago Sep Oct Nov Dic Ene
+2002 2002
+Industria 
+6.0 5.7 5.6 7.7 3.1 4.7 6.2 6.6 0.4 0.4 0.6 2.7 -2.2 -1.0 1.0 1.5
+Manufacturera
+Industria 
+10.5 8.9 9.0 7.8 6.1 6.0 6.8 9.4 4.7 3.5 3.8 2.7 0.7 0.3 1.5 4.2
+Maquiladora
+Sector                
+Comercio  8.8 8.2 7.1 11.7 11.0 8.8 12.8 8.7 3.1 2.7 2.0 6.5 5.3 2.9 7.3 3.5  
+ 
+Fuente: Elaborado por el Banco de México con información del INEGI.
+La productividad registró en enero una variación anual 
+negativa en el sector comercio, pero continuó siendo positiva en la 
+industria  manufacturera y en la industria maquiladora. Por otra 
+parte, los costos unitarios de la mano de obra mostraron variaciones 
+anuales  positivas  en  la  industria  maquiladora  y  en  el  sector 
+comercio, y negativas en la industria manufacturera. Por tanto, en 
+enero el aumento de la productividad fue suficiente para compensar 
+el  incremento  de  las  remuneraciones  reales  únicamente  en  la 
+industria manufacturera (Cuadro 7). 
+Cuadro 7  Producto por Trabajador y Costos Unitarios de la Mano de Obra  
+Variación anual en por ciento 
+Producto por Trabajador Costos Unitarios de la Mano de Obra
+2002 2003 Promedio 2002 2003 Promedio
+Ene-Dic Ene-Dic
+Jul Ago Sep Oct Nov Dic Ene Jul Ago Sep Oct Nov Dic Ene
+2002 2002
+Industria 
+7.0 4.6 3.8 5.0 3.0 5.4 2.5 5.4 -6.1 -4.0 -3.1 -2.2 -5.0 -6.0 -1.5 -3.6
+Manufacturera
+Industria 
+5.7 -1.1 1.2 4.2 -0.9 1.6 1.3 1.4 -0.9 4.7 2.5 -1.4 1.6 -1.3 0.2 2.8
+Maquiladora
+Sector       
+Comercio  0.0 -2.6 -3.6 -1.4 -3.1 -2.0 -0.3 -2.3 3.1 5.4 5.9 8.0 8.7 5.0 7.5 6.0  
+ 
+Fuente: Elaborado por el Banco de México con información del INEGI.
+Con  relación  a  lo  anterior,  conviene  advertir  que  un 
+crecimiento relativamente elevado de las remuneraciones reales y 
+de los costos unitarios de la mano de obra resulta incongruente con 
+la actual situación de holgura que caracteriza al mercado laboral. 
+En  consecuencia,  es  importante  que  el  incremento  de  las 
+remuneraciones reales sea acorde con los aumentos sostenibles de 
+la productividad, a fin de propiciar con ello la creación de un 
+mayor número de empleos y la convergencia de la inflación general 
+hacia la meta. 
+16  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+II.2.2.2.  Salarios Contractuales 
+El  aumento  promedio  de  los  salarios  nominales 
+contractuales resultó en el primer trimestre de 2003 de 5.1 por 
+ciento. Con ello, dichas revisiones resultaron menos pronunciadas 
+que las registradas en el trimestre anterior.  Sin embargo, aún son 
+elevadas, a la luz del estado actual de lasitud del mercado laboral y 
+de la evolución previsible de la productividad. 
+La brecha promedio entre los incrementos de los salarios 
+contractuales y la inflación esperada para los siguientes doce meses 
+se situó durante el periodo de referencia en 0.69 por ciento. Cabe 
+mencionar que este diferencial es más estrecho que el observado 
+durante el trimestre previo, que se ubicó en 0.77 por ciento (Gráfica 
+6).  
+Gráfica 6  Salarios Contractuales e Inflación Esperada para los Siguientes 12 
+Meses 
+Variación anual en por ciento 
+11
+Expectativas de Inflación para los Siguientes 12 meses
+Salarios Contractuales
+9
+7
+5
+3
+Mar Jun   Sep   Dic   Mar Jun   Sep   Dic   Mar
+2001 2002 2003
+ 
+Fuente:  Encuesta sobre las Expectativas de los Especialistas en Economía del Sector Privado, Banco de México; y Secretaría del Trabajo 
+y Previsión Social. 
+Durante  el  primer  trimestre  de  2003  los  salarios 
+contractuales presentaron incrementos nominales similares en la 
+industria manufacturera y en otros sectores de actividad, pues la 
+diferencia promedio resultó de tan sólo 0.4 puntos porcentuales. No 
+obstante,  los  salarios  contractuales  en  las  empresas  privadas 
+17  BANCO DE MÉXICO 
+mostraron  alzas  nominales  significativamente  superiores  a  las 
+observadas en las empresas públicas, ya que la diferencia promedio 
+fue de 0.9 puntos porcentuales (Cuadro 8). 
+Cuadro 8  Salarios Contractuales por Sectores y por Tipo de Empresa 
+Variación anual en por ciento 
+2002 2003
+Jul Ago Sep Oct Nov Dic Ene Feb Mar Ene-Mar
+Total 6.8 6.6 5.7 4.8 5.2 5.8 5.2 5.0 5.0 5.1
+Manufacturas 7.1 6.8 5.7 6.1 5.0 5.9 5.4 5.0 5.5 5.3
+Otros Sectores 6.5 6.5 6.2 4.6 5.3 5.7 5.1 4.9 4.6 4.9
+Empresas Públicas 6.4 5.5 5.5 4.5 4.3 7.0 4.3 4.3 4.3 4.3
+Empresas Privadas 6.8 6.6 6.3 5.8 5.4 5.8 5.4 5.0 5.3 5.2  
+Fuente: Elaborado por el Banco de México con datos de la Secretaría del Trabajo y Previsión Social. 
+II.2.2.3.  Empleo 
+Los  distintos  indicadores  de  empleo  continuaron 
+mostrando signos de debilidad durante el trimestre enero-marzo de 
+2003.  Así,  al  término  de  marzo  el  número  de  trabajadores 
+asegurados  en  el  IMSS  (permanentes  y  eventuales  urbanos) 
+disminuyó en 18,283 respecto al nivel observado al cierre de 2002 
+(Gráfica  7a).  Esta  reducción  fue  menos  pronunciada  que  la 
+registrada en igual periodo del año 2002 (34,269 empleos). Así, en 
+el trimestre aludido la serie desestacionalizada de este indicador 
+tuvo un modesto aumento de 1,429 empleos. 
+Al  cierre  de  marzo  la  variación  anual  del  número  de 
+trabajadores asegurados fue de 77,931 personas, cifra menor que la 
+registrada en enero (109,987 trabajadores). La variación anual en 
+marzo del número de puestos de trabajo en el sector formal se 
+concentró en trabajadores eventuales urbanos, el cual se acrecentó 
+en 72,369 personas. Por otra parte, el de permanentes sólo aumentó 
+en  5,563  personas,  pero  únicamente  en  la  industria  de  la 
+construcción. 
+En el primer trimestre de 2003 los principales indicadores 
+de  desempleo  fueron  similares  a  los  que  se  observaron  en  el 
+trimestre anterior. Así, la tasa de desempleo abierto se ubicó en 
+promedio en 2.8 por ciento, mientras que en los últimos tres meses 
+de 2002 fue de 2.5 por ciento (Gráfica 7b). La tasa de ocupación 
+parcial  y  desocupación  resultó  en  promedio  durante  el  primer 
+trimestre de 2003 de 20 por ciento, superior a la del trimestre 
+anterior, cuando fue de 17.2 por ciento (Gráfica 7c). En ambos 
+casos  las  tasas  de  desempleo  incluyen  un  importante  efecto 
+18  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+estacional, y las series de tendencia muestran que los niveles de 
+desempleo fueron comparables a los del trimestre precedente. La 
+falta de creación de empleos puede atribuirse a la debilidad de la 
+economía y a lo elevado de las revisiones salariales, aún cuando se 
+han moderado.  Cabe señalar, en particular, como lo muestra la 
+experiencia  internacional,  que  el  avance  en  las  reformas 
+estructurales  es  un  elemento  muy  importante  para  lograr  la 
+reactivación de la ocupación (Recuadro 1). 
+Gráfica 7  Indicadores de Empleo y Desempleo 
+Series de tendencia 
+(a)  (b)  (c) 
+Asegurados en el IMSS1 Por Tasa de Desempleo Abierto Tasa de Ocupación Parcial 
+ ciento  en Areas Urbanas Por y Desocupación
+Millones  ciento
+3.1 Observado Observado
+12.8 Tendencia 26 Tendencia
+Observado
+Tendencia 2.7 23
+12.4 20
+2.3
+17
+12.0 1.9 14
+M   S    M   S    M   S    M   M   S    M   S    M   S    M   M   S    M   S    M   S    M  
+2000 2001 2002 2003 2000 2001 2002 2003 2000 2001 2002 2003
+ 
+   
+Fuente: IMSS e INEGI. 
+1/ Permanentes y eventuales urbanos. 
+II.2.3.  Oferta y Demanda Agregadas 
+El desempeño de la oferta y demanda agregadas durante 
+el cuarto trimestre de 2002 fue desfavorable. En términos generales 
+se advirtió que la recuperación de la economía mexicana perdió 
+vigor  y  ello  se  reflejó  en  una  tasa  de  crecimiento  real  anual 
+moderada. 
+La  modesta  expansión  en  el  último  trimestre  del  año 
+pasado puede atribuirse a tres factores: el efecto recesivo causado 
+por la disminución del crecimiento de la producción industrial de 
+los Estados Unidos, la desaceleración del consumo privado y la 
+caída  de  la  inversión  privada.  Estos  elementos  se  vieron 
+contrarrestados sólo parcialmente por el incremento de la inversión 
+pública y de la variación de existencias3. 
+                                                 
+3  Las contribuciones a la variación anual del PIB real en el cuarto trimestre fueron: 
+Consumo Privado, 0.8 por ciento; Consumo Público, -0.2 por ciento; Formación Bruta de 
+Capital del Sector Privado, -0.8 por ciento; Formación Bruta de Capital del Sector 
+Público, 0.8 por ciento; Variación de Existencias, 1 por ciento; Exportaciones, 1.2 por 
+ciento; e Importaciones, –0.9 por ciento. 
+19  BANCO DE MÉXICO 
+Recuadro 1 
+China: Transformación Económica y Competitividad  
+ 
+En la última década, China se ha convertido en una   
+Gráfica 1 
+potencia exportadora y en un importante polo de 
+Inversión Extranjera Directa 
+atracción para la inversión extranjera directa (IED). 
+Millones de dólares 
+Sin embargo, su transformación en una economía  6600000000
+más abierta, no es un fenómeno reciente. 
+5500000000
+En 1979 China adoptó la “Política de Reforma y 
+4400000000
+Puertas Abiertas”, por medio de la cual se enfatizó el 
+papel del sector externo en el desarrollo económico  3300000000
+nacional. Como primer paso, se establecieron zonas  2200000000
+económicas  especiales  y  parques  industriales.  La 
+1100000000
+IED  fue  incentivada  a  instalarse  en  esas  zonas 
+mediante tasas impositivas bajas, construcción de  00
+infraestructura y regulaciones más flexibles que en el  19821982 19841984 19861986 19881988 19901990 19921992 19941994 19961996 19981998 20002000 20022002  
+resto del país.   Fuente: International Financial Statistics, IMF; National Bureau of 
+Statistics, República Popular de China. 
+Con  la  incorporación  al  GATT  en  1986,  China 
+Gráfica 2 
+impulsó una apertura más agresiva.  Ello, a través de 
+Exportaciones 
+un programa ambicioso de estímulos, en particular  Por ciento de las exportaciones mundiales 
+para  las  empresas  extranjeras  orientadas  a  la  55..55
+exportación, vinculadas a la producción de software  55..00
+CChhiinnaa MMééxxiiccoo 44..55
+o que difundieran el avance tecnológico. El principal 
+44..00
+incentivo para atraer IED fue el ofrecimiento de  33..55
+tasas reducidas del impuesto sobre la renta.  33..00
+22..55
+Como resultado de dichas políticas, a partir de 1992  22..00
+China comenzó a recibir flujos crecientes de IED.  11..55
+Así, de 1997 a la fecha, la inversión ha resultado, en  11..00
+promedio,  de  43  miles  de  millones  de  dólares  00..55
+119988001199882211998844119988661199888811999900119999221199994411999966119999882200000022000022  
+anuales, casi la cuarta parte de los flujos destinados a  Fuente:  World  Bank;  National  Bureau  of  Statistics,  República 
+los países en desarrollo. Las exportaciones chinas,  Popular de China. 
+por  otra  parte,  han  experimentado  una  continua  La incorporación de China a la OMC implicará, 
+expansión  como  por  ciento  de  las  exportaciones  entre  otros  cambios,  una  reducción  del  arancel 
+mundiales. A raíz de la incorporación de China a la  promedio (de 14.8% a 5.9% en bienes industriales y 
+Organización Mundial de Comercio (OMC), a pesar  de 18.9% a 3.9% en bienes agrícolas) a partir de 
+de la desaceleración económica mundial, tanto la  2005, la eliminación de los requisitos de ubicación 
+IED como su intercambio comercial con el exterior  geográfica y de desempeño para la IED, así como 
+registraron un aumento sustancial.  menos restricciones a dicha inversión en sectores 
+como el de telecomunicaciones y el financiero.  
+La promoción del sector externo y de la formación 
+de capital, esta última sustentada en la inversión de  El FMI estima que la incorporación de China a la 
+las empresas públicas, explican en buena medida que  OMC impulsará el crecimiento del PNB real entre 
+en los últimos cinco años China haya conseguido un  seis y ocho décimas de punto porcentual adicionales 
+incremento promedio del PNB real de 8% anual.  por año. Ello podría duplicarse una vez que sean 
+Además, durante la década pasada fue el país que  eliminadas  las  cuotas  aplicadas  a  China  en  el 
+logró el mayor crecimiento del PNB por habitante.  Acuerdo Textil y del Vestido, punto acerca de cual 
+Estos resultados son más sorprendentes a la luz del  varios  países  tienen  salvaguardas  hasta  2008. 
+grado  de  ineficiencia  que  todavía  existe  en  la  Asimismo, la UNCTAD prevé que los flujos de IED 
+economía  china,  asociado  a  las  regulaciones  a  China  resultarán  de  60  miles  de  millones  de 
+excesivas,  a  la  poca  profundidad  del  sistema  dólares en 2005 y que, inclusive, podrían alcanzar 
+financiero y a la elevada cartera vencida de los  100 miles de millones si tienen lugar las fusiones y 
+bancos propiedad del Estado.  adquisiciones  previstas  relacionadas  con  las 
+empresas propiedad del Estado. Una cifra similar es 
+reportada por la OCDE, la cual pronostica que la 
+ 
+20  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+IED hacia China podría expandirse 10% por año  México en los relativos a estabilidad política, control 
+durante la siguiente década, para sumar cerca de 100  de la corrupción y procuración de justicia.2/ 
+miles de millones de dólares en 2010.1/ 
+ 
+ 
+En cuanto a México, a pesar de las ventajas de 
+Gráfica 5 
+acceso al mercado de los Estados Unidos derivadas  Indicadores de Buen Gobierno 
+del TLCAN, la participación de las ventas mexicanas  Percentil respecto a la clasificación de 174 países 
+en las importaciones totales de ese país disminuyó en  EEssttaabbiilliiddaadd  PPoollííttiiccaa
+la  segunda  mitad  de  2002.  En  contraste,  la  MMééxxiiccoo CChhiinnaa
+participación  de  las  de  China  se  incrementó, 
+desplazando a México como segundo proveedor de  CCoonnttrrooll  ddee  llaa  
+CCoorrrruuppcciióónn EEffeeccttiivviiddaadd  ddeell  
+los Estados Unidos. El rápido crecimiento de las  GGoobbiieerrnnoo
+exportaciones chinas puede obedecer a la ventaja 
+comparativa que se deriva de la diferencia salarial 
+respecto a México. Sin embargo, existen también 
+otros factores, tal vez más relevantes, que influyen  PPrrooccuurraacciióónn  ddee  JJuussttiicciiaa CCaalliiddaaddRReegguullaattoorriiaa  
+en favor de las exportaciones de China. 
+ 
+Gráfica 3 
+Asimismo, según el World Business Environment 
+Participación en las Importaciones Totales de los 
+Estados Unidos  Survey del Banco Mundial, China ofrece un entorno 
+Por ciento  más  favorable  que  México  en  materia  de 
+MMééxxiiccoo   CChhiinnaa   1144..00 restricciones generales a la inversión. Los rubros 
+1122..6655
+evaluados para este concepto son los de impuestos, 
+1122..00 regulación,  infraestructura,  crimen  organizado  y 
+1100..4488 peatonal, y corrupción. En cuanto a infraestructura, 
+1100..00 la encuesta del Banco Mundial revela que China 
+provee mejores servicios que México en caminos, 
+88..00 teléfonos y electricidad. 
+66..00 Gráfica 6 
+EEnnee--0011 MMaayy--0011 SSeepp--0011 EEnnee--0022 MMaayy--0022 SSeepp--0022 EEnnee--0033   Calificación en cuanto a Restricciones Generales a la 
+Fuente: U.S. Department of Commerce, Census Bureau.  Inversión 
+Promedio de 80 paises=100 
+Gráfica 4 
+Salarios en el Sector Manufacturero  MMééxxiiccoo CChhiinnaa   116600
+Dólares al mes  114400
+110000 11000000 112200
+110000
+9900 MMééxxiiccoo CChhiinnaa 990000 8800
+8800 880000 6600
+4400
+7700 770000 2200
+00
+6600 660000
+IImmppuueessttooss  yy IInnffrraaeessttrruuccttuurraa CCrriimmeenn CCoorrrruuppcciióónn
+rreegguullaacciióónn oorrggaanniizzaaddoo  yy
+5500 550000 ppeeaattoonnaall  
+4400 440000 Fuente: World Bank, World Business Environment Survey. Una 
+calificación más elevada implica mayores restricciones a la inversión. 
+3300 330000
+1199992211999933119999441199995511999966119999771199998811999999220000002200001122000022  
+En el caso de México se refiere al sector maquilador. 
+Fuente: OIT y Banco de México. 
+Por  ejemplo,  de  acuerdo  al  análisis  de  los 
+indicadores  de  “buen  gobierno”  estimados  por 
+Kauffman, Kraay y Zoido-Lobatón, China supera a 
+                                                                 
+2 Kauffman, D., A. Kraay y P. Zoido-Lobatón (1999): “Governance 
+                                                                  Matters”. World Bank Policy Research Working Papers. Los 
+puntos del pentágono exterior representan al país (o países) que, 
+1 FMI, SM/00/150, Julio; UNCTAD (2000): World Investment Report;  entre los 174 considerados, tuvo los mejores resultados. El 
+OCDE (2002): China in the World Economy, capítulo 10 y anexo 2.  pentágono interno representa a la mediana. 
+ 
+21  BANCO DE MÉXICO 
+  haber obtenido el lugar 61 entre 1988 y 1990. Por su 
+Gráfica 7  parte, en esos mismos lapsos, México pasó del lugar 
+Calificación en Infraestructura 
+42  al  78.  El  indicador  de  competitividad global 
+Porcentaje de empresas encuestadas que consideran al 
+rubro específico como “malo”, “muy malo” o “ligeramente  preparado por el IIMD cataloga a México en el lugar 
+malo”  42 entre 49 países, mientras que China ocupa el 
+lugar 31. 
+MMééxxiiccoo CChhiinnaa   3355
+3300 De acuerdo con las mismas fuentes, México supera a 
+2255 China en diversos rubros de competitividad, tales 
+2200 como  protección  de  la  propiedad  intelectual, 
+1155 productividad de la mano de obra calificada, costos 
+1100 de transportación hacia los Estados Unidos y acceso 
+55 preferencial hacia ese país derivado del TLCAN. Sin 
+embargo, la penetración de las exportaciones chinas 
+00
+CCaammiinnooss TTeellééffoonnooss EElleeccttrriicciiddaadd   en  el  mercado  estadounidense  continúa 
+Fuente: World Bank, World Business Environment Survey.   incrementándose,  inclusive  en  productos  que 
+  requieren una cierta sofisticación por parte del factor 
+laboral.  Ello  indica  que  México  no  puede 
+Las ventajas que presenta China sobre México en las 
+conformarse  simplemente  con  las  ventajas 
+materias  de  entorno  para  la  inversión  y 
+comparativas que le concede el TLCAN. Dado el 
+competitividad también han sido destacadas por la 
+acceso de China a la OMC y el impulso que ello 
+UNCTAD  y  por  el  International  Institute  for 
+implicará para sus flujos comerciales y de inversión, 
+Management Development. El índice de Desempeño 
+es  indispensable  aprovechar  mejor  las  ventajas 
+de la Inversión Extranjera Directa elaborado por la 
+comparativas  de  México.  A  este  respecto,  las 
+UNCTAD califica a China en la posición 47 entre 
+reformas  estructurales  pendientes  constituyen  un 
+140  países  para  el  periodo  1998-2000, después de  
+factor indispensable para lograrlo. 
+ 
+ 
+El  examen  de  la  evolución  de  los  componentes  de  la 
+oferta  y  de  la  demanda  agregadas,  con  base  en  la  variación 
+trimestral de los datos desestacionalizados, indica que durante el 
+cuarto trimestre de 2002 prosiguió la desaceleración de la actividad 
+económica. Así, la tasa de crecimiento trimestral de la oferta y de 
+la demanda agregadas pasó del tercero al cuarto trimestres de 0.5 a 
+0.2 por ciento. Por el lado de la demanda agregada, se observaron 
+ligeras mejorías en las variaciones trimestrales del consumo y la 
+inversión  total,  sustentadas  fundamentalmente  en  los  gastos 
+realizados por el sector público. En contraste, el consumo privado 
+experimentó  en  el  periodo  una  variación  trimestral  ligeramente 
+negativa y la inversión privada registró su caída más importante 
+desde el primer trimestre de 2001. Por otra parte, las exportaciones 
+registraron  un  decremento  en  comparación  con  su  nivel  del 
+trimestre anterior, mientras que las importaciones mostraron un 
+aumento modesto. Por todo lo anterior, el PIB real presentó un 
+crecimiento  nulo  durante  el  cuarto  trimestre,  después  de  haber 
+alcanzado en el trimestre anterior una variación trimestral de 0.8 
+por ciento (Cuadro 9).  
+22  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+Cuadro 9  Demanda y Oferta Agregadas en 2001 y 2002 
+Variación Real Trimestral
+Variación Real Anual en Por Ciento en Por Ciento (Series 
+Desestacionalizadas)
+2001 2002 2001 2002
+IV  I  II  III  IV  Anual IV  I  II  III  IV 
+Oferta Agregada -2.8 -2.8 2.4 2.6 2.1 1.1 0.7 -0.3 2.0 0.5 0.2
+PIB -1.5 -2.2 2.0 1.8 1.9 0.9 -0.1 0.0 1.2 0.8 0.0
+Importaciones -6.1 -4.5 3.5 4.8 2.5 1.6 3.1 -0.9 4.0 -0.2 0.7
+Demanda Agregada -2.8 -2.8 2.4 2.6 2.1 1.1 0.7 -0.3 2.0 0.5 0.2
+Consumo Total 1.4 -1.5 2.5 1.7 0.8 0.9 0.3 -0.4 1.6 -0.1 0.1
+Privado 1.0 -1.6 3.1 2.0 1.2 1.2 0.4 -0.2 1.8 -0.1 -0.2
+Público 4.0 -1.1 -1.7 -0.8 -1.3 -1.3 -0.8 -1.2 0.3 0.4 1.9
+Inversión Total -9.1 -6.9 2.8 -0.8 0.0 -1.3 0.4 0.1 1.9 -2.2 -1.5
+Privada -11.9 -5.9 1.3 -1.5 -5.2 -2.8 -0.5 -0.6 0.1 1.1 -5.8
+Pública 2.7 -13.2 13.8 3.6 18.6 7.3 5.3 4.3 11.7 -18.7 24.8
+Exportaciones -9.2 -6.7 3.1 6.0 3.4 1.4 1.4 0.6 2.9 1.2 -2.6  
+ 
+Fuente: Banco de México e INEGI.
+En el cuarto trimestre de 2002 la oferta y la demanda 
+agregadas registraron un incremento en términos reales de 2.1 por 
+ciento  a  tasa  anual.  Con  este  resultado,  en  2002  mostraron  un 
+crecimiento anual promedio de 1.1 por ciento. Por otra parte, el 
+aumento del PIB real a tasa anual de 1.9 por ciento en el cuarto 
+trimestre de 2002 fue sólo ligeramente mayor que el observado en 
+el tercero (1.8 por ciento). 
+Por el lado de la producción, en el cuarto trimestre de 
+2002 el sector agropecuario, silvicultura y pesca, experimentó una 
+contracción de 4.5 por ciento, mientras que los sectores industrial y 
+de servicios tuvieron aumentos respectivos de 0.9 y 3.1 por ciento. 
+Las tasas de incremento anual del PIB industrial y de servicios en 
+el  cuarto  trimestre  resultaron  mayores  que  las  del  tercero  y  se 
+sustentaron en variaciones positivas en todos sus componentes. 
+La desaceleración del crecimiento del consumo privado a 
+tasa  anual  ocurrió  a  pesar  de  la  recuperación  observada  en  el 
+crecimiento del gasto en bienes durables (vehículos automotores, 
+muebles de madera, y radios y televisores, entre otros) con respecto 
+a su nivel del trimestre anterior4. Cabe señalar que este último 
+patrón  coincide  con  el  aumento  real  que  registró  durante  los 
+últimos meses del año el financiamiento para el consumo de bienes 
+durables otorgado por la banca comercial al sector privado, el cual 
+fue impulsado por la reducción en las tasas de interés nominales 
+que ha sido propiciada por la menor inflación. 
+                                                 
+4  El aumento del consumo en bienes duraderos de 5.2 por ciento a tasa anual fue 
+superior  al  de  3.1  por  ciento  observado  en  el tercer trimestre.  En  contraste, el 
+incremento de 1 por ciento anual en la adquisición de bienes no durables y de servicios 
+en el cuarto trimestre resultó inferior al de 2.1 por ciento registrado en el trimestre 
+anterior. 
+23  BANCO DE MÉXICO 
+En el cuarto trimestre de 2002, a tasa anual, la inversión 
+total mostró un virtual estancamiento, debido a que la caída de la 
+inversión privada se compensó con el incremento de la inversión 
+pública. Así, la inversión destacó como el rubro que más afectó al 
+crecimiento de la demanda agregada y del PIB durante 2002. 
+La información relativa a la  evolución de la actividad 
+económica en el primer trimestre de 2003, disponible a la fecha de 
+publicación de este Informe, sugiere que la producción tuvo en 
+general un ritmo de crecimiento moderado: 
+(a)  En  febrero  el  Indicador  Global  de  la  Actividad 
+Económica (IGAE) mostró un incremento de 2 por ciento 
+a  tasa  anual,  similar  al  observado  en  enero  (2.1  por 
+ciento), y una variación mensual de –0.2 por ciento con 
+cifras desestacionalizadas; 
+(b)  En el primer bimestre del año en curso la producción 
+industrial se incrementó 0.8 por ciento a tasa anual, como 
+reflejo de aumentos de la construcción y la electricidad de 
+4.3  y  2.5  por  ciento,  mientras  que  la  minería  y  las 
+manufacturas se mantuvieron prácticamente sin cambio; 
+(c)  La  debilidad  de  los  flujos  de  comercio  internacional 
+durante el primer trimestre de 2003 (ver Sección II.2.4.) 
+indica  que  en  ese  periodo  se  atenuaron  tanto  la 
+producción como el gasto agregado internos; 
+(d)  El estancamiento del empleo durante los primeros meses 
+del año es congruente con una actividad económica débil 
+(ver Sección II.2.2.); y 
+(e)  En febrero de 2003 el Indicador Cíclico Adelantado que 
+calcula  el  Banco  de  México  registró  un  incremento 
+mensual de 1.9 por ciento, la segunda variación mensual 
+seguida con signo positivo. En ese mismo mes el índice 
+elaborado  por  el  Conference  Board  aumentó  0.2  por 
+ciento,  siendo  esta  la  cuarta  variación  positiva 
+consecutiva.  Por  otra  parte,  el  índice  del  INEGI, 
+correspondiente a enero, presentó un incremento mensual 
+de 0.4 por ciento, luego de haber disminuido en el mes 
+previo. La evolución de estos indicadores sugiere que en 
+los  próximos  meses  la  actividad  económica  presentará 
+variaciones positivas, pero moderadas. 
+En cuanto a los componentes de la demanda interna, los 
+indicadores  disponibles  sugieren  que  en  el  primer  trimestre 
+evolucionaron con poco vigor. La excepción fueron las ventas al 
+24  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+menudeo,  que  en  el  primer  bimestre  de  2003  registraron  un 
+incremento de 3.8 por ciento a tasa anual y de 0.7 por ciento a tasa 
+mensual  en  febrero  con  datos  desestacionalizados.    Destaca  lo 
+siguiente: 
+(a)  Las  ventas  al  menudeo  de  vehículos  mostraron 
+variaciones anuales de –7, 1.3 y 2.2 por ciento en enero, 
+febrero y marzo, respectivamente; 
+(b)  En febrero se moderó el crecimiento del crédito vigente 
+otorgado por la banca comercial al sector privado (ver 
+Sección II.2.3.); y 
+(c)  La  encuesta  mensual  de  coyuntura  de  las  empresas 
+manufactureras  indica  una  marcada  debilidad  de  los 
+pedidos provenientes de los mercados interno y externo 
+durante  el  primer  bimestre,  aunque  este  resultado  se 
+suavizó para ambos conceptos en marzo. 
+Debido a la modesta mejoría de los indicadores de la 
+producción industrial, a la caída en el intercambio de bienes y 
+servicios  provocada  por  el  entorno  externo  adverso,  y  a  una 
+expansión poco vigorosa del consumo y de la inversión del sector 
+privado, se estima que en el primer trimestre del año el crecimiento 
+anual del PIB real haya sido de 2.6 por ciento.  Por ello, es poco 
+probable que la evolución de la demanda agregada fuese en dicho 
+trimestre una fuente de presiones inflacionarias. 
+II.2.4.  Balanza de Pagos, Flujos de Capital y Tipo de 
+Cambio 
+En el primer trimestre de 2003 el intercambio comercial 
+de México reflejó tanto la debilidad de la actividad económica en 
+los  Estados  Unidos  como  la  desaceleración  de  la  producción 
+interna.  Aun  cuando  la  tasa  de  crecimiento  anual  de  las 
+exportaciones totales pasó de 5.6 por ciento en el último trimestre 
+de 2002 a 7.5 por ciento en el primero de 2003, la evolución de las 
+exportaciones no petroleras fue endeble.  Estas últimas registraron 
+en el trimestre de referencia un incremento anual de 1.6 por ciento, 
+tasa inferior a la de 2.4 por ciento observada en el último trimestre 
+de 2002.  
+La tasa de crecimiento anual de las importaciones pasó de 
+3.3 por ciento en el cuarto trimestre del año anterior a 3.9 por 
+ciento en enero-marzo de 2003. Esta cifra fue influida al alza por 
+un aumento de las importaciones de bienes de consumo, ya que las 
+25  BANCO DE MÉXICO 
+de bienes de capital tuvieron una contracción anual importante. 
+Así, en el trimestre reportado se atenuó la correlación que han 
+exhibido en los últimos años las importaciones y las exportaciones 
+(Gráfica 8). 
+En el primer trimestre del presente año se registró un 
+déficit comercial de 377 millones de dólares. Dicho resultado fue 
+reflejo de un valor elevado de las exportaciones petroleras, el cual 
+se  derivó  a  su  vez  de  los  altos  precios  del  crudo  que  han 
+prevalecido en los mercados internacionales. Por otra parte, en el 
+primer  trimestre  el  déficit  comercial  no  petrolero  sumó  4,718 
+millones de dólares, cifra superior a la observada en el mismo 
+periodo del año pasado (Gráfica 9). 
+Gráfica 8  Exportaciones e Importaciones: Series Desestacionalizadas 
+Variación mensual en por ciento (promedio móvil de 3 meses)  
+3
+Exportaciones
+2
+Importaciones
+1
+0
+-1
+-2
+-3
+M  J  S D M  J  S D M  J  S D M 
+2000 2001 2002 2003
+ 
+26  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+Gráfica 9  Déficit de la Balanza Comercial, Total y No Petrolero 
+Millones de dólares 
+Enero-Marzo               Tendencia  
+6,000 Total No Petrolero* 2,150
+5,133
+1,850
+5,000 4,718
+4,008 1,550
+4,000
+Total
+1,250
+No Petrolero*
+3,000
+950
+2,221
+2,000
+1,626 650
+1,000 350
+377
+50
+0
+M J S D M J S D M J S D M
+2001 2002 2003 2000 2001 2002 2003
+ 
+ 
+* Excluye las exportaciones petroleras y las importaciones de gasolina, gas butano y gas propano. 
+La lenta recuperación de las importaciones de mercancías 
+en  comparación  con  la  mostrada  por  las  exportaciones  totales 
+contribuyó a moderar el déficit de la cuenta corriente, que se estima 
+haya sido de alrededor de 2,000 millones de dólares en el primer 
+trimestre de 2003.  
+Respecto  a  lo  ocurrido  en  el  ámbito  de  la  cuenta  de 
+capital,  cabe  destacar  que  en  el  primer  trimestre  de  2003  el 
+Gobierno  Federal  emitió  dos  bonos  globales  en  los  mercados 
+internacionales con el fin de amortizar pasivos que se contrataron 
+en condiciones menos favorables.  El primero de éstos fue por 
+2,000 millones de dólares y el segundo por 1,000 millones. Este 
+último se colocó con Cláusulas de Acción Colectiva (CAC), las 
+cuales incorporan un mecanismo que facilitaría la renegociación de 
+la deuda en el caso de que fuese necesaria. Al respecto, es de 
+destacarse que la inclusión de las CAC en un bono global mexicano 
+no conllevó un costo adicional, debido a la favorable percepción 
+que se tiene en los mercados con respecto al riesgo país de México. 
+Con base en la información disponible hasta la fecha de 
+publicación del presente Informe, se estima que el superávit de la 
+cuenta de  capitales en el primer trimestre de 2003 (incluyendo 
+errores y omisiones) haya resultado de alrededor de 6,000 millones 
+de dólares. 
+27  BANCO DE MÉXICO 
+Durante el primer trimestre del año, las condiciones de 
+acceso al financiamiento externo para México y otros países de 
+Latinoamérica  mostraron  una  mejoría,  con  la  excepción  de 
+Argentina, Uruguay y Venezuela. En el caso de los últimos dos, sus 
+indicadores  del  riesgo  país  se  deterioraron  y  sus  calificaciones 
+soberanas  fueron  rebajadas  por  las  principales  agencias 
+calificadoras  (Cuadro  10).  El  buen  desempeño  del  resto  de  los 
+mercados de deuda soberana latinoamericana se debe en parte a la 
+prudencia  con  que  se  han  conducido  las  políticas  fiscales  y 
+monetarias,  y  al  hecho  de  que  los  inversionistas  han  buscado 
+mejores rendimientos que los ofrecidos en los países desarrollados. 
+Ello, a pesar de la inestabilidad que caracterizó en el periodo a la 
+evolución  de  los  mercados  financieros  y  accionarios 
+internacionales a causa de la situación geopolítica y del conflicto 
+bélico  en  Irak.  No  obstante,  la  continuación  de  la  tendencia 
+favorable en este mercado está sujeta a que se reactive la economía 
+mundial, ya que de otra forma podría ocurrir de nueva cuenta una 
+reducción en la disponibilidad de recursos externos para los países 
+de la región. 
+Cuadro 10  Indicadores del Riesgo País para América Latina (EMBI Global) 
+Puntos base 
+2001 2002 2003
+I II III IV I II III IV I
+América Latina 757 787 1,069 888 688 1,034 1,316 981 810
+Argentina 967 1,050 1,615 5,363 5,030 7,078 6,475 6,342 6,096
+Brasil 805 844 1,163 864 716 1,560 2,412 1,460 1,050
+Chile 189 169 220 175 120 209 218 176 156
+Colombia 645 528 615 508 511 592 1,066 633 595
+Ecuador 1,366 1,303 1,516 1,233 1,037 1,262 1,975 1,801 1,372
+México 408 307 427 306 249 323 435 329 289
+Panamá n.d. n.d. n.d. n.d. 347 466 561 446 399
+Perú 650 632 669 521 409 628 880 609 477
+Rep. Dominicana n.d. n.d. n.d. 446 313 383 521 499 527
+Uruguay n.d. 251 299 284 525 869 1,643 1,228 1,344
+Venezuela 877 847 997 1,130 898 1,113 1,166 1,131 1,406  
+Fuente: JP Morgan. Indice para el cierre del trimestre. 
+La deuda mexicana tuvo, al igual que la de otros países de 
+América  Latina,  un  comportamiento  favorable.  Lo  anterior  se 
+explica por la disciplina con la que se han conducido las finanzas 
+públicas, por el compromiso de no incrementar el endeudamiento 
+externo  y  por  las  acciones  de  política  monetaria  de  índole 
+preventiva. A mediados de marzo la agencia calificadora Moody’s 
+mejoró la perspectiva de la calificación soberana de México, de 
+estable a positiva. 
+28  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+A pesar de lo señalado, a lo largo del primer trimestre la 
+moneda nacional se depreció frente al dólar. Así, mientras que el 
+rendimiento de los bonos UMS26 mostró una modesta reducción 
+de  16  puntos  base  con  respecto  al  cierre  de  2002,  la  moneda 
+nacional se depreció en igual lapso 3.5 por ciento frente al dólar 
+(Gráfica 10). 
+Gráfica 10  Indicadores del Riesgo País para México y Tipo de Cambio 
+Puntos Base  Puntos base y pesos por dólar 
+Puntos  Rendimiento Neto de la Deuda Pública  Puntos  Pesos 
+base Externa a Diferentes Plazos base por dólar
+319 410
+312
+320
+11.0
+272 380
+280 296 296
+240
+240 240 350 10.5
+200 220
+320
+160 195 190 10.0
+290
+120 110
+31 de diciembre de 2002 UMS26 9.5
+80 260
+Tipo de Cambio
+31 de marzo de 2003
+40
+30 230 9.0
+0 Mar May Jul Sep Nov Ene Mar
+Mex 05 Mex 07 Mex 08 Mex 09 Mex 16 Mex 26 2002 2003
+ 
+Fuente:  Bloomberg y Banco de México. 
+Nota: El rendimiento neto del bono UMS26 es la diferencia entre su rendimiento bruto y el de un bono del gobierno de los Estados Unidos de 
+vencimiento similar. 
+Al igual que en el trimestre anterior, durante la mayor 
+parte del periodo reportado se observó una correlación estrecha 
+entre los movimientos del peso frente al dólar y los del dólar frente 
+al euro. Sin embargo, es de notar que hacia el final de marzo el tipo 
+de cambio se desligó de las fluctuaciones de la paridad dólar/euro 
+(Gráfica 11a). 
+La atenuación de la correlación mencionada pudo haber 
+estado influida por el anuncio que se hizo a finales de marzo del 
+mecanismo para disminuir el ritmo de acumulación de reservas 
+internacionales (ver Sección III.2.1).  Lo expuesto confirma que, 
+como se ha señalado en Informes anteriores, ciertas asociaciones 
+estadísticas entre la paridad peso/dólar y otras variables financieras 
+pueden resultar inestables o poco duraderas (Gráfica 11b). 
+29  BANCO DE MÉXICO 
+Gráfica 11  Tipos de Cambio del Dólar Frente al Euro y del Peso Frente al Dólar 
+e Indice Dow Jones 
+  a)                  b) 
+Pesos por  Dólares Pesos por  Indice 1997=100
+dólar  por euro dólar
+11,000
+11.3 1.15 11.3 Pesos/Dólares
+Pesos/Dólares
+Indice Dow Jones
+10.9 1.10 10.9
+10,000
+Dólar/Euro
+10.5 1.05 10.5
+10.1 1.00 10.1 9,000
+9.7 0.95 9.7
+8,000
+9.3 0.90 9.3
+8.9 0.85 8.9 7,000
+Mar May Jul Sep Nov Ene Mar Mar May Jul Sep Nov Ene Mar
+2002 2003 2002 2003
+Fuente:  Reuters y Banco de México. 
+Por otra parte, es de señalarse que la depreciación que ha 
+ocurrido desde hace casi un año en la cotización del peso respecto 
+al  dólar,  puede  responder  también  a  factores  que  afectan  el 
+desenvolvimiento de las variables reales que determinan el nivel 
+del tipo de cambio en el largo plazo5.  Un ejemplo de ello es la 
+creciente competencia que enfrentan las exportaciones mexicanas 
+por parte de las de China. 
+II.2.5.  Precios Administrados y Concertados 
+En  enero  y  febrero  de  2003  la  inflación  mensual  del 
+subíndice de los precios administrados y concertados6 se ubicó por 
+encima de la del INPC, mientras que en marzo ocurrió lo contrario. 
+Así,  en  enero,  febrero  y  marzo  del  presente  año  la  inflación 
+mensual de este subíndice resultó de 1.16, 0.30 y 0.46 por ciento, 
+mientras que el crecimiento del INPC se situó respectivamente en 
+0.40,  0.28  y  0.63  por  ciento  (Gráfica  12).  Sin  embargo,  estos 
+incrementos mensuales del subíndice de precios administrados y 
+                                                 
+5  Ver Informe sobre la Inflación Octubre-Diciembre 2002, páginas 32 y 33. 
+6  La canasta del subíndice de los precios administrados se compone de los siguientes 
+productos: gasolina de bajo octanaje, gasolina de alto octanaje, gas doméstico y 
+electricidad. Los productos con precios concertados son: telefonía de larga distancia 
+internacional, servicio de telefonía local, larga distancia nacional, línea telefónica, taxi, 
+autobús urbano, metro o transporte eléctrico, autobús foráneo, transporte colectivo, 
+estacionamientos, tenencia de automóvil, cuotas de autopistas, aceites y lubricantes y 
+cuotas y licencias. 
+30  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+concertados  se  comparan  favorablemente  con  los  registrados 
+durante los mismos meses de 20027. 
+El aumento de la inflación de este subíndice durante el 
+periodo  de  referencia  obedeció  principalmente  al  que 
+experimentaron  las  cotizaciones  de  los  productos  con  precios 
+administrados. Cabe recordar al respecto que este mismo patrón se 
+observó en el año pasado. El incremento comentado de los precios 
+administrados fue a su vez resultado del alza que experimentaron 
+los precios de la gasolina de bajo octanaje en las ciudades de la 
+frontera norte y del gas doméstico (entre diciembre de 2002 y 
+marzo de 2003 éstos tuvieron respectivamente incrementos de 4.04 
+y 4.19 por ciento).  
+El alza del precio de la gasolina de bajo octanaje en el 
+trimestre fue reflejo del movimiento paralelo que mostró el precio 
+del energético en las ciudades fronterizas de los Estados Unidos. 
+Ello, luego de que en noviembre de 2002 el Gobierno Federal 
+decidiera homologar el precio de esta gasolina en la frontera norte 
+con el prevaleciente en la ciudad estadounidense vecina.  Dicha 
+medida  entró  en  vigor  en  diciembre  del  año  pasado  y  fue 
+modificada en marzo de este año, fijándose como tope el precio 
+que prevalece en el interior del país. 
+Gráfica 12  Indice de Precios Administrados y Concertados e INPC 
+Variación mensual en por ciento 
+2.9 Administrados y Concertados 6 Administrados 
+INPC
+Concertados
+2.3
+4
+1.7
+2
+1.1
+0.5 0
+-0.1
+-2
+-0.7
+-1.3 -4
+Mar  Jul  Nov  Mar  Jul  Nov  Mar  Jul  Nov  Mar  Mar  Jul   Nov  Mar  Jul   Nov  Mar  Jul   Nov  Mar 
+2000 2001 2002 2003 2000 2001 2002 2003
+   
+ 
+                                                 
+7  Los incrementos fueron de 1.53, 1.86 y 1.05 por ciento en enero, febrero y marzo de 
+2002, respectivamente. 
+31  BANCO DE MÉXICO 
+Ante la importancia que tiene el subíndice de los precios 
+administrados y concertados en la determinación de la inflación del 
+INPC,  el  Banco  de  México  reitera  la  necesidad  de  que  su 
+comportamiento sea acorde con el objetivo de inflación para el año.  
+II.2.6.  Fenómenos Transitorios que Afectaron a la Inflación 
+La variación del subíndice de precios agropecuarios fue 
+negativa  en  el  primer  trimestre  de  2003.  Sin  embargo,  el 
+decremento  fue  menos  pronunciado  que  el  registrado  en  igual 
+trimestre del año anterior. Por un lado, el componente de frutas y 
+verduras disminuyó en este trimestre 6.55 por ciento, mientras que 
+en el mismo trimestre del año pasado la caída fue de 11.38 por 
+ciento.  Por otro, los precios de la carne y el huevo aumentaron 
+3.73 por ciento, lo que contrasta con la reducción de 0.71 por 
+ciento  que  tuvieron  en  igual  periodo  de  2002.  Ello  tuvo  por 
+resultado  que  la  inflación  anual  de  este  subíndice  de  precios 
+aumentara de 8.65 por ciento en diciembre de 2002 a 13.42 por 
+ciento en marzo de 2003. 
+La  inflación  anual  de  los  productos  agropecuarios  se 
+caracteriza por un comportamiento volátil. En un ambiente de baja 
+inflación  dicha  volatilidad  puede  generar  movimientos 
+relativamente drásticos del INPC. Ello resalta la importancia que 
+ha  adquirido  la  inflación  subyacente  como  indicador  de  las 
+presiones inflacionarias de mediano plazo. 
+32  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+III.  La  Política  Monetaria  Durante  el  Primer 
+Trimestre de 2003 
+En  la  presente  sección  se  exponen  los  elementos  que 
+influyeron para que la Junta de Gobierno decidiera incrementar el 
+“corto” en tres ocasiones durante el primer trimestre de 2003 (el 10 
+de enero, el 7 de febrero y el 28 de marzo). A tal fin, en el texto se 
+incorpora un examen de la evolución que mostraron en el periodo 
+las expectativas inflacionarias del sector privado y las relativas a 
+las  tasas  de  interés.  El  comportamiento  de  estas  dos  variables 
+complementa la información correspondiente al nivel y los cambios 
+del  “corto”  para  el  análisis  de  las  condiciones  monetarias  que 
+prevalecieron  en  el  trimestre.  Finalmente,  se  comentan  las 
+trayectorias que mostraron durante el periodo de referencia la base 
+monetaria y otros agregados monetarios y crediticios. 
+III.1.1.  Acciones de Política Monetaria 
+En los primeros tres meses del presente año la Junta de 
+Gobierno del Banco de México, incrementó el “corto” de 475 a 700 
+millones de pesos, intensificando así la restricción monetaria.  Esos 
+tres aumentos del “corto” se sumaron a las dos acciones en el 
+mismo sentido que se tomaron en el segundo semestre del año 
+anterior.  
+Las  últimas  cinco  medidas  de  política  monetaria 
+acordadas han estado fundamentalmente enfocadas a inducir una 
+inflexión a la baja de las expectativas inflacionarias del público, y a 
+generar condiciones monetarias conducentes a que la inflación de 
+los precios al consumidor converja de manera sostenible hacia la 
+meta  a  lo  largo  de  2003.  La  intensificación  de  la  restricción 
+monetaria  en  los  últimos  seis  meses  ha  sido  necesaria  dada  la 
+resistencia a la disminución que han mostrado las expectativas de 
+inflación. Si bien la inflación esperada para los siguientes doce 
+meses  por  los  analistas  financieros,  parece  haberse  estabilizado 
+durante los últimos meses, aún se encuentra en un nivel elevado 
+(Gráfica 13). 
+33  BANCO DE MÉXICO 
+Gráfica 13  Expectativas de Inflación para los Siguientes Doce Meses y para el 
+Cierre de 2003: Infosel y Banco de México 
+Por ciento 
+Expectativas de Inflación para los Siguientes 12  Expectativas de Inflación para el Cierre de 2003 
+meses   
+Banco de México
+Banco de México Infosel
+Infosel
+-300  -400  -475 -550 -625 -700  -300  -400  -475 -550 -625 -700 
+mp mp mp mp mp mp mp mp mp mp mp mp
+4.5 4.5
+4.0 4.0
+3.5 3.5
+M A M J J A S O N D E F M M A M J J A S O N D E F M
+2002 2003 2002 2003
+   
+Fuente: Infosel y Banco de México, Encuesta sobre las Expectativas de los Especialistas en Economía del Sector Privado. 
+Las expectativas de inflación anual del INPC expresadas 
+por los analistas del mercado, al igual que las implícitas en los 
+incrementos salariales, no han mostrado una convergencia clara 
+hacia la meta establecida para diciembre de 2003. Ello, a pesar de 
+que  los  siguientes  elementos  son  favorables  al  proceso  de 
+abatimiento de la inflación: 
+(a)  La  restricción  monetaria  se  ha  intensificado 
+consecutivamente en cinco ocasiones; 
+(b)  La  economía  se  encuentra  en  un  punto  en  el  cual  la 
+utilización  de  la  capacidad  instalada  es  baja  y  los 
+mercados  laborales  muestran  holgura  (ver  Sección 
+II.2.2.). Lo anterior, como resultado de un periodo de dos 
+años  en  el  cual  el  crecimiento  acumulado  ha  sido 
+claramente inferior al potencial de la economía; 
+(c)  No se ha detectado un traspaso de la depreciación del tipo 
+de cambio a los precios internos; y 
+(d)  La  deflación  en  los  precios  de  las  mercancías  en  los 
+Estados  Unidos  ha  contribuido  a  disminuir  la  presión 
+sobre los precios de las mercancías en México. 
+34  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+Por otra parte, las expectativas relativas a la inflación 
+subyacente anual para diciembre de 2003 (3.93 y 3.74 por ciento de 
+acuerdo  con  las  encuestas  de  Infosel  y  del  Banco  de  México, 
+respectivamente) son significativamente menores que las relativas a 
+la inflación del INPC (4.44 y 4.38 por ciento, en ese orden, para las 
+de Infosel y los del Banco de México). Lo anterior parece indicar 
+que los analistas del mercado están esperando un descenso más 
+lento de la inflación de los subíndices de precios no subyacentes. 
+Como ya se señaló, en el primer trimestre el Banco de 
+México incrementó la restricción monetaria en tres ocasiones. La 
+primera  de  las  medidas  fue  ampliar  el  “corto”  de  475  a  550 
+millones de pesos en enero 10. Esta intensificación se decidió de 
+manera  preventiva  con  la  finalidad  de  crear  las  condiciones 
+monetarias conducentes a un debilitamiento de las expectativas de 
+inflación.  Lo  anterior,  en  la  medida  en  que  el  proceso  de 
+abatimiento de la inflación enfrentaba un reto significativo, después 
+de que la meta para 2002 no pudo ser alcanzada.  Esto último 
+debido a que el subíndice de precios administrados y concertados 
+tuvo  un  alza  muy  significativa,  ya  que  si  éste  se  hubiese 
+incrementado a una tasa anual de 4.5 por ciento la desviación de la 
+meta habría sido de tan sólo 0.1 por ciento. 
+Posteriormente, el 7 de febrero, nuevamente se aumentó 
+el “corto”, de 550 a 625 millones de pesos. Las expectativas de 
+inflación continuaron sin mostrar una tendencia de convergencia 
+hacia  la  meta,  y  la  insuficiente  moderación  registrada  por  los 
+incrementos de los salarios contractuales impedía que se acelerara 
+la disminución de la inflación de los servicios. Adicionalmente, se 
+observó que existía el riesgo de que la depreciación del tipo de 
+cambio y la volatilidad en ese mercado indujeran una revisión al 
+alza de los pronósticos de inflación. 
+Las medidas de restricción monetaria adoptadas en enero 
+y febrero fueron reforzadas el 28 de marzo con un incremento 
+adicional  del  “corto”,  de  625  a  700  millones  de  pesos.    Esta 
+decisión  se  instrumentó  ante  un  entorno  adverso  en  el  que  las 
+expectativas  de  inflación  continuaron  con  un  comportamiento 
+alcista, y el componente no subyacente de la inflación tuvo una 
+evolución  desfavorable  que  podría  deteriorar  el  proceso  de 
+formación  de  precios.    Con  esta  acción  la  Junta  de  Gobierno 
+confirmó  su  decisión  de  continuar  adecuando  las  condiciones 
+monetarias tanto a la situación actual como a la previsible. 
+La Junta de Gobierno en su último comunicado de prensa 
+del  trimestre  advirtió  que  se  mantendrá  una  postura  monetaria 
+restrictiva en tanto las expectativas de inflación no retomen una 
+35  BANCO DE MÉXICO 
+tendencia decreciente congruente con la meta. De esta forma, dicho 
+órgano  directivo  confirmó  su  compromiso  con  el  logro  de  la 
+estabilidad de precios, definida como una inflación anual del INPC 
+de 3 por ciento, con un intervalo de variabilidad de más/menos un 
+punto porcentual. 
+Las  ampliaciones  del  “corto”  aplicadas  durante  los 
+primeros tres meses de 2003 tuvieron efectos alcistas sobre las 
+tasas de interés.  Este incremento  contrastó con el bajo nivel y 
+estabilidad de las tasas nominales en dólares en los Estados Unidos, 
+así como con la reducción que registró el rendimiento total de los 
+bonos soberanos de México colocados en el exterior. Además, el 
+incremento  que  mostró  en  México  el  rendimiento  real  de  los 
+instrumentos financieros ocurrió en un entorno en el cual las tasas 
+reales de los activos de corto plazo en los Estados Unidos fueron 
+negativas. 
+Cabe recordar que durante el primer trimestre de 2003 el 
+entorno  externo  se  caracterizó  por  caídas  en  los  principales 
+mercados accionarios y, de manera inesperada, por un incremento 
+en el apetito por los títulos de deuda de las economías de mercado 
+emergentes.  Las  bajas  sufridas  por  los  precios  de  las  acciones 
+bursátiles se explican por la incertidumbre geopolítica global y por 
+la expectativa de que la recuperación en los Estados Unidos y en la 
+economía  mundial  podría  ser  más  gradual  de  lo  que  se  había 
+anticipado. Por tanto, en congruencia con la debilidad económica 
+esperada, algunos de los principales bancos centrales del mundo 
+redujeron sus tasas de interés objetivo y se elevó la probabilidad de 
+que otros actuaran en el mismo sentido. 
+En un entorno adverso como el descrito, el diferencial de 
+rendimiento de los bonos soberanos de México que se cotizan en el 
+exterior, medido con respecto a las tasas de interés de los bonos del 
+Tesoro estadounidense, se estrechó en el primer trimestre de 2003. 
+Ello, a pesar del desfavorable ambiente prevaleciente durante el 
+periodo en los mercados financieros de los países industrializados. 
+Lo anterior se debió, en parte, a que los mercados financieros de 
+México han estado influidos de manera positiva por la mejoría de 
+la  situación  financiera  de  algunas  de  las  economías 
+latinoamericanas y cuya evolución había generado incertidumbre el 
+año anterior. Por tanto, entre diciembre y marzo la percepción del 
+riesgo  país  de  México  tuvo  una  mejoría.  En  contraste,  en  los 
+primeros  tres  meses  del  año  las  tasas  de  interés  internas 
+(nominales)  aumentaron  significativamente,  de  manera 
+diferenciada por su plazo. 
+36  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+En  su  momento  los  mercados  financieros  internos 
+reaccionaron de manera congruente con la intensificación de la 
+restricción monetaria. Así, las tasas de interés internas aumentaron 
+en  los  días  subsecuentes  a  las  acciones  de  política  monetaria 
+adoptadas el 10 de enero, 7 de febrero y 28 de marzo.  Cabe señalar 
+que durante el primer trimestre las tasas de “fondeo” bancario y 
+gubernamental  subieron  67  y  53  puntos  base,  respectivamente.  
+Asimismo,  las  tasas  de  interés  de  los  Cetes  a  28  y  a  91  días 
+tuvieron alzas respectivas de 55 y 120 puntos base (Gráfica 14). 
+Gráfica 14  Tasas  de  Interés  Nominales,  Tasas  de  Interés  Reales1/  y 
+Rendimiento Total de los Bonos UMS05 y UMS26 
+Por ciento 
+Por Tasa Nominal T-bill 3 meses Por Tasa Real T-bill 3 meses
+ ciento Tasa Nominal Cetes 91 dias  ciento Tasa Real Cetes 91 dias
+Rendimiento Total UMS05 Rendimiento Neto UMS05
+10 Rendimiento Total UMS26 6 Rendimiento Neto UMS26
+9 5
+8
+4
+7
+3
+6
+2
+5
+1
+4
+3 0
+2 -1
+1 -2
+Mar May Jul Sep Nov Ene Mar Mar May Jul Sep Nov Ene Mar
+2002 2003 2002 2003
+   
+Fuente: Federal Reserve Board of Governors, Infosel  y Banco de México. 
+1/ Tasas de interés nominales deflactadas por las expectativas de inflación para los siguientes 12 meses. 
+En cuanto a la instrumentación de la política monetaria, 
+se anunciaron dos importantes medidas: 
+(a)  La constitución de un depósito de regulación monetaria 
+en el Banco de México por parte de las instituciones de 
+crédito por 30 mil millones de pesos, a fin de que el 
+Instituto  Central  mantuviese  una  posición  de  liquidez 
+acreedora frente al sistema bancario. Ello permitirá que la 
+política  monetaria  conserve  su  efectividad  para  influir 
+sobre el comportamiento de las tasas de interés de corto 
+plazo; y  
+(b)  La sustitución, a partir del 10 de abril, del régimen de 
+saldos acumulados en las cuentas corrientes que el Banco 
+de México lleva a la banca por uno de saldos diarios. Así, 
+si bien al 9 de abril el objetivo de saldos acumulados para 
+37  BANCO DE MÉXICO 
+periodos de 28 días (“corto”) correspondía a 700 millones 
+de pesos, a partir del día siguiente el objetivo de saldos 
+diarios resultó de 25 millones (700 millones de pesos ÷ 28 
+días = 25 millones de pesos diarios). De esta manera, con 
+dicha  medida  la  postura  de  la  política  monetaria 
+compatible  con  un  nivel  determinado  del  “corto” 
+permaneció inalterada. La modificación se adoptó por dos 
+razones principales.  En primer lugar, en virtud de que se 
+han reducido las ventajas de contar con un esquema que 
+permita compensar saldos positivos y negativos dentro del 
+periodo de medición de los saldos acumulados. Ello tiene 
+su origen, fundamentalmente, en la adopción de algunas 
+mejoras  operativas  que  han  permitido  realizar  una 
+programación  financiera  más  precisa.    En  segundo, 
+porque es un mecanismo más transparente. 
+Es  importante  reiterar  que  ninguna  de  las  mediadas 
+anteriores modifica la liquidez del sistema, por lo que no implican 
+un cambio en la postura de la política monetaria. 
+III.2.  Agregados Monetarios y Crediticios 
+A pesar de que en el corto plazo la relación entre los 
+agregados  monetarios  y  la  inflación  ha  sido  inestable,  es 
+aconsejable analizar su evolución con la finalidad de discernir la 
+presencia de posibles presiones inflacionarias en el largo plazo. A 
+este respecto, a partir de 1997 la velocidad de circulación de la base 
+monetaria  ha  mostrado  una  disminución  considerable.  Esto 
+obedece fundamentalmente a un proceso de remonetización, que 
+consiste  en  un  aumento  de  la  demanda  de  saldos  monetarios, 
+inducida por la baja que se ha registrado en las tasas de interés 
+durante el proceso de estabilización.  Es decir, ha respondido a una 
+reducción del costo de oportunidad de mantener efectivo (Gráfica 
+15).    Cabe  señalar  que  la  velocidad  de  circulación  todavía  se 
+encuentra en niveles por encima de los observados en periodos de 
+baja inflación y no sorprendería que la brecha entre el incremento 
+de la base monetaria y el del ingreso nominal persistiera por un 
+lapso más prolongado. 
+38  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+Gráfica 15  Velocidad de Circulación de la Base Monetaria1/ y Tasa de Interés de 
+los Cetes a 91 Días 
+Veces Velocidad de Circulación Cetes 91 Días Por ciento
+40 140
+120
+35
+100
+30
+80
+60
+25
+40
+20
+20
+15 0
+Mar-80 Mar-82 Mar-84 Mar-86 Mar-88 Mar-90 Mar-92 Mar-94 Mar-96 Mar-98 Mar-00 Mar-02
+ 
+1/ Calculada como el cociente entre el consumo privado y los billetes y monedas en circulación. 
+En  cuanto  a  los  agregados  monetarios  y  crediticios 
+amplios, destaca el aumento del financiamiento total otorgado por 
+el sistema financiero8 al sector privado (Gráfica 16a). No obstante, 
+este  incremento  es  aún  modesto.  De  hecho,  la  posición  neta 
+acreedora  y  deudora  de  las  familias  y  de  las  empresas  ha 
+permanecido  relativamente  estable  (Gráfica  16b)9.  Así,  la 
+evolución de los agregados monetarios y crediticios no sugiere la 
+presencia  de  presiones  de  demanda  agregada  que  pudieran 
+constituir un obstáculo para el abatimiento de la inflación.  
+                                                 
+8  Ver Panorama del Sistema Financiero Mexicano, publicado por el Banco de México en 
+su página de Internet, en donde se consolidan los recursos y obligaciones de los 
+siguientes intermediarios: banca comercial, banca de desarrollo, Banco de México, 
+arrendadoras  financieras,  factorajes  financieros,  Sofoles,  sociedades  de  ahorro  y 
+préstamo, uniones de crédito, compañías de seguros, Siefores, fondos de fomento, 
+almacenes de depósito, sociedades de inversión, casas de bolsa y compañías de 
+fianzas. Conceptualmente, ésta es la medición más amplia del financiamiento interno y 
+tiene como fuente principal de recursos la fracción del ahorro financiero (M4) que los 
+intermediarios financieros dirigen al sector privado. 
+9  La posición neta acreedora se obtiene de restar del total de los activos financieros del 
+sector privado el total de sus pasivos. La información proviene del Panorama del 
+Sistema Financiero Mexicano. 
+39  BANCO DE MÉXICO 
+Gráfica 16  Financiamiento Total Otorgado por el Sistema Financiero al Sector 
+Privado y Posición Acreedora de las Empresas y las Familias. 
+a) Financiamiento Total al Sector Privado   b) Posición Acreedora de las Empresas y las 
+Familias 
+Variación  real  mensual  de  la  serie  de 
+tendencia en por ciento  Saldos reales en miles de millones de pesos 
+2 1,200
+1,000
+1
+800
+600
+0
+Empresas Familias
+400
+-1 
+200
+0
+-2 
+-200 
+-3  -400 
+Ene-99 Ene-00 Ene-01 Ene-02 Ene-03 Ene-99 Ene-00 Ene-01 Ene-02 Ene-03
+III.2.1.  Base Monetaria, Crédito Interno Neto y Activos 
+Internacionales Netos 
+La  variación  anual  que  mostró  el  saldo  de  la  base 
+monetaria en el primer trimestre de 2003 fue en promedio de 16 
+por ciento, resultado muy similar al anticipado en el pronóstico 
+mensual publicado en el Programa Monetario (16.2 por ciento). A 
+partir del segundo trimestre se estima un ritmo de crecimiento más 
+lento de la base monetaria (Gráfica 17). 
+En el primer trimestre de 2003 el saldo de los activos 
+internacionales  netos10  del  Banco  de  México  aumentó  3,281 
+millones  de  dólares,  terminando  marzo  en  54,003  millones.  La 
+principal  fuente  de  acumulación  fue  la  compra  de  divisas  a 
+PEMEX que sumó en el periodo 2,899 millones de dólares. Por 
+otra parte, el Gobierno Federal demandó divisas por un monto de 
+96 millones de dólares. 
+El crédito interno neto del Banco de México disminuyó 
+61,529 millones de pesos de diciembre de 2002 a marzo de 2003. 
+Lo  anterior  se  explica  en  lo  fundamental  por  la  esterilización 
+realizada en ese lapso del impacto monetario del incremento de los 
+                                                 
+10  Los activos internacionales netos se definen como la reserva bruta, más los créditos 
+convenio con bancos centrales a más de seis meses, a lo que se restan los adeudos 
+totales con el FMI y con bancos centrales derivados de convenios establecidos a menos 
+de seis meses. Asimismo, se considera el resultado por el cambio de valor en términos 
+de dólares de los EUA de las operaciones de compra-venta de divisas concertadas a la 
+fecha. 
+40  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+activos internacionales y por la reducción estacional de la demanda 
+de base monetaria. 
+Gráfica 17  Evolución de la Base Monetaria 
+Variación Anual Variación Mensual Anualizada
+30
+25
+20
+15
+10
+5
+Pronóstico
+0
+-5
+Dic-00 Jun-01 Dic-01 Jun-02 Dic-02 Jun-03 Dic-03
+ 
+Durante los últimos cinco años (diciembre 1997 a marzo 
+2003) el Banco de México ha acumulado activos internacionales 
+por  un  total  de  34,179  millones  de  dólares  (Gráfica  18a).  Lo 
+anterior puede considerarse principalmente como el efecto neto de 
+varios  conceptos:  la  entrada  de  divisas  captadas  por  PEMEX 
+(44,090 millones de dólares), las ventas al Gobierno Federal para 
+cubrir el servicio de la deuda pública (23,647 millones de dólares) 
+y otros ingresos (13,736 millones de dólares)11 (Gráfica 18b). 
+                                                 
+11  Se refiere a los ingresos por intereses de los activos internacionales y, durante el 
+periodo de su vigencia, a la acumulación neta de divisas como resultado de las 
+subastas de opciones de venta de dólares y del mecanismo automático de venta de 
+divisas. 
+41  BANCO DE MÉXICO 
+Gráfica 18  Fuentes de Acumulación de Activos Internacionales 
+a) Activos internacionales   b) Principales fuentes 
+Flujos acumulados en millones de dólares  Flujos acumulados en millones de dólares 
+40,000 Pemex Otros conceptos*/ Gobierno Federal
+70,000
+35,000
+60,000
+30,000 50,000
+25,000 40,000
+30,000
+20,000
+20,000
+15,000 10,000
+10,000 0
+-10,000
+5,000
+-20,000
+0 -30,000
+98-I 99-I 00-I 01-I 02-I 03-I 98-I 99-I 00-I 01-I 02-I 03-I
+   
+*/ Se refiere a los ingresos por intereses de los activos internacionales y, durante el período de su vigencia, a la acumulación neta de divisas 
+como resultado de las subastas de opciones de venta de dólares y el mecanismo automático de venta de divisas. 
+Para  evitar  el impacto  monetario que podría  causar la 
+acumulación  de  reservas  internacionales12,  el  Banco  de  México 
+procede  a  retirar  cualquier  exceso  de  liquidez  a  través  de  la 
+colocación de valores (principalmente BREMS) u otros pasivos de 
+regulación monetaria, como el depósito requerido recientemente 
+por el Banco de México a las instituciones de crédito (ver Sección 
+III.1.1). Así, el costo para el Banco de México de mantener la 
+reserva internacional resulta de la diferencia entre el rendimiento 
+de dicha reserva y la tasa de interés que se paga por los pasivos que 
+ha emitido el Banco Central para financiar la tenencia de reservas. 
+Dado el nivel que ha alcanzado el saldo de las reservas 
+internacionales y el ritmo esperado de acumulación adicional para 
+el resto del presente año, es posible concluir que los beneficios 
+netos, que principalmente se reflejan en un costo más bajo del 
+financiamiento para el país en los mercados internacionales, y que 
+justifican los costos antes descritos, serán cada vez menores.  En 
+virtud de lo anterior, la Comisión de Cambios decidió poner en 
+operación un mecanismo para reducir la velocidad de acumulación 
+de  reservas  internacionales.  Consecuentemente,  se  canalizará  al 
+mercado  una  fracción  de  los  flujos  de  divisas  que  podrían 
+potencialmente acrecentar las reservas. Este esquema funcionará 
+con independencia del nivel y de la tendencia del tipo de cambio 
+(Recuadro 2). 
+                                                 
+12  La reserva internacional se define en la Ley del Banco de México (Artículos 19 y 20). 
+42  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+Recuadro 2 
+El Mecanismo para Reducir el Ritmo de Acumulación de las Reservas Internacionales del Banco de 
+México  
+ 
+El 20 de marzo de 2003 la Comisión de Cambios  el  cual  puede  cerrarse  o  restringirse 
+anunció la instrumentación de un mecanismo para  intempestivamente. En tales circunstancias, contar 
+reducir  el  ritmo  de  acumulación  de  reservas  con  un  saldo  significativo  de  RI  abate  la 
+internacionales (RI) por parte del Banco de México,  probabilidad de que dichos mercados se tornen 
+efectivo a partir del 2 de mayo de 2003. En este  inaccesibles. Al mitigar estos riesgos, dicho saldo 
+recuadro se describen las características de dicho  contribuye  a  mejorar  la  clasificación  del  país 
+mecanismo y se presentan algunas consideraciones  como sujeto de crédito y permite que el costo de 
+relativas a su adopción.  contratar deuda externa que enfrentan los agentes 
+   mexicanos sea más bajo.  
+Durante los últimos años, el nivel de las RI del   
+Banco de México ha aumentado  continuamente en  Los beneficios que se derivan de mantener un 
+forma notable. Así, de diciembre de 1997 a abril de  saldo adecuado de RI, se logran en la medida en 
+2003 el monto prácticamente se duplicó pasando de  que los mercados perciben que el país puede 
+28  mil  millones  de  dólares  a  cerca  de  52  mil  enfrentar sus compromisos de corto plazo con el 
+millones.  A partir de junio de 2001, cuando se  exterior. En la actualidad, el saldo de las RI de 
+suspendió la acumulación de reservas vía el esquema  México sería suficiente para cubrir 1.4 veces los 
+de opciones1, ésta se ha derivado principalmente de  compromisos externos de corto plazo del país, 
+las compras de los excedentes de divisas obtenidos  tanto públicos como privados, para el presente 
+por PEMEX (ver Gráfica 18 en Sección III.2.1).  año2. Del mismo modo, el saldo de las reservas 
+  permitiría atender 4 meses de importaciones. De 
+Gráfica 1  hecho, y en buena medida como resultado de la 
+Reservas Internacionales Netas  acumulación de reservas, los pagos de la deuda 
+Saldos al fin del periodo 
+pública externa de corto plazo para los siguientes 
+6600
+5522..00 años tenderán a reducirse, al tiempo que el plazo 
+5500 4488..00 promedio ponderado de la deuda pública interna 
+4400..99 se  ha  alargado3.  Estos  elementos  reducen  la 
+es de dólares es de dólares 34340000 2288..00 3300..11 3300..77 3333..66 n Ae cepseisdaard  ddee  colnotsi nubaern aecfuicmiousl anmdeon RciIo. nados,  es 
+Miles de millonMiles de millon22110000 prRdeeiIscr ehtrireanvs eaurnslet tasete i edrnverea el  cacoy odr sdilftaaeor rs e.t anEqscauila  ec  deoensl ttaroi en  tdeaeelcr  éruaesmcn audqrliurameecoi ieó dndnete ob  elddareeás    
+pagarse  por  los  títulos  que  se  emiten  para 
+00
+financiar  su  acumulación.  Los  activos 
+11999977 11999988 11999999 22000000 22000011 22000022 22000033**  
+*Hasta el 4 de abril de 2003.  internacionales son invertidos en el exterior en 
+Fuente: Banco de México  valores y depósitos con alta calificación crediticia 
+ 
+que son de fácil realización o tienen un mercado 
+La necesidad de contar con saldos “adecuados y 
+muy líquido. Sin embargo, la elevada liquidez 
+suficientes”  de  RI  en  economías  de  mercado 
+conlleva bajos rendimientos. Adicionalmente, la 
+emergentes que tienen un régimen de tipo de cambio 
+acumulación  de  RI  reduce  los  recursos 
+flotante, como es el caso de México, obedece a su 
+potencialmente disponibles para cubrir un mayor 
+relativa vulnerabilidad frente a los movimientos de 
+déficit en la cuenta corriente de la balanza de 
+capital  internacionales.  Dichos  países  tienen  un 
+acceso incierto a los mercados mundiales de capital,                                                             
+2 Incluye un pronóstico del servicio de la deuda pública 
+                                                            (capital e intereses) para 2003 y las amortizaciones de la 
+1 En agosto de 1996, se puso en práctica un mecanismo de  deuda privada para ese mismo año. Además, supone que toda 
+acumulación de reservas vía subastas de opciones (ver Banco de  la deuda bancaria vigente al cierre de 2002 era de corto plazo. 
+México, Informe Anual 1996, página 106). Por medio de éste, el  Finalmente, contiene las amortizaciones para 2003 de la 
+Banco de México acumuló más de 12 mil millones de dólares de  deuda pública interna que se encuentra en manos de no 
+RI.  En  2001,  la  Comisión  de  Cambios  consideró  que  el  residentes. 
+mecanismo había cumplido su objetivo y decidió suspenderlo a  3 Ver SHCP, “Informe sobre la Situación Económica, las 
+partir del 29 de junio de ese año (ver Banco de México, Informe  Finanzas Públicas y la Deuda Pública” del cuarto trimestre de 
+sobre la Inflación Abril-Junio 2001, página 38).  2002. 
+ 
+43  BANCO DE MÉXICO 
+pagos. Dado el saldo actual de las RI y el ritmo de  5. Las ventas de dólares en virtud del mecanismo 
+acumulación previsto para 20031, es posible concluir  comentado no se reanudarán hasta que se presente 
+que los beneficios netos que son la contrapartida de  una  acumulación  de  reservas  mayor  que  250 
+los costos aludidos serían cada vez menores.   millones de dólares respecto del saldo observado 
+  al inicio del último trimestre en que el mecanismo 
+En virtud de lo anterior, la Comisión de Cambios  hubiera estado vigente, una vez consideradas las 
+acordó  poner  en  operación  un  mecanismo  para  ventas realizadas durante ese mismo trimestre. 
+atenuar el ritmo de acumulación de reservas. Así, a   
+partir de su entrada en rigor se canalizará al mercado  6. La aplicación del procedimiento de subastas 
+una fracción de los flujos de divisas que podrían  diarias se iniciará a partir del próximo 2 de mayo, 
+acrecentar las reservas. El mecanismo contempla que  con base en la acumulación de RI observada en el 
+el  Banco  de  México  realice  ventas  de  dólares  periodo comprendido entre el 17 de enero y el 16 
+directamente  en el mercado,  de acuerdo con las  de abril del presente año. El monto exacto de las 
+reglas siguientes:  ventas diarias se anunciaría el 22 de abril. 
+   
+1.  Trimestralmente,  el  Banco  de  México  dará  a  El  mecanismo  de  subastas  diarias  de  divisas 
+conocer el monto de los dólares a ofrecer en el  permitirá alcanzar el objetivo de atenuar el ritmo 
+mercado cambiario durante el siguiente trimestre. El  de acumulación de RI sin reducir el saldo actual 
+monto a vender a lo largo del trimestre será igual a  de las RI en poder del Banco de México. Dicho lo 
+50%  del  flujo  acumulado  de  RI  en  el  trimestre  anterior,  resulta  conveniente  destacar  varias 
+previo, una vez consideradas las ventas realizadas a  características del esquema: 
+través de este mecanismo en ese mismo periodo.   
+  (cid:190) El  mecanismo  se  basa  en  reglas 
+2.  Con base en dicho monto de dólares a vender, el  preestablecidas y, por consiguiente, no está sujeto 
+Banco  de  México  subastará  todos  los  días  una  a  decisiones  discrecionales  de  las  autoridades 
+cantidad fija de dólares en un horario preestablecido.  financieras. 
+La  oferta  diaria  se  determinará  en  función  del  (cid:190) El  esquema  proporciona  certidumbre  al 
+número de días hábiles que tenga el trimestre en que  mercado en el sentido de que, una vez hecho el 
+se  realizarán  las  ventas.  Por  ejemplo,  si  en  un  anuncio trimestral, el público conocería el monto 
+trimestre el procedimiento apunta a vender 1,500  de dólares a subastarse diariamente.  
+millones de dólares y en ese periodo hay 60 días  (cid:190) El mecanismo de subastas diarias de dólares 
+hábiles, la cantidad diaria a subastar será de 25  operará independientemente de las condiciones 
+millones de dólares.  del mercado en el momento de cada subasta. 
+   
+3. Los participantes en las subastas correspondientes  Lo anterior implica que en ningún momento la 
+serán únicamente las Instituciones de Crédito del  operación  del  mecanismo  alterará  el  actual 
+país.  régimen  cambiario  de  libre  flotación,  ni  se 
+  buscará influir sobre el mercado cambiario con el 
+4. En caso de que el monto de ventas a realizar en un  propósito de alcanzar o mantener un objetivo de 
+trimestre  determinado  resultara  inferior  a  125  tipo de cambio predeterminado. 
+millones  de  dólares,  el  mecanismo  de  venta  se 
+suspendería temporalmente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+1 La Comisión de Cambios estima que bajo las condiciones 
+actuales las reservas que se acumularían en 2003 serían del orden 
+de 7,000 millones de dólares.   
+44  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+III.2.2.  Agregados Monetarios 
+Durante  el  primer  trimestre  de  2003  se  observó  una 
+disminución  de  la  tasa  de  crecimiento  del  saldo  del  medio 
+circulante  en  moneda  nacional  (Gráfica  19).  En  particular  las 
+cuentas de cheques registraron tasas de incremento más bajas que 
+en los  meses precedentes. Lo  anterior es  en parte atribuible al 
+mayor diferencial que se ha presentado entre el rendimiento de los 
+depósitos a plazo que ofrece la banca comercial y el de las cuentas 
+de cheques que devengan intereses13, así como al mayor costo de 
+operación de las cuentas de cheques. 
+Gráfica 19  M1 en Moneda Nacional 
+Variación real mensual en por ciento de las series de tendencia 
+1.8
+Billetes y Monedas  Cheques*/ M1
+1.6
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+-0.2 
+Feb Abr  Jun  Ago  Oct  Dic  Feb Abr  Jun  Ago  Oct  Dic  Feb
+2001 2002 2003
+ 
+*/ Considera a las cuentas de cheques en moneda nacional y a los depósitos en cuenta corriente. 
+Al cierre del primer trimestre la tasa de incremento real 
+anual del agregado monetario M2 resultó de 4.6 por ciento, lo que 
+implicó un flujo de ahorro financiero de los residentes de 57,182 
+millones de pesos.  Durante el trimestre tuvo lugar un cambio en la 
+estructura del ahorro financiero, habiendo disminuido la tenencia 
+de valores y aumentado la captación bancaria (Cuadro 11).  Ello, 
+debido a la reacción que han tenido algunos bancos para hacer 
+frente a la salida de inversionistas de los fondos de inversión, a 
+consecuencia de las minusvalías que algunos de éstos sufrieron 
+ante el incremento de las tasas de interés. 
+                                                 
+13  En marzo el diferencial de rendimientos entre las cuentas de cheques y los pagarés a 
+28 días que ofrece la banca comercial fue de 377 puntos base, superior en 97 puntos al 
+registrado en diciembre de 2002. 
+45  BANCO DE MÉXICO 
+En el lapso referido los bancos destinaron gran parte del 
+aumento de su captación a la inversión en valores públicos.  A su 
+vez, lo anterior se reflejó en una disminución de la tenencia de 
+dichos  valores  por  parte  del  sector  privado,  llevando  a  una 
+recomposición del ahorro financiero interno (M2). 
+Cuadro 11  Agregados Monetarios 
+Variación real anual en por ciento 
+Dic.02 Ene.03 Feb.03 Mar.03
+M1 6.5 7.9 6.7 3.8
+ByM en Poder del Público 10.4 13.9 13.9 5.6
+Cuentas de Cheques en M.N. 5.4 5.1 4.0 4.2
+Cuentas de Cheques en M.E. -5.3 -2.5 -5.6 -0.5
+Depósitos en Cuenta Corriente 13.5 15.1 13.3 2.3
+M2 5.4 7.3 5.6 4.6
+Captación Bancaria -12.1 4.7 8.3 9.6
+Valores Públicos 14.3 7.2 2.0 0.3
+Tenencia de Siefores 17.7 17.4 16.3 17.9
+Resto 13.4 4.4 -1.7 -4.3
+Valores Privados 31.6 29.7 24.4 26.2
+M3 5.1 7.5 5.7 4.9
+M4 4.8 7.1 5.7 4.9  
+III.2.3.  Financiamiento al Sector Privado 
+La expansión del crédito vigente otorgado por la banca 
+comercial  al  sector  privado  se  ha  moderado.  Dicha  evolución 
+resultó congruente con la debilidad que han experimentado en los 
+últimos meses el consumo y la producción industrial (Gráfica 20). 
+El crédito vigente otorgado por la banca comercial a las 
+empresas se ha concentrado en el sector servicios, particularmente 
+en el sector comercio. Así, a febrero de 2003 este último recibió un 
+flujo anual de 13.5 miles de millones de pesos, equivalente a 56 por 
+ciento del total de los recursos canalizados a las empresas (Cuadro 
+12). 
+46  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+Gráfica 20  Crédito Bancario Vigente 
+Variación real mensual en por ciento de las series de tendencia 
+Consumo Empresas*/ Total*/
+5
+4
+3
+2
+1
+0
+-1
+-2
+Ene-01 Abr-01 Jul-01 Oct-01 Ene-02 Abr-02 Jul-02 Oct-02 Ene-03
+ 
+*/ Considera saldos revalorizados para el crédito en moneda extranjera. 
+Cuadro 12  Crédito Bancario Vigente por Sectores 
+Saldos Febrero de 2003 Flujo en mmp. Var. Real
+mmp. % del % del PIB  Feb 02 / Feb 03 Anual en %
+PIB1/ sectorial1/
+Total  279.83 4.5      4.55 24.12 3.71
+Agropecuario 8.66 0.1      3.83 -5.55 -42.24
+Industrial 141.29 2.3      9.50 7.95 0.42
+Mineria 2.76 0.0      3.65 -0.61 -22.29
+Manufactureras 105.50 1.7      9.95 9.41 4.05
+Construcción 33.02 0.5      12.00 -0.86 -7.63
+Servicios 129.88 2.1      3.26 21.73 13.81
+Comercio, restaurantes y hoteles 71.00 1.2      6.10 15.97 22.28
+Comercio 61.14 1.0      n.d. 13.51 21.66
+Restaurantes y hoteles 9.86 0.2      n.d. 2.46 26.31
+Otros 58.88 1.0      2.09 5.75 5.03  
+n.d. No disponible.     
+1/ Calculado con base en el Valor Agregado Bruto anual de 2002.     
+Finalmente, cabe señalar que la incertidumbre económica 
+ha inhibido el ritmo de las colocaciones internas de valores por 
+parte de las empresas privadas. Así, en marzo del presente año el 
+saldo de dichas colocaciones mostró una variación real anual de 
+17.4 por ciento, cifra que contrasta con la registrada en septiembre 
+de 2002 (39 por ciento). 
+47  BANCO DE MÉXICO 
+IV.  Perspectivas del Sector Privado para 200314 
+En el transcurso del trimestre enero-marzo, los analistas 
+del sector privado corrigieron sus estimaciones para 2003 en el 
+siguiente sentido: un menor crecimiento del PIB y una inflación 
+más elevada. 
+IV.1.  Pronóstico sobre los Principales Determinantes 
+de la Inflación 
+En comparación con lo presentado en el anterior Informe 
+sobre la Inflación, la mayoría de los consultores económicos del 
+sector privado estima para 2003 una menor tasa de crecimiento del 
+PIB en los Estados Unidos y en México. El pronóstico relativo al 
+crecimiento del PIB de los Estados Unidos en 2003 se ajustó a la 
+baja de 2.7 a 2.4 por ciento mientras que las estimaciones para el 
+crecimiento  del  PIB  real  de  México  en  2003  y  2004,  pasaron 
+respectivamente de 3.2 a 2.5 por ciento y de 4.2 a 4 por ciento. Por 
+otra parte, los analistas nacionales modificaron al alza su previsión 
+sobre  el  precio  que  tendrá  la  mezcla  mexicana  de  petróleo  de 
+exportación en 2003, de 19.08 a 21.80 dólares por barril (Cuadro 
+13). 
+A lo largo del trimestre las expectativas sobre el tipo de 
+cambio al cierre de 2003 fueron revisadas al alza. En cuanto a los 
+incrementos de los salarios contractuales, la estimación es que en 
+abril y mayo de 2003 crezcan respectivamente 5.1 y 5 por ciento. 
+                                                 
+14  A menos que se especifique lo contrario, los pronósticos reportados en esta sección se 
+obtienen de la Encuesta sobre las Expectativas de los Especialistas en Economía del 
+Sector Privado que recaba mensualmente el Banco de México. 
+48  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+Cuadro 13  Expectativas del Sector Privado: Diciembre de 2002 y Marzo de 
+20031/ 
+Diciembre Marzo Diciembre Marzo
+2002 2003 2002 2003
+Crecimiento PIB Real en México Tipo de Cambio
+(Pesos por dólar, cierre del año)
+2003 3.16% 2.54% 2003 Encuesta Banxico  10.51 10.88
+2004 4.24% 4.00% Futuros3/   11.17 11.33
+2004 Encuesta Banxico  n.d. 11.23
+Déficit Comercial Mezcla Mexicana de Petróleo
+(Millones de dólares) (Dólares por barril en promedio)
+2003 10,600 9,286 2003 Encuesta Banxico  19.08 21.80
+Futuros6/  24.14 24.13
+Déficit de la Cuenta Corriente Incrementos Salariales
+(Millones de dólares)
+2003 18,490 16,234 Para Abril 2003 n.d. 5.1%
+Para Mayo 2003 n.d. 5.0%
+Inversión Extranjera Directa Clima de Negocios
+(Millones de dólares) Mejorará 64.3% 56.7%
+2003 13,691 13,201 Permanecerá Igual 25.0% 40.0%
+2004 n.d. 14,348 Empeorará 10.7% 3.3%
+Crecimiento PIB Real en los EUA durante 2003
+Encuesta Banxico  2.7% 2.4%    I Trim. Promedio Corredurías5/ 2.2% 1.8%
+Consensus Forecasts2/  2.7% 2.3%    II Trim. Promedio Corredurías5/ 3.2% 1.7%
+Promedio Corredurías4/  2.6% 2.3%    III Trim. Promedio Corredurías5/ 3.7% 3.5%
+   IV Trim. Promedio Corredurías5/ 3.6% 3.5%
+ 
+1/ A menos que se especifique lo contrario, la información se obtiene de la Encuesta sobre las Expectativas de los Especialistas en Economía 
+del Sector Privado que recaba mensualmente el Banco de México. 
+2/ Consensus Forecasts del 13 de enero y 7 de abril de 2003. 
+3/ Los futuros del tipo de cambio corresponden al 31 de diciembre de 2002 y al 31 de marzo de 2003. 
+4/ Promedio de los pronósticos de las corredurías de Deutsche Bank, Goldman Sachs y JP Morgan. 
+5/ Variación trimestral anualizada. 
+6/ El precio de la mezcla mexicana de petróleo se obtiene a partir de la diferencia entre las cotizaciones a futuro del precio internacional del 
+petróleo WTI (31 de abril de 2003) y el precio de la mezcla mexicana en esa misma fecha. 
+En la encuesta de marzo los indicadores sobre el clima de 
+los  negocios  y  el  nivel  de  confianza  mostraron  un  menor 
+optimismo que el captado en la de diciembre de 2002. Así, 56.7 por 
+ciento de los analistas consultados expresó que durante el próximo 
+semestre  el  ambiente  de  los  negocios  mejorará,  40  por  ciento 
+mencionó que se mantendrá sin cambio y el resto opinó que se 
+deteriorará. 
+Los consultores señalaron en la encuesta de marzo que los 
+principales factores que podrían obstaculizar durante los próximos 
+seis meses el ritmo de la actividad económica en México son los 
+siguientes: la debilidad de los mercados externos y de la economía 
+mundial  (con  28  por  ciento  de  las  respuestas);  la  inestabilidad 
+política  internacional  (17  por  ciento);  la  falta  de  cambios 
+estructurales en el país (13 por ciento); la debilidad del mercado 
+interno y la incertidumbre acerca de la situación económica interna 
+(9  por  ciento  cada  uno  de  esos  dos  factores);  la  inestabilidad 
+49  BANCO DE MÉXICO 
+financiera internacional; y la incertidumbre política interna (7 por 
+ciento cada uno). 
+IV.2.  Expectativas sobre la Inflación 
+Los pronósticos de los analistas respecto a la inflación 
+mensual del INPC en abril, mayo y junio de 2003 se ubicaron, 
+respectivamente, en 0.36, 0.24 y 0.29 por ciento. 
+La predicción relativa a la inflación general anual para el 
+cierre de 2003 se incrementó de 4.21 por ciento en diciembre a 
+4.38 por ciento en marzo. Por otra parte, los consultores revisaron 
+al alza su pronóstico de la inflación subyacente anual para el cierre 
+de 2003, de 3.48 por ciento en diciembre a 3.74 por ciento en 
+marzo.  La  inflación  general  esperada  para  los  siguientes  doce 
+meses se modificó de 4.21 por ciento en diciembre a 4.27 por 
+ciento en marzo. Por último, el pronóstico para la inflación general 
+al cierre de 2004 se redujo ligeramente, de 3.76 en diciembre a 3.73 
+por ciento en marzo (Gráfica 21). Cabe destacar que al momento de 
+publicar este Informe las expectativas relativas a la inflación del 
+INPC  para  2003  todavía  se  encontraban  por  encima  del  límite 
+superior del intervalo de variabilidad alrededor de la meta para ese 
+año. 
+Gráfica 21  Evolución de las Expectativas de Inflación 
+Variación anual en por ciento 
+Cierre de 2003 y Siguientes 12 meses                     Cierre de 2004 
+5.0 4.0
+Cierre 2003
+Cierre 2004
+44..05 3.784.443.734.243.814.19S3.79ig4.15ue3.88n4.09tes3.90 13.972 3.96M4.05es4.09es4.124.144.084.214.214.314.364.274.404.384.27 3.5 3.58 3.60 3.55 3.62 3.74 3.70 3.76 3.76 3.72 3.73
+3.5
+3.0 3.0
+Mar May Jul Sep Nov Ene Mar Jun Jul Ago Sep Oct Nov Dic Ene Feb Mar
+2002 2003 2002 2003
+ Fuente:  Encuesta sobre las Expectativas de los Especialistas en Economía del Sector Privado, Banco de México. 
+50  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+V.  Balance de Riesgos 
+La  evolución  de  la  economía  mexicana  en  el  primer 
+trimestre de 2003 fue determinada en lo principal por la influencia 
+de  dos  factores:  la  fragilidad  que  continuó  mostrando  la 
+recuperación económica de los Estados Unidos y la lenta expansión 
+de la demanda interna, en particular del sector privado. 
+Las  perspectivas  menos  optimistas  en  cuanto  al 
+crecimiento de la economía de los Estados Unidos han llevado a la 
+revisión de los supuestos en que se sustenta el escenario base del 
+análisis del Banco de México. Las modificaciones resultantes de 
+dicho ejercicio fueron las siguientes:  
+(a)  El pronóstico sobre el crecimiento anual promedio del 
+PIB de los Estados Unidos disminuyó de 2.7 a 2.3 por 
+ciento. Asimismo, y más significativo, la previsión sobre 
+el incremento anual promedio de la producción industrial 
+en ese país se redujo de 2.4 a 1.4 por ciento; 
+(b)  Debido al alto grado de incertidumbre a que está sujeta la 
+evolución del precio del petróleo en 2003 y a que se 
+anticipa que una vez concluido el conflicto bélico dicho 
+precio  tenga  reducciones  importantes,  el  Banco  de 
+México considera pertinente conservar el supuesto sobre 
+el precio promedio de la mezcla mexicana en 17 dólares 
+por barril; y 
+(c)  Hasta el momento no se ha alterado la previsión sobre las 
+condiciones  de  acceso  a  los  mercados  financieros 
+internacionales. Por ello, se supone que en lo que resta de 
+2003  se  enfrentarán  condiciones  similares  a  las 
+prevalecientes durante el primer trimestre. 
+Con base en lo anterior y en la información disponible 
+sobre la marcha de la economía mexicana, se realizó un ejercicio 
+de  pronóstico  para  2003  de  las  principales  variables 
+macroeconómicas. Los resultados más importantes se detallan a 
+continuación. 
+Crecimiento  Económico.  El  pronóstico  sobre  el 
+crecimiento anual promedio del PIB real en 2003 se modificó a la 
+baja, de 3 a 2.4 por ciento. Ello se fundamenta básicamente en la 
+debilidad  que  muestra  la  actividad  económica  de  los  Estados 
+51  BANCO DE MÉXICO 
+Unidos y del resto del mundo, así como en los magros resultados 
+que apuntan los indicadores relativos a la actividad económica en 
+México (Recuadro 3). 
+Recuadro 3 
+Revisión del Pronóstico del PIB de México para 2003 
+ 
+La modificación del pronóstico de crecimiento del  de las estimaciones que se tenían al inicio del 
+PIB  de  México  para  2003  se  sustenta  en  las  año.  Esto  último  sugiere  que  en  el  cuarto 
+siguientes razones:  trimestre del año pasado, la demanda agregada 
+perdió fortaleza con relación a la producción.  
+a)  Como se ha mencionado en este Informe, las 
+En  particular,  en  ese  periodo  el  consumo 
+perspectivas  relativas  al  crecimiento  de  la 
+privado  se  desaceleró,  la  inversión  privada 
+economía de los Estados Unidos en 2003 se han 
+sufrió  una  contracción  y  el  aumento  de  las 
+revisado de manera significativa a la baja en los 
+exportaciones se moderó.  
+últimos meses. Adicionalmente, los pronósticos 
+de  expansión  de  la  economía  global   c)  En los meses transcurridos de 2003 ha persistido 
+disminuyeron notablemente.  la  debilidad  del  gasto  de  inversión, 
+especialmente de las importaciones de bienes de 
+Cuadro 1 
+capital. Estas últimas se han contraído a tasa 
+Revisión de las Expectativas de Crecimiento 
+anual.  Por  otra  parte,  el  aumento  de  las 
+del PIB Real en 2003 
+exportaciones  no  petroleras  ha  sido 
+Por ciento 
+  OECD1/  FMI2/  CF3/  relativamente  reducido.  Finalmente,  la 
+  dic. 02  abr. 03  sep. 02  abr. 03  ene. 03  abr.03 generación de empleos en el sector formal ha 
+             
+Estados Unidos  2.6  2.5  2.6  2.2  2.7  2.3  resultado  modesta  y  ello  podría  limitar  la 
+Canadá  3.1  2.8  3.4  2.8  3.2  2.9 
+              reactivación del consumo. 
+Unión Europea  1.9  1.3  2.3  1.3  1.6  1.3 
+ Reino Unido  2.2  2.3  2.4  2.0  2.3  1.9  Con base en las consideraciones anteriores y en un 
+Zona Euro  1.8  1.1  2.3  1.1  1.4  1.0 
+   Alemania  1.5  0.5  2.0  0.5  0.9  0.5  ejercicio  de  pronóstico  mediante  modelos 
+   Francia  1.9  1.3  2.3  1.2  1.6  1.2 
+   Italia  1.5  1.0  2.3  1.1  1.4  1.2  econométricos, el Banco de México ha modificado 
+ Japón  0 .8  0. 8  1 .1  0. 8  0. 4  0. 8  su estimación de crecimiento anual promedio del 
+ Latinoamérica   ---  -- -  3 .0  1. 5  3. 9  1. 4    PIB real para 2003 a 2.4 por ciento.  
+1/ OECD, EPC, diciembre de 2002 y abril de 2003.  Cuadro 2 
+2/ FMI, World Economic Outlook, septiembre de 2002 y abril de 2003. 
+3/ Promedio de los pronósticos de los analistas encuestados por Consensus  Revisión del Pronóstico de Crecimiento del PIB 
+Forecasts, enero 12 y abril 7 de 2003. Para América Latina se anotan los  Real de México para 2003 
+pronósticos del Latin American Consensus Forecast de diciembre 16 de 
+Variación real anual en por ciento 
+2002 y 14 de abril 2003. 
+  Ene. 03 Abr. 03 Dif.
+b)  Si  bien  en  el  cuarto  trimestre  de  2002  el  PIB de México 3.00 2.40 -0.60
+incremento anual del PIB real de México (1.9  Supuestos:
+PIB de los Estados Unidos 2.70 2.30 -0.40
+por  ciento)  resultó  prácticamente  igual  al  Producción Industrial de los Estados Unidos 2.40 1.40 -1.00
+previsto por el Banco de México (2 por ciento),  Precio de la Mezcla Mexicana de Exportación1/ 17.00 17.00 0.00 
+dicha expansión se debió en parte a un mayor  1/ Dólares por barril. 
+estímulo proveniente de la inversión pública y a   
+una elevada acumulación de inventarios respecto 
+   
+Es de señalarse que la tasa de incremento anual del PIB 
+en el primer trimestre de 2003 mostrará un sesgo al alza por el 
+hecho de que en 2002 la Semana Santa ocurrió en marzo y en el 
+presente año tiene lugar en abril. Así, tomando en cuenta dicho 
+efecto, se estima que la tasa de expansión anual del PIB real en el 
+primer trimestre se ubique en aproximadamente 2.6 por ciento. 
+Asimismo, es previsible que en el segundo trimestre se observe el 
+52  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+efecto contrario, debido a que dicho periodo contará con menos 
+días laborables que en 2002.  
+Para  el  resto  del  año,  se  prevé  que  una  vez  que  se 
+restablezca  la  estabilidad  geopolítica  y  que  se  consolide  la 
+recuperación de la economía de los Estados Unidos, los sectores 
+exportador  e  industrial  brindarían  el  impulso  inicial  para  la 
+reactivación de las actividades productivas en México. Ello, en 
+virtud de que México no enfrenta desequilibrios macroeconómicos 
+que sea necesario corregir antes de que la economía pueda empezar 
+a  crecer  a  un  ritmo  más  rápido.  Por  tanto,  es  probable  que  el 
+estímulo externo se produzca seguido por una expansión del gasto 
+en consumo e inversión del sector privado. Así, el pronóstico es 
+que para la segunda mitad del año la tasa de incremento anual del 
+PIB sea, en promedio, cercana a 3 por ciento. 
+Empleo: Debido a la revisión a la baja que se ha hecho 
+del pronóstico de crecimiento para el PIB y a que la disminución 
+que  han  registrado  los  incrementos  salariales  contractuales  es 
+todavía moderada, se estima que en el presente año el número de 
+empleos  que  se  crearán  será  inferior  al  previsto  en  el  anterior 
+Informe sobre la Inflación. En lo específico, se anticipa que entre el 
+final de 2002 y diciembre de 2003 se generarán en el sector formal 
+de la economía alrededor de 250 mil empleos. 
+Cuenta Corriente: En cuanto al nivel en el que cerrará el 
+déficit de la cuenta corriente, medido como proporción del PIB, se 
+estima que se mantenga alrededor de 3 por ciento. 
+Inflación: La trayectoria que ha mostrado la inflación en 
+los primeros meses del año, medida por los diferentes índices de 
+precios, ha resultado congruente en lo general con el escenario base 
+del Banco de México descrito en el Programa Monetario para 2003. 
+Por  lo  anterior,  es  previsible  que,  en  ausencia  de  incrementos 
+desproporcionados e imprevistos de los subíndices no subyacentes 
+en lo que resta del año, la inflación general muestre una tendencia a 
+la convergencia tanto hacia la inflación subyacente como hacia la 
+meta establecida para el cierre del año. 
+Respecto  al  comportamiento  de  los  subíndices 
+subyacentes de las mercancías y de los servicios, se prevé que, 
+debido a los bajos niveles que ya ha alcanzado, el primero continúe 
+mostrando cierta estabilidad a lo largo del año, mientras que el 
+segundo disminuya sin mayor interrupción.  
+Como  se  explicó  en  su  momento  en  el  Programa 
+Monetario para 2003, en el escenario base del Banco de México se 
+53  BANCO DE MÉXICO 
+incorporó  un  pronóstico  de  la  inflación  para  los  precios 
+administrados y concertados de 3.5 por ciento. Dicha estimación se 
+derivó de la consideración de los aumentos de los precios públicos 
+anunciados por la SHCP y que están incluidos en el INPC. Por otra 
+parte, en lo que respecta a la inflación de los precios agropecuarios, 
+la previsión es que en 2003, experimente un descenso moderado y 
+que éste se manifieste a lo largo del segundo trimestre. 
+El escenario base descrito se encuentra sujeto a un muy 
+alto grado de incertidumbre, por causas de índole tanto externa 
+como  interna.  Entre  los  riesgos  de  carácter  externo  destaca  la 
+fragilidad de la reactivación de la economía estadounidense, la cual 
+podría incluso resultar más débil de lo que se anticipa. Ello podría 
+responder a diversas causas, entre las cuales cabe mencionar las 
+siguientes:  
+(a)  La prolongación de la incertidumbre geopolítica debido a 
+la permanencia, e incluso recrudecimiento, del peligro de 
+terrorismo y a la ampliación de las tensiones bélicas hacia 
+otros  países.  El  efecto  podría  ser  un  aplazamiento  del 
+gasto en inversión por parte de las empresas, además de 
+una  incidencia  negativa  sobre  el  desempeño  de  los 
+mercados financieros; 
+(b)  La persistencia de precios elevados del petróleo, causada 
+por la incertidumbre geopolítica en el Medio Oriente y 
+por  las  dificultades  que  pueden  enfrentar  otros  países 
+productores del energético. Sin embargo, en el trimestre 
+reportado se atenuaron los riesgos de que los precios del 
+petróleo se mantuviesen altos.  Lo anterior, debido a la 
+debilidad de la economía global y a que ha disminuido el 
+temor relativo a un daño de las instalaciones petroleras en 
+Irak; y 
+(c)  Una mayor pérdida de confianza de los consumidores que 
+conlleve  una  reducción  de  su  gasto.  La  desconfianza 
+podría exacerbarse por un deterioro de la situación en los 
+mercados laborales o por menores estímulos fiscales en el 
+mediano plazo debido a los costos de la guerra en Irak.  
+La  inestabilidad  del  entorno  internacional,  la 
+desaceleración de las economías a nivel global y el elevado déficit 
+de la cuenta corriente de los Estados Unidos -en combinación con 
+ciertos factores internos que se abordan adelante- podrían dar lugar 
+a una reducción de los flujos de capital hacia México. 
+54  INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2003 
+No es claro el efecto sobre la inflación en México que 
+podría  tener  una  recuperación  más  lenta  que  la  prevista  de  la 
+economía  estadounidense.  Por  una  parte,  ello  debilitaría  las 
+presiones inflacionarias susceptibles de derivarse de una demanda 
+agregada más robusta. Por otra, ese escenario podría dar lugar a 
+una  ampliación  del  déficit  comercial  que,  de  materializarse, 
+presionaría las cuentas de México con el exterior y se traduciría en 
+una depreciación del tipo de cambio. Esto último, podría incidir 
+negativamente sobre la inflación. Dicha eventualidad se presentaría 
+si resurgiese el traspaso de la depreciación del tipo de cambio a los 
+precios internos, o bien si aumentara la probabilidad de que ello 
+ocurriera, llevando a un deterioro de las expectativas inflacionarias.  
+Asimismo,  el  escenario  base  que  plantea  el  Banco  de 
+México también podría verse alterado por perturbaciones de índole 
+interna. Entre éstas, las que tendrían una incidencia directa sobre la 
+inflación son las siguientes:  
+(a)  Un  incremento  imprevisto  de  las  cotizaciones  de  los 
+bienes  y  servicios  con  precios  administrados  y 
+concertados incongruente con el objetivo de inflación; y 
+(b)  Una  interrupción  de  la  trayectoria  descendente  de  la 
+inflación subyacente de los servicios por la moderación 
+insuficiente de los incrementos de los salarios. 
+Por otra parte, al igual que en el caso de la economía 
+estadounidense,  existe  el  riesgo  de  que  la  recuperación  de  la 
+economía  de  México  sea  más  frágil  que  la  prevista  y  que  el 
+mercado laboral continúe estancado. Ambos fenómenos tendrían 
+como consecuencia mitigar las presiones inflacionarias. 
+En  el  siguiente  trimestre,  los  eventos  electorales 
+programados  podrían  limitar  la  formación  de  los  consensos 
+políticos necesarios para  avanzar las reformas estructurales  aún 
+pendientes.  Ello  tendría  una  repercusión  adversa  sobre  la 
+rentabilidad esperada de la inversión y, por ende, sobre la inversión 
+misma.    Como  es  obvio,  de  ocurrir  lo  anterior  disminuiría  la 
+capacidad  productiva  de  largo  plazo  del  país.  Además,  la 
+vulnerabilidad de las  finanzas públicas implica un  elemento  de 
+riesgo de mediano plazo para el logro de un entorno de inflación 
+baja y estable. En el futuro, ambos factores podrían redundar en 
+márgenes  de  maniobra  más  estrechos  de  las  políticas  fiscal  y 
+monetaria  para  contrarrestar  perturbaciones  desestabilizadoras 
+provenientes del exterior. 
+55  BANCO DE MÉXICO 
+En  el  mediano  plazo,  es  probable  que  el  crecimiento 
+global sea menos robusto que el observado en la década anterior. 
+Esto obligará a modificar las bases sobre las que se ha fincado el 
+desarrollo de México en los últimos años, fortaleciendo las fuentes 
+internas  de  crecimiento.  Para  ello  será  necesario  elevar  la 
+competitividad  de  la  economía,  lo  que  a  su  vez  depende  del 
+robustecimiento del marco macroeconómico y del avance en las 
+reformas  estructurales,  que  lleven  a  una  mayor  eficacia 
+institucional  y  a  una  mayor  eficiencia  y  flexibilidad  de  la 
+economía. 
+El balance de los riesgos externos e internos que pueden 
+afectar el escenario base es mixto.  Existe un sesgo hacia una 
+mayor debilidad en la economía mundial, lo cual tendería a reducir 
+las presiones inflacionarias de mediano plazo.  Sin embargo, las 
+expectativas de inflación que mantienen los analistas privados y las 
+implícitas en los salarios contractuales se encuentran por arriba de 
+la  meta  de  inflación  para  este  año.  Como  ya  se  señalo,  los 
+aumentos que se han otorgado a los salarios no corresponden a las 
+condiciones prevalecientes en el mercado laboral. Lo elevado de 
+las revisiones salariales, aun cuando se han moderado, ha inhibido 
+la creación de empleos y el descenso más rápido de la inflación. 
+Por tanto, la Junta de Gobierno del Banco de México continuará 
+evaluando  el  desenvolvimiento  de  las  distintas  variables 
+susceptibles de afectar el curso de la inflación, a fin de aplicar de 
+manera  oportuna  las  acciones  de  política  monetaria  que  sean 
+necesarias para alcanzar el objetivo de inflación propuesto. 
+56 

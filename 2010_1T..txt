@@ -1,0 +1,2562 @@
+ Informe sobre  
+la Inflación 
+Enero – Marzo 2010 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABRIL, 2010 
+    
+JUNTA DE GOBIERNO 
+ 
+Gobernador 
+ 
+AGUSTÍN GUILLERMO CARSTENS CARSTENS 
+ 
+Subgobernadores 
+ 
+ROBERTO DEL CUETO LEGASPI 
+GUILLERMO GÜÉMEZ GARCÍA 
+MANUEL SÁNCHEZ GONZÁLEZ 
+JOSÉ JULIÁN SIDAOUI DIB 
+ 
+ 
+    
+ 
+ADVERTENCIA 
+A menos que se especifique lo contrario, este documento está elaborado 
+con información disponible al 27 de abril de 2010. Las cifras son de carácter 
+preliminar y están sujetas a revisiones. 
+    CONTENIDO 
+Informe sobre la Inflación Enero – Marzo 2010 
+1.  Introducción...................................................................................................................................1 
+2.  Evolución Reciente de la Inflación..............................................................................................3 
+2.1.  La Inflación en el Primer Trimestre de 2010...........................................................................3 
+2.2.  Índice Nacional de Precios Productor.....................................................................................9 
+2.3.  Salarios……………………….................................................................................................12 
+3.  Entorno Económico y Financiero Prevaleciente en el Primer Trimestre de 2010................14 
+3.1.  Condiciones Externas……....................................................................................................14 
+3.1.1. Actividad Económica Mundial....................................................................................14 
+3.1.2. Precios de las Materias Primas.................................................................................16 
+3.1.3. Tendencias Generales de la Inflación en el Exterior.................................................17 
+3.1.4. Mercados Financieros Internacionales......................................................................19 
+3.2.  Evolución de la Economía Mexicana....................................................................................22 
+3.2.1. Actividad Económica.................................................................................................22 
+3.2.2. Ahorro Financiero y Financiamiento en el País.........................................................27 
+4.  Determinantes de la Inflación....................................................................................................32 
+5.  La Política Monetaria durante el Primer Trimestre de 2010....................................................37 
+6.  Previsiones para la Inflación y Balance de Riesgos...............................................................42 
+Recuadros 
+1.  Evidencia sobre la Ausencia de Efectos de Segundo Orden en el Proceso de Formación de 
+Precios Asociados a las Modificaciones Tributarias Aprobadas por el H. Congreso de la Unión 
+para 2010......................................................................................................................................  6 
+2.  La Importancia de los Precios Productor en la Identificación de Presiones Inflacionarias............. 10 
+ 
+ 
+ 
+                                           INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+1.  Introducción 
+La recuperación de la economía mundial continuó durante el primer 
+trimestre  del  año  a  un  ritmo  mayor  al  anticipado,  aunque  con  marcadas 
+diferencias entre regiones y países. El crecimiento de las economías avanzadas 
+es  considerablemente  más  moderado  que  el  de  las  emergentes  y  continúa 
+dependiendo  en  buena  medida  del  estímulo  de  políticas  macroeconómicas 
+acomodaticias, lo cual se ha traducido en una creciente vulnerabilidad fiscal. La 
+reactivación de estas economías también se ha basado en un aumento en las 
+exportaciones netas y, en general, en una restitución de inventarios. Por su parte, 
+las economías de países emergentes, además de haber mostrado fundamentos 
+económicos  sólidos,  han  sido  favorecidas  por  el  crecimiento  del  comercio 
+internacional, así como por la fuerte demanda global de materias primas.  
+Los mercados internacionales de valores han venido normalizándose. 
+En particular, las condiciones de acceso a éstos en cuanto a costo y plazos se 
+han venido recuperando rápidamente. Sin embargo, continúa la debilidad del 
+crédito bancario, particularmente en las economías avanzadas. De ahí que la 
+sostenibilidad  de  la  recuperación  de  la  actividad  económica  internacional 
+dependerá,  en  gran  medida,  de  la  capacidad  del  sector  bancario  para 
+recapitalizarse, fortalecer sus balances y proveer de crédito al sector privado.  
+Las  presiones  inflacionarias  se  han  mantenido  bajo  control  en  la 
+mayoría de las economías avanzadas, fundamentalmente debido a su nivel de 
+producción debajo del potencial y la consecuente presencia de capacidad ociosa, 
+así como al elevado desempleo que presentan, lo que ha conducido a que las 
+expectativas de inflación se hayan mantenido estables en niveles reducidos. Ante 
+la necesidad de seguir impulsando la recuperación y el  saneamiento de los 
+sistemas financieros, los bancos centrales de dichas economías han optado por 
+dejar sin cambios su postura de política monetaria. En contraste, los países 
+emergentes que registraron un menor impacto de la crisis global y que, por tanto, 
+muestran menor holgura en sus economías, han iniciado el retiro de las políticas 
+de estímulo monetario y crediticio. 
+Las  economías  emergentes  continuaron  registrando  importantes 
+entradas  de  capital,  en  parte  impulsadas  por  la  expectativa  de  que  los 
+diferenciales  de  las  tasas  de  interés  seguirán  siendo  elevados  en  el  futuro 
+previsible. También han contribuido a este fenómeno las perspectivas de una 
+continua apreciación de sus tipos de cambio y de un mayor crecimiento relativo a 
+las economías avanzadas. De hecho la postura de política monetaria y fiscal 
+extraordinariamente acomodaticia en estas últimas, se ha constituido en un factor 
+que podría complicar el manejo macroeconómico en las economías emergentes. 
+En  México,  la  producción  manufacturera  continuó  mostrando  una 
+tendencia positiva durante el primer trimestre de 2010. A ello contribuyó el mayor 
+dinamismo de la actividad industrial en Estados Unidos, lo cual indujo mayores 
+niveles de exportaciones de productos mexicanos. En contraste, la reactivación 
+del gasto doméstico ha sido más débil. En particular, la inversión privada ha 
+mostrado  una  escasa  reactivación.  En  este  contexto,  la  economía  continúa 
+operando por debajo de su nivel potencial de producción.  
+1                                                                                       BANCO DE MÉXICO 
+La inflación general anual aumentó de 3.98 por ciento promedio en el 
+cuarto trimestre de 2009 a 4.75 por ciento durante el primer trimestre de 2010, 
+ubicándose en la cota superior del intervalo de pronóstico que publicó el Banco 
+de México en el Addendum al Informe sobre la Inflación Julio – Septiembre 2009 
+publicado en noviembre de ese año. La presión alcista que registró la inflación 
+general se concentró en el componente no subyacente del INPC, ya que la tasa 
+de crecimiento del subyacente –que refleja en mayor grado la tendencia de 
+mediano  plazo  de  la  inflación–  disminuyó.  El  incremento  de  la  inflación  no 
+subyacente fue afectado por los deslices en los precios de los energéticos y los 
+ajustes a tarifas y derechos que determinan gobiernos locales, como es el caso 
+del Metro y de los derechos por suministro de agua en la Ciudad de México. 
+También fue influido por un alza extraordinaria en las cotizaciones de algunas 
+hortalizas como consecuencia de condiciones climáticas adversas que afectaron 
+su producción. Por lo que toca a la reducción de la inflación subyacente, ésta fue 
+apoyada por la apreciación del tipo de cambio que aminoró el impacto sobre los 
+precios del reciente ajuste tributario, en un contexto en que los ajustes salariales 
+fueron  moderados  y  las  expectativas  de  inflación  de  mediano  y  largo  plazo 
+permanecieron relativamente estables. 
+El pronóstico de la inflación para el resto de 2010 y 2011, se mantiene 
+inalterado con relación a la última proyección que publicó el Instituto Central. El 
+pronóstico se mantiene sin modificaciones considerando que el impacto de los 
+cambios impositivos, de la política de deslices en los precios de los energéticos, 
+así como del ajuste a derechos y tarifas determinados por gobiernos locales ha 
+sido acorde a lo previsto, que no parecen existir presiones de demanda agregada 
+toda vez que la economía continúa operando por debajo de su capacidad, y que 
+el tipo de cambio se ha apreciado de manera notoria.  
+No  obstante,  el  proceso  de  formación  de  precios  todavía  enfrenta 
+diversos riesgos que pudiesen alterar el curso previsto de la inflación. Entre los 
+principales se encuentra una reversión abrupta y repentina en los flujos de capital 
+que pudiese conducir a un ajuste cambiario súbito. Asimismo, en la medida en 
+que  se  reduzca  la  holgura  en  la  economía,  su  contribución  a  atenuar  las 
+presiones inflacionarias irá disminuyendo. 
+En este entorno, en lo que va de 2010 la Junta de Gobierno del Banco 
+de México ha mantenido en 4.5 por ciento el objetivo para la Tasa de Interés 
+Interbancaria. No obstante, la Junta ha señalado que vigilará la trayectoria de las 
+expectativas de inflación de mediano y largo plazos, así como otros indicadores 
+que pudieran alertar acerca de presiones inesperadas y de carácter generalizado 
+sobre los precios. En particular, pondrá atención a la velocidad con la cual se 
+vaya cerrando la brecha del producto. Esto con el fin de que, en su caso, el 
+Instituto Central ajuste la política monetaria para alcanzar la meta de inflación del 
+3 por ciento hacia finales del próximo año.  
+2                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+2.  Evolución Reciente de la Inflación 
+2.1.  La Inflación en el Primer Trimestre de 2010 
+Durante el primer trimestre de 2010 la inflación general anual promedio 
+se ubicó en 4.75 por ciento, mientras que el trimestre previo fue 3.98 por ciento 
+(Gráfica 1 y Cuadro 1). Ello situó a la inflación en el límite superior del intervalo de 
+pronóstico de 4.25 a 4.75 por ciento. 
+Gráfica 1 
+Índice Nacional de Precios al Consumidor 
+Variación anual promedio en por ciento 
+10
+INPC
+9 Subyacente
+8 No Subyacente
+7
+6
+5
+4
+3
+2
+1 0 3 4 4 0 7 9 1 9 2 8 8 8 6 4 8 5
+7 1 5 1 1 9 9 8 8 9 4 1 1 9 1 9 7
+3. 3. 3. 4. 4. 3. 3. 3. 3. 4. 5. 6. 6. 5. 5. 3. 4.
+0
+I II  III  IV  I II  III  IV  I II  III  IV  I II  III  IV  I
+2006 2007 2008 2009 2010
+ 
+Fuente: Banco de México. 
+La  elevación  de  la  inflación  general  fue  consecuencia  del  alza  del 
+componente  no  subyacente  del  INPC.  Así,  la  inflación  no  subyacente  anual 
+alcanzó 5.26 por ciento durante el primer trimestre de 2010 (en el cuarto trimestre 
+fue 2.15 por ciento). Ello fue determinado por la interacción de tres factores: i) la 
+reanudación de la política de deslices en los precios de los energéticos; ii) los 
+aumentos en derechos y tarifas que determinan los gobiernos locales; y, iii) un 
+importante incremento en las cotizaciones de algunas hortalizas. Los primeros 
+dos fueron anticipados desde el Addendum al Informe sobre la Inflación Julio – 
+Septiembre 2009, y su contribución fue de 63 puntos base de los 77 que repuntó 
+la inflación general durante el periodo de análisis (Cuadro 1). Respecto al tercero, 
+la posibilidad de que se materializara un alza de consideración en los precios de 
+las frutas y verduras fue advertido en dicho documento. Es pertinente hacer 
+algunas consideraciones con respecto a estos tres factores:  
+1.  La  reanudación  de  la  política  de  deslices  en  los  precios  de  los 
+energéticos  ha  tenido  como  finalidad  atenuar  el  costo  fiscal  y 
+económico que implica la desalineación de los precios internos de las 
+gasolinas y el gas licuado con sus referencias externas (Gráfica 2a). Al 
+implicar una corrección de precios relativos y un fortalecimiento de las 
+finanzas públicas, estas medidas coadyuvarán a tener menor inflación 
+en el futuro.   
+3                                                                                       BANCO DE MÉXICO 
+Cuadro 1 
+Índice Nacional de Precios al Consumidor y Componentes 
+Variaciones anuales promedio por trimestre (por ciento) 
+Variación Anual
+Promedio por Incidencias 1/
+Trimestre
+Trim IV Trim I Trim IV Trim I
+Diferencia
+2009 2010 2009 2010
+(a) (b) (b-a)
+INPC 3.98        4.75        3.98        4.75        0.77       
+Subyacente 4.65        4.57        3.40        3.34        -0.06       
+Mercancías 6.04        5.46        2.13        1.94        -0.19       
+Alimentos 6.55        5.81        1.04        0.94        -0.11       
+Resto de Mercancías 5.62        5.17        1.08        1.00        -0.08       
+Servicios 3.35        3.72        1.27        1.40        0.13       
+Vivienda 2.61        2.78        0.44        0.47        0.03       
+Educación 4.13        4.15        0.26        0.26        0.00       
+Resto de Servicios 3.88        4.62        0.57        0.67        0.11       
+No  Subyacente 2.15        5.26        0.58        1.42        0.84       
+Agropecuarios 4.88        7.15        0.44        0.65        0.21       
+Frutas y Verduras 4.61        16.31        0.17        0.56        0.39       
+Cebolla -28.02        157.02        -0.06        0.18        0.25       
+Jitomate 7.12        38.83        0.04        0.14        0.10       
+Pecuarios 5.05        1.62        0.28        0.09        -0.19       
+Administrados y Concertados 0.76        4.29        0.14        0.76        0.63       
+Administrados -0.26        3.99        -0.02        0.37        0.39       
+Electricidad -0.30        6.46        -0.01        0.19        0.20       
+Gas doméstico -4.93        0.65        -0.13        0.02        0.14       
+Gasolina de Bajo Octanaje 3.06        4.32        0.10        0.14        0.04       
+Gasolina de Alto Octanaje 2.83        3.51        0.01        0.02        0.00       
+Concertados 1.87        4.61        0.16        0.40        0.24       
+Autobús Urbano 7.23        11.08        0.10        0.16        0.06       
+Metro o Transporte Eléctrico 0.56        42.74        0.00        0.04        0.04       
+Derechos por el Suministro de Agua 6.48        10.55        0.05        0.09        0.04        
+1/  La incidencia se refiere a la contribución en puntos porcentuales de cada componente del INPC a la inflación general. Esta se calcula utilizando los 
+ponderadores de cada subíndice, así como los precios relativos y sus respectivas variaciones. En ciertos casos, la suma de los componentes de algún 
+grupo de subíndices puede tener alguna discrepancia por efectos de redondeo. 
+2.  En los aumentos en los derechos y tarifas que determinan los gobiernos 
+locales, que se reflejan en el índice de precios concertados, destacaron 
+las alzas a las tarifas del Metro, autobús urbano y derechos por el 
+suministro de agua que tuvieron lugar en el Área Metropolitana de la 
+Ciudad de México.1 También, las tarifas del autobús urbano registraron 
+aumentos con una incidencia elevada sobre la inflación en Guadalajara, 
+Campeche y Veracruz (Gráfica 2b). 
+3.  En lo que corresponde a las alzas en los precios de las hortalizas, éstas 
+fueron inesperadamente elevadas en el caso del jitomate y la cebolla 
+(38.8 y 157.0 por ciento). Ello fue consecuencia de una contracción de 
+la oferta ante la ocurrencia de condiciones climáticas adversas que ya 
+han comenzado a revertirse (Gráfica 2c).  
+                                                 
+1   Las ponderaciones en el INPC del Metro, autobús urbano y derechos por suministro de agua son, 
+respectivamente,  0.13396, 1.31665 y 0.74243.   
+4                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+Gráfica 2 
+INPC y Grupos del Componente No Subyacente 
+Variación anual en por ciento 
+a) Administrados  b) Concertados  c) Frutas y Verduras 
+8 INPC 12 8 INPC 8 INPC 30
+Administrados
+Concertados Frutas y Verduras 25
+8
+6 20
+6 6
+15
+4
+4 10
+0 5
+4 4
+2 0
+-4
+-5
+2 Dic Dic Dic -8 0 Dic Dic Dic 2 Dic Dic Dic -10
+J S  D  M  J S  D  M  J S  D  M J S  D  M  J S  D  M  J S  D  M J S  D  M  J S  D  M  J S  D  M
+2007 2008 2009 2010 2007 2008 2009 2010 2007 2008 2009 2010
+   
+Fuente: Banco de México. 
+Por su parte, la inflación subyacente promedio anual disminuyó de 4.65 
+por ciento en el cuarto trimestre de 2009 a 4.57 por ciento en el primer trimestre 
+del  año  en  curso  (Cuadro  1).  Esta  reducción  fue  resultado  de  dos  efectos 
+contrapuestos: primero, una contribución a la baja del grupo de las mercancías 
+debido  tanto  a  menores  presiones  sobre  los  costos  de  producción  de  los 
+alimentos procesados (al disminuir los precios internacionales de los productos 
+primarios agrícolas durante el trimestre) como a la apreciación de la paridad 
+cambiaria; y, segundo, un impacto al alza en los precios de los bienes y servicios 
+derivado  de  las  medidas  tributarias,  al  parecer  sin  que  esto  haya  implicado 
+efectos de segundo orden en el proceso de formación de precios (Recuadro 1). 
+Lo anterior se reflejó en una contribución a la baja del subíndice de las 
+mercancías, cuyo efecto fue el dominante, y uno en sentido opuesto del subíndice 
+de los servicios. Respecto a este último, su tasa de variación promedio pasó de 
+3.35 a 3.72 por ciento del cuarto trimestre de 2009 al primero de 2010 (Cuadro 1). 
+Es pertinente señalar que este incremento fue influido en buena parte por el 
+cambio que tuvo el periodo vacacional de Semana Santa este año respecto al 
+anterior –lo que incidió en las cotizaciones de genéricos asociados al turismo–. 
+Además,  el  efecto  sobre  los  precios  de  diversos  servicios  asociado  con  el 
+aumento  de  1  punto  porcentual  del  Impuesto  al  Valor  Agregado,  se  vio 
+exacerbado por el impacto específico que tuvo en este subíndice la fijación del 
+Impuesto Especial sobre la Producción y Servicios de 3.0 por ciento sobre el 
+servicio de televisión por cable o satélite.        
+Indicadores complementarios de la inflación confirman que el repunte 
+que ésta exhibió durante el trimestre en cuestión se concentró en un número 
+relativamente  reducido  de  bienes  y  servicios.  Es  decir,  el  mayor  ritmo  de 
+crecimiento del INPC no ha sido reflejo de una aceleración generalizada de los 
+precios en la economía, sino más bien ha resultado de alzas elevadas de precios 
+de un grupo relativamente reducido de genéricos que pertenecen al componente 
+no subyacente del INPC.  
+5                                                                                       BANCO DE MÉXICO 
+  Recuadro 1 
+Evidencia sobre la Ausencia de Efectos de Segundo Orden e n el Proceso de Formación de Precios Asociados a las 
+Modificaciones Tributarias Aprobadas por  el H. Congreso de la Unión para 2010  
+ 
+En este recuadro se analiza la evolución de los precios de los  información sobre seguros de automóvil a la que se aplica la 
+específicos que forman parte del cálculo del Índice Nacional de  variación promedio de las primas a todos los específicos). Así, la 
+Precios al Consumidor (INPC).1 Ello con la finalidad de tratar de  base de datos en la que se sustenta el estudio representa, de 
+identificar posibles impactos de segundo orden en la formación  acuerdo a su ponderación, 68 por ciento de la canasta del INPC. 
+de  precios  asociados  con  las  modificaciones  tributarias  Es pertinente señalar que en la literatura especializada en el 
+aprobadas por el H. Congreso de la Unión para 2010.2 En  análisis de la frecuencia y magnitud de los cambios de precios 
+particular, se contrasta la frecuencia y magnitud de las alzas de  es  una  práctica  común  excluir  la  información  con  las 
+precios que se registraron durante el primer trimestre de 2010  características  señaladas.4  El  número  de  observaciones  de 
+con el promedio en el mismo trimestre entre 2003 y 2009. 3   precios que contiene la base de datos que se utiliza en el estudio 
+contiene poco más de 223,000 observaciones por mes.5  
+La evidencia que se analiza sugiere que, hasta el momento, no 
+se han presentado efectos de segundo orden en el proceso de  Al interior de la canasta de los genéricos analizados, el grupo 
+formación de precios. Ello en virtud de dos consideraciones:   con IVA e IEPS representa el 59.5 por ciento, mientras que el 
+grupo sin IVA ni IEPS incorpora al 40.5 por ciento restante. Este 
+i)  En el grupo de bienes y servicios que no están sujetos a la 
+último  grupo comprende  a  los  siguientes rubros:  alimentos, 
+tasa general del Impuesto al Valor Agregado o al Impuesto 
+medicinas, consulta médica y educación. 
+Especial sobre Producción y Servicios, IEPS, (grupo al que 
+se denominará sin IVA ni IEPS) se observa que las alzas  2.  Resultados  
+de precios que se presentaron en el primer trimestre de 
+2.1.  Frecuencia de Alzas de Precios  
+2010  fueron  de  una  frecuencia  y  magnitud  similar  al 
+promedio que se registró para el mismo trimestre en el  En el primer trimestre de 2010 el promedio de la frecuencia 
+periodo comprendido entre 2003 y 2009 (en el texto se  mensual de alzas de precios para la canasta total de bienes y 
+referirá a éste como periodo de referencia).  servicios que se analiza fue 19.6 por ciento. En contraste, en el 
+periodo de referencia la frecuencia promedio fue 15.1 por ciento 
+ii)  En el grupo de los bienes y servicios gravables con la tasa 
+(Gráfica 1). Este aumento se explica exclusivamente por el grupo 
+general del IVA, en el que se incluyen algunos que también 
+de bienes y servicios gravables con la tasa general del IVA e 
+están sujetos al IEPS (grupo que se denominará con IVA e 
+IEPS, ya que la frecuencia de alza en los precios del grupo sin 
+IEPS) la magnitud de los incrementos de precios fue menor 
+IVA ni IEPS incluso disminuyó, al pasar de 20.0 en el periodo de 
+en el trimestre más reciente con relación al periodo de 
+referencia, a 19.8 por ciento en el periodo enero-marzo de 2010.  
+referencia (esto, que parecería contraintuitivo, se debe a un 
+cambio en la composición de este grupo, lo que se detalla  Gráfica 1 
+en la Sección 2.2 de este recuadro). Por otra parte, aunque  Frecuencias de Cambio en Precios al Alza 
+la  frecuencia  de  revisión  de  precios  aumentó,  en  lo  Cifras en por ciento 
+fundamental esto ocurrió en enero de 2010, ya que en los 
+siguientes meses las frecuencias de las alzas de precios  25
+tienden a converger con las que se habían registrado en el  19.6 19.6 20.0 19.8
+periodo de referencia.     20
+15.1
+1.  Datos  15
+11.7
+Los datos que se utilizan en este análisis corresponden a los  10
+precios de los específicos que fueron cotizados por el Banco de 
+México para calcular el INPC desde junio de 2002 hasta marzo  5
+de 2010. La información utilizada en el estudio excluyó aquellas 
+cotizaciones  de  los  bienes  y  servicios  administrados  y  0
+concertados  debido  a  que  no  necesariamente  responden  a  Ene-Mar  Ene-Mar  Ene-Mar  Ene-Mar  Ene-Mar  Ene-Mar 
+condiciones  de  mercado,  así  como  a  datos  que  fueron  2003-2009 2010 2003-2009 2010 2003-2009 2010
+imputados, o que no se cotizan de manera directa (en particular,  Total  Con IVA e IEPS Sin IVA ni IEPS
+ 
+                                                 
+La mayor frecuencia de incremento de precios en el grupo de 
+1  Un específico es la unidad más básica de cotización de precios. Cada  bienes y servicios con IVA e IEPS se concentra en el primer mes 
+específico está definido de manera única, su tipificación incluye la  del trimestre. En particular, en enero de 2010 el 32.0 por ciento 
+ciudad y el establecimiento en donde se cotiza, el genérico al que  de los específicos aumentó su precio,  mientras que entre 2003 y  
+pertenece y la descripción detallada del bien o servicio que se está 
+cotizando.                                                   
+2  En el Addendum al Informe sobre la Inflación Julio-Septiembre 2009 se 
+presenta una descripción detallada de las referidas modificaciones 
+tributarias.   4   Véase por ejemplo: Álvarez, L. y Hernando, I., (2004), “Price Setting 
+3  La frecuencia de cambio de precios se define como el porcentaje de  Behaviour in Spain. Stylised Facts Using Consumer Price Micro Data”, 
+específicos  que  modificó  sus  precios  respecto  al  mes  anterior.  ECB Working Paper No. 416; Baumgartner J., Glatzer, E., Rumler, F. y 
+Asimismo, la frecuencia de incrementos  en precios se refiere  al  Stiglbauer, A., (2005), “How Frequently do Consumer Prices Change in 
+porcentaje de específicos que cotizaron al alza con respecto al periodo  Austria? Evidence from Micro CPI Data”, ECB Working Paper No. 523; 
+previo. Por su parte, la magnitud promedio de cambio considera  y, Gagnon, E., (2009), “Price Setting During Low and High Inflation: 
+únicamente aquellos específicos que modificaron sus precios, y se  Evidence from Mexico”, The Quarterly Journal of Economics, Vol. 124, 
+calcula como la tasa de crecimiento de las cotizaciones con respecto a  3, 1121-1263. 
+las observadas el mes previo. Tanto la frecuencia como la magnitud  5  Se excluyeron cotizaciones referentes a relojes, joyas y bisutería; renta 
+corresponden a un promedio ponderado, de acuerdo al peso de los  de  vivienda;  vivienda  propia;  seguro  de  automóvil;  hoteles;  y, 
+bienes y servicios que integran la canasta del INPC.  administrados y concertados. 
+ 
+6                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+ 
+ 2009 el promedio fue 12.0 por ciento. En los meses siguientes la  En suma, la evidencia que se presenta en este recuadro 
+ frecuencia de alzas de precios fue convergiendo a la del periodo  muestra que si bien las modificaciones fiscales (alza en IVA e 
+de referencia. Así, en marzo de 2010 la frecuencia fue 12.6 por  IEPS) tuvieron un impacto en las revisiones de los precios en la 
+ciento y el promedio del mismo mes de 2003 a 2009 fue 11.4 por  economía,  éste  se  limitó  al  grupo  de  bienes  y  servicios 
+ciento (Cuadro 1).   gravables con la tasa general del IVA y sujetos al IEPS. 
+Además, el efecto en el grupo referido ha sido de una sola vez, 
+Cuadro 1 
+ya  que  la  frecuencia  de  alzas  en  los  precios  ha  ido 
+Frecuencias de Incrementos en Precios 
+convergiendo con la experiencia histórica. Así, los resultados 
+Cifras en por ciento 
+apuntan a una ausencia de efectos de segundo orden en el 
+Enero Febrero Marzo proceso de formación de precios de la economía.  
+2003-09 2010 2003-09 2010 2003-09 2010
+Total 15.7 28.8 15.2 15.7 14.4 14.4 Gráfica 2 1/ 
+Con IVA e IEPS 12.0 32.0 11.8 14.1 11.4 12.6 Magnitudes de Cambio en Precios al Alza  
+Sin IVA ni IEPS 21.1 24.2 20.2 18.0 18.9 17.1   Cifras en por ciento 
+2.2  Magnitudes de Cambio en Precios al Alza   10 9.3
+8.6 8.4 8.5 8.7
+La magnitud de los aumentos de precios observados en el total  8 7.8
+de la canasta de bienes y servicios que se estudia durante el 
+primer trimestre de 2010 fue de 8.4 por ciento (en el periodo de  6
+referencia  fue  8.6  por  ciento).  Esta  caída  proviene,  en  lo 
+principal, del grupo con IVA e IEPS, cuya magnitud de alza  4
+disminuyó a 7.8 por ciento (en el periodo de referencia fue 8.5 
+2
+por ciento, Gráfica 2). La razón por la que disminuye la magnitud 
+de cambio en este grupo es la inclusión de específicos que  0
+usualmente revisan su precio en un trimestre distinto al primero,  Ene-Mzo Ene-Mzo Ene-Mzo Ene-Mzo Ene-Mzo Ene-Mzo
+por  lo  que  el  incremento  de  éstos,  en  lo  principal,  es  el  2003-2009 2010 2003-2009 2010 2003-2009 2010
+correspondiente al incremento de 1 punto porcentual que tuvo la  Total   Con IVA e IEPS Sin IVA ni IEPS
+tasa general del IVA y en los casos que corresponde el IEPS (en   
+ambos casos cifra menor a la magnitud promedio en el periodo  1/ Excluye variaciones de precios negativas y nulas. 
+de referencia).6  Cuadro 2 
+Magnitudes de Cambio de Precios al Alza: Grupo sin IVA ni 
+Por lo que toca al incremento en la magnitud de los aumentos de  IEPS Excluyendo Genéricos con Variaciones Extremas1/ 
+precios del grupo sin IVA ni IEPS, esto obedece principalmente a 
+Cifras en por ciento 
+las variaciones elevadas de un grupo muy reducido de productos 
+Ene - Mzo Ene - Mzo
+agropecuarios  (jitomate,  cebolla,  carne  molida  y  otras 
+2003-2009 2010
+legumbres) cuyo peso en el grupo sin IVA ni IEPS es de 4.8 por  Total 8.6 8.4
+ciento. La exclusión de los referidos alimentos en la estimación  Con IVA e IEPS 8.5 7.8
+de la magnitud promedio de las alzas de precios del grupo sin  Sin IVA ni IEPS (excluye jitomate, cebolla, carne  8.4 8.5
+IVA ni IEPS arroja cifras muy parecidas entre los dos periodos                               molida y  otras legumbres) 
+que se analizan (8.4 vs. 8.5 por ciento, Cuadro 2).   1/  Los genéricos excluidos representan 4.8 por ciento de la canasta del grupo sin 
+IVA ni IEPS.  
+ 
+ 
+6  Los bienes del INPC en los que se registró un incremento en la tasa del 
+IEPS fueron los siguientes (entre paréntesis se indica el incremento 
+que tuvo el impuesto): cerveza (1.5 puntos porcentuales), bebidas 
+alcohólicas de más de 20°GL (3 puntos), cigarrillos (4 centavos por 
+cigarrillo), servicio telefónico y servicio de televisión de paga (3 puntos 
+en ambos casos).   
+ 
+El  indicador  de  media  truncada  de  la  inflación  general  anual  en 
+promedio fue 4.00 por ciento durante el primer trimestre de 2010.2 Ello significó 
+un incremento de 0.22 puntos porcentuales con relación a la cifra correspondiente 
+al cuarto trimestre de 2009 (Gráfica 3a). Cabe recordar que el alza que tuvo la 
+inflación general anual en el mismo periodo fue de 0.77 puntos (pasó de 3.98 a 
+4.75 por ciento). Esto sugiere que la elevación de la inflación general obedeció, 
+en su mayor parte, a las variaciones extremas que se registraron en los precios 
+de un número limitado de bienes y servicios.  
+                                                 
+2    La media truncada es un indicador que elimina la contribución de las variaciones extremas en los 
+precios de algunos bienes y servicios a la inflación general. Para eliminar estas variaciones se realiza lo 
+siguiente: i) las variaciones mensuales desestacionalizadas de los bienes y servicios del índice de 
+precios se ordenan de mayor a menor; ii) se excluyen los bienes y servicios con mayor y menor 
+variación, considerando en cada cola de la distribución hasta el 10 por ciento de la canasta del índice de 
+precios, respectivamente; iii) con los bienes y servicios restantes, que por construcción se ubican en el 
+centro de la distribución, se calcula el indicador de media truncada. 
+7                                                                                       BANCO DE MÉXICO 
+En el caso de la media truncada del subíndice subyacente se registró 
+una variación pequeña durante el trimestre de referencia, al pasar de 4.07 por 
+ciento promedio en el cuarto trimestre de 2009 a 4.11 por ciento promedio en el 
+primer  trimestre  de  2010  (Gráfica  3b).  Esto  sugiere  que  la  evolución  de  la 
+inflación anual subyacente no se vio particularmente afectada por las variaciones 
+extremas en el precio de algunos bienes y servicios incluidos en este subíndice. 
+En efecto, la evolución de los precios de la mayoría de los genéricos de éste fue 
+congruente  con  una  tasa  de  variación  anual  que  se  mantuvo  relativamente 
+estable durante el primer trimestre del año.  
+Por  el  contrario,  el  indicador  de  media  truncada  de  la  inflación  no 
+subyacente  registró  un  aumento  significativo,  al  pasar  de  2.35  por  ciento 
+promedio en el cuarto trimestre del año pasado a 3.87 por ciento promedio en el 
+primero de 2010. Esto sugiere que el considerable aumento en la inflación no 
+subyacente, que como se indicó pasó de 2.15 a 5.26 por ciento en el mismo 
+lapso, fue reflejo de que los incrementos de precios de algunos de los genéricos 
+que pertenecen a este subíndice fueron importantes (Gráfica 3c). No obstante, la 
+magnitud del repunte del indicador truncado fue significativamente menor al de la 
+inflación no subyacente, lo que indica que al interior de este grupo un número 
+reducido  de  bienes  y  servicios  tuvieron  elevaciones  de  precios  extremas, 
+destacando  especialmente  los  casos  del  servicio  telefónico  local  y  de  los 
+derechos por suministro de agua que durante el periodo de análisis registraron 
+alzas considerables.   
+Gráfica 3 
+Inflación Anual e Indicadores de Inflación sin la Contribución de 
+Variaciones Extremas Superiores e Inferiores Truncadas al 10 por Ciento 
+Por ciento anual 
+a) Inflación General  b) Inflación Subyacente  c) Inflación No Subyacente 
+7.5 Inflación General Anual 7.5 Inflación Subyacente Anual 12.0 Inflación No Subyacente Anual
+7.0 Media Truncada a 10 Por Ciento 7.0 Media Truncada a 10 Por Ciento 11.0 Media Truncada a 10 Por Ciento
+6.5 6.5 10.0
+6.0 6.0 9.0
+5.5 5.5 8.0
+5.0 5.0
+7.0
+4.5 4.5
+6.0
+4.0 4.0
+5.0
+3.5 3.5
+4.0
+3.0 3.0
+2.5 2.5 3.0
+2.0 2.0 2.0
+1.5 1.5 1.0
+1.0 Dic 08 1.0 Dic 08 0.0 Dic 08
+J D J D J D J D J D J D J D J D J D J D J D J D J D J D J D J D J D J D J D J D J D
+2003 2004 2005 2006 2007 2008 2009   2003 2004 2005 2006 2007 2008 2009 2003 2004 2005 2006 2007 2008 2009  
+Fuente: Banco de México. 
+En suma, los bienes y servicios que registraron aumentos importantes 
+en  sus  precios  durante  el  primer  trimestre  del  año  se  concentraron, 
+principalmente, en el subíndice de precios no subyacente. Ello, sugiere que el 
+repunte  de  la  inflación  no  subyacente  no  se  ha  trasladado  al  proceso  de 
+formación de precios reflejado en el componente subyacente. 
+ 
+8                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+2.2.  Índice Nacional de Precios Productor  
+La tasa de crecimiento del Índice Nacional de Precios Productor sin 
+petróleo  (INPP)  tuvo  un  comportamiento  distinto  a  la  del  INPC,  al  disminuir 
+durante el periodo de  análisis. Esto se debió  en gran parte a dos factores: 
+primero, al efecto directo que tuvo la apreciación cambiaria sobre las cotizaciones 
+de los bienes de exportación; y, segundo, al hecho de que, a diferencia del INPC, 
+las cotizaciones del INPP excluyen al IVA y al IEPS, por lo que el incremento a la 
+tasa general del primero y los diversos ajustes al segundo no lo impactaron.3 En 
+particular, el INPP de mercancías y servicios finales, excluyendo petróleo, registró 
+una variación anual promedio de 3.29 por ciento (el trimestre previo esta cifra fue 
+3.38 por ciento, Gráfica 4). Como se detalla en el Recuadro 2, la información 
+contenida en el INPP es útil para predecir la inflación del INPC. En esta ocasión, 
+la evolución del INPP sugiere que no parece haber presión al alza sobre  del 
+INPC por esta vía. 
+Gráfica 4 
+Índice Nacional de Precios Productor, Excluyendo Petróleo 
+Variación anual en por ciento 
+16 INPP
+Demanda Interna
+12 Exportaciones
+8
+4
+0
+Dic Dic Dic
+-4
+M M  J  S  N  E  M M  J  S  N  E  M M  J  S  N  E  M
+2007 2008 2009 2010
+ 
+Fuente: Banco de México. 
+                                                 
+3   Únicamente en el caso de las cotizaciones del INPP del diesel y la gasolina se incluye el IEPS debido al 
+rezago con el que se publica esta información y su uso en la actualización de costos de la obra pública.  
+9                                                                                       BANCO DE MÉXICO 
+ 
+Recua dro 2 
+ 
+La Importancia de los Precios Productor en la Identificación de Presiones Inflacionarias 
+Introducción  Sin embargo, la experiencia internacional sugiere que la relación 
+entre los precios productor y los precios al consumidor no es tan 
+Es natural esperar que choques a los precios productor, al 
+cercana como las consideraciones anteriores parecen implicar. 
+transmitirse a lo largo de la cadena productiva, puedan tener 
+Por ejemplo, estudios empíricos para Estados Unidos (Clark, 
+cierto efecto sobre los precios al consumidor, en particular ante 
+1995; Blomberg y Harris, 1995) encuentran que el índice de 
+choques de oferta en las etapas iniciales del proceso productivo. 
+precios productor no presenta un contenido predictivo en la 
+Así, la información contenida en los precios productor puede ser 
+evolución futura de la inflación de precios al consumidor. Para 
+útil para identificar los choques de oferta a los que está expuesta 
+Canadá, Dion (1999) encuentra cierta evidencia de que los 
+la  economía  en  su  conjunto  y  de  esta  forma,  mejorar  las 
+precios productor para bienes energéticos pueden ser útiles para 
+predicciones que se realicen sobre la evolución futura de la 
+fines de monitoreo, aunque esta evidencia se desvanece al 
+inflación del Índice Nacional de Precios al Consumidor (INPC). 
+analizar otros índices de precios productor. 
+La  experiencia  reciente  del  Banco  de  México  al  identificar 
+La falta de evidencia robusta respecto a una relación causal 
+presiones inflacionarias utilizando el Índice Nacional de Precios 
+entre los precios productor y los precios al consumidor, aunada 
+Productor (INPP) parece apoyar las consideraciones anteriores. 
+al hecho de que la mayoría de los bancos centrales diseñan su 
+Como se muestra en la Gráfica 1a, tanto el INPP como el INPC 
+política monetaria con objetivos de inflación en términos de 
+parecen moverse conjuntamente a través del tiempo, lo que 
+alguna  medida  sobre  precios  al  consumidor,  ha  llevado  a 
+sugiere una posible relación de largo plazo entre ambas series. 
+algunos bancos centrales a subestimar la importancia de los 
+Por otra parte, la Gráfica 1b señala que en algunos de los 
+precios productor como un indicador relevante para identificar 
+episodios recientes en los que la trayectoria de la inflación del 
+presiones inflacionarias. Este argumento se refuerza mediante 
+INPC  cambió  de  curso,  el  INPP  parece  haber  otorgado 
+una  inspección  casual  a  las  publicaciones  de  24  bancos 
+advertencias tempranas sobre los puntos de inflexión en la 
+centrales durante el periodo 2007-2009, las cuales incluyen 
+dinámica inflacionaria. De ahí que el menor incremento en los 
+reportes  de  inflación,  comunicados,  y  minutas.  De  estas 
+precios productor en relación con el incremento en los precios al  publicaciones, 19 mencionan a los precios productor, pero sólo 6 
+consumidor en el primer trimestre de 2010, podría indicar que en 
+de éstas se refieren a los precios productor como indicadores de 
+fechas recientes se han atenuado las presiones inflacionarias  presiones inflacionarias.1 
+por el lado de los choques de oferta que afectan a los precios 
+productor.  1.  Consideraciones Metodológicas  Respecto  del  Impacto 
+del INPP al INPC. 
+Gráfica 1 
+INPP vs. INPC  Entre las limitaciones principales de los estudios internacionales 
+a) Nivel del INPC y del INPP  previos se destacan dos: la primera se refiere a la construcción y 
+Índice Ene-08=100  medición de los índices de precios, tanto productor como al 
+consumidor; la segunda se refiere a la metodología estadística 
+115
+INPC utilizada para estimar la relación causal entre los índices de 
+110
+INPP precios. Como se explicará más adelante, estas limitaciones 
+105
+pueden resolverse en el caso específico de México dada la 
+100
+forma con la que el INPP y el INPC se calculan periódicamente 
+95 por el Banco de México, así como por la metodología empírica 
+90 que se sigue para identificar las propiedades estadísticas y las 
+85 relaciones dinámicas de las series de tiempo del INPP e INPC. 
+80
+75 Con respecto a la medición de los índices de precios en análisis 
+previos,  es  preciso  mencionar  que,  en  muchos  países,  la 
+70
+canasta de bienes incluidos en los índices de precios productor y 
+65
+1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 precios  al  consumidor  difiere  significativamente  entre  sí, 
+200 200 200 200 200 200 200 200 200 200 200 200 200 200 200 200 200 200 201   dificultando una comparación sistemática entre estos. De hecho, 
+b) Inflación del INPC y del INPP  es común en la experiencia internacional que la canasta incluida 
+Variación anual en por ciento  en los índices de precios productor incluya sólo bienes de 
+producción,  mientras  que  índices  de  precios  al  consumidor 
+9
+INPC incluyen regularmente un conjunto amplio de bienes y servicios. 
+8 INPP
+La  dificultad  encontrada  en  otros  países  para  comparar  la 
+7 canasta de bienes y servicios incluidos en los índices de precios 
+productor y en los índices de precios al consumidor no se 
+6
+encuentra presente en nuestro país, dada la cobertura de bienes 
+5 y servicios en el cálculo mensual del INPP que realiza el Banco 
+de México. Si bien desde 1981 se inició el calculo del INPP, es a 
+4 partir de 1996 que se amplió la cobertura del INPP para incluir 
+3 todos  los  sectores  de  la  economía,  incluyendo  al  sector 
+                                                 
+2
+2001 2001 2002 2002 2003 2003 2004 2004 2005 2005 2006 2006 2007 2007 2008 2008 2009 2009 2010   1  ELossta bdaonsc oUsn cideonstr, alEels  iBnaspnecocc idoen adJoasp óinnc luyy e2n2  a blaa nRceosse rcvean Ftreadleesr alc oden  
+Fuente: Banco de México.  objetivos  de  inflación:  Australia,  Banco  Central  Europeo,  Brasil, 
+Canadá, Chile, Colombia, Corea del Sur, Filipinas, Hungría, Indonesia, 
+ 
+Inglaterra, Israel, Noruega, Nueva Zelanda, Perú, Polonia, Sudáfrica, 
+Suecia, Suiza, Tailandia, Turquía y República Checa.   
+10                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+servicios. Así, el rango de bienes y servicios incluidos en ambos    entre los niveles de los índices de precios. En caso de que ésta 
+índices es similar. En adición, la metodología empleada para    se  presente,  indicaría  que  estudios  previos  omiten  un 
+calcular ambos índices de precios ha sido homogénea desde  mecanismo  de  transmisión  relevante  para  el  análisis  de 
+1996, contemplando una cobertura geográfica nacional, con el  causalidad del INPP hacia el INPC. 
+fin de asegurar la representatividad territorial en la medición de 
+los precios en México.2  El resultado de este ejercicio señala que sí existe una relación 
+de largo plazo entre estos índices de precios y que el grado de 
+De acuerdo a la limitación metodológica en identificar la relación  relación entre los niveles del INPP y el INPC en México es de 
+causal entre el INPP y el INPC, cabe mencionar que la literatura  alrededor del 80%. Esta relación de equilibrio sugiere un posible 
+previa no ha otorgado la relevancia suficiente al papel que  nivel de traspaso de los precios productor hacia los precios al 
+juegan  las  propiedades  estadísticas  y  las  interacciones  consumidor que, aunque no es completo (i.e., 100%), podría 
+dinámicas de las series de tiempo de los precios productor y de  implicar un impacto considerable del INPP hacia el INPC. Este 
+los precios al consumidor. En particular, estudios previos no  escenario podría presentarse, por ejemplo, bajo un marco de 
+consideran la relación de equilibrio que puede existir entre estos  competencia monopolística de empresas con una estructura de 
+índices de precios, lo que puede ocasionar un sesgo en los  costos fijos considerables. 
+resultados encontrados. Además, se han enfocado en medir la 
+2.2 Causalidad Estadística  
+relación causal empleando exclusivamente las tasas de inflación, 
+tanto  de  los  precios  productor  como  de  los  precios  al  Dada la presencia de una relación de equilibrio entre las series 
+consumidor,  sin  considerar  que  también  puede  existir  una  de tiempo analizadas, se emplea un modelo de corrección de 
+relación causal entre el nivel del INPP y el nivel del INPC, la cual  errores  (MCE)  para  investigar  la  presencia  de  causalidad 
+de omitirse, podría ocasionar un sesgo en las conclusiones  estadística del INPP, tanto de su tasa de inflación como de su 
+encontradas.  nivel de precios, hacia la inflación del INPC. 
+2.  Evidencia Empírica para México  En general, el modelo estimado señala que un choque positivo 
+Para evaluar la causalidad del INPP hacia el INPC se utiliza un  al  nivel  de  precios  productor  incrementa  temporalmente  la 
+inflación del INPC hasta que la relación de equilibrio entre 
+modelo econométrico que permite identificar, tanto el efecto 
+ambos  índices  se  restablece;  este  mecanismo  se  corrige 
+sobre las tasas de inflación como sobre los niveles de precios 
+entre ambos índices. 3   alrededor de 7% cada mes, de manera que el efecto total sobre 
+la inflación del INPC se completa en aproximadamente un año. 
+Todas las estimaciones consideran el periodo de junio de 2000 a 
+Por otra parte, no parece existir influencia alguna de las tasas de 
+diciembre  de  2009,  una  sub-muestra  caracterizada  por  la 
+estacionariedad de ambas tasas de inflación, lo cual se infiere a  inflación del INPP sobre la inflación del INPC. Sin embargo, ésta 
+última parece responder temporalmente a choques de oferta que 
+partir de una prueba de cambios en persistencia. Esta evidencia 
+provocan un desequilibrio en la relación de los índices de 
+es consistente con los resultados para México que aparecen en 
+precios. De hecho, este mecanismo de ajuste parece ir en 
+Chiquiar et al. (2007) y en Capistrán y Ramos-Francia (2009), 
+dirección del INPP al INPC exclusivamente y no viceversa, lo 
+los cuales muestran un cambio en la persistencia de la inflación 
+que resalta la utilidad del INPP como indicador adelantado de 
+del INPC, de un régimen no estacionario a uno estacionario 
+alrededor del año 2000.4  presiones inflacionarias. 
+2.3 Mecanismo de Corrección 
+2.1 Relación de Equilibrio entre los Niveles de Precios 
+La Gráfica 2 presenta la evolución de la inflación anual del INPC 
+Como primer paso, se estima un modelo econométrico para 
+determinar si, en adición a la posible relación entre las tasas de  desde enero de 2001, junto con el impacto que han tenido sobre 
+ésta los desequilibrios en la relación de largo plazo entre el INPC 
+inflación del INPP y del INPC, existe una relación de equilibrio 
+y el INPP. De esta forma, valores positivos de éste denotan 
+                                                  presiones al alza sobre la inflación del INPC en el futuro ya que 
+dicha inflación tiene que incrementarse hasta que la relación de 
+2  No  obstante,  el  INPC  y  el  INPP  se  construyen  con  canastas,  largo plazo se restablezca. En el caso opuesto, cuando el 
+estructuras de ponderación y muestras de bienes y servicios distintas.  impacto es negativo, éste sugiere presiones a la baja sobre la 
+En particular, en el primer caso, la cotización se realiza con los  inflación  del  INPC  ya  que  el  nivel  del  INPC se  encuentra 
+minoristas en el punto de venta final, mientras que en el segundo, se  aumentando por encima de su relación de largo plazo con el 
+lleva  a  cabo  directamente  con  los  productores,  sin  considerar  INPP y, por tanto, la inflación del INPC se tiene que ajustar a la 
+impuestos y costos de transporte.  baja hasta alcanzar el punto de equilibrio nuevamente. 
+3  La metodología econométrica empleada para evaluar el contenido 
+predictivo del INPP sobre el INPC es la denominada prueba de  Gráfica 2 
+causalidad à la Granger (1969), la cual tiene como objetivo identificar si  Inflación del INPC y Relación de Largo Plazo entre INPP e 
+la información contenida en la evolución de los precios productor ayuda  INPC 
+a predecir el comportamiento futuro de los precios al consumidor. En 
+primer lugar, se prueba la existencia de una relación de equilibrio (i.e.,  9 Impacto de la Corrección 2.80
+cointegración) entre el INPP y el INPC a través de la metodología  8 del Error
+propuesta por Engle y Granger (1987). Para evaluar la presencia de  Inflación del INPC 2.00
+una posible causalidad estadística, tanto en el corto como en el largo  7 (Variación % Anual)
+plazo, se emplea un modelo de corrección de errores (MCE), el cual  6 1.20
+estima el traspaso y la velocidad de ajuste en los precios al consumidor 
+de un choque temporal a los precios productor. Para un análisis a  5 0.40
+detalle  de  la  metodología  aplicada  consultar  el  documento  de 
+4
+investigación del Banco de México “A Note on the Predictive Content of  -0.40
+PPI over CPI Inflation: The Case of Mexico” (Sidaoui et al., 2009).  3
+4  Se implementó la metodología desarrollada por Leybourne et al.  2 -1.20
+(2007), la cual permite estimar, de manera consistente, cambios en la 
+persistencia de una serie de tiempo. Los resultados de este ejercicio  1 -2.00
+indican que la tasa de inflación del INPC sigue un proceso estacionario  01 01 02 02 03 03 04 04 05 05 06 06 07 07 08 08 09 09 10
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+a partir de mayo de 2000, mientras que la tasa de inflación del INPP  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+sigue un proceso estacionario a partir de abril de 2000.  Fuente: Banco de México.   
+11                                                                                       BANCO DE MÉXICO 
+Esta evidencia sugiere una posible respuesta de largo plazo de    menor  incremento  del  INPP  en  relación  al  INPC,  como  el 
+los precios al consumidor ante choques a los precios productor,  observado durante el primer trimestre de 2010, sugiere, por esta 
+que implican ajustes temporales en la inflación del INPC hasta  vía, presiones a la baja sobre la inflación del INPC en el futuro. 
+que la relación de largo plazo se satisface nuevamente. 
+En este recuadro se ha mostrado la importancia que guardan los 
+De acuerdo al ejercicio de causalidad estadística realizado, la  precios productor en la identificación de presiones inflacionarias, 
+Gráfica 2 señala que en el primer trimestre de 2010 no parecen  ya que parece existir un canal de transmisión de los precios 
+haber existido presiones inflacionarias por el lado de los choques  productor hacia los precios al consumidor. Sin embargo, aunque 
+de costos que afectan a los precios productor, al ser negativo el  los  precios  productor  tengan  un  poder  predictivo  sobre  la 
+impacto del mecanismo de corrección del error sobre la inflación  evolución de los precios al consumidor, no es posible derivar de 
+del INPC.  éste una respuesta puntual de la política monetaria ante cambios 
+en la evolución de precios productor, ya que es preciso combinar 
+2.4  Habilidad del INPP para Pronosticar la Inflación del 
+esta  información  con  la  trayectoria  de  otros  indicadores 
+INPC 
+relevantes  de  presiones inflacionarias  y  con su  importancia 
+La evidencia que se presentó en la sección anterior sugiere la  relativa en la coyuntura económica. El enfoque aquí mostrado 
+posibilidad  de  utilizar  la  información  del  índice  de  precios  sólo indica que, dentro del conjunto de indicadores que pueden 
+productor para realizar pronósticos más precisos de la inflación  considerarse, el INPP parece ser una fuente de información 
+del INPC.  valiosa para identificar presiones inflacionarias, la cual parece 
+mejorar los pronósticos de inflación del INPC en horizontes de 
+Para calcular el poder predictivo marginal del INPP sobre la  mediano plazo. 
+inflación del INPC, se emplean dos modelos de pronóstico. El 
+primero es un modelo autoregresivo sencillo que sólo utiliza  Referencias 
+valores pasados de la inflación del INPC como predictores. El 
+Blomberg, S.B. y E.S. Harris (1995). “The Commodity-Consumer 
+segundo es un modelo que, además de incluir la información del 
+Price Connection: Fact or Fable?”. Federal Reserve Bank of New 
+primer modelo, toma en cuenta la inflación del INPP y sus  York Economic Policy Review, v. 1 n. 3. 
+rezagos, así como la relación de equilibrio entre los índices de 
+precios.  Capistrán, C. y M. Ramos-Francia. (2009). “Inflation Dynamics in 
+Latin America”. Contemporary Economic Policy, 27(3), 349-362. 
+Se realizó una evaluación de estos modelos para pronosticar la 
+inflación del INPC en 1, 4, 8 y 12 meses hacia delante. Los  Chiquiar, D., A.E. Noriega and M. Ramos-Francia (2007). “A 
+resultados indican que, para horizontes de corto plazo (menos  Time Series Approach to Test a Change in Inflation Persistence: 
+de  8  meses  hacia  adelante),  el  modelo  aumentado  por  la  The  Mexican  Experience”.  Documento  de  Investigación  del 
+información  contenida  en  el  INPP  tiene  el  mismo  poder  Banco de México 2007-01. Por aparecer en Applied Economics. 
+predictivo que el modelo autoregresivo simple. Sin embargo, el 
+Clark, T. (1995). “Do Producer Prices Lead Consumer Prices?”. 
+modelo aumentado por la información contenida en el INPP 
+genera pronósticos más precisos en horizontes mayores a 8  Federal Reserve Bank of Kansas City Economic Review (Tercer 
+Trimestre). 
+meses. En particular, para pronósticos 12 meses hacia delante 
+se  obtiene  una  ganancia  significativa  en  la  habilidad  de  Dion, R. (1999). “Indicator Models of Core Inflation for Canada”. 
+predicción de alrededor del 30% sobre el modelo autoregresivo  Documento de Investigación del Banco de Canadá 99-13. 
+sencillo.5 
+Leybourne, S., T. Kim y A.M. Taylor (2007). “Detecting Multiple 
+Conclusión  Changes in Persistence”. Studies in Nonlinear Dynamics and 
+Econometrics, 11(3), 1-32. 
+Los resultados sugieren que la información contenida en el INPP 
+es útil para predecir la inflación del INPC. En particular, esta  Engle, R.F. y C.W.J. Granger (1987). “Co-Integration and Error 
+relación de causalidad parece provenir de la respuesta de la  Correction:  Representation,  Estimation,  and  Testing”. 
+inflación del INPC ante choques a la relación de equilibrio entre  Econometrica, 55, 251-276. 
+los precios productor y los precios al consumidor. Ante un 
+choque positivo a los precios productor, la inflación del INPC  Granger,  C.W.J.  (1969).  “Investigating  Causal  Relations  by 
+aumenta temporalmente hasta que el nivel del INPC se ajusta a  Econometric  Methods  and  Cross  Spectral  Methods”. 
+la relación de equilibrio que guarda con el INPP. En cambio, un   Econometrica, 37, 424-438. 
+ 
+Sidaoui,  J.,  C.  Capistrán,  D.  Chiquiar  y  M.  Ramos-Francia 
+5  Para la evaluación de pronósticos se emplean pruebas estadísticas de  (2009). “A Note on the Predictive Content of PPI over CPI 
+habilidad predictiva, utilizando el error cuadrático medio (ECM) como  Inflation: The Case of Mexico”. Documento de Investigación del 
+criterio de evaluación de los modelos analizados. Para más información  Banco de México 2009-14. 
+sobre estas pruebas, consultar Sidaoui, et al. (2009). 
+ 
+2.3.  Salarios 
+Durante  el  periodo  que  se  analiza  las  remuneraciones  de  los 
+trabajadores  no  constituyeron  un  elemento  de  presión  en  los  costos  de  las 
+empresas. Así, durante el primer trimestre de 2010 el salario base de cotización 
+(SBC) al IMSS y los salarios contractuales tuvieron aumentos similares a los 
+observados en los periodos comparables anteriores. El SBC alcanzó una tasa de 
+crecimiento promedio anual de 2.9 por ciento en el primer trimestre de 2010, 
+mientras que durante el último trimestre del año previo dicha cifra se ubicó en 3.0 
+por ciento (Gráfica 5 y Cuadro 2). En el mismo periodo, el incremento promedio 
+12                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+de los salarios contractuales fue 4.5 por ciento (4.4 por ciento en el primer 
+trimestre del año anterior, Cuadro 2). 4 
+Gráfica 5 
+Salario Base de Cotización al IMSS1/  
+Variación anual en por ciento 
+7.0
+5.9
+6.0 5.7 5.7
+5.6
+5.3 5.2 5.3
+5.1
+4.9
+5.0
+4.6
+4.0
+4.0
+3.0 2.9
+3.0
+2.0
+I II III IV I II III IV I II III IV I
+2007 2008 2009 2010
+ 
+Fuente: Cálculos elaborados por el Banco de México con información del IMSS y del INEGI. 
+1/  Este indicador considera a los cotizantes afiliados al IMSS. Cobertura: 14.0  millones de cotizantes en promedio 
+durante los primeros tres meses de 2010, lo que corresponde al 34.4 por ciento del personal ocupado 
+remunerado total.  
+Cuadro 2 
+Principales Indicadores Salariales 
+Variación anual en por ciento 
+2009 2010
+Ene-Dic I II III  IV I
+Salario Base de Cotización al IMSS 4.2 5.3 4.6 4.0 3.0 2.9
+Sector Primario 3.7 5.0 4.0 3.5 2.3 2.1
+Sector Secundario 5.2 6.7 5.7 5.4 3.1 2.7
+Sector Terciario 3.7 4.5 4.0 3.3 3.1 3.2
+Salarios Contractuales Total  4.4 4.4 4.4 4.7 4.1 4.5
+Empresas Públicas 4.3 4.6 4.8 4.9 3.9 4.0
+Empresas Privadas 4.4 4.4 4.3 4.6 4.6 4.6  
+Fuente: Cálculos elaborados por el Banco de México con información del IMSS y de la Secretaría de Trabajo y Previsión Social. 
+                                                 
+4    El salario base de cotización (SBC) considera el sueldo diario que, en promedio, recibieron los 
+trabajadores afiliados al IMSS durante el lapso de tiempo indicado, así como algunas prestaciones (por 
+ejemplo: gratificaciones, prima vacacional y comisiones). Por su parte, los salarios contractuales 
+comprenden únicamente el incremento directo al tabulador que negocian los trabajadores de las 
+empresas de jurisdicción federal, mismos que estarán vigentes durante los siguientes doce meses. 
+Cabe señalar que la composición mensual de este último indicador se integra con la información de las 
+empresas que llevaron a cabo sus revisiones salariales usualmente en el mismo periodo del año, razón 
+por la que éste exhibe un patrón estacional. Debido a lo anterior, resulta conveniente realizar el análisis 
+del salario base de cotización comparando periodos de tiempo sucesivos, mientras que en el caso de 
+los salarios contractuales la comparación relevante es interanual.  
+   En lo que concierne al SBC, es pertinente señalar que esta estadística topa los salarios mayores en un 
+nivel equivalente a 25 salarios mínimos, por lo que no refleja exactamente la dinámica salarial de los 
+trabajadores cuyas percepciones rebasan el límite referido. Cabe mencionar que, en marzo de 2010, 1.7 
+por ciento de los cotizantes del IMSS recibieron un SBC mayor o igual a 25 salarios mínimos.  
+13                                                                                       BANCO DE MÉXICO 
+3.  Entorno Económico y Financiero Prevaleciente en el 
+Primer Trimestre de 2010 
+3.1.  Condiciones Externas 
+3.1.1.  Actividad Económica Mundial  
+El entorno internacional continúa caracterizándose por una reactivación 
+de la economía mundial, aunque a un ritmo desigual entre países. La mayoría de 
+las  economías  avanzadas  crecen  a  un  ritmo  moderado,  mientras  que  las 
+emergentes,  particularmente  las  asiáticas,  se  expanden  con  mayor  vigor.  La 
+recuperación  en  la  actividad  real  y  la  mayor  estabilidad  financiera  se  han 
+retroalimentado favorablemente, aunque el crédito bancario, particularmente en 
+algunos sectores de las economías avanzadas, ha seguido contrayéndose. 
+En las principales economías avanzadas la expansión de la actividad 
+económica continúa dependiendo de políticas macroeconómicas acomodaticias. 
+Su recuperación también se ha basado en un aumento en las exportaciones 
+netas y en una restitución de inventarios. Sin embargo, se prevé que la expansión 
+de la demanda interna continúe siendo moderada con respecto a los niveles 
+observados antes de la crisis. En particular, en los Estados Unidos, la zona del 
+euro  y  Japón  se  anticipa  que  el  gasto  privado  siga  limitado  por  el  elevado 
+desempleo, la necesidad de que el sector privado mejore sus balances y las 
+condiciones  todavía  restrictivas  de  otorgamiento  de  crédito  (Gráfica  6a).  Por 
+tanto, se espera que la brecha del producto tarde en cerrarse en esas economías. 
+El PIB de Estados Unidos aumentó 5.6 por ciento a tasa trimestral 
+anualizada durante el cuarto trimestre de 2009 (Gráfica 6b). Este incremento 
+reflejó un fuerte impulso del componente de inventarios, que contribuyó con casi 
+cuatro puntos porcentuales al crecimiento, un incremento en el gasto de las 
+empresas en equipo y software y, de manera más moderada, una recuperación 
+del consumo privado y de la inversión residencial. Por su parte, durante el primer 
+trimestre de 2010 la producción industrial continuó con la fuerte expansión que ha 
+venido mostrando desde la segunda mitad de 2009, apoyada por el repunte de 
+las exportaciones y, en menor medida, por el referido aumento del gasto en 
+inversión en equipo y software.5 No obstante, los bajos niveles de capacidad 
+utilizada, tanto en el sector industrial como en el de servicios, así como la elevada 
+tasa de desempleo, apuntan a que la economía de Estados Unidos operará en 
+condiciones de holgura durante cierto tiempo. 
+El gasto en consumo privado incrementó su ritmo de crecimiento en los 
+primeros  meses  de  2010  con  relación  a  la  expansión  observada  durante  la 
+segunda mitad de 2009, impulsado por un incremento en el ingreso salarial y un 
+aumento de la riqueza neta de los hogares. Aunque el consumo privado ha 
+contribuido con más de un punto porcentual en cada trimestre a partir del tercero 
+de 2009, su aportación al crecimiento continúa estando por debajo de su norma 
+histórica. 
+                                                 
+5   La producción industrial se expandió a una tasa trimestral anualizada de 7.8 por ciento en el primer 
+trimestre de 2010, comparado con 6.9 por ciento en el cuarto trimestre de 2009. 
+14                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+En cuanto a la inversión, el gasto en construcción no residencial siguió 
+mostrando signos de debilidad durante el primer trimestre de 2010, mientras que 
+la inversión en equipo y software continuó expandiéndose, aunque a un ritmo 
+más moderado que en el trimestre previo. Dentro de este último rubro destaca el 
+mayor dinamismo de la inversión en el sector de alta tecnología. El gasto en 
+bienes de capital apunta a que la recuperación de la inversión fija no residencial 
+continúe, debido a la mejor posición financiera de las empresas. Por otra parte, el 
+gasto en construcción residencial tendió a debilitarse en este periodo, después de 
+un repunte en la segunda mitad de 2009 atribuido al impulso temporal del crédito 
+fiscal para la adquisición de inmuebles.6  
+Gráfica 6 
+Actividad Económica en Principales Economías Avanzadas 
+Variación trimestral anualizada en por ciento; cifras con ajuste estacional 
+a) Consumo Privado y PIB en Economías del  b) EUA: Crecimiento del PIB y Producción 
+G31/  Industrial 
+6 10
+4
+5
+2
+0
+0
+-5
+-2
+-10
+-4
+PIB
+-15
+-6 Consumo
+-8 -20 PIB
+Producción Industrial
+-10 -25
+I  II III IV I  II III IV I  II III IV I  II III IV I  II III IV I  II III IV I  II III IV I  II III IV I 
+2006 2007 2008 2009 2006 2007 2008 2009 2010
+   
+Fuente: BEA, Eurostat, Cabinet Office y FMI.  Fuente: BEA y Federal Reserve.  
+1/ Ponderaciones basadas en paridades de poder de 
+compra. Incluye a EUA, Japón y zona del euro. 
+Las condiciones en el mercado laboral han empezado a mejorar. La 
+nómina no agrícola privada parece haberse estabilizado a principios de 2010 y 
+registró un incremento significativo en marzo, si bien se encuentra en un nivel 
+similar  al  que  tenía  en  1999.  Además,  la  tasa  de  desempleo  disminuyó 
+ligeramente en relación a sus todavía muy elevados niveles.  
+En otras economías avanzadas la recuperación siguió su curso a tasas 
+más modestas. La zona del euro tuvo un débil desempeño en el cuarto trimestre 
+de 2009, y las perspectivas para el primero de 2010 son de una recuperación 
+moderada, debido a que el proceso de desendeudamiento de varios sectores 
+continúa, y a que la baja utilización de la capacidad instalada siguió afectando el 
+gasto de inversión. En particular, la expansión del consumo interno en esta región 
+se ha rezagado en comparación con lo observado en los Estados Unidos y 
+                                                 
+6    El programa denominado “American Recovery and Reinvestment Act of 2009” otorgaba un crédito fiscal 
+por hasta 8,000 dólares a primeros compradores de casa habitación durante enero-noviembre de 2009. 
+En noviembre 6 de 2009, el programa se extendió para casas habitación adquiridas o bajo contrato 
+hasta el 30 de abril de 2010, y se amplió el programa otorgándose también un crédito por hasta 6,500 
+dólares a familias que, habiendo vivido en su actual residencia por al menos 5 años, deseasen 
+adquirirla.   
+15                                                                                       BANCO DE MÉXICO 
+Japón. En buena medida, ello se debe al mayor nivel de desempleo y a que 
+persisten problemas importantes en el sector bancario. La economía del Reino 
+Unido dejó de contraerse en el cuarto trimestre de 2009.  
+El PIB de Japón tuvo un fuerte crecimiento durante el último trimestre 
+de  2009,  impulsado  por  las  exportaciones  netas,  el  gasto  público  en 
+infraestructura y el gasto en consumo de bienes duraderos. Los indicadores 
+disponibles sugieren una ampliación del crecimiento hacia otros sectores en el 
+primer trimestre de 2010. Así, las cifras más recientes de actividad y las últimas 
+encuestas de negocios muestran una mayor actividad del sector de pequeños 
+negocios y una expansión del gasto de capital.  
+Las principales economías emergentes, en particular las asiáticas, han 
+encabezado el crecimiento mundial y, en algunos casos, su producción ya excede 
+los niveles previos a la crisis. Ello se debe principalmente a la recuperación del 
+comercio mundial, a la fuerte demanda por productos primarios y a la expansión 
+de la demanda interna. En algunos casos, la mejora en las condiciones crediticias 
+locales también ha contribuido a la reactivación. En especial, las economías de 
+China e India continuaron mostrando fuertes expansiones de sus economías, 
+habiendo registrado la producción industrial, en ambos casos, crecimientos a 
+tasas anuales de dos dígitos en el primer trimestre de 2010. En las principales 
+economías de América Latina, en los últimos tres meses de 2009, la actividad 
+económica registró tasas de crecimiento trimestrales anualizadas positivas. Los 
+indicadores de producción industrial muestran que la recuperación en la región 
+continuó en el primer trimestre de 2010. 
+3.1.2.  Precios de las Materias Primas 
+La tendencia ascendente que mostraron los precios de la mayoría de 
+los productos primarios a partir del segundo trimestre de 2009, relacionada con la 
+recuperación de las economías emergentes, continuó en el primer trimestre de 
+2010,  aunque  a  un  ritmo  más  moderado.  Lo  anterior  en  un  contexto  de 
+inventarios  relativamente  elevados.  No  obstante,  se  observaron  diferencias 
+importantes  entre  productos  (Gráfica  7).  Mientras  que  los  precios  de  los 
+energéticos y los metales de uso industrial continuaron aumentando durante el 
+primer trimestre de 2010 (3.4 y 5.4 por ciento del cierre de 2009 al 31 de marzo 
+de 2010, respectivamente), reflejando en buena medida la mayor confianza en la 
+recuperación de la economía mundial, los precios agrícolas se redujeron (16.9 
+por ciento durante el periodo referido).  
+Los pronósticos del FMI para los precios de los productos primarios 
+señalan incrementos en los próximos tres trimestres de 2010 para el petróleo y 
+los metales, aunque éstos todavía se situarían muy por debajo de los niveles 
+máximos  alcanzados  a  mediados  de  2008,  mientras  que  los  precios  de  los 
+alimentos,  bebidas  y  las  materias  primas  agrícolas  registrarían  caídas 
+moderadas.7 En este contexto, el escenario en torno a la incidencia de los precios 
+de los productos primarios sobre la inflación global es desigual, pero con riesgos 
+al alza debido al mayor efecto que tienen los energéticos sobre la inflación. 
+                                                 
+7    Ver Fondo Monetario Internacional, World Economic Outlook, Abril 2010. 
+16                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+Gráfica 7 
+Precios de Productos Primarios 
+Índice 31 de diciembre de 2002=100 
+a) Precio de Productos Primarios y  b) Precio de Productos Primarios No  c) Precio de Productos Primarios No 
+Petróleo  Energéticos, Agrícolas   Energéticos, Metales  
+500 350 No Energéticos No Energéticos
+450 TPoettarólleo AGgraríncoosla 450 Metales Preciosos
+300 Ganado 400 Metales Industriales
+400
+350
+350 250
+300
+300
+200
+250 250
+ 
+200 150 200
+150 150
+100
+100 100
+50 50 50
+03 04 05 06 07 08 09 10 03 04 05 06 07 08 09 10 03 04 05 06 07 08 09 10
+     
+Fuente: S&P GSCI.  Fuente: S&P GSCI.  Fuente: S&P GSCI. 
+3.1.3.  Tendencias Generales de la Inflación en el Exterior 
+La inflación al consumidor en las principales economías avanzadas se 
+mantuvo relativamente baja durante el primer trimestre de 2010, si bien resintió 
+en alguna medida el impacto de los aumentos de los precios de las materias 
+primas energéticas. La inflación subyacente continuó en niveles reducidos, ante 
+la debilidad de la actividad económica (Gráfica 8). En línea con lo anterior, las 
+expectativas inflacionarias se han mantenido relativamente estables en estos 
+países, dada la significativa capacidad ociosa y el elevado desempleo. 
+Gráfica 8 
+Inflación en Economías Avanzadas Seleccionadas 
+Variación anual en por ciento 
+a) General  b) Subyacente 
+Canadá Japón Canadá Japón
+4.0
+6.0 Estados Unidos Zona del Euro Estados Unidos Zona del Euro
+Reino Unido Reino Unido
+5.0 3.0
+4.0
+2.0
+3.0
+1.0
+2.0
+1.0 0.0
+0.0
+-1.0
+-1.0
+-2.0
+-2.0
+-3.0 -3.0
+EA  J O EA  J O EA  J O EA J O E E A J O E A J O E A J O E A J O E
+2006 2007 2008 2009 2010 2006 2007 2008 2009 2010
+   
+Fuente: Oficinas de estadísticas nacionales.  Fuente: Oficinas de estadísticas nacionales.  
+En Estados Unidos, la inflación general al consumidor disminuyó en el 
+primer trimestre, registrando en marzo 2.3 por ciento a tasa anual. Ante las 
+17                                                                                       BANCO DE MÉXICO 
+menores  presiones  inflacionarias,  la  holgura  en  su  economía  y  la  incipiente 
+recuperación del sistema financiero, el Banco de la Reserva Federal mantuvo su 
+objetivo para la tasa de referencia cercano a cero, y reiteró que lo mantendría en 
+ese nivel por un período prolongado. En la zona del euro, la inflación a tasa anual 
+mostró cierta aceleración en marzo, situándose en 1.4 por ciento, impulsada por 
+mayores  precios  del  petróleo.  Sin  embargo,  la  inflación  subyacente  continuó 
+mostrando debilidad al registrar en marzo una variación anual de 1.0 por ciento, 
+cerca de su nivel más bajo desde que existe el índice para dicha región. El Banco 
+Central Europeo mantuvo inalterada su tasa de política. En Japón, durante el 
+primer  trimestre  de  2010,  tanto  la  inflación  general  como  la  subyacente 
+continuaron ubicándose en terreno negativo por lo que el banco central mantuvo 
+sin cambio su tasa de política monetaria en 0.1 por ciento. 
+En diversos países emergentes, en los que el impacto de la crisis global 
+fue menor y donde inicialmente había menos holgura en sus economías, se 
+observó un aumento en la inflación en el primer trimestre de 2010, ante lo cual las 
+autoridades de algunos de ellos han comenzado a retirar las políticas de estímulo 
+monetario (Gráfica 9). En marzo, los precios al consumidor en China aumentaron 
+2.4 por ciento a tasa anual, luego de haber registrado tasas negativas durante la 
+mayor parte de 2009. En este entorno, si bien el Banco Central de China mantuvo 
+sin cambios su tasa de política, ha continuado esterilizando el exceso de liquidez 
+a través de operaciones de mercado abierto y aumentos en el encaje legal, así 
+como endureciendo las directrices crediticias.8, 9 En India, se acentuaron las 
+presiones inflacionarias al cierre del trimestre y los precios al mayoreo observaron 
+un alza de 9.9 por ciento a tasa anual, la más significativa desde octubre de 2008. 
+El Banco de la Reserva de India incrementó tanto sus tasas de referencia como el 
+encaje legal en marzo y abril.10 La inflación en Rusia continuó desacelerándose, 
+en el contexto de una fuerte caída en la actividad económica, por lo que su banco 
+central redujo su tasa de política. La inflación al consumidor en América Latina 
+(excluyendo Colombia), registró una ligera aceleración en el primer trimestre. Sin 
+embargo, los institutos centrales de la región mantuvieron sin cambio sus tasas 
+de política. 
+                                                 
+8   El  encaje  legal  para  bancos  grandes  se  incrementó  en  50  puntos  base  en  enero  y  febrero, 
+respectivamente, para situarse en 16.5 por ciento.  
+9    El Consejo Estatal anunció a mediados de abril una serie de medidas destinadas a moderar la 
+expansión del mercado hipotecario y el rápido aumento en los precios de las propiedades inmobiliarias. 
+Entre las principales medidas se encuentran: incrementos en los enganches y en la tasa de interés 
+mínima para la adquisición de casas habitación; suspensión de solicitudes de adquisición de una tercera 
+hipoteca en regiones con un elevado crecimiento de los precios de las propiedades inmobiliarias y para 
+compradores no residentes; y, límites discrecionales al número de casas que se pueden adquirir en 
+cierto periodo de tiempo. 
+10   La tasa de recompra de referencia y la tasa de recompra inversa aumentaron 25 puntos base tanto en 
+marzo como en abril, para ubicarse en 5.25 y 3.75 por ciento, respectivamente. Por su parte, el encaje 
+legal aumentó en cada unos de esos meses en 25 puntos base, llegando a 6.0 por ciento. 
+18                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+Gráfica 9 
+Inflación en Economías Emergentes Seleccionadas 
+Variación anual en por ciento 
+a) General  b) Subyacente 
+Brasil Rusia China Brasil Rusia China
+México Turquía India
+16.0 Sudáfrica 18.0 México Turquía Sudáfrica
+14.0 16.0
+12.0 14.0
+12.0
+10.0
+10.0
+8.0
+8.0
+6.0
+6.0
+4.0
+4.0
+2.0
+2.0
+0.0 0.0
+-2.0 -2.0
+-4.0 -4.0
+EA  J O EA  J O EA  J O EA J O E EA  J O EA  J O EA  J O EA J O E
+2006 2007 2008 2009 2010 2006 2007 2008 2009 2010
+   
+Fuente: Oficinas de estadísticas nacionales.  Fuente: Oficinas de estadísticas nacionales. 
+3.1.4.  Mercados Financieros Internacionales 
+A  nivel  global,  las  condiciones  financieras  externas  han  venido 
+mejorando,  aunque  el  acceso  al  crédito  todavía  no  se  ha  normalizado.  En 
+particular, contrasta el incremento en la emisión de valores con la debilidad del 
+crédito  bancario.  La  reactivación  de  este  último  al  sector  privado  será 
+fundamental para apoyar la consolidación de la recuperación de la economía 
+mundial. 
+En cuanto a los diversos programas de apoyo al sistema financiero, en 
+algunas de las principales economías avanzadas se ha continuado con su retiro 
+paulatino. El Banco de la Reserva Federal de Estados Unidos llevó a cabo el 
+cierre programado de las facilidades de acceso a liquidez, con la excepción de la 
+Facilidad de Financiamiento a Instrumentos a Plazo Respaldados por Activos 
+(TALF, por sus siglas en inglés).11  En Europa, el Banco Central Europeo realizó 
+su última operación de refinanciamiento a un plazo de 6 meses a finales del 
+primer  trimestre  de  2010.  Por  su  parte,  el  Banco  de  Inglaterra  decidió  no 
+incrementar su programa de compra de activos. Durante los primeros meses de 
+2010, la demanda de las instituciones financieras por las facilidades especiales 
+creadas  por  los  bancos  centrales  de  las  principales  economías  siguió 
+disminuyendo.  Por  ejemplo,  en  Estados  Unidos  continuó  la  decreciente 
+participación de las instituciones bancarias en las subastas de fondos  de la 
+Facilidad de Préstamos a Plazo (TAF, por sus siglas en inglés), misma que 
+finalizó el 8 de marzo de 2010.  
+En las principales economías avanzadas, los mercados esperan que se 
+mantengan las políticas monetarias acomodaticias por algún tiempo, debido a 
+que, por un lado, la actividad económica aún presenta niveles de exceso de 
+                                                 
+11  La Reserva Federal también concluyó a finales de marzo su programa de compras por 1,250 miles de 
+millones de dólares de valores respaldados por hipotecas de agencias gubernamentales y por cerca de 
+175 mil millones de dólares de deuda de estas agencias. 
+19                                                                                       BANCO DE MÉXICO 
+capacidad y, por el otro, las expectativas inflacionarias se han mantenido estables 
+en niveles reducidos. A esta expectativa contribuye el menor margen de maniobra 
+en las finanzas públicas de estos países. Esta postura de la política monetaria 
+está ayudando a la recuperación de la demanda interna y al saneamiento del 
+sistema financiero. En particular, el diferencial entre las tasas activas y pasivas, 
+así como a lo largo de la curva de rendimientos, han apoyado la capitalización de 
+los bancos.  
+En contraste, como se mencionó anteriormente, en algunas economías 
+emergentes las autoridades han comenzado a retirar los estímulos monetarios y 
+de apoyo al crédito como resultado del dinamismo de la recuperación. Debe 
+señalarse que el diferente ciclo de ajuste por el que atraviesan las políticas 
+monetarias de las principales economías avanzadas y emergentes pudiera influir 
+en las decisiones de política monetaria de estas últimas. 
+La  expectativa  de  que  los  diferenciales  de  las  tasas  de  interés  se 
+mantengan elevados (implícita en el párrafo anterior), aunada a la depreciación 
+esperada del dólar estadounidense, así como a las perspectivas de una continua 
+apreciación de los tipos de cambio y de un mayor crecimiento en las economías 
+emergentes, sigue reflejándose en importantes flujos de capitales hacia éstas, 
+exacerbados  por  las  operaciones  de  “acarreo”,  conocidas  en  los  mercados 
+financieros como de “carry trade” (Gráfica 10).12 En este entorno, las sobretasas 
+de deuda soberana (EMBI) tuvieron otra reducción importante, a pesar de los 
+episodios de aumento de la aversión al riesgo provocados por la crisis en Grecia 
+(Gráfica 11a y b). Asimismo, las bolsas de valores de los países emergentes 
+también registraron ganancias, si bien se observó cierta volatilidad durante el 
+trimestre (Gráfica 11c). 
+En efecto, la entrada de capitales a las economías emergentes se ha 
+traducido  en  un  incremento  importante  en  los  precios  de  los  activos 
+primordialmente financieros y en una apreciación de los tipos de cambio. Así, las 
+monedas de varios países emergentes tendieron a fortalecerse frente al dólar. En 
+particular, el peso mexicano estuvo entre las monedas que más se apreciaron, 6 
+por ciento durante el primer trimestre de 2010 (Gráfica 12). En este contexto, la 
+apreciación cambiaria ha contribuido a aminorar las presiones inflacionarias en 
+estas economías, propiciando asimismo condiciones monetarias menos laxas. 
+Sin embargo, dado que se considera probable que una parte de los flujos de 
+capital podría estar respondiendo a una renovada búsqueda por rendimientos en 
+los mercados internacionales de capitales, el aumento importante en los precios 
+de  los  activos  –que  en  el  corto  plazo  pudieran  inclusive  dar  pie  a  que  se 
+desarrollara  una  burbuja–  podría  revertirse  repentinamente  de  cambiar  las 
+condiciones en el exterior. Esta reversión podría ocurrir cuando las economías 
+avanzadas  comiencen  el  retiro  de  sus  estímulos  monetarios,  o  cuando  los 
+mercados perciban inminente el comienzo de dicho retiro. Derivado de lo anterior, 
+los  bancos  centrales  de  las  economías  emergentes  deberán  de  estar 
+particularmente vigilantes del entorno externo en los siguientes meses. Sobre 
+                                                 
+12   Las operaciones de “acarreo” (“carry trade”) consisten esencialmente en financiarse en una divisa a una 
+tasa de interés baja e invertir el importe en otra divisa cuya tasa de interés sea más alta. La utilidad que 
+se deriva de esta operación, surge de la apreciación relativa entre ambas divisas (apreciación de la 
+moneda en la que el inversionista se pone “largo” con respecto a la moneda con la que fondea la 
+operación, esto es, la moneda con respecto a la cual el inversionista se pone “corto”) y el diferencial en 
+tasas de interés. El principal riesgo asociado con estas operaciones es que el tipo de cambio se mueva 
+en sentido opuesto al esperado, de tal forma que se elimine la utilidad proporcionada por el diferencial 
+de tasas de interés. 
+20                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+todo, considerando que, si bien existe una baja probabilidad de que el retiro del 
+estímulo monetario en las economías avanzadas se dé en el corto plazo, siempre 
+hay incertidumbre respecto a cuándo empezará dicho retiro. También podría 
+generar  una  mayor  turbulencia  y  concomitantemente  una  mayor  aversión  al 
+riesgo, de profundizarse los problemas fiscales y de renovación de deuda que 
+enfrentan algunos países del Sur de Europa, como ha sucedido ya en Grecia. 
+Gráfica 10 
+Inversión en Mercados Emergentes 
+a) Fondos Dedicados a Economías Emergentes  b) Indicadores de Rendimiento de “Operaciones 
+(Acciones y Bonos)1/  de Acarreo” 
+En miles de millones de dólares   Índices  
+20 700 105 330
+Flujo (eje izq.) 2/
+Mar-09
+15 Saldo Total 600 100 310
+95 290
+10
+500
+90 270
+5
+400 85 250
+0
+300 80 230
+-5
+75 210
+200
+-10
+70 Barclays GEMS 190
+Asia 1/
+-15 100 65 DB Harvest (eje 170
+der.) 2/
+-20 0 60 150
+E M M J S N E M M J S N E M E A J O E A J O E A J O E A
+2008 2009 2010 2007 2008 2009 2010
+   
+Fuente: Emerging Portfolio Fund Research.  Fuente: Deutsche Bank y Barclays. 
+1/ La muestra cubre fondos utilizados para la compra- 1/ Base julio de 2001 = 100. Este índice reproduce una 
+venta de acciones y bonos de países emergentes,  estrategia de inversión en el mercado de dinero de 8 
+registrados en mercados de países avanzados.  países asiáticos, calculando el rendimiento en dólares de 
+2/ Los flujos excluyen el desempeño de la cartera y  inversiones en dichas monedas.  
+variaciones en el tipo de cambio.  2/  Base marzo de 1993 = 100. Este índice, que se construye 
+con monedas del G10, refleja el rendimiento de invertir en 
+monedas con tasas de interés altas y financiarse en 
+monedas con tasas de interés bajas. 
+Gráfica 11 
+Indicadores de Riesgo y Precios de Activos  
+a) Costo de Cobertura por  b) Márgenes de Riesgo Soberano  c) Mercados Accionarios 
+Incumplimiento de Pago  (EMBI)  Índice 01/01/2007=100 
+En puntos base  En puntos base 
+900 México Chile 1000 Global  160
+800 Portugal Irlanda 900 AEsuiraopa 140
+700 Grecia España 800 Latinoamérica 120
+700
+600
+600 100
+500
+500 80
+400
+400
+60
+300 300
+200 200 40 Emergentes
+100 100 20 Avanzados
+0 0 0
+E  A J O E  A J O E  A E A J O E A J O E A J O E M E A J O E A J O E A J O E A
+2008 2009 2010  2007 2008 2009 2010 2007 2008 2009 2010
+     
+Fuente: Bloomberg.  Fuente: Bloomberg.  Fuente: MSCI. 
+21                                                                                       BANCO DE MÉXICO 
+Gráfica 12 
+Tipos de Cambio de Monedas de Países Emergentes Frente al Dólar1/ 
+Índice 31/12/2007 = 100 
+170 Peso Mexicano
+Real Brasileño
+160
+Rublo Ruso
+150
+Lira Turca
+140 Won Coreano
+Peso Chileno
+130
+Rand Sudafricano
+120
+110
+100
+90
+80
+70
+E M M J S N E M M J S N E  M
+2008 2009 2010
+ 
+Fuente: Bloomberg. 
+1/ Un incremento del índice equivale a una depreciación frente al dólar. 
+3.2.  Evolución de la Economía Mexicana 
+3.2.1.  Actividad Económica 
+La crisis financiera global que se detonó a partir de los problemas en el 
+mercado  inmobiliario  estadounidense  se  tradujo  en  una  fuerte  caída  en  los 
+niveles  de  actividad  económica  y  de  comercio  mundial  y  en  una  marcada 
+astringencia en los mercados financieros. Esto propició que México enfrentara 
+una caída importante en sus ingresos por exportaciones y una fuerte restricción 
+de financiamiento externo, sobre todo a finales de 2008 y durante la primera 
+mitad de 2009. A esto se sumó un choque a los términos de intercambio, al 
+reducirse de manera importante el precio de la mezcla mexicana de petróleo de 
+exportación. Un agravante adicional fue la erupción de la epidemia causada por el 
+virus A(H1N1) hace exactamente un año.  
+El impacto de estos choques sobre la actividad económica, en particular 
+sobre el gasto doméstico, depende de varios elementos, entre otros, de si las 
+perturbaciones  se  perciben  como  permanentes  o  como  temporales.  En  este 
+contexto, es claro que una parte de los choques se revertirá relativamente rápido. 
+Por ejemplo, una parte del choque de demanda externa se tendería a revertir en 
+la  medida  en  la  que  la  economía  global  se  recupere.  Sin  embargo,  es  de 
+esperarse que otra parte de los choques tarde más tiempo en recuperarse. Este 
+es el caso, por ejemplo, de: i) el volumen y precio de nuestras exportaciones 
+petroleras, que se estima permanezcan por debajo de los niveles observados 
+antes de la crisis; ii) el menor flujo de remesas familiares, el cual podría continuar 
+siendo afectado por la lentitud con la que posiblemente se recupere el sector de 
+la construcción en Estados Unidos; iii) el menor dinamismo de la demanda por 
+nuestras exportaciones, dadas las perspectivas de que el consumo en Estados 
+Unidos crezca a un menor ritmo que el observado antes de la crisis; y, iv) la 
+dificultad para captar financiamiento del exterior, dada la mayor competencia por 
+recursos que podría darse en los siguientes años como consecuencia de la 
+22                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+situación fiscal que enfrentan las economías avanzadas. En suma, al compararse 
+con  la  situación  previa  a  la  crisis,  es  probable  que  hacia  el  futuro  las 
+perturbaciones que afectaron en su conjunto a la economía impliquen un menor 
+flujo de recursos para el financiamiento del gasto doméstico en los siguientes 
+años.  
+Por  supuesto,  ante  estas  condiciones,  una  respuesta  necesaria  de 
+política económica para llevar a cabo este proceso de forma ordenada y, por lo 
+tanto con menores costos, debe de ser el fortalecimiento de las finanzas públicas, 
+lo que efectivamente se llevó a cabo con el paquete fiscal para 2010. Por otro 
+lado, al enfrentar la economía una situación en donde es previsible un menor 
+dinamismo en los flujos de ingresos del exterior y una reducción en la tasa de 
+crecimiento del gasto doméstico, los precios relativos de la economía se ajustan, 
+incrementándose los precios de los bienes comerciables internacionalmente, en 
+términos  relativos  a  los  precios  de  los  insumos  domésticos  y  los  bienes  no 
+comerciables producidos internamente. Por supuesto, este cambio de precios 
+hace  más  atractiva  la  producción  de  los  bienes  que  son  comerciados 
+internacionalmente,  como  lo  son  las  manufacturas,  en  comparación  con  la 
+producción de bienes destinados exclusivamente al mercado interno. De este 
+modo, se induce una reasignación de los recursos productivos hacia sectores 
+como el manufacturero, por lo que la economía eventualmente ve incrementadas 
+sus exportaciones y su producción de este tipo de bienes. El proceso anterior, 
+describe cómo se ajusta el tipo de cambio real de una economía, al enfrentar ésta 
+el tipo de perturbaciones que México sufrió a la luz de la crisis (Gráfica 13).13 De 
+este modo, era de esperarse que la respuesta de la economía, especialmente 
+una vez que la demanda externa iniciara un proceso de recuperación, consistiera 
+en un restablecimiento más rápido de los niveles de actividad de los sectores 
+productores de manufacturas, que de los del resto de la economía. 
+En efecto, durante el primer trimestre de 2010 continuó observándose 
+una trayectoria positiva de las exportaciones manufactureras del país, lo cual ha 
+reflejado el mayor dinamismo de la economía mundial y, en particular, de la 
+producción industrial en Estados Unidos, junto con la depreciación en términos 
+reales que exhibió la moneda nacional a finales de 2008 y principios de 2009. 
+Esta evolución, a su vez, condujo a que la producción manufacturera mantuviera 
+una tendencia positiva durante el periodo que se reporta (Gráfica 14). 
+                                                 
+13  El índice de tipo de cambio real correspondiente a los 26 principales socios comerciales que se utiliza 
+en la Gráfica 13a incluye a Alemania, Argentina, Bélgica, Brasil, Canadá, Chile, China, Colombia, Corea 
+del Sur, Costa Rica, Ecuador, El Salvador, España, Estados Unidos, Francia, Guatemala, Holanda, 
+India, Italia, Japón, Panamá, Perú, Reino Unido, República Dominicana, Suiza y Venezuela. Estos 
+países fueron seleccionados por constituir los principales mercados de destino de las exportaciones 
+mexicanas, representando aproximadamente el 97 por ciento del valor total de las exportaciones. Por su 
+parte, el índice correspondiente a la canasta de competidores de México en el mercado de Estados 
+Unidos que se utiliza en la Gráfica 1b incluye a China, Corea del Sur, Filipinas, Hong Kong, Hungría, 
+Indonesia, Malasia, Polonia, Portugal, Tailandia y Turquía. 
+23                                                                                       BANCO DE MÉXICO 
+Gráfica 13 
+Índices del Tipo de Cambio Real1/ 
+Índice 2008=100 
+a) Principales Socios Comerciales  b) Principales Socios Comerciales y 
+Competidores 
+124
+124 26 Socios Comerciales 26 Socios Comerciales sin EUA
+120
+120 Bilateral México-EUA 116 Canasta de Competidores
+116 112
+112 108
+108 104
+100
+104
+96
+100
+92
+96
+88
+92 84
+88 80
+E A J OE A J OE A J OE A J OE A J O F E A J OE A J OE A J OE A J OE A J O F
+2005 2006 2007 2008 20092010 2005 2006 2007 2008 20092010
+   
+Fuente: Banco de México y FMI. 
+1/ Un aumento en el índice representa una depreciación de la moneda nacional en términos reales. 
+Gráfica 14 
+Exportaciones Manufactureras, Producción Industrial de Estados Unidos  
+e Indicadores de Actividad Económica 
+Índice 2008=100; datos desestacionalizados 
+a) Exportaciones Manufactureras y  b) Indicador Global de la Actividad Económica 
+Producción Industrial de Estados Unidos  y Producción Industrial  
+104 115 108
+102 110
+104
+100 105
+100
+98 100
+96
+96 95
+94 90 92
+IGAE
+92 85
+88
+Manufacturas
+90 80
+Servicios
+84
+88 Exportación Manufacturera 75 Otras Industrias 1/
+86 Prod. Ind. de Estados Unidos 70 80
+E A J O EA J OEA J O EA J O E M E A J O E A J O E A J O E A J OE F
+2006 2007 2008 2009 2010 2006 2007 2008 2009 2010  
+ 
+Fuente: Banco de México y la Reserva Federal de Estados  Fuente: INEGI. 
+Unidos.  1/ Incluye construcción, minería y electricidad, agua y suministro 
+de gas. 
+En contraste con la reactivación mostrada por la demanda externa, el 
+gasto doméstico ha registrado una recuperación más débil, manteniéndose en 
+niveles relativamente deprimidos. En efecto, si bien el consumo privado inició una 
+fase expansiva desde el segundo trimestre de 2009, su tasa de crecimiento 
+trimestral en los últimos tres trimestres de 2009 fue relativamente baja y, en 
+consecuencia, sus niveles siguen muy por debajo de los observados antes de la 
+24                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+crisis  (Gráfica  15a).  Por  su  parte,  los  indicadores  oportunos  relativos  a  la 
+inversión en la economía sugieren que ésta no ha mostrado una recuperación 
+significativa (Gráfica 15b). Como se verá más adelante esto último es resultado 
+de la disminución de la inversión llevada a cabo por el sector privado.  
+Con relación a lo anterior, es relevante considerar el papel que pudiese 
+estar  teniendo  el  crédito  en  la  evolución  de  la  demanda  agregada.  En  este 
+contexto, es difícil identificar la relación de causalidad que puede existir entre los 
+bajos niveles de crédito y la debilidad en la recuperación del gasto doméstico. Si 
+bien las condiciones de astringencia por el lado del crédito bancario (tema que se 
+discute  en  la  siguiente  sección)  podrían  estar  limitando  la  recuperación  de 
+algunos  rubros  del  gasto,  también  es  posible  que  la  baja  demanda  por 
+financiamiento,  derivada  del  desempeño  desfavorable  del  resto  de  los 
+determinantes  del  gasto  doméstico,  sea  lo  que  podría  estar  conduciendo  a 
+menores flujos de crédito (y, posiblemente, a presiones a la baja sobre las tasas 
+de interés). Por supuesto, un reto importante que enfrenta la economía en este 
+contexto  es  lograr  que  los  flujos  de  capital  externo  que  actualmente  está 
+recibiendo se canalicen preferentemente hacia proyectos productivos.  
+Gráfica 15 
+Indicadores de Gasto Doméstico 
+Datos desestacionalizados 
+a) Consumo Privado  b) Inversión Fija Bruta y sus Componentes 
+Millones de Pesos de 2003  Índice 2008=100; promedio móvil de tres 
+meses, excepto a partir de 2008 
+6,300,000 110
+6,200,000 105
+6,100,000 100
+95
+6,000,000
+90
+5,900,000
+85
+5,800,000
+80
+5,700,000
+75 Total
+5,600,000
+70 Construcción
+5,500,000 Maquinaria y Equipo Importado
+65
+Maquinaria y Equipo Nacional
+5,400,000 60
+I IIIIIIVI IIIIIIVI IIIIIIVI IIIIIIVI IIIIIIV EAJ OEAJ OEA JOEA JOEA J OE
+2005 2006 2007 2008 2009 2005 2006 2007 2008 2009 2010
+   
+Fuente: Sistema de Cuentas Nacionales de México, INEGI.  Fuente: INEGI. 
+La debilidad de la recuperación del gasto doméstico refleja el hecho de 
+que  el  desempeño  de  diversos  de  sus  determinantes  continúa  siendo 
+desfavorable (Gráfica 16). En particular, la masa salarial en el sector formal de la 
+economía se mantiene en niveles inferiores a los observados antes de la crisis. 
+Adicionalmente,  las  remesas  provenientes  de  mexicanos  en  el  exterior  han 
+mostrado sólo un cambio incipiente de tendencia en los últimos meses, mientras 
+que esto aún no se aprecia en financiamiento bancario, tanto a hogares como a 
+25                                                                                       BANCO DE MÉXICO 
+empresas.14  Finalmente,  los  niveles  de  confianza  de  los  consumidores 
+permanecen en niveles reducidos. 
+Gráfica 16 
+Masa Salarial, Remesas Familiares e Índice de Confianza del Consumidor 
+Datos desestacionalizados 
+a) Masa Salarial en el Sector  b) Remesas Familiares  c) Índice de Confianza del 
+Formal  Millones de dólares  Consumidor 
+Millones de pesos  Enero 2003=100 
+2,500 112
+2,500
+108
+2,400 2,300 104
+100
+2,300 2,100 96
+92
+2,200 1,900
+88
+2,100 1,700 Desestacionalizada 84
+Tendencia 80
+2,000 1,500 76
+EAJ OEAJ OEAJ OEAJOEAJOEAJOEM E A J OE A J OE A J O E A J OEM EAJOEAJOEAJOEAJOEAJOEM
+2004 2005 2006 2007 2008 2009 2010 2006 2007 2008 2009 2010 2005 2006 2007 2008 2009 2010
+ 
+Fuente: Elaborada por Banco de México con  Fuente: Banco de México.  Fuente: INEGI y Banco de México. 
+información del IMSS. 
+Reflejando los factores anteriores, la recuperación de diversos sectores 
+productores de bienes no comerciables ha sido relativamente lenta o, como es el 
+caso de la construcción, no ha iniciado. Esta debilidad contribuyó a que, en el 
+primer bimestre de 2010, la actividad productiva mostrara un desempeño menos 
+dinámico que el registrado en los últimos dos trimestres de 2009. En efecto, en 
+enero el IGAE presentó una contracción de 1.03 por ciento en relación al nivel del 
+mes previo, en términos ajustados por estacionalidad. Si bien esta contracción se 
+vio influida por una caída mensual de 4.05 por ciento en la producción del sector 
+primario, los sectores industrial y de servicios también mostraron disminuciones 
+mensuales  en  términos  desestacionalizados,  de  0.14  y  0.60  por  ciento, 
+respectivamente. Por su parte, en febrero el IGAE registró un repunte de 0.46 por 
+ciento mensual. Sin embargo, esto refleja en buena medida un restablecimiento 
+de mayores niveles de actividad en el sector primario (3.17 por ciento mensual) y 
+un aumento del industrial (0.59 por ciento mensual desestacionalizado), toda vez 
+que el sector servicios volvió a mostrar una caída mensual de 0.33 por ciento.   
+Dados estos resultados, es previsible que en el primer trimestre de 
+2010 el PIB desestacionalizado se mantenga en niveles similares o, incluso, 
+posiblemente inferiores a los observados el trimestre previo, lo cual contrasta con 
+las elevadas variaciones trimestrales observadas en los dos trimestres anteriores 
+(2.51 y 2.03 por ciento en el tercero y cuarto trimestres de 2009, respectivamente; 
+Gráfica 17a). En su serie original se estima que la variación del PIB en el primer 
+trimestre de 2010 se haya ubicado entre 3.5 y 4.5 por ciento. Es relevante 
+mencionar que ésta sería la primera variación anual positiva del PIB, después de 
+cinco trimestres consecutivos con contracciones (Gráfica 17b).  
+                                                 
+14   En particular, los ingresos por remesas familiares ascendieron a 1,950 millones de dólares en marzo de 
+2010, lo cual implica una disminución anual de 7.3 por ciento. 
+26                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+Finalmente, es relevante mencionar que, en los últimos meses, los tipos 
+de cambio de diversas economías emergentes se han apreciado como resultado 
+de fuertes entradas de capital. En el caso de México, este fenómeno ha revertido 
+parcialmente la depreciación real del peso que se observó a finales de 2008 y 
+principios de 2009. Por supuesto, de continuar la apreciación de la paridad real 
+como resultado de una mayor búsqueda de rendimientos a través de operaciones 
+como las de "acarreo", podría llegarse a dificultar el ajuste de precios relativos 
+que se describió al inicio de esta sección y, con ello, afectar el ritmo con el que se 
+ha venido reactivando la producción manufacturera del país. 
+Gráfica 17 
+Producto Interno Bruto 
+a) Variaciones trimestrales en por ciento  b) Variaciones anuales en por ciento 
+Datos desestacionalizados 
+4 8
+2
+4
+0
+0
+-2 
+-4 
+-4  Original
+Desestacionalizada
+-8 
+-6 
+-8  -12 
+I III I III I III I III I III I III Ie/ I III I III I III I III I III Ie/
+2004 2005 2006 2007 2008 20092010 2005 2006 2007 2008 2009 2010
+   
+Fuente: INEGI y desestacionalización al primer trimestre de 2010 efectuada por el Banco de México. 
+e/ Estimado. 
+3.2.2.  Ahorro Financiero y Financiamiento en el País 
+La  reducción  en  la  disponibilidad  de  recursos  financieros  que  se 
+observó a lo largo de los primeros tres trimestres de 2009 se detuvo en el cuarto. 
+Ello se debió al repunte en términos anuales del financiamiento proveniente de 
+las fuentes externas de recursos por un monto equivalente a 0.7 por ciento del 
+PIB.  Por  el  contrario,  los  flujos  provenientes  de  fuentes  internas,  aunque 
+positivos, continuaron disminuyendo en este periodo en términos del PIB, al 
+situarse  en  3.3  por  ciento  (Cuadro  3).  La  debilidad  de  las  fuentes  de 
+financiamiento interno y el mayor dinamismo de las fuentes de financiamiento 
+externo también se han observado en el primer bimestre de 2010 (Gráfica 18a). 
+Al respecto, la mayor disponibilidad de recursos provenientes del exterior se ha 
+dado en un entorno caracterizado por la recuperación económica mundial y por 
+una  clara  mejoría  de  los  sistemas  financieros  en  las  principales  economías 
+avanzadas, así como por tasas de interés excepcionalmente reducidas en estas 
+últimas. Todo ello ha conducido a la búsqueda de mayores rendimientos. 
+27                                                                                       BANCO DE MÉXICO 
+Cuadro 3 
+Fuentes y Usos de Recursos Financieros de la Economía 
+Porcentaje del PIB 
+Flujos Anuales Saldo 2009
+2007 IV 2008 IV 2009 I 2009 II 2009 III 2009 IV % PIB Est. %
+ Total de fuentes    4.6 6.2 5.2 4.3 3.9 4.0 78.3 100.0
+        Fuentes Internas 1/ 3.8 5.7 5.6 5.2 4.8 3.3 56.8 72.5
+        Fuentes Externas 2/ 0.8 0.4 -0.4 -1.0 -0.9 0.7 21.6 27.5
+ Total de usos    4.6 6.2 5.2 4.3 3.9 4.0 78.3 100.0
+        Sector Público 1.2 2.3 3.3 3.7 4.3 4.0 41.3 52.8
+        Sector Público (RFSP) 3/    1.1 2.1 3.1 3.4 3.8 3.2 39.1 49.9
+        Estados y Municipios 0.1 0.2 0.2 0.3 0.5 0.8 2.3 2.9
+        Reserva Internacional 4/    1.0 0.7 -0.6 -1.3 -0.9 0.5 10.0 12.8
+        Sector Privado    3.9 2.0 1.3 0.6 -0.4 0.0 32.1 41.0
+        Hogares 1.5 0.7 0.5 0.2 0.1 0.0 13.9 17.7
+                    Consumo    0.9 0.0 -0.3 -0.6 -0.6 -0.5 4.0 5.1
+                    Vivienda 5/    0.7 0.7 0.8 0.8 0.7 0.5 9.9 12.6
+        Empresas 2.3 1.3 0.8 0.4 -0.5 0.0 18.2 23.2
+                    Interno 6/ 1.7 1.3 1.1 0.7 0.3 0.4 10.8 13.8
+                    Externo    0.6 0.0 -0.3 -0.3 -0.8 -0.4 7.4 9.4
+        Otros Conceptos 7/ -1.4 1.2 1.2 1.2 0.8 -0.5 -5.1 -6.6  
+Fuente: Banco de México. 
+Nota: La suma de las partes puede no coincidir con el total debido al redondeo. Cifras expresadas en por ciento del PIB promedio de los últimos cuatro 
+trimestres. En la información de flujos (revalorizados) se elimina el efecto de las variaciones del tipo de cambio. 
+1/ Incluye el agregado monetario M4 en poder de Residentes. Los flujos revalorizados anuales de las Fuentes Internas excluyen de M4 el efecto de la reforma 
+a la Ley del ISSSTE. La información sobre el saldo de las Fuentes Internas incluye el efecto de esta reforma. 
+2/ Incluye el agregado monetario M4 en poder de No Residentes, el endeudamiento externo del Gobierno Federal, de organismos y empresas públicas y 
+PIDIREGAS externos, los pasivos externos de la banca comercial y el financiamiento al sector privado no financiero. 
+3/ Requerimientos Financieros del Sector Público (RFSP) y su saldo histórico (SHRFSP), reportados por la SHCP. Las cifras de los flujos revalorizados 
+excluyen el impacto de la reforma a la Ley del ISSSTE sobre los RFSP. La información del SHRFSP sí incluye el efecto de esta reforma sobre la deuda 
+pública. 
+4/ Según se define en la Ley del Banco de México. 
+5/ Cartera total de los intermediarios financieros, del Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit) y del Fondo de la Vivienda del 
+ISSSTE (Fovissste). Incluye programas de reestructura. 
+6/ Cartera total de los intermediarios financieros. Incluye programas de reestructura. 
+7/ Un flujo positivo (negativo) de este concepto constituye un uso (fuente) de recursos financieros. 
+Por el lado de los usos de los recursos financieros, 2009 se caracterizó 
+por  un  mayor  flujo  de  financiamiento  al  sector  público  y  a  los  Estados  y 
+Municipios, y por una reducción en las disponibilidades de recursos para el sector 
+privado no financiero, tanto externas como internas (Cuadro 3). En particular, el 
+mayor  financiamiento  externo  se  canalizó  principalmente  al  sector  público,  a 
+través del endeudamiento externo con organismos financieros internacionales, 
+así como por una creciente tenencia de valores gubernamentales por parte de no 
+residentes (Gráfica 18b). La mayor utilización de recursos financieros por parte 
+del sector público, medido por los Requerimientos Financieros del Sector Público 
+(RFSP), fue resultado del impacto de la contracción de la actividad económica 
+sobre los ingresos presupuestales, y de la aplicación de diversos programas de 
+estímulo a la economía en ese año. Por su parte, el financiamiento a Estados y 
+Municipios se incrementó a partir del segundo semestre de 2009, lo que permitió 
+compensar la reducción en sus ingresos por participaciones. Así, los recursos 
+utilizados  en  2009  para  cubrir  las  necesidades  de  financiamiento  del  sector 
+público, los Estados y Municipios y la acumulación de reservas internacionales 
+representaron 4.5 por ciento del PIB, con lo que su participación en el saldo total 
+de financiamiento en 2009 ascendió a 65.6 por ciento. Por el contrario, a lo largo 
+de todo el año anterior se observó una contracción del financiamiento externo al 
+sector privado (Cuadro 3), a pesar del importante crecimiento en la emisión de 
+28                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+bonos en el exterior por parte de las empresas domésticas a partir del último 
+trimestre de 2009 (Gráfica 18c).15 
+Gráfica 18 
+Ahorro Financiero y Financiamiento del Exterior 
+a) Ahorro Financiero Total1/  b) Ahorro Financiero de No  c) Emisión Externa de Empresas 
+Variación real anual en por ciento  Residentes y Tenencia de  Privadas No Financieras 
+Valores Gubernamentales  Flujos mensuales en millones de 
+Variación mensual en miles de  dólares 4/ 
+millones de pesos 
+180 No Residentes 18 50 600
+Residentes 2/
+16 40
+Total 2/ 400
+140 14 30
+12 20
+200
+100 10 10
+8 0 0
+60 6 -10
+-200
+4 -20
+20 2 -30 Ahorro Financiero No -400
+Residentes
+0 -40 Valores gubernamentales
+-50 No Residentes 3/ -600
+-20 -2
+E J E J E J E J E J E E J E J E J E J E J E E A J  O E A  J O E A  J  O E
+2005 2006 2007 2008 2009 2010   2005 2006 2007 2008 2009 2010 2007 2008 2009 2010 
+Fuente: Banco de México. 
+1/ Se define como el agregado monetario M4 menos el saldo de billetes y monedas en poder del público. 
+2/ Se excluye el impacto de la Ley del ISSSTE sobre este agregado. 
+3/ La tenencia de valores gubernamentales está expresada a valor nominal. Datos disponibles al 31 de marzo de 2010. 
+4/ Promedio móvil (6 meses) de los flujos mensuales desestacionalizados. 
+Durante  enero  y  febrero  de  2010  se  acentuó  la  contracción  del 
+financiamiento  interno  al  sector  privado  no  financiero,  principalmente  como 
+resultado de la debilidad del crédito bancario, tanto a los hogares como a las 
+empresas. Esta debilidad podría estar respondiendo a factores tanto de oferta 
+como de demanda: 
+a)  Respecto al financiamiento a las empresas, los factores de demanda 
+que podrían estar operando son, por un lado, la debilidad que todavía 
+muestra la inversión privada; por otro, en el caso de ciertas empresas 
+se  ha  observado  una  sustitución  del  crédito  bancario  por  mayor 
+financiamiento a través de emisión en el mercado externo e interno de 
+deuda, en la medida en que se han reducido los costos y se han 
+ampliado los plazos para este tipo de financiamiento, lo cual ha sido 
+posible gracias a que las condiciones financieras en los mercados se 
+han venido normalizando (Gráfica 19). Con relación a los factores de 
+oferta que podrían estar limitando la expansión del crédito bancario, la 
+banca  comercial  pudiera  estar  adoptando  una  postura  más 
+conservadora en las condiciones de otorgamiento de crédito, dada la 
+incertidumbre respecto a posibles cambios en el futuro en materia de 
+regulación del sistema financiero a nivel global. 
+                                                 
+15   Se ha incrementado tanto el número de empresas emisoras como el monto colocado. Mientras que en 
+el primer trimestre de 2009, dos empresas colocaron 215 millones de dólares, cifras preliminares al 
+primer trimestre de este año señalan que 10 empresas colocaron 7,028 millones de dólares. 
+29                                                                                       BANCO DE MÉXICO 
+Gráfica 19 
+Financiamiento Interno a las Empresas Privadas No Financieras y Emisión de Deuda Interna  
+a) Financiamiento Interno a las  b) Saldo de Valores de Empresas  c) Tasa de Interés de Valores de 
+Empresas Privadas No  Privadas No Financieras en el  Empresas Privadas No 
+Financieras  Mercado Interno  Financieras en el Mercado 
+Variación real anual en por ciento  Variación real anual en por ciento  Interno 
+Por ciento 
+40 Total 1/ 300 Total 80 14
+Crédito 1/ 2/ Mediano Plazo Ago-07 Sep-08
+Emisión Corto Plazo Mediano Plazo
+240 12
+30 60 Corto Plazo
+Ago-07
+180 10
+20 40
+120 8
+10 20
+60 6
+0 0
+0 4
+Sep-08
+-10 -60 -20 2
+F A F  A  F A F A F E      J E      J E      J E      E      J E      J E      J E     
+2006 2007 2008 2009 2010 2007 2008 2009 2010 2007 2008 2009 2010
+     
+Fuente: Banco de México. 
+1/ A partir de febrero de 2009, los datos se ven afectados por la reclasificación de créditos a PyMES de la cartera de crédito al consumo a la cartera de 
+crédito a las empresas. 
+2/ Incluye el crédito otorgado por la banca comercial, banca de desarrollo y otros intermediarios financieros no bancarios. 
+b)  Por el lado del financiamiento a los hogares, el crédito vigente de la 
+banca comercial al consumo continúa disminuyendo (Gráfica 20a). En 
+este sentido, la banca comercial ha decidido reducir la oferta de este 
+tipo de crédito, dados los elevados índices de morosidad que se han 
+observado en esta cartera (Gráfica 20b), así como por el cambio en la 
+regulación  sobre  las  provisiones  de  cartera  vencida  de  tarjetas  de 
+crédito, que entró en vigor en agosto de 2009, y que se ha reflejado en 
+mayores costos para el otorgamiento de este tipo de crédito. También 
+es importante señalar que la banca ha realizado esfuerzos importantes 
+por mejorar la calidad de su cartera de crédito. Ello a través de eliminar 
+la cartera con poca probabilidad de ser recuperada y reestructurar otros 
+créditos con problemas, así como por tener una mayor prudencia en el 
+otorgamiento de nuevos créditos. Claramente, en el corto plazo, estos 
+esfuerzos tienen un efecto negativo sobre el saldo de crédito. Por su 
+parte, el crédito bancario para la adquisición de vivienda, a pesar de 
+haber sufrido una fuerte desaceleración, continúa presentando tasas de 
+crecimiento reales anuales positivas (Gráfica 20a). La decisión de la 
+banca comercial de seguir expandiendo este tipo de crédito, aun en la 
+parte  más  baja  del  ciclo  económico,  podría  deberse,  entre  otros 
+factores, a la relativamente baja morosidad de la cartera de crédito a la 
+vivienda (Gráfica 20c).16 
+                                                 
+16   El Índice de Morosidad (IMOR) se define como la proporción que representa la cartera vencida de la 
+cartera total. No obstante, debido a que este índice se ve afectado por las decisiones de la banca sobre 
+la venta o los castigos de esta cartera, un indicador más preciso del grado de deterioro del cumplimiento 
+de las obligaciones de los deudores es el Índice de Morosidad Ajustado (IMORA). El IMORA se define 
+como el cociente de la suma de la cartera de crédito directa vencida más los castigos o pérdidas 
+reconocidas por los bancos en los doce meses previos, entre la suma de la cartera de crédito directa 
+total más los castigos o pérdidas antes mencionados (Véase el Reporte sobre el Sistema Financiero 
+2007, página 51 y Recuadro 21 y el Informe sobre la Inflación de Julio-Septiembre de 2008). 
+30                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+Gráfica 20 
+Crédito Vigente e Índices de Morosidad del Crédito de la Banca Comercial a los Hogares 
+a) Crédito Vigente de la Banca  b) Índice de Morosidad e Índice de  c) Índice de Morosidad e Índice de 
+Comercial a los Hogares  Morosidad Ajustado del Crédito  Morosidad Ajustado del Crédito a 
+Variación real anual en por ciento  al Consumo 1/ 2/  la Vivienda 2/ 
+Por ciento  Por ciento 
+90 25 12
+Consumo 1/ IMOR
+IMOR
+70 Vivienda 10 IMORA
+20 IMORA
+Hogares 1/
+50 8
+15
+30 6
+10
+10 4
+5
+-10 2
+-30 0 0
+F A F A F A F A F F A F A F A F A F F A F A F A F A F
+2006 2007 2008 2009 2010 2006 2007 2008 2009 2010 2006 2007 2008 2009 2010
+     
+Fuente: Banco de México. 
+1/ Las cifras a partir de marzo de 2008 incluyen el monto de la cartera de crédito al consumo de las Sofomes E.R. subsidiarias de la banca comercial. A 
+partir de febrero de 2009, los datos se ven afectados por la reclasificación de créditos a PyMES de la cartera de crédito al consumo a la cartera de crédito 
+a las empresas. 
+2/ El índice de morosidad (IMOR) se define como el cociente de la cartera de crédito vencida entre la cartera de crédito total.  El índice de morosidad 
+ajustado (IMORA) se define como el cociente de la suma de la cartera de crédito vencida más los castigos o pérdidas reconocidas por los bancos en los 
+doce meses previos entre la suma de la cartera de crédito total más los castigos o pérdidas antes mencionados. 
+Dada  la  dinámica  que  ha  caracterizado  a  los  mercados  de  fondos 
+prestables en los últimos trimestres, es importante hacer la siguiente reflexión. El 
+mayor financiamiento al sector público podría tener dos efectos: en primer lugar, 
+en la medida en que la contracción de crédito se deba a la falta de demanda por 
+parte del sector privado, el sector público podría estar apoyando la recuperación 
+del  crédito  al  complementar  dicha  demanda  (i.e.,  un  efecto  de 
+complementariedad o “crowding in”); sin embargo, conforme el gasto doméstico 
+se vaya recuperando, el mayor financiamiento al sector público podría, en algún 
+momento, llegar a limitar el otorgamiento de crédito al sector privado (i.e., un 
+efecto desplazamiento o “crowding out”). 
+31                                                                                       BANCO DE MÉXICO 
+4.  Determinantes de la Inflación 
+La inflación general anual aumentó durante el primer trimestre de 2010. 
+Ello fue consecuencia, como se ha comentado a lo largo de este Informe, de 
+perturbaciones  de  oferta  asociadas  a  cuatro  factores:  i)  las  modificaciones 
+tributarias aprobadas por el H. Congreso de la Unión para 2010; ii) la reanudación 
+de la política de deslices en los precios de los energéticos; iii) aumentos en 
+derechos  y  tarifas  que  determinan  los  gobiernos  locales  –destacando 
+especialmente las alzas decretadas en la Ciudad de México para las tarifas del 
+Metro y los derechos por suministro de agua–; y, iv) una exacerbada volatilidad 
+en las cotizaciones de las frutas y verduras ante la ocurrencia de condiciones 
+climáticas  desfavorables.  No  obstante,  se  considera  que  este  repunte 
+inflacionario es de carácter temporal y se revertirá con el desvanecimiento de los 
+choques señalados. Ello en virtud de que se estima que la mayor inflación no ha 
+tenido efectos de segundo orden sobre el proceso de formación de precios, a la 
+vez  que  ha  sucedido  en  un  entorno  económico  carente  de  presiones  de 
+demanda, y en el que la paridad cambiaria se ha apreciado.        
+De  la  discusión  llevada  a  cabo  en  las  secciones  anteriores  se 
+desprende que, si bien la demanda agregada total en México ha continuado 
+mostrando una recuperación en comparación con los bajos niveles observados 
+en la primera mitad de 2009, esta reactivación no ha sido generalizada. Lo 
+anterior se ilustra en la Gráfica 21. En primer lugar, a pesar del repunte que han 
+exhibido las exportaciones, éstas continúan ubicándose por debajo de los niveles 
+que registraron antes de que iniciara la fase recesiva de la economía global en 
+2008.  Segundo,  la  reactivación  de  la  demanda  doméstica  ha  sido  débil, 
+registrando aún niveles deprimidos. Esto último ha sido reflejo de la debilidad en 
+la recuperación del consumo privado y de la persistente tendencia negativa de la 
+inversión de dicho sector, ya que el consumo y la inversión del sector público han 
+exhibido una tendencia positiva durante el ciclo económico actual. Debido a estas 
+circunstancias, el gasto agregado total en la economía continúa por debajo del 
+nivel observado antes de la crisis global. 
+32                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+Gráfica 21 
+Demanda Agregada 
+Índices Tercer Trimestre de 2008=100; datos desestacionalizados 
+a) Demanda Agregada Total, Interna y Externa b) Componentes de la Demanda Doméstica 
+105
+120 Consumo Privado
+115 Consumo Público
+100
+Inversión Privada
+110
+Inversión Pública
+95 105
+100
+90
+95
+85 90
+Demanda Total
+85
+80 Demanda Interna
+80
+Demanda Externa
+75
+75
+I II III IV I II III IV I II III IV I II III IV
+I II III IV I II III IV I II III IV I II III IV
+2006 2007 2008 2009
+2006 2007 2008 2009  
+ 
+Fuente: INEGI. 
+Bajo dichas condiciones, se estima que la actividad productiva de la 
+economía permaneció por debajo de su nivel potencial durante el primer trimestre 
+del año, por lo que la brecha del producto aún se encuentra en terreno negativo 
+(Gráfica 22). Por su parte, como se mencionó en la sección previa, existen 
+factores tanto de oferta, como de demanda, que están provocando que continúe 
+observándose una tendencia negativa en el financiamiento al sector privado no 
+financiero. De hecho, la evolución reciente de los agregados monetarios, en 
+particular  de  M4,  muestra  que  México  se  encuentra  lejos  de  presentar  una 
+expansión del crédito que pudiera inducir un gasto por encima de la capacidad de 
+absorción de la economía (Gráfica 23). 
+Gráfica 22 
+Estimación de la Brecha del Producto1/ 
+Variaciones anuales en por ciento 
+6.0
+4.0
+2.0
+0.0
+-2.0
+-4.0
+Producto Interno Bruto
+-6.0 IGAE
+-8.0
+E J  E J  E J E J  E J  E J  E J  E J  E J  E J EF
+2000 2002 2004 2006 2008 2009 2010
+ 
+Fuente: Banco de México. 
+1/  Las estimaciones de la brecha se realizaron utilizando el método Hodrick-Prescott (HP) con corrección de colas; 
+ver Banco de México (2009), “Informe sobre la Inflación, Abril – Junio 2009”, pág. 74.  
+33                                                                                       BANCO DE MÉXICO 
+Gráfica 23 
+Financiamiento Interno al Sector Privado No Financiero y Agregados Monetarios 
+a) Financiamiento Interno al Sector Privado No  b) Agregados Monetarios 
+Financiero  Variación anual en por ciento 
+Variación real anual en por ciento 
+30 Total 1/ 35
+M2 4/
+Hogares 1/ 2/
+25 Empresas 3/ M4 4/ 30
+20
+25
+15
+20
+10
+5 15
+0 10
+-5
+5
+-10
+A F  A F A F  A F  0
+2006 2007 2008 2009 2000 2002 2004 2006 2008 2010
+   
+Fuente: Banco de México. 
+1/ Entre diciembre de 2007 y noviembre de 2008, las cifras se ajustan para no verse distorsionadas por la incorporación del 
+Fovissste. 
+2/ Las cifras a partir de marzo de 2008 incluyen el monto de la cartera de crédito al consumo de las Sofomes E.R. subsidiarias 
+de la banca comercial. A partir de febrero de 2009, los datos se ven afectados por la reclasificación de créditos a PyMES de 
+la cartera de crédito al consumo a la cartera de crédito a las empresas. 
+3/ A partir de febrero de 2009, los datos se ven afectados por la reclasificación de créditos a PyMES de la cartera de crédito al 
+consumo a la cartera de crédito a las empresas. 
+4/ Excluye el efecto de la instrumentación de la nueva Ley del ISSSTE. 
+Diversos indicadores sugieren que este entorno se ha traducido en una 
+ausencia de presiones de demanda sobre la utilización de insumos y las cuentas 
+externas del país: 
+a)  En lo que se refiere al mercado laboral, el número de trabajadores 
+asegurados en el IMSS permanece por debajo de lo observado antes 
+de la crisis (Gráfica 24a). Reflejando en parte lo anterior, las tasas de 
+desocupación y subocupación siguen ubicándose en niveles elevados 
+(Gráfica 24b). Asimismo, según los resultados de la Encuesta Mensual 
+de Coyuntura en el Sector Manufacturero realizada por el Banco de 
+México, dicha industria continúa sin enfrentar dificultades para contratar 
+mano de obra calificada (Gráfica 24c). Finalmente, cabe señalar que, en 
+términos del nivel de ingreso de los trabajadores, el crecimiento de la 
+ocupación que se ha observado en los últimos meses se ha tendido a 
+concentrar en empleos con niveles de remuneración menores a los de 
+los  empleos  que  se  han  perdido  en  virtud  de  la  recesión  que  se 
+presentó  el  año  anterior  (Gráfica  24d).  Todos  estos  indicadores 
+muestran que persiste lasitud en el mercado de trabajo, lo cual ha 
+contribuido a moderar los incrementos salariales. 
+b)  Por su parte, la utilización de la capacidad instalada en la industria 
+manufacturera que, como se vio anteriormente, es uno de los sectores 
+que han mostrado un mayor dinamismo, sigue siendo significativamente 
+inferior a lo observado antes del inicio de la crisis global (Gráfica 25). 
+Por supuesto, esto último podría también estar contribuyendo a que la 
+inversión privada todavía muestre una trayectoria decreciente. 
+34                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+c)   Finalmente, se estima que el déficit de la cuenta corriente se mantuvo 
+en  niveles  reducidos  durante  el  primer  trimestre  de  2010  (1.0  mil 
+millones de dólares, monto equivalente a 0.4 por ciento del PIB).  Este 
+resultado, en un contexto en el que la cuenta de capitales registró un 
+superávit holgado para su financiamiento, muestra que las cuentas 
+externas no se han constituido en una fuente de presiones sobre los 
+precios de los bienes comerciables a través del tipo de cambio real.  
+Gráfica 24 
+Indicadores del Mercado Laboral 
+a) Trabajadores Asegurados en el IMSS  b) Tasas de Desocupación y Subocupación 
+Millones de personas  Por ciento; datos desestacionalizados 
+14.5
+13
+Nacional
+Urbana
+14.3 11
+Subocupación
+9
+14.0 8.57
+7
+13.8 5.89
+5
+Original 4.85
+Desestacionalizada
+3
+13.5
+E A J O E A J O E A J O E M EAJOEAJOEAJOEAJOEAJOEM
+2005 2006 2007 2008 2009 2010
+2007 2008 2009 2010
+   
+Fuente: Elaborado por Banco de México con  Fuente: INEGI. 
+información del IMSS. 
+c) Indicadores de Escasez de Mano de Obra  d) Indicadores de Ocupación por Rangos de 
+Promedio móvil de dos meses de los balances Salario Mínimo 
+de respuestas  Segundo trimestre de 2008=100 
+¿Hay mayor dificultad para 
+112
+contratar mano de obra calificada 
+10 en las áreas de: ?
+108
+Producción
+Administración y Ventas
+0 104
+100
+-10 
+96
+Hasta 1 Salario 92
+-20 
+1 a 2 Salarios
+2 a 3 Salarios 88
+Más de 3 Salarios
+-30  Sin Ingresos
+84
+SMS MSMS MSMS MSMS MSMDM II III IV I II III IV
+2000 2002 2004 2006 2008 2010 2008 2009
+   
+Fuente: Banco de México.  Fuente: INEGI. 
+35                                                                                       BANCO DE MÉXICO 
+Gráfica 25 
+Uso de la Capacidad Instalada: Sector Manufacturero 
+Por ciento 
+78
+Original
+Desestacionalizada
+74
+8
+0.
+7
+70
+66
+62
+E A J O E A J O E A J O E A J O E
+2006 2007 2008 2009 2010
+ 
+Fuente: Banco de México. 
+Es pertinente señalar, como ya se mencionó anteriormente, que en los 
+últimos meses el tipo de cambio nominal ha mostrado una rápida apreciación. 
+Ello ha contrarrestado parcialmente el efecto sobre la inflación de otros choques 
+que han afectado su trayectoria.  
+En conclusión, la ausencia de presiones sobre la utilización de los 
+factores  productivos  y,  por  ende,  sobre  sus  precios,  sugiere  que,  en  las 
+condiciones actuales, la economía no se encuentra enfrentando presiones de 
+demanda  que  pudiesen  estar  afectando  desfavorablemente  a  la  inflación.  El 
+comportamiento del tipo de cambio también ha contrarrestado otras presiones 
+inflacionarias. Sin embargo, es de reconocerse que, a pesar de ello, la inercia que 
+ha caracterizado a la inflación en el país, en combinación con los choques de 
+oferta que la afectaron este año provenientes de la elevación de impuestos y de 
+los precios y tarifas del sector público, la han situado en niveles por arriba de la 
+meta de 3  por ciento,  y han dificultado que se observe una reducción más 
+acelerada de la misma.   
+36                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+5.  La Política Monetaria durante el Primer Trimestre de 
+2010 
+La Junta de Gobierno del Banco de México decidió mantener el objetivo 
+para la Tasa de Interés Interbancaria a un día en un nivel de 4.5 por ciento 
+durante los meses de enero, febrero, marzo y abril del presente año, nivel al que 
+el referido instrumento ha permanecido desde el 17 de julio de 2009 (Gráfica 26). 
+Gráfica 26 
+Tasa de Interés Interbancaria a 1 día1/ 
+Por ciento anual 
+11
+10
+9
+8
+7
+6
+5
+4
+3
+D M J S D M J S D M J S D M J S D M J S D M J S D M J S D M
+2003 2004 2005 2006 2007 2008 2009
+ 
+1/ A partir del 21 de enero de 2008 se muestra el objetivo para la Tasa de Interés Interbancaria a 1 día. 
+La Junta de Gobierno del Banco de México ha basado sus decisiones 
+de política monetaria en los últimos meses en los siguientes elementos: 
+1.  El incremento observado en la inflación general anual durante el primer 
+trimestre, a pesar del aumento inesperado en los precios de algunas 
+hortalizas, se mantuvo en línea con la previsión del Instituto Central. 
+Ello se debe, en gran parte, a que los aumentos de precios asociados a 
+los cambios en materia impositiva y a la política de precios y tarifas del 
+sector público, han sido congruentes con lo que el Banco de México 
+había  previsto,  y  no  han  contaminado  el  proceso  de  formación  de 
+precios en el resto de la economía. 
+2.  A pesar de la recuperación en curso no se han detectado presiones 
+sobre los precios por el lado de la demanda agregada. 
+3.  Las expectativas de inflación han permanecido relativamente estables, 
+aunque se mantienen por arriba de 3 por ciento. En lo que se refiere a 
+las correspondientes al promedio del cuarto trimestre de 2010, en la 
+encuesta recabada por el Banco de México en marzo del presente año, 
+éste se ubicó en 5.33 por ciento.17 Dicho nivel es ligeramente superior 
+                                                 
+17   La expectativa de inflación anual para el promedio del cuarto trimestre de 2010 se calcula con base en 
+las expectativas de inflación mensual reportadas para cada uno de los siguientes doce meses. En el 
+37                                                                                       BANCO DE MÉXICO 
+al intervalo de 4.75–5.25 por ciento previsto por el Instituto Central para 
+la inflación promedio en el cuarto trimestre de 2010. Por su parte, el 
+promedio de las expectativas correspondientes al cierre de 2011 se 
+mantuvo alrededor de 3.9 por ciento durante el trimestre (Gráfica 27a). 
+Ello  refleja  que  los  analistas  económicos  anticipan  que  la  inflación 
+retomará  una  senda  descendente  el  próximo  año,  si  bien  dicha 
+expectativa  se  encuentra  por  arriba  de  las  previsiones  del  Instituto 
+Central para la inflación promedio trimestral para el cuarto trimestre de 
+ese año.18  
+En cuanto a las expectativas de inflación para horizontes de mayor 
+plazo, la media reportada en la encuesta del Banco de México para el 
+promedio de los siguientes 4 años se ha mantenido alrededor de 3.7 
+por ciento en los últimos meses, mientras que la correspondiente al 
+promedio de los siguientes 5 a 8 años ha permanecido cerca de 3.5 por 
+ciento (Gráfica 27b).19 
+Gráfica 27 
+Expectativas de Inflación General Anual y Compensación  
+por Inflación y Riesgo Inflacionario en Bonos de Largo Plazo 
+Por ciento anual 
+a) Expectativas de Inflación  b) Expectativas de Inflación  c) Compensación por Inflación y 
+General Anual  General Anual  Riesgo Inflacionario en Bonos 
+  de Largo Plazo 1/ 
+5.50 Cierre 2010 5.50 Promedio Próximos 4 Años 5.50 Compensación Implícita en
+Bonos a 10 Años
+5.25 5.25 Promedio Próximos 5-8 años 5.25 Media Móvil 20 Días
+5.00 Cierre 2011 5.00 5.00
+4.75 4.75 4.75
+4.50 4.50 4.50
+4.25 4.25 4.25
+4.00 4.00 4.00
+3.75 3.75 3.75
+3.50 3.50 3.50
+3.25 3.25 3.25
+3.00 Dic 08 Dic 09 3.00 Dic 08 Dic 09 3.00 Dic 08 Dic 09
+D M J S D M J S D M D J D J D J D J D J D D J D J D J D J D J D
+  2008   2009   2005   2006   2007   2008  2009   2005   2006   2007   2008   2009
+   
+Fuente: Encuesta del Banco de México.  Fuente: Encuesta del Banco de México.   Fuente: Estimación de Banco de México con datos 
+de Bloomberg. 
+1/ La  compensación  por  inflación  y  riesgo 
+inflacionario implícita en bonos a 10 años se 
+calcula con base en los datos de tasas de 
+interés nominal y real del mercado secundario. 
+De  forma  complementaria  a  la  información  proveniente  de  las 
+encuestas, el indicador de compensación por inflación (expectativas de 
+inflación más una prima por riesgo), que se obtiene de la diferencia 
+entre el rendimiento nominal del bono a 10 años y el rendimiento real 
+asociado  a  los  instrumentos  de  deuda  indexados  del  mismo  plazo 
+(Udibonos), muestra que después de haber alcanzado niveles cercanos 
+________________________ 
+caso de la encuesta de Infosel del 23 de abril, el promedio para el cuarto trimestre de 2010 se ubicó en 
+4.98 por ciento. 
+18   El promedio de las expectativas de inflación reportado en la encuesta de Infosel del 23 de abril para el 
+cierre de 2011 se ubicó en 3.91 por ciento. 
+19  En la encuesta de Infosel del 23 de abril se reportó una media de 3.58 por ciento para las expectativas 
+de inflación promedio durante los siguientes 4 años y de 3.38 por ciento para el promedio de 5 a 8 años. 
+38                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+a 4.5 por ciento hacia finales del año pasado, en los últimos meses 
+registró una reducción hasta alcanzar niveles alrededor de 4 por ciento 
+en los últimos días (Gráfica 27c).20  
+4.  Las  remuneraciones  de  los  trabajadores  continuaron  presentando 
+incrementos moderados durante los últimos meses. Ello ha contribuido 
+a que los costos de las empresas no se hayan visto afectados de 
+manera importante por este factor y, por consiguiente, a que no se 
+hayan constituido como una fuente de presiones inflacionarias. 
+5.  La apreciación del tipo de cambio ha contribuido a mitigar posibles 
+presiones de precios sobre bienes comerciables y sobre los costos de 
+aquéllos bienes y servicios que utilizan insumos importados. 
+Estos elementos se han visto reflejados en la evolución de la curva de 
+rendimientos  en  los  últimos  meses.  Por  una  parte,  ante  la  ausencia  de 
+variaciones en la tasa de interés de referencia, la parte corta de la curva no ha 
+presentado cambios importantes. En particular, las tasas de interés a 3 meses se 
+han  mantenido  alrededor  de  4.60  por  ciento.  Por  otra,  la  parte  larga  ha 
+presentado una disminución de finales de diciembre de 2009 a la fecha. Así, el 
+rendimiento del bono gubernamental a 30 años ha registrado una disminución de 
+niveles cercanos a 8.7 por ciento a finales del año pasado, a niveles de alrededor 
+de 8.10 por ciento en los últimos días, dando lugar con ello a un aplanamiento de 
+la curva de rendimientos (Gráfica 28).21 
+Gráfica 28 
+Tasas de Interés en México 
+Por ciento anual 
+a) Tasas de Interés1/  b) Curva de Rendimientos 
+12.0 9.0
+11.5 1 Día 31 Dic 8.5
+3 Meses
+11.0
+10.5 2 Años 8.0
+30 Años
+10.0 7.5
+9.5
+7.0
+9.0
+8.5 6.5
+8.0
+6.0
+7.5
+7.0 5.5
+6.5 5.0 31-Dic-09
+6.0
+5.5 4.5 27-Abr-10
+5.0 4.0
+4.5
+1 1 3 6 1 2 5 10 20 30
+4.0
+E A J O E A J O E A J O E A día meses   años
+    2007   2008   2009   2010
+   
+1/  A partir del 21 de enero de 2008, la tasa de interés a 1   
+día corresponde al objetivo para la Tasa de Interés 
+ 
+Interbancaria a 1 día.
+                                                 
+20   Como se ha señalado en informes anteriores, este tipo de indicadores deben interpretarse con cautela 
+dada la volatilidad que es común observar en el comportamiento de los mismos. 
+21   La pendiente de la curva (definida como el diferencial entre el bono de 30 años y el correspondiente a 3 
+meses) se ha reducido de aproximadamente 410 puntos base a finales del año pasado, a 350 puntos 
+base en los últimos días. 
+39                                                                                       BANCO DE MÉXICO 
+En suma, el aplanamiento de la curva de rendimientos está reflejando: i) 
+el anclaje de las expectativas de inflación de largo plazo, en un contexto de 
+fortalecimiento de las finanzas públicas; ii) las entradas de capital sobre los 
+mercados financieros nacionales; y iii) que a pesar de que los niveles de actividad 
+permanecen  por  debajo  de  los  registrados  previos  a  la  crisis,  la  economía 
+continúa recuperándose, lo que ha propiciado una reducción en las primas de 
+riesgo demandadas por los inversionistas. 
+Bajo estas condiciones, la Junta de Gobierno ha señalado que vigilará 
+cuidadosamente la trayectoria de las expectativas de inflación de mediano y largo 
+plazo, así como otros determinantes de la inflación que pudieran alertar acerca de 
+presiones inesperadas y de carácter generalizado sobre los precios. En particular, 
+que pondrá atención a la velocidad con la cual se cerrará la brecha del producto. 
+Por lo demás, como se ha señalado en este Informe, es importante 
+mencionar que en los últimos meses el tipo de cambio en México ha mostrado 
+una  apreciación  considerable.  Claramente,  esta  apreciación  ha  contribuido  a 
+compensar parcialmente las presiones al alza sobre los precios y ha conducido a 
+condiciones monetarias menos laxas (Gráfica 29). En este sentido, a pesar de 
+que  una  parte  del  incremento  en  las  entradas  de  capital  se  explica  por  las 
+mejores perspectivas y condiciones fundamentales de la economía mexicana, 
+otra  parte  se  explica  por  el  extraordinario  grado  acomodaticio  de  la  política 
+monetaria  de  Estados  Unidos,  en  combinación  con  las  perspectivas  de 
+depreciación en el mediano plazo del dólar norteamericano en un contexto en el 
+cual dicho país atraviesa por un proceso de corrección de sus cuentas externas.22 
+En  consecuencia,  la  Junta  de  Gobierno  del  Instituto  Central  estará 
+particularmente atenta a los riesgos asociados a que se presenten cambios en las 
+condiciones monetarias externas que pudieran implicar una reversión abrupta y 
+repentina de los flujos de capital. A este respecto, cabe recordar que la Comisión 
+de Cambios, integrada por la Secretaría de Hacienda y Crédito Público y por el 
+Banco  de  México,  decidió  aumentar  el  ritmo  de  acumulación  de  reservas 
+internacionales para mejorar el perfil de riesgo del país.23 
+                                                 
+22  Recientemente el dólar ha tendido a apreciarse, en la medida en que la situación fiscal de algunos 
+países europeos ha conducido a que los inversionistas busquen “refugio” en instrumentos de bajo 
+riesgo. 
+23  Ver comunicado de la Comisión de Cambios del 22 de febrero de 2010 en el que se anuncia la subasta 
+mensual de opciones para vender dólares al Banco de México.   
+40                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+Gráfica 29 
+1/
+Índice de Condiciones Monetarias  
+Variaciones en por ciento respecto al primer trimestre de 2000 
+2/  3/
+a) Periodicidad semanal b) Periodicidad trimestral  
+6 6
+3 3
+0 0
+-3 -3
+-6 -6
+-9 -9
+-12 ICM -12
+ICM
+-15 Contribución Tipo de Cambio Real -15 Contribución Tipo de Cambio Real
+Contribución Tasa de Interés Real
+Contribución Tasa de Interés Real
+-18 -18
+J D J D J D J D J D J D J D J D J D J D T1 T1 T1 T1 T1 T1 T1 T1 T1 T1 T1
+2001   2003   2005 2007 2009   2 001    2003     200 5     2007     2009    
+   
+1/ El Índice de Condiciones Monetarias (ICM) se calcula como el promedio ponderado de los cambios en indicadores de tasa de interés 
+real y de tipo de cambio real respecto a su nivel promedio durante el primer trimestre de 2000. Los ponderadores de las 
+contribuciones de ambos indicadores al ICM se definen en 0.5 y 0.5, respectivamente. Utilizando diversas herramientas analíticas se 
+encuentra que estos valores son una buena aproximación de la contribución que tienen la tasa de interés real y el tipo de cambio 
+real a las condiciones monetarias que enfrenta la demanda agregada. Una apreciación del tipo de cambio y/o un aumento en la tasa 
+de interés real incrementan el ICM. Por consiguiente, un aumento en el ICM sugiere condiciones monetarias relativamente más 
+astringentes. 
+2/ El índice semanal de tipo de cambio real bilateral con respecto al dólar estadounidense se calcula utilizando el promedio semanal del 
+tipo de cambio FIX, el promedio semanal de un índice de precios al consumidor en Estados Unidos con periodicidad diaria 
+(interpolación lineal del IPC) y el promedio semanal de un índice de precios al consumidor en México con periodicidad diaria 
+(interpolación lineal del INPC). Por su parte, la tasa de interés real con periodicidad semanal se define con base en el promedio 
+semanal de la tasa de interés nominal de CETES a 28 días y la expectativa de inflación para los siguientes 12 meses de la encuesta 
+semanal de Infosel. 
+3/ Se utiliza el promedio trimestral del índice de tipo de cambio real bilateral con respecto al dólar estadounidense. Por su parte, la tasa 
+de interés real se define a partir del promedio trimestral de la tasa de interés nominal de CETES a 28 días y el promedio trimestral 
+de la expectativa de inflación para los siguientes 12 meses de la encuesta de Infosel. 
+ 
+41                                                                                       BANCO DE MÉXICO 
+6.  Previsiones para la Inflación y Balance de Riesgos 
+El  escenario  macroeconómico  base  previsto  por  Banco  de  México 
+considera que la expansión de la economía mundial continuará en los siguientes 
+trimestres,  apoyada  por  la  mejoría  en  los  mercados  financieros  y  por  el 
+importante estímulo de las políticas contracíclicas. En particular, el consenso de 
+los analistas prevé que en Estados Unidos la economía crezca en 3.1 por ciento 
+tanto en 2010 como en 2011, y que la producción industrial registre crecimientos 
+de 4.9 y 4.5 por ciento en 2010 y 2011, respectivamente. No obstante, se anticipa 
+que la recuperación del consumo y del empleo en esa economía sea gradual y 
+que  ésta  siga  operando  por  debajo  de  su  potencial  durante  este  año  y  el 
+siguiente. 
+En lo que corresponde a la economía mexicana, se prevé el siguiente 
+escenario base: 
+Crecimiento:  La  mejoría  en  las  perspectivas  de  expansión  de  la 
+producción industrial en Estados Unidos, aunada a la evolución reciente que ha 
+exhibido la actividad económica en el país, sugieren que en 2010 el PIB en 
+México crecerá por encima de lo proyectado en el trimestre previo. En particular, 
+se prevé que en 2010 la economía mexicana podría alcanzar un crecimiento de 
+entre 4.0 y 5.0 por ciento. Por su parte, al igual que en el Informe previo, para 
+2011 se espera una expansión del PIB de entre 3.2 y 4.2 por ciento. 
+Al  tomar  en  cuenta  que  el  crecimiento  trimestral  del  PIB 
+desestacionalizado en los últimos dos trimestres de 2009 reflejó no únicamente el 
+cambio en la fase cíclica de la economía, sino también el desvanecimiento de 
+algunos eventos que afectaron temporalmente los niveles de actividad en el 
+segundo  trimestre  de  ese  año,  es  previsible  que  el  crecimiento  trimestral 
+promedio del PIB sea más moderado durante 2010. No obstante, este agregado 
+irá mostrando una gradual expansión en el resto del año, en la medida en que se 
+restablezcan mayores niveles de gasto doméstico (Gráfica 30a).24  
+A  pesar  de  la  recuperación  en  los  niveles  de  actividad  productiva 
+prevista en este escenario, se proyecta que persistirán condiciones de holgura en 
+la economía durante 2010. Sin embargo, como resultado de la revisión al alza en 
+las expectativas de crecimiento tanto en México como en Estados Unidos, es 
+previsible que dichas condiciones vayan desvaneciéndose más rápido que lo 
+previsto anteriormente. En efecto, es posible que la brecha del producto se cierre 
+relativamente más rápido que lo proyectado en el Informe pasado y, por ende, ha 
+aumentado la probabilidad de que se den ciertos escenarios bajo los cuales la 
+brecha del producto pudiera tornarse positiva en el primer semestre de 2011 
+(Gráfica 31).25  
+                                                 
+24   En términos anuales, la variación del PIB en los primeros dos trimestres de 2010 se vería influida por los 
+bajos niveles de actividad observados en el primer semestre de 2009 y, por ende, se anticipa que será 
+relativamente más elevada que la variación anual del PIB en la segunda mitad del año (Gráfica 30b). 
+25   Estas estimaciones se realizaron utilizando el método Hodrick-Prescott (HP) con corrección de colas y 
+un modelo de componentes no observados. Dichos métodos se describen en el Informe sobre la 
+Inflación correspondiente al segundo trimestre de 2009; ver Banco de México (2009), “Informe sobre la 
+Inflación, Abril – Junio 2009”, pág. 74.  
+42                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+Gráfica 30 
+Producto Interno Bruto 
+a) Variación trimestral en por ciento; datos  b) Variación anual en por ciento 
+desestacionalizados  
+4 10 Observado
+3 8 Pronóstico
+Desestacionalizada
+2 6
+1 4
+0 2
+-1  0
+-2  -2 
+-3  Observado -4 
+-4  Pronóstico -6 
+-5  -8 
+-6  -10 
+-7  -12 
+I III I III I III I III I III I III
+I III I III I III I III I III I III
+2006 2007 2008 2009 2010 2011   2006 2007 2008 2009 2010 2011
+   
+Fuente: INEGI. 
+Pronóstico del Banco de México a partir del I trimestre de 2010. 
+Gráfica 31 
+Estimaciones de la Brecha del Producto 
+Por ciento 
+9
+6
+3
+0
+-3
+-6
+HP con Corrección de Colas
+-9 Componentes No Observados
+  Intervalo al 95 % de Confianza
+-12
+2004 2005 2006 2007 2008 2009 2010 2011
+ 
+Empleo: Se estima que, tanto para 2010, como para 2011, el número 
+de trabajadores asegurados en el IMSS muestre incrementos anuales de entre 
+500 y 600 mil personas.  
+Cuenta  Corriente:  Se  estima  que  el  escenario  previsto  para  la 
+demanda interna y la actividad productiva para 2010 se vea reflejado en déficit de 
+la balanza comercial y de la cuenta corriente de 11.5 y 11.9 miles de millones de 
+dólares, respectivamente (1.1 por ciento del PIB en ambos casos), lo cual se 
+compara con los déficit registrados en 2009 de 4.7 miles de millones de dólares 
+en la balanza comercial (0.5 del PIB) y de 5.2 miles de millones de dólares en la 
+cuenta  corriente  (0.6  por  ciento  del  PIB).  Dadas  las  condiciones  de  mayor 
+43                                                                                       BANCO DE MÉXICO 
+disponibilidad  de  recursos  en  los  mercados  financieros  internacionales,  la 
+renovación de la Línea de Crédito Flexible con el Fondo Monetario Internacional 
+de aproximadamente 48 mil millones de dólares y la distribución en el tiempo de 
+las amortizaciones que se espera realicen los sectores público y privado, no se 
+anticipa que la economía enfrente problemas de financiamiento externo durante 
+2010. 
+El  escenario  previsto  para  el  crecimiento  de  la  economía  en  los 
+próximos dos años, sin embargo, no está exento de riesgos. A saber: 
+a)  Las economías avanzadas en algún momento empezarán a retirar los 
+estímulos fiscales y monetarios que implementaron a raíz de la crisis. 
+Esto  conlleva  dos  riesgos  distintos.  Por  un  lado,  al  parecer  la 
+recuperación  de  la  actividad  en  las  economías  avanzadas  continúa 
+dependiendo en exceso de dichos estímulos, por lo que retirarlos podría 
+poner en riesgo la recuperación de la economía mundial. Por otro, a 
+pesar  de  los  posibles  esfuerzos  de  consolidación  fiscal  que  las 
+economías  avanzadas  lleven  a  cabo  en  los  siguientes  años,  la 
+demanda por recursos financieros por parte de los gobiernos de dichas 
+economías se mantendrá muy elevada. Ello, en combinación con el 
+retiro  previsible  en  algún  momento  del  estímulo  monetario  en  los 
+Estados Unidos, podría conducir a tasas de interés más elevadas en los 
+mercados financieros internacionales y, por ende, a condiciones de 
+acceso al crédito más astringentes para las economías emergentes.  
+b)  En  el  corto  plazo,  existe  el  riesgo  de  un  posible  contagio  en  los 
+mercados  financieros,  en  particular  los  de  deuda  soberana,  si  la 
+situación  fiscal  en  Grecia,  u  otros  países  que  enfrenten  escenarios 
+similares en Europa, se deteriora. Lo anterior podría incrementar la 
+volatilidad financiera a nivel global, así como restringir las condiciones 
+de acceso al crédito en los mercados financieros internacionales. 
+c)  Como ya se mencionó, de continuar la apreciación del tipo de cambio 
+podría llegarse a mermar la capacidad de recuperación de la economía, 
+al afectarse el dinamismo de las exportaciones. Ello en la medida en 
+que dicha apreciación no sea un reflejo de avances en la productividad 
+relativa  del  sector  de  bienes  comerciables  internacionalmente,  que 
+redujeran los costos de producción en dicho sector. 
+Inflación: El pronóstico para la inflación general anual para 2010 y 
+2011 se mantiene sin cambio respecto a la trayectoria prevista en los últimos dos 
+Informes sobre la Inflación (Cuadro 4 y Gráfica 32). Esto se debe a los siguientes 
+factores: 
+1.  El efecto sobre la inflación de los incrementos en las tasas impositivas 
+ha  sido  acorde  con  lo  previsto  y,  hasta  el  momento,  no  se  han 
+observado aumentos de precios de segundo orden.  
+2.  El  impacto  sobre  la  inflación  del  restablecimiento  de  la  política  de 
+deslices en los precios de los energéticos, así como de los incrementos 
+en los precios y tarifas de los gobiernos locales, ha sido congruente con 
+lo que se anticipó. 
+44                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+3.  Se prevé que los ajustes salariales continúen siendo moderados. 
+4.  Las expectativas de inflación de mediano y largo plazo permanecen 
+relativamente estables, si bien se mantienen por arriba de la meta de 3 
+por ciento.  
+5.  Dada la volatilidad que caracteriza a los precios de las hortalizas, es 
+previsible que el impacto que tuvo su alza sobre la inflación sea de 
+corta duración. 
+6.  Se estima que la actividad productiva permanecerá por debajo de su 
+potencial en los siguientes trimestres. Por consiguiente, no se anticipan 
+presiones  inflacionarias  provenientes  por  el  lado  de  la  demanda 
+agregada. 
+ Es  pertinente  señalar  que,  si  bien  las  modificaciones  fiscales 
+implementadas representan un costo en términos de la inflación en el corto plazo, 
+también  tendrán  importantes  beneficios  para  el  buen  funcionamiento  de  la 
+economía. México es un país con enormes necesidades de gasto público en 
+inversión en capital físico y humano. El financiamiento de dicho gasto con fuentes 
+estables de ingreso es fundamental para mantener un marco macroeconómico 
+caracterizado por una inflación baja y estable. 
+Cuadro 4 
+Proyección Escenario Base de Inflación General Anual 1/ 
+Promedio trimestral en por ciento 
+Proyección
+Trimestre Informe Primer
+Trimestre 2010
+2010-I 4.75 2/
+2010-II 4.50 - 5.00
+2010-III 4.75 - 5.25
+2010-IV 4.75 - 5.25
+2011-I 4.50 - 5.00
+2011-II 3.50 - 4.00
+2011-III 3.25 - 3.75
+2011-IV 2.75 - 3.25
+2012-I 2.75 - 3.25  
+1/  La proyección de este Informe coincide con la del 
+anterior, añadiéndose el pronóstico correspondiente al 
+primer trimestre de 2012. A su vez, la proyección del 
+Informe  al  cuarto  trimestre  coincidió  con  la  del 
+Addendum al Informe al tercer trimestre. Cabe señalar 
+que en cada Informe sobre la Inflación, el horizonte de 
+pronóstico es de 8 trimestres hacia adelante, por lo 
+que en cada ocasión se añade un trimestre (el octavo) 
+a la previsión, mientras que el primero del Informe 
+previo se convierte en un dato observado. 
+2/ Dato observado. 
+45                                                                                       BANCO DE MÉXICO 
+Gráfica 32 
+Inflación General Anual y Proyección de Escenario Base 
+Promedio trimestral en por ciento 
+7.5 Proyección Informe Cuarto Trimestre 2009
+2010-T1 2011-T1
+7.0 Proyección Informe Primer Trimestre 2010
+Inflación Observada
+6.5
+6.0
+5.5
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+T4 T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4 T1
+2006 2007 2008 2009 2010 2011 2012
+ 
+El pronóstico sobre la inflación anual se encuentra sujeto a diversos 
+riesgos, entre los que destacan: 
+i)  Una  reversión  en  los  flujos  de  capital  podría  conducir  a  un  ajuste 
+cambiario abrupto.  
+ii)  La posibilidad de que el proceso de recuperación de la economía sea 
+más  (menos)  vigoroso  respecto  a  lo  que  se  anticipó  anteriormente 
+podría añadir (restar) presiones inflacionarias de demanda. 
+iii)  La alta volatilidad de los precios de las frutas y verduras, como se 
+observó recientemente. 
+A pesar de la presencia de estos riesgos, en los últimos meses se han 
+aminorado algunos otros. En particular, ha disminuido la posibilidad de que ocurra 
+un mayor traspaso a precios asociado con los cambios fiscales y de precios y 
+tarifas del sector público y de que se presente un mayor ritmo de ajuste en los 
+precios de los bienes y servicios administrados y concertados. 
+El hacer un análisis de la evolución de la inflación en nuestro país en 
+los últimos años, así como de sus perspectivas en los siguientes, conduce a la 
+siguiente reflexión. Es bien sabido que la inflación, en última instancia, es un 
+fenómeno monetario, por lo que deben ser los bancos centrales los encargados 
+de combatirla. Sin embargo, en el corto plazo muchos otros factores pueden 
+incidir sobre ésta y complicar la consecución de la meta de inflación que el Banco 
+Central, o bien la sociedad misma, haya establecido implícita o explícitamente. En 
+este sentido, es claro que un elemento fundamental para mantener una inflación 
+baja y estable son finanzas públicas sanas.  
+No  obstante,  diversas  políticas  de  índole  microeconómico  también 
+pueden incidir sobre la dinámica de la inflación. Dos aspectos especialmente 
+relevantes  en  este  sentido  son  el  grado  de  competencia  económica  y  la 
+existencia de rigideces en el mercado laboral.  
+46                                          INFORME SOBRE LA INFLACIÓN ENERO-MARZO 2010 
+En cuanto al primero, la falta de competencia evita una asignación 
+eficiente de los recursos y un ritmo más elevado de adopción de tecnologías 
+modernas, limitándose así la productividad y el crecimiento de la economía. En 
+este  sentido,  la  falta  de  competencia  conduce  a  la  fijación  de  precios 
+excesivamente  elevados  de  insumos  y  productos  finales,  impactando  la 
+distribución del ingreso y exacerbando las rigideces en el proceso inflacionario. 
+Esto, a su vez, puede dificultar en mayor grado la convergencia del crecimiento 
+de los precios hacia la meta del Banco Central.  
+Por lo que se refiere al segundo, la falta de flexibilidad en el mercado 
+laboral  no  únicamente  dificulta  la  movilidad  del  trabajo  hacia  sus  usos  más 
+productivos, sino que se traduce en mayores costos laborales, lo cual también 
+conduce a precios más elevados de los diversos bienes y servicios producidos en 
+el país.  
+Precisamente son este tipo de medidas las que permitirán mantener la 
+competitividad  de  nuestra  economía,  y  no  variaciones  en  el  tipo  de  cambio 
+nominal.  
+En  este  contexto,  se  considera  de  vital  importancia  propiciar 
+condiciones de competencia en los mercados y de flexibilidad en la asignación 
+del factor trabajo. La aprobación de las iniciativas para reformar la Ley Federal de 
+Competencia Económica y la Ley Federal del Trabajo actualmente en discusión 
+sería un paso importante en dicha dirección. 
+Finalmente, por lo que toca a la política monetaria la Junta de Gobierno 
+del Banco de México vigilará cuidadosamente la trayectoria de las expectativas 
+de  inflación  de  mediano  y  largo  plazo,  así  como  otros  determinantes  de  la 
+inflación que pudieran alertar acerca de presiones inesperadas y de carácter 
+generalizado sobre los precios. En particular, se pondrá atención a la velocidad 
+con la cual se cerrará la brecha del producto. Esto con el fin de que, en su caso, 
+el Instituto Central ajuste la postura monetaria para alcanzar la meta de inflación 
+del 3 por ciento hacia finales del próximo año 
+47 

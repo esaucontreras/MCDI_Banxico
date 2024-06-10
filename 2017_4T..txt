@@ -1,0 +1,4202 @@
+Informe Trimestral
+Octubre – Diciembre 2017
+
+JUNTA DE GOBIERNO
+Gobernador
+ALEJANDRO DÍAZ DE LEÓN CARRILLO
+Subgobernadores
+ROBERTO DEL CUETO LEGASPI
+IRENE ESPINOSA CANTELLANO
+JAVIER EDUARDO GUZMÁN CALAFELL
+MANUEL RAMOS FRANCIA
+
+INFORME TRIMESTRAL
+En este informe se analiza la inflación, la actividad económica, el comportamiento de otros indicadores económicos del país, así como la ejecución de la política monetaria del trimestre octubre – diciembre de 2017 y diversas actividades del Banco durante dicho periodo, en el contexto de la situación económica nacional e internacional, para dar cumplimiento a lo dispuesto en el artículo 51, fracción II, de la Ley del Banco de México.
+ADVERTENCIA
+A menos que se especifique lo contrario, este documento está elaborado con información disponible al 26 de febrero de 2018. Las cifras son de carácter preliminar y están sujetas a revisiones.
+CONTENIDO
+1. Introducción .................................................................................................................. 1
+2. Entorno Económico y Financiero Prevaleciente en el Cuarto Trimestre de 2017 ........ 4
+2.1. Condiciones Externas ........................................................................................ 4
+2.1.1. Actividad Económica Mundial .............................................................. 5
+2.1.2. Precios de las Materias Primas .......................................................... 11
+2.1.3. Tendencias de la Inflación en el Exterior ........................................... 12
+2.1.4. Política Monetaria y Mercados Financieros Internacionales ............. 14
+2.1.5. Riesgos para el Panorama Económico Mundial ................................ 17
+2.2. Evolución de la Economía Mexicana .............................................................. 18
+2.2.1. Actividad Económica .......................................................................... 18
+2.2.2. Mercado Laboral ................................................................................ 29
+2.2.3. Activos Financieros Internos, Dinero y Financiamiento ..................... 33
+2.2.3.1. Fuentes y Usos de Recursos Financieros de la Economía 38
+2.2.3.2. Activos Financieros Internos ................................................ 45
+2.2.4. Condiciones de Holgura en la Economía ........................................... 46
+2.2.4.1. Indicadores de Holgura ........................................................ 50
+3. Evolución Reciente de la Inflación .............................................................................. 53
+3.1. La Inflación en el Cuarto Trimestre de 2017 ................................................... 53
+3.1.1. Inflación Subyacente .......................................................................... 60
+3.1.2. Inflación No Subyacente .................................................................... 63
+3.2. Índice Nacional de Precios al Productor ......................................................... 66
+4. Política Monetaria y Determinantes de la Inflación .................................................... 67
+5. Previsiones y Balance de Riesgos ............................................................................. 77
+5.1. Previsiones para la Actividad Económica ....................................................... 77
+5.2. Previsiones para la Inflación............................................................................ 79
+RECUADROS
+1. Consideraciones sobre la Política Fiscal en Estados Unidos ...................................... 9
+2. Evolución Reciente de las Exportaciones Automotrices de México ........................... 20
+3. Consideraciones sobre las Nuevas Medidas de los Agregados Monetarios y los Activos Financieros Internos en México ..................................................................... 34
+4. Indicadores de Holgura para la Identificación de Presiones Inflacionarias ................ 47
+5. La Inflación Subyacente Fundamental ....................................................................... 55
+6. Régimen de Objetivos de Inflación y el Papel de los Prónosticos ............................. 68
+
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 1
+1. Introducción
+En 2017, la inflación estuvo fuertemente influida por una serie de choques de magnitud considerable, tanto externos como internos, lo que condujo a que al cierre del año alcanzara niveles no observados desde el año 2001. Desde inicios del año, la inflación comenzó a resentir los efectos de la depreciación de la moneda nacional, principalmente como resultado de la incertidumbre respecto al futuro de la relación bilateral de nuestro país con la nueva administración de Estados Unidos. Adicionalmente, durante la primera parte del año también afectaron a la inflación otros factores, entre los que destacan los incrementos en los precios de los energéticos, en particular de las gasolinas y el gas L.P., así como aumentos en las tarifas de transporte público y alzas en los precios de algunos productos agropecuarios. Si bien a partir de septiembre de 2017 la inflación mostró cierta inflexión a la baja, en los últimos meses del año se presentaron choques adicionales que incrementaron la inflación general a 6.77 por ciento en diciembre. Entre estos destacaron los aumentos en los precios del gas L.P. y de ciertas frutas y verduras; una depreciación adicional de la moneda nacional; y el efecto del cambio en el calendario del aumento al salario mínimo, que entró en vigor en diciembre en lugar de enero. Cabe señalar que estos choques se dieron en un entorno en el que las condiciones cíclicas de la economía se han mantenido relativamente estrechas, lo que podría estar influyendo en la velocidad a la que la inflación subyacente se está reduciendo. En enero de 2018 la inflación general anual presentó una disminución considerable; en dicho resultado destaca la importante reducción de la inflación no subyacente y una de menor magnitud en la subyacente. Ello debido a las acciones de política monetaria implementadas y a que en este año los aumentos en los precios de algunos energéticos fueron menores que los del año previo. Sin embargo, el comportamiento de la inflación no subyacente a inicios del año siguió resintiendo los efectos de los choques que la afectaron al cierre de 2017. Como resultado del panorama inflacionario descrito, se presentaron aumentos en las expectativas de inflación general para el cierre de 2018, si bien aquellas para el mediano y largo plazo se mantuvieron alrededor de 3.50 por ciento.
+El Banco de México ajustó su postura monetaria durante 2017, incrementando el objetivo para la Tasa de Interés Interbancaria a un día en 125 puntos base de enero a junio de dicho año, manteniéndola sin cambio hasta noviembre. No obstante, ante el deterioro adicional en la inflación bajo el entorno mencionado, y con el objeto de mantener una postura monetaria que evitara efectos de segundo orden en el proceso de formación de precios y reforzara la tendencia descendente de la misma hacia su meta, en las reuniones de diciembre de 2017 y de febrero de 2018 la Junta de Gobierno decidió aumentar la tasa objetivo en 25 puntos base en cada una de ellas, llevándola a un nivel de 7.50 por ciento. Estas acciones tomaron en consideración las condiciones cíclicas de la economía descritas anteriormente. Asimismo, en la última decisión de política monetaria se destacó que el incremento en la tasa objetivo tomó en cuenta las condiciones monetarias más restrictivas que se prevén en la economía estadounidense.
+Las acciones anteriores se llevaron a cabo en un entorno en el que, si bien la actividad económica mundial siguió expandiéndose de manera generalizada y sus expectativas de crecimiento se han revisado al alza, persisten diversos riesgos, tanto económicos como geopolíticos, que pueden influir desfavorablemente en el
+Banco de México
+2 Informe Trimestral Octubre – Diciembre 2017
+contexto mundial. En particular, destaca la posibilidad de un ritmo de normalización de la política monetaria más rápido a lo anticipado por los mercados en las economías avanzadas y, en especial, en Estados Unidos, lo cual podría propiciar un entorno más volátil en los mercados financieros internacionales y restringir las condiciones de financiamiento, en especial para las economías emergentes. Este riesgo se ha fortalecido por las presiones inflacionarias que se podrían generar como resultado de los recortes a los impuestos y el aumento al gasto público recientemente aprobados en dicho país. En efecto, este impulso fiscal, en un contexto en el que la economía estadounidense no parece presentar condiciones de holgura, ha entrado en tensión con la expectativa de que la postura monetaria en ese país se normalizaría gradualmente, y ha dado lugar a aumentos considerables en las tasas de interés de los Bonos del Tesoro de Estados Unidos a plazos de 10 y 30 años en lo que va del año y a un ajuste a la baja en los principales índices accionarios respecto a los altos niveles que habían alcanzado previamente.
+Hacia adelante, se estima que la economía mexicana continúe creciendo, lo cual podría verse favorecido por el mayor ritmo de expansión en Estados Unidos. No obstante, la incertidumbre que prevalece, especialmente respecto de la relación comercial de México en Norteamérica, podría seguir afectando a la inversión. Así, si bien ha mejorado ligeramente el balance de riesgos para el crecimiento, persiste el sesgo a la baja. Al respecto, las condiciones de holgura en la economía han venido estrechándose, si bien recientemente, salvo en el caso del mercado laboral, parecerían haber comenzado a revertirse moderadamente. En este contexto, y tomando en cuenta que se espera un crecimiento de la economía cercano a su potencial, se estima que las condiciones cíclicas de la economía permanezcan cercanas a los niveles actuales. En este entorno, y considerando el comportamiento reciente de la inflación, la evolución que se anticipa para sus determinantes, la postura de política monetaria actual y el horizonte en el que esta opera, se prevé que la inflación general continúe disminuyendo, aproximándose a lo largo del año a la meta de 3.0 por ciento y alcanzándola en el primer trimestre de 2019, ubicándose cerca de dicho nivel el resto de 2019. Estas previsiones consideran un comportamiento ordenado del tipo de cambio, la ausencia de presiones provenientes del mercado laboral, y una reducción importante de la inflación no subyacente a lo largo de 2018, en la medida que no se repitan el tipo de choques que la afectaron el año anterior. Considerando el nivel que ha alcanzado la inflación, los choques que la han afectado y los riesgos a los que aún está sujeta, en la trayectoria prevista para la inflación persiste un balance de riesgos sesgado al alza.
+En este entorno, la Junta de Gobierno del Banco de México continuará vigilando muy de cerca la evolución de la inflación respecto a la trayectoria prevista, considerando el horizonte en el que opera la política monetaria, así como la información disponible de todos los determinantes de la inflación y sus expectativas de mediano y largo plazo, incluyendo el traspaso potencial de las variaciones del tipo de cambio a los precios, la posición monetaria relativa entre México y Estados Unidos y la evolución de las condiciones de holgura en la economía. Ante la presencia de factores que, por su naturaleza, impliquen un riesgo para la inflación y sus expectativas, de ser necesario la política monetaria actuará de manera oportuna y firme para fortalecer el anclaje de las expectativas de inflación de mediano y largo plazo y lograr la convergencia de esta a su objetivo de 3 por ciento.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 3
+Cabe destacar que las acciones de política monetaria que se han venido implementando para mantener ancladas las expectativas de inflación de mediano y largo plazo, aunadas al cumplimiento de las metas fiscales en 2017 y al compromiso de hacerlo en 2018, así como la resiliencia que ha mantenido el sistema financiero, han contribuido a que la economía mexicana esté en mejor posición para enfrentar posibles escenarios adversos. También debe enfatizarse la renovación anticipada en noviembre de 2017 de la Línea de Crédito Flexible que México tiene con el Fondo Monetario Internacional por dos años más, en reconocimiento de la solidez del marco macroeconómico del país. Hacia adelante, se prevé que la economía mexicana seguirá enfrentando un panorama complejo, lo que hace particularmente relevante que, además de seguir una política monetaria prudente y firme, se impulse la implementación de todas aquellas acciones que propicien una mayor productividad, y que las autoridades correspondientes avancen hacia una consolidación sostenible de las finanzas públicas.
+Banco de México
+4 Informe Trimestral Octubre – Diciembre 2017
+2. Entorno Económico y Financiero Prevaleciente en el Cuarto
+Trimestre de 2017
+2.1. Condiciones Externas
+La economía mundial continuó expandiéndose de manera generalizada, tanto en
+las economías avanzadas, como en las emergentes, durante el cuarto trimestre de
+2017. Asimismo, el crecimiento del volumen de comercio global siguió siendo
+elevado, reflejando el repunte de la inversión y la mayor producción manufacturera.
+En este contexto, la holgura en las economías avanzadas continuó reduciéndose,
+lo que ha empezado a traducirse en un aumento gradual de la inflación y sus
+expectativas, si bien, en la mayoría de los casos, ambas permanecen aún por
+debajo de los objetivos de sus bancos centrales. Así, el mayor dinamismo de la
+actividad económica mundial y, en particular, las mayores perspectivas de
+crecimiento para la economía de Estados Unidos, reforzadas por la reciente
+aprobación de una postura fiscal más expansiva, se han reflejado en una notoria
+revisión al alza en los pronósticos de crecimiento mundial para 2018 y 2019
+(Gráfica 1).
+Gráfica 1
+Actividad Económica Mundial
+a) Pronósticos de Crecimiento del
+PIB Mundial para 2017 y 2018
+Variación anual en por ciento
+b) Economías Seleccionadas:
+Pronósticos de Crecimiento
+Variación anual en por ciento
+c) Economías Avanzadas: Tasa
+Natural y Tasa Observada de
+Desempleo
+En por ciento
+0
+1
+2
+3
+4
+5
+6
+7
+8
+2010 2012 2014 2016 2018
+Mundial
+Avanzadas
+Emergentes
+Pronósticos
+2018
+2019
+2018
+2019
+2018
+2019
+2018
+2019
+2018
+2019
+2018
+2019
+EUA Z.E. Japón R.U. México Brasil
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+Octubre 2017
+Enero 2018
+ISR
+ALE
+RU
+JPN
+EUA
+CAN
+COR
+ZE
+FRA
+ESP
+ITA
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+3er Trim. 2017
+Tasa Natural de Desempleo 1/
+Nota: Las líneas punteadas se refieren a los
+pronósticos del WEO de octubre 2017, las
+líneas sólidas a los del WEO de enero 2018.
+Fuente: FMI, WEO octubre 2017 y enero 2018.
+Fuente: FMI, WEO octubre 2017 y enero 2018.
+1/ Estimación OCDE.
+Fuente: OCDE, Economic Outlook, noviembre, 2017.
+La economía global, no obstante, sigue sujeta a distintos riesgos económicos y
+geopolíticos, algunos de los cuales se han incrementado recientemente. Entre
+ellos, la posibilidad de un ritmo de normalización de la política monetaria más
+rápido a lo anticipado en las economías avanzadas podría propiciar un entorno
+más volátil en los mercados financieros internacionales y restringir las condiciones
+de financiamiento de las economías emergentes. En particular, existe
+incertidumbre sobre los efectos que una política fiscal más expansiva en Estados
+Unidos podría tener sobre la inflación en ese país y, por ende, en el ritmo de
+normalización de la postura monetaria de la Reserva Federal. En efecto, este
+impulso fiscal, en un contexto en el que la economía de Estados Unidos no parece
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 5
+presentar condiciones de holgura, ha entrado en tensión con la expectativa de que
+la postura monetaria en ese país se normalizaría gradualmente. Esta tensión ya se
+ha manifestado en los mercados financieros, dando lugar a aumentos
+considerables en las tasas de interés de mediano y largo plazo de Estados Unidos
+y de otras economías avanzadas en lo que va del año. Asimismo, luego de
+presentarse una considerable alza en las valuaciones de los activos financieros
+durante 2017, recientemente se observó un ajuste a la baja en los principales
+índices accionarios (Gráfica 2).
+Gráfica 2
+Mercados Financieros Internacionales
+a) Rendimiento de los Bonos a 10
+Años de Economías Avanzadas
+Seleccionadas
+En por ciento
+b) Volatilidad en Mercados
+Financieros Internacionales (VIX) 1/
+Índice 01/01/2007=100
+c) Economías Avanzadas:
+Mercados Accionarios
+Índice 01/01/2015=100
+-1
+0
+1
+2
+3
+4
+2015 2016 2017 2018
+Estados Unidos
+Zona del Euro
+Japón
+Reino Unido
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+2011 2012 2013 2014 2015 2016 2017 2018
+80
+90
+100
+110
+120
+130
+140
+2015 2016 2017 2018
+S&P 500
+Europe 600
+Nikkei
+FTSE
+Fuente: Bloomberg. 1/ El índice VIX es un indicador ponderado que mide
+la volatilidad implícita en el mercado de opciones
+para el S&P 500.
+2.1.1. Actividad Económica Mundial
+Profundizando en lo anterior, la economía de Estados Unidos continuó
+presentando una recuperación cíclica durante el periodo que cubre este Informe.
+Si bien la tasa de expansión del PIB de 2.6 por ciento a tasa anualizada registrada
+durante el cuarto trimestre de 2017 fue menor que la del tercero, esto refleja en
+parte la contribución de la desacumulación de inventarios. De hecho, los
+principales componentes de la demanda interna mostraron un fuerte dinamismo
+(Gráfica 3a). En efecto, el consumo privado repuntó ante la mejoría en la posición
+financiera y la elevada confianza de los hogares, así como por el desvanecimiento
+de los efectos de los huracanes ocurridos en el tercer trimestre (Gráfica 3b).
+Asimismo, la inversión fija privada tuvo un desempeño favorable, reflejando la
+recuperación de la construcción residencial y el fuerte crecimiento de la inversión
+en maquinaria y equipo.
+En este contexto, la actividad industrial presentó un fuerte crecimiento en el último
+trimestre de 2017, al registrar una expansión de 8.3 por ciento a tasa anualizada
+(Gráfica 3c). En particular, el reciente aumento de los precios de la energía
+favoreció una recuperación de la minería y de la producción de equipo para dicha
+actividad. Por su parte, el clima inusualmente frío a finales de año aumentó la
+demanda de electricidad y gas para calefacción, reflejándose en importantes
+Banco de México
+6 Informe Trimestral Octubre – Diciembre 2017
+aumentos en los precios de este último. Adicionalmente, en el último trimestre del
+año la producción manufacturera se expandió significativamente, al disiparse los
+efectos de los huracanes que afectaron diversas regiones de este país, destacando
+los sectores de alta tecnología, automóviles y autopartes, química y petróleo.
+Gráfica 3
+Actividad Económica en Estados Unidos
+a) PIB Real y sus Componentes
+Variación trimestral anualizada en
+por ciento y contribución en puntos
+porcentuales, a. e.
+b) Riqueza Neta de los Hogares y
+Confianza del Consumidor
+En por ciento del Ingreso Personal
+Disponible e Índice 1985=100, a. e.
+c) Actividad Industrial
+Variación trimestral anualizada en
+por ciento y contribuciones en
+puntos porcentuales, a. e.
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+2013 2014 2015 2016 2017
+Gasto Público
+Exportaciones Netas
+Inventarios
+Inversión Fija
+Consumo Privado
+Total
+IV Trim.
+20
+40
+60
+80
+100
+120
+140
+160
+450
+500
+550
+600
+650
+700
+2000 2003 2006 2009 2012 2015
+Riqueza Neta de los Hogares
+Confianza del Consumidor
+IV Trim.
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+2014 2015 2016 2017
+Manufacturas
+Minería
+Electricidad y Gas
+Total
+IV Trim.
+a. e. / Cifras con ajuste estacional.
+Fuente: Bureau of Economic Analysis.
+a. e. / Cifras con ajuste estacional.
+Fuente: Reserva Federal y Conference Board.
+a. e. / Cifras con ajuste estacional.
+Fuente: Reserva Federal.
+Dada la sólida expansión de la economía de Estados Unidos, las estimaciones de
+la brecha del producto en ese país sugieren que la economía operó por encima de
+su potencial durante 2017. Además, se anticipa que esta situación continúe durante
+los próximos años, especialmente ante el impulso que podría tener sobre la
+demanda agregada el paquete fiscal recientemente aprobado (Gráfica 4a). Estas
+condiciones cíclicas se han visto especialmente reflejadas en el mercado laboral,
+lo que ha conducido a indicios de mayores aumentos en los salarios. En efecto,
+entre septiembre de 2017 y enero de 2018 se generaron en promedio 172 mil
+nuevos puestos de trabajo por mes, cifra similar al promedio de los primeros nueve
+meses del 2017. A su vez, la tasa de desempleo disminuyó de 4.2 por ciento en
+septiembre a 4.1 por ciento en enero, ubicándose por debajo del nivel que la
+Reserva Federal estima como de largo plazo, de 4.6 por ciento. Asimismo, otros
+indicadores, como la apertura de nuevas plazas, las tasas de contrataciones y
+renuncias, y mediciones más amplias de la tasa de desempleo, apuntan a una
+menor holgura en el mercado laboral (Gráfica 4b). Lo anterior condujo a una
+recuperación del crecimiento de las remuneraciones medias por hora, el cual pasó
+de un tasa anual promedio de 2.5 por ciento durante 2017 a 2.9 por ciento en enero
+de 2018 (Gráfica 4c).
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 7
+Gráfica 4
+Medidas de Holgura en Estados Unidos
+a) Brecha del Producto
+Como porcentaje del PIB
+b) Tasa de desempleo
+En por ciento de la fuerza laboral, a. e.
+c) Indicadores Salariales
+Variación anual en por ciento, a. e.
+2000 2004 2008 2012 2016 2020
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+Pronóstico
+2000 2005 2010 2015
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Tasa de Desempleo
+Tasa de Desempleo Amplia (U6) 1/
+Enero
+0
+1
+2
+3
+4
+5
+2001 2005 2009 2013 2017
+Remuneraciones Medias por Hora
+Índice de Costo del Empleo
+IV Trim.
+Fuente: FMI, WEO octubre 2017. a. e. / Cifras con ajuste estacional.
+1/ Incluye también a los trabajadores de tiempo
+parcial que desean trabajar tiempo completo y
+aquellos que no fueron contabilizados como
+desempleados porque no buscaron trabajo en
+las últimas 4 semanas.
+Fuente: Bureau of Labor Statistics.
+a. e. / Cifras con ajuste estacional.
+Fuente: Bureau of Labor Statistics.
+Como ya se indicó, a finales de diciembre el Congreso de Estados Unidos aprobó
+una reforma fiscal que incluye menores tasas de impuestos corporativos, nuevos
+esquemas de depreciación del capital y un cambio hacia un régimen de tributación
+territorial. A esto se agrega el reciente aumento en el gasto público aprobado por
+el Congreso de Estados Unidos a principios de febrero, por cerca de 300 mil
+millones de dólares para los años fiscales 2018 y 2019.1 Se espera que estas
+modificaciones induzcan en el corto plazo un mayor crecimiento de la economía
+(ver Recuadro 1). No obstante, en un contexto en el que la economía parecería
+estar operando cerca de su potencial, ha aumentado la posibilidad de que el
+estímulo fiscal eventualmente se traduzca en una inflación más elevada y en
+mayores tasas de interés. Asimismo, el incremento de la deuda pública que
+pudiese resultar de dicha política fiscal hace más incierto el panorama para el
+crecimiento de esa economía en el largo plazo. Entre los riesgos para el
+crecimiento en dicho país, también se encuentra la posible adopción de políticas
+comerciales proteccionistas.
+Otras economías avanzadas también continuaron presentando una recuperación
+cíclica, lo cual ha contribuido a mantener la expectativa de que el proceso de
+normalización de la política monetaria en estas economías continuará. Así, en la
+zona del euro, el PIB creció 2.4 por ciento a tasa anualizada durante el cuarto
+trimestre de 2017, apoyado por la fortaleza de la demanda interna, particularmente
+del consumo privado y la formación de capital, y apreciándose una recuperación
+cada vez más generalizada en dicha región (Gráfica 5a). En este entorno, la tasa
+de desempleo mantuvo su tendencia descendente, lo cual parece estar
+reflejándose en un aumento moderado en los salarios. En lo que respecta a la
+economía de Japón, el PIB aumentó 0.5 por ciento a tasa anualizada en el cuarto
+trimestre. Esto reflejó, sobre todo, la continua recuperación que ha observado la
+demanda interna. Es de destacar que, con este resultado, la economía de ese país
+presentó una expansión por octavo trimestre consecutivo, lo cual no había
+sucedido desde el año 2000 (Gráfica 5b).
+1 Adicionalmente, se aprobaron cerca de 89 mil millones de dólares en apoyos para la reconstrucción de los
+daños provocados por los recientes desastres naturales.
+Banco de México
+8 Informe Trimestral Octubre – Diciembre 2017
+Gráfica 5
+Actividad de Economías Avanzadas
+a) Zona del Euro: PIB Real
+Índice 1T-2008=100, a. e.
+70
+75
+80
+85
+90
+95
+100
+105
+110
+115
+2008 2010 2012 2014 2016
+Zona del Euro
+Alemania
+Grecia
+España
+Francia
+Italia
+Países Bajos
+Por tugal IV Trim.
+b) Japón: PIB Real
+Variación trimestral anualizada en por
+ciento, a. e.
+-20
+-18
+-16
+-14
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+12
+1997 2002 2007 2012 2017
+IV Trim.
+a. e. / Cifras con ajuste estacional.
+Fuente: Eurostat.
+a. e. / Cifras con ajuste estacional.
+Fuente: Oficina del Gabinete de Japón.
+Finalmente, las economías emergentes siguieron recuperándose durante el cuarto
+trimestre (Gráfica 6a y Gráfica 6b). En particular, la economía china mantuvo un
+ritmo de crecimiento sólido, apoyado por el mayor dinamismo del sector de los
+servicios y por una moderada expansión de la actividad industrial, a pesar del
+apretamiento de las condiciones crediticias, la disminución en los estímulos fiscales
+y un endurecimiento de aspectos regulatorios (Gráfica 6c).
+Gráfica 6
+Indicadores de Economías Emergentes
+a) Economías Emergentes:
+Indicadores de Actividad Económica
+Índice de difusión (50=neutral) y
+variación anual en por ciento, del
+promedio móvil de tres meses, a. e.
+b) Economías Emergentes:
+Exportaciones
+Variación anual de la media móvil
+de tres meses en por ciento
+c) China: Producto Interno Bruto
+Variación anual en por ciento
+47
+48
+49
+50
+51
+52
+53
+54
+55
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+2012 2013 2014 2015 2016 2017 2018
+Ventas al Menudeo
+Producción Industrial
+PMI Compuesto
+Enero
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+2014 2015 2016 2017 2018
+Brasil
+Chile
+China
+Colombia
+India
+México
+Perú
+Rusia
+Enero
+0
+2
+4
+6
+8
+10
+2012 2013 2014 2015 2016 2017
+Total
+Agricul tura
+Industria
+Servicios IV Trim.
+a. e. / Cifras con ajuste estacional.
+Nota: Producción industrial y ventas al menudeo
+expresadas en volúmenes.
+Fuente: CPB Netherlands, Markit, Haver Analytics y
+FMI.
+Nota: Cifras nominales.
+Fuente: Haver Analytics.
+Fuente: Haver Analytics.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 9
+Banco de México
+10 Informe Trimestral Octubre – Diciembre 2017
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 11
+2.1.2. Precios de las Materias Primas
+La recuperación de la economía global se ha reflejado también en una mayor demanda de materias primas, lo cual ha influido en la evolución de sus precios. En particular, las cotizaciones del petróleo continuaron con la tendencia al alza observada desde mediados de 2017, alcanzando a finales de enero su mayor nivel en tres años (Gráfica 7a). Dicho repunte se debió tanto a un aumento en la demanda de crudo, como a un menor crecimiento de la oferta, derivado de la disminución en la producción en el Mar del Norte y Venezuela, y a tensiones geopolíticas en Medio Oriente. A principios de febrero, no obstante, los precios del crudo registraron una caída, al restablecerse la producción en el Mar del Norte y seguir aumentando la producción de petróleo en Estados Unidos, con lo que se ubicaron en los niveles observados a finales de diciembre. Cabe destacar que esta disminución en los precios del petróleo no ha contrarrestado totalmente el alza observada en los mismos desde mediados de 2017. Por su parte, los precios de los metales industriales registraron un alza hacia finales del cuarto trimestre, ante la perspectiva de una aceleración en la actividad manufacturera global (Gráfica 7b). En contraste, los precios de los granos permanecieron bajos, ante la persistencia de perspectivas de un incremento en la producción en los próximos meses (Gráfica 7c).
+Banco de México
+12 Informe Trimestral Octubre – Diciembre 2017
+Gráfica 7
+Precios Internacionales de las Materias Primas 1/
+a) Petróleo Crudo
+Dólares por barril
+b) Metales
+Índice 01/01/2014=100
+c) Maíz y Trigo
+Dólares por bushel
+0
+20
+40
+60
+80
+100
+120
+2014 2015 2016 2017 2018
+Brent
+WTI
+Mezcla Mexicana
+1/ Mercado Spot.
+Fuente: Bloomberg.
+0
+20
+40
+60
+80
+100
+120
+2014 2015 2016 2017 2018
+Hierro
+Cobre
+Oro
+Plata
+2
+3
+4
+5
+6
+7
+8
+2014 2015 2016 2017 2018
+Maíz
+Trigo
+2.1.3. Tendencias de la Inflación en el Exterior
+Durante la mayor parte de la fase de recuperación, después de la crisis financiera
+de 2008, la inflación a nivel global se ha mantenido en niveles bajos. Esto ha sido
+particularmente notorio en economías avanzadas, donde la inflación se ha ubicado
+por debajo del objetivo de sus bancos centrales por varios años. A ello han
+contribuido diversos factores, inclusive algunos de carácter más estructural, entre
+los que destacan el cambio tecnológico y la mayor integración económica global,
+los que podrían estar ejerciendo presión a la baja sobre los precios. No obstante,
+dicha tendencia ha estado contrarrestada por los efectos de un estrechamiento de
+las condiciones cíclicas en los mercados laborales de las economías avanzadas, y
+recientemente por el incremento en los precios de los energéticos. Lo anterior ha
+propiciado que en los últimos meses hayan aumentado gradualmente la inflación y
+sus expectativas, aunque en la mayoría de los casos, ambas continúan ubicándose
+por debajo de las metas de sus bancos centrales (Gráfica 8). Por su parte, la
+inflación en numerosas economías emergentes se ha mantenido relativamente
+estable, en niveles cercanos o por debajo de la meta de sus bancos centrales, en
+respuesta, principalmente, a menores presiones inflacionarias debido a la posición
+cíclica de sus economías. No obstante, en algunos países, principalmente de Asia,
+la inflación se ha incrementado ligeramente, a raíz del aumento de los precios de
+los alimentos y las gasolinas durante los últimos meses.
+En Estados Unidos, la inflación ha comenzado a aumentar, al disiparse una serie
+de factores transitorios que habían reducido los precios de ciertos rubros. En
+particular, la influencia negativa que habían tenido en la inflación la evolución de
+los precios de las importaciones y los energéticos en años recientes se ha
+empezado a disipar. Además, se espera que la reciente depreciación del dólar y el
+aumento en los precios del petróleo, así como la menor holgura en la economía,
+contribuyan a que se observe un repunte en la inflación (Gráfica 9). No obstante,
+hasta ahora, la inflación aún se mantiene por debajo de la meta de la Reserva
+Federal.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 13
+En específico, la variación anual del deflactor del gasto en consumo fue de 1.7 por
+ciento durante el cuarto trimestre, luego de haber presentado tasas cercanas a 1.5
+por ciento durante el tercero. De igual forma, la inflación subyacente pasó de una
+tasa anual de 1.4 por ciento a 1.5 por ciento en el mismo periodo, observándose
+una aceleración reciente en las variaciones mensuales de este indicador. La
+evolución en enero de este año de la inflación medida por el Índice de Precios al
+Consumidor (IPC) y por los índices de Precios de las Importaciones (IPI) y del
+Productor (IPP), apunta a un repunte, lo que ha propiciado una revisión al alza en
+las proyecciones de inflación para el cierre del año. Lo anterior también se ha
+reflejado en un alza gradual en las expectativas de inflación derivadas de
+instrumentos financieros.
+Gráfica 8
+Inflación en Economías Avanzadas y Emergentes
+a) Inflación General
+Variación anual en por ciento
+b) G4: Inflación Subyacente
+Variación anual en por ciento
+c) G4: Expectativas de Inflación de
+Largo Plazo Derivadas de
+Instrumentos Financieros 1/
+En por ciento
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+2004 2006 2008 2010 2012 2014 2016 2018
+Mundial
+Avanzados
+Emergentes
+Enero
+-2
+0
+2
+4
+6
+2013 2014 2015 2016 2017 2018
+Estados Unidos 1/
+Zona del Euro
+Japón 2/
+Reino Unido
+Enero
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+2013 2014 2015 2016 2017 2018
+Estados Unidos
+Zona del Euro
+Japón
+Reino Unido
+Nota: La muestra de países utilizada para el cálculo
+representa el 82.2 por ciento del PIB mundial
+medido por el poder de paridad de compra. El
+dato de inflación de enero para Estados Unidos
+corresponde a estimaciones del Banco de la
+Reserva Federal de Cleveland.
+Fuente: Elaborado por Banco de México con
+información de Haver Analytics, Reserva
+Federal de Cleveland y FMI.
+1/ Se utilizó el deflactor del gasto en consumo.
+2/ Se excluye alimentos frescos y energía, así como
+el efecto directo del incremento del impuesto al
+consumo.
+Fuente: Elaborado por Banco de México con
+información de Haver Analytics.
+1/ Inflación que se espera dentro de 5 años para los
+próximos 5 años. Expectativas obtenidas de
+contratos de swaps en los que una contraparte se
+compromete a pagar una tasa fija a cambio de
+recibir un pago referenciado a la tasa de inflación
+durante un plazo determinado.
+Fuente: Elaborado por Banco de México con
+información de J.P. Morgan.
+En la zona del euro, la inflación general pasó de una tasa anual de 1.5 por ciento
+en septiembre de 2017 a 1.3 por ciento en enero de 2018. De igual forma, la
+inflación subyacente disminuyó de 1.1 por ciento a 1.0 por ciento durante el mismo
+periodo. No obstante, las expectativas de inflación en esta región se han
+incrementado, en particular las derivadas de instrumentos financieros. En Japón,
+la inflación aumentó a 0.9 por ciento anual en enero, desde 0.7 por ciento en
+septiembre. La inflación subyacente, que excluye alimentos frescos y energía, pasó
+de 0.2 a 0.4 por ciento anual en dicho periodo.
+Banco de México
+14 Informe Trimestral Octubre – Diciembre 2017
+Gráfica 9
+Inflación en Estados Unidos
+a) Deflactor del Gasto en Consumo
+Variación anual y mensual
+anualizada en por ciento, a. e.
+b) Índice de Precios de
+Importaciones de Bienes de
+Consumo e Índice del Tipo de
+Cambio Nominal Amplio
+Variación anual en por ciento
+c) Porcentaje de la Canasta del
+Deflactor del Gasto en Consumo Con
+Variaciones Anuales en Diferentes
+Rangos
+En por ciento, a. e.
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+2015 2016 2017 2018
+Mensual
+Anual
+Diciembre
+-4
+-3
+-2
+-1
+0
+1
+2
+-15 3
+-10
+-5
+0
+5
+10
+15
+20
+2015 2016 2017 2018
+Tipo de Cambio (esc. izq. inv.)
+Imp. Bienes de Consumo
+Enero
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2015 2016 2017
+Mayor o igual 2%
+Entre 0 y 2%
+Menor a 0%
+a. e. / Cifras con ajuste estacional.
+Fuente: Bureau of Economic Analysis.
+Fuente: Bureau of Labor Statistics y Reserva
+Federal.
+a. e. / Cifras con ajuste estacional.
+Fuente: Elaborado por Banco de México con
+información de Bureau of Economic Analysis.
+2.1.4. Política Monetaria y Mercados Financieros Internacionales
+En el periodo que cubre este Informe, algunos de los principales bancos centrales
+continuaron avanzando en su estrategia de reducción gradual de su estímulo
+monetario, aunque a diferentes ritmos, dependiendo de su posición en el ciclo
+económico. Si bien el comportamiento reciente de la inflación hasta ahora
+parecería ser congruente con un escenario de ajuste gradual en la postura de
+política monetaria en las principales economías avanzadas, se ha incrementado el
+riesgo de un alza más rápida de lo anticipado en la inflación y, a su vez, en las
+tasas de interés de referencia en algunos de estos países.
+En su reunión de enero, conforme a lo anticipado, la Reserva Federal de Estados
+Unidos mantuvo sin cambio el rango objetivo de la tasa de fondos federales tras
+haberlo incrementado en 25 puntos base en diciembre. Dicha Institución destacó
+que la actividad económica en Estados Unidos ha tenido un desempeño mejor de
+lo esperado, y que anticipa que la inflación aumente este año y se estabilice
+alrededor de su objetivo en el mediano plazo. Esto ha reforzado la perspectiva de
+que incremente su tasa de referencia en marzo. No obstante, señaló que espera
+que las condiciones económicas continúen evolucionando de forma congruente
+con incrementos graduales en su tasa objetivo.
+En su reunión de enero, el Banco Central Europeo (BCE) mantuvo sin cambio los
+niveles de sus tasas de interés de referencia y confirmó que el ritmo actual de
+compra de activos se mantendrá hasta septiembre de este año, si bien advirtió que
+dicha fecha podría extenderse en tanto la inflación no refleje una tendencia
+congruente con su meta. No obstante, el BCE destacó que su postura monetaria
+ha sido efectiva en sentar las bases para alcanzar la meta de inflación en el
+mediano plazo, por lo que no se descarta una revisión a su programa de compra
+de valores a partir de septiembre. Por su parte, en su reunión de enero, el Banco
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 15
+de Japón mantuvo sin cambios su tasa de depósito de corto plazo, el objetivo para la tasa de bonos gubernamentales de largo plazo y el monto de su programa de compra de activos. Finalmente, dicha Institución consideró que su postura monetaria actual continúa siendo la adecuada para la convergencia hacia su meta de la inflación y sus expectativas. Mientras tanto, en las economías emergentes la postura de política monetaria varió entre países, dependiendo de su ubicación en el ciclo económico y de factores idiosincrásicos, observándose aún ajustes a la baja en la tasa de referencia en algunos países, en tanto que otros la elevaron.
+Las sólidas perspectivas de la economía global y la expectativa de que los procesos de normalización de la política monetaria por parte de los principales bancos centrales tendrían lugar de manera gradual continuaron apoyando a los mercados financieros durante la mayor parte del periodo que cubre este Informe. De esta forma, la volatilidad se mantuvo en niveles históricamente bajos en el último trimestre de 2017. Asimismo, los mercados accionarios continuaron mostrando un buen desempeño durante el trimestre, particularmente en Estados Unidos, donde las expectativas y, posteriormente, la materialización de reducciones en tasas impositivas, influyeron favorablemente en los rendimientos esperados del sector corporativo. Sin embargo, a partir de principios de 2018, los mercados financieros globales presentaron episodios de volatilidad, en un contexto de aumentos más pronunciados en las tasas de interés de mediano y largo plazo. Estos eventos parecen reflejar el mayor riesgo de que el proceso de normalización de la política monetaria pudiera ser más acelerado que lo actualmente anticipado por los mercados. Al respecto, el ajuste que se presentó en los mercados accionarios a principios de febrero del presente año se dio en un contexto en el que las valuaciones de dichos activos estaban especialmente elevadas (Gráfica 10a). Por su parte, los flujos de capital a economías emergentes mostraron un comportamiento estable a lo largo de la mayor parte del trimestre, el cual se interrumpió en febrero ante el recrudecimiento de la volatilidad en los mercados financieros internacionales (Gráfica 10b).
+En los mercados de divisas, después de la apreciación del dólar observada durante 2016, reflejando la expectativa que existía de que la Reserva Federal continuaría con el proceso de normalización de su política monetaria, el dólar se depreció de manera generalizada durante la mayor parte de 2017 y principios de 2018, ante las revisiones al alza en las expectativas de crecimiento de otras economías avanzadas. El riesgo de un potencial deterioro en el déficit fiscal y de cuenta corriente de Estados Unidos, como resultado del paquete fiscal recientemente aprobado, podría introducir mayor incertidumbre sobre el desempeño de la economía en el mediano y largo plazo y en la cotización del dólar (Gráfica 11).
+Banco de México
+16 Informe Trimestral Octubre – Diciembre 2017
+Gráfica 10
+Indicadores Financieros de Economías Emergentes
+a) Economías Emergentes: Mercados
+Accionarios
+Índice 01/01/2015 = 100
+b) Flujos Mensuales de Fondos Dedicados a
+Economías Emergentes1/
+En miles de millones de dólares
+50
+75
+100
+125
+150
+175
+200
+225
+250
+2015 2016 2017 2018
+Brasil
+Chile
+China
+Colombia
+India
+México
+Rusia
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+2013 2014 2015 2016 2017 2018
+Deuda
+Acciones
+Promedio Móvil de 3 Meses
+Febrero
+Fuente: Bloomberg. 1/ La muestra cubre fondos utilizados para la compra-venta de
+acciones y bonos de países emergentes, registrados en países
+avanzados. Los flujos excluyen el desempeño de la cartera y
+variaciones en el tipo de cambio.
+Fuente: EPFR.
+Gráfica 11
+Mercados de Divisas
+a) Economías Avanzadas: Tipos de Cambio con
+respecto al Dólar de Estados Unidos
+Índice 01/01/2015 = 100
+b) Economías Emergentes: Tipos de Cambio
+con respecto al Dólar de Estados Unidos
+Índice 01/01/2015 = 100
+70
+75
+80
+85
+90
+95
+100
+105
+110
+115
+120
+125
+130
+2015 2016 2017 2018
+Euro
+Yen Japonés
+Libra Esterlina
+Apreciación
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+200
+210
+220
+2015 2016 2017 2018
+Real Brasileño Corona Checa
+Peso Chileno Peso Colombiano
+Won Coreano Peso Mexicano
+Sol Peruano Zloty Polaco
+Rublo Ruso Lira Turca
+Depreciación
+f rente al dólar
+Fuente: Bloomberg.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 17
+2.1.5. Riesgos para el Panorama Económico Mundial
+El reciente entorno global, caracterizado por un crecimiento más vigoroso y sostenido de las distintas regiones, así como los efectos previsibles de una postura fiscal más expansiva en Estados Unidos, sugieren que en el corto plazo el balance de riesgos para la economía global es al alza. No obstante, para el mediano plazo persisten diversos riesgos importantes que pueden influir desfavorablemente en el crecimiento, como:
+i. Cambios significativos al modelo de integración regional y global, resultado, entre otros, del viraje hacia políticas proteccionistas por parte de algunas economías avanzadas. En este contexto, continúa la incertidumbre asociada a la renegociación del TLCAN y el futuro de la relación del Reino Unido con la Unión Europea.
+ii. Desaceleración económica mayor a la anticipada de China, con posibles implicaciones para la demanda global. Esta podría darse, entre otras razones, por las disrupciones que podría generar un ajuste repentino y brusco en el sistema financiero de ese país.
+iii. Riesgos asociados a un posible escalamiento de tensiones geopolíticas en diversas regiones.
+Por otro lado, también existen riesgos que pudieran incidir sobre la estabilidad financiera global y, en particular, sobre las condiciones de financiamiento de las economías emergentes. Entre estos destacan:
+i. Un proceso de normalización de la política monetaria de Estados Unidos más rápido a lo esperado por los mercados financieros y, posiblemente, en otras economías avanzadas, ante la presencia de mayores presiones inflacionarias.
+ii. Un entorno global de mayores tasas de interés puede presionar la solidez financiera de intermediarios financieros no bancarios, lo que representa retos importantes para la regulación y supervisión, que debe promover una adecuada administración de riesgos.
+Banco de México
+18 Informe Trimestral Octubre – Diciembre 2017
+2.2. Evolución de la Economía Mexicana
+2.2.1. Actividad Económica
+En el último trimestre de 2017, la economía mexicana registró una importante expansión, impulsada especialmente por el desempeño de los servicios. Ello contrasta con la contracción registrada en el tercer trimestre de 2017, la cual fue resultado de los efectos de los sismos ocurridos en septiembre y de la caída extraordinaria en la plataforma de producción petrolera en ese mes. Respecto de los componentes de la demanda agregada, las exportaciones continúan mostrando un buen desempeño y el consumo privado sigue presentando una tendencia positiva, aunque con indicios de cierta desaceleración. En contraste, persistió la debilidad de la inversión.
+Profundizando en el comportamiento de la demanda externa, en el periodo octubre – diciembre de 2017 las exportaciones manufactureras siguieron registrando un desempeño favorable, de manera congruente con un nivel más depreciado del tipo de cambio real respecto a lo observado en 2015 y con el fortalecimiento de la actividad económica global en 2017 (Gráfica 12a).2 La expansión de las exportaciones manufactureras en el cuarto trimestre de 2017 fue resultado tanto del avance de las exportaciones automotrices, como del resto de las manufacturas. Al interior de las exportaciones automotrices, se registraron incrementos en los envíos a Estados Unidos y al resto del mundo, si bien el ritmo de crecimiento de estos últimos ha sido más pronunciado (ver Recuadro 2). Por su parte, la evolución favorable de las exportaciones manufactureras no automotrices se ha derivado, en buena medida, del dinamismo de las dirigidas a países distintos de Estados Unidos, toda vez que las enviadas a ese país han presentado cierta desaceleración (Gráfica 12b y Gráfica 12c). Por su parte, las exportaciones petroleras mostraron un aumento en el trimestre de referencia, si bien continuaron situándose en niveles bajos. Dicho avance se originó por un mayor precio promedio de la mezcla mexicana de crudo de exportación y un alza en la plataforma de crudo exportado, con relación al trimestre previo (Gráfica 12d).
+2 Si bien el tipo de cambio real en 2017 se apreció respecto a 2016, se mantuvo más depreciado que en 2015, cuando ya se había ajustado ante la caída de los precios internacionales del petróleo observada a partir de la segunda mitad de 2014.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 19
+Gráfica 12
+Exportaciones de México
+Índice 2013=100, a. e.
+a) Exportaciones Manufactureras
+Totales
+b) Exportaciones Manufactureras
+No Automotrices
+80
+90
+100
+110
+120
+130
+2012 2013 2014 2015 2016 2017
+Total
+Estados Unidos
+Resto
+Diciembre
+80
+90
+100
+110
+120
+130
+2012 2013 2014 2015 2016 2017
+Total
+Estados Unidos
+Resto
+Diciembre
+a. e. / Serie con ajuste estacional y serie de tendencia basadas en información en dólares nominales. La primera se representa con
+la línea sólida y la segunda con la punteada.
+Fuente: Banco de México con base en SAT, SE, Banco de México, INEGI. Balanza Comercial de Mercancías de México. SNIEG.
+Información de Interés Nacional.
+c) Exportaciones Manufactureras
+Automotrices
+d) Exportaciones Petroleras y Plataforma de
+Exportación de Petróleo Crudo
+60
+80
+100
+120
+140
+160
+180
+2012 2013 2014 2015 2016 2017
+Total
+Estados Unidos
+Resto
+Diciembre
+20
+40
+60
+80
+100
+120
+140
+160
+2012 2013 2014 2015 2016 2017
+Exportaciones Petroleras
+Plataforma de Exportación de Petróleo Crudo 1/
+Diciembre
+a. e. / Serie con ajuste estacional y serie de tendencia basadas
+en información en dólares nominales. La primera se
+representa con la línea sólida y la segunda con la
+punteada.
+Fuente: Banco de México con base en SAT, SE, Banco de
+México, INEGI. Balanza Comercial de Mercancías de
+México. SNIEG. Información de Interés Nacional.
+a. e. / Serie con ajuste estacional basada en información en
+dólares nominales.
+1/ Promedio móvil de tres meses de barriles diarios de la serie
+con ajuste estacional.
+Fuente: Banco de México con base en PMI Comercio
+Internacional, S.A. de C.V; y SAT, SE, Banco de
+México, INEGI. Balanza Comercial de Mercancías de
+México. SNIEG. Información de Interés Nacional.
+Banco de México
+20 Informe Trimestral Octubre – Diciembre 2017
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 21
+Banco de México
+22 Informe Trimestral Octubre – Diciembre 2017
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 23
+En cuanto a la demanda interna, en el cuarto trimestre de 2017 se observó heterogeneidad en el comportamiento de sus componentes. En efecto, el consumo privado continuó registrando una tendencia positiva, si bien mostró indicios de una desaceleración, al tiempo que la inversión siguió exhibiendo una trayectoria negativa:
+i. La incipiente desaceleración del indicador mensual del consumo privado podría asociarse, en parte, a los efectos adversos de los sismos ocurridos en septiembre, lo cual parecería haber afectado principalmente al consumo de servicios, toda vez que el de bienes mantuvo una tendencia positiva (Gráfica 13a). No obstante, en el comportamiento del consumo privado podría además estar influyendo cierta pérdida de dinamismo en algunos de sus determinantes. En efecto, la masa salarial ha presentado una caída en términos reales en los últimos trimestres (Gráfica 14a). Esta reducción se asocia a la disminución de los ingresos promedio reales, toda vez que la población ocupada siguió expandiéndose en el periodo que se reporta. Asimismo, la confianza de los consumidores se deterioró hacia finales de 2017 y principios de 2018, al tiempo que el crédito al consumo continuó mostrando menores tasas de crecimiento respecto a lo observado en 2016 (Gráfica 14c y ver Sección 2.2.3). En contraste, los ingresos por remesas permanecieron particularmente elevados, lo que podría haber contribuido a que el consumo privado mantuviera cierta tendencia positiva (Gráfica 14b).
+ii. Indicadores más oportunos, aunque de menor cobertura, como los ingresos en establecimientos comerciales al por menor, continuaron exhibiendo una desaceleración con respecto al dinamismo que registraron en 2016, al tiempo que las ventas internas de vehículos ligeros siguieron mostrando la tendencia negativa que inició a finales de ese mismo año (Gráfica 13b).
+iii. Por su parte, en el cuarto trimestre de 2017 continuó la trayectoria negativa del gasto en inversión observada durante la mayor parte de ese año (Gráfica 15a). En particular, durante el bimestre octubre – noviembre el gasto en maquinaria y equipo exhibió un cambio de tendencia desfavorable, mientras que el gasto en construcción siguió presentando una trayectoria decreciente. En cuanto a la inversión en construcción, persistió la atonía del componente residencial, al tiempo que el no residencial mantuvo la tendencia descendente que ha registrado desde inicios de 2015 (Gráfica 15b). Por sector contratante, en el periodo que se reporta la inversión privada en construcción continuó mostrando una trayectoria negativa, la cual es posible que se esté viendo influida por la incertidumbre en torno a la renegociación del TLCAN. Asimismo, el gasto en inversión pública en construcción, si bien mostró una ligera recuperación en la segunda mitad de 2017, se ubica en niveles particularmente bajos, después de haber exhibido una tendencia decreciente, especialmente desde finales de 2015 (Gráfica 15c).
+Banco de México
+24 Informe Trimestral Octubre – Diciembre 2017
+Gráfica 13
+Indicadores de Consumo
+Índice 2013=100, a. e.
+a) Consumo Privado Total, Consumo de Bienes y
+de Servicios Nacionales
+b) Ventas Internas de Vehículos Ligeros al
+Menudeo e Ingresos en Establecimientos
+Comerciales al por Menor
+93
+100
+107
+114
+121
+2012 2013 2014 2015 2016 2017
+Total
+Bienes Totales 1/
+Servicios Nacionales
+Nov iembre
+70
+85
+100
+115
+130
+145
+160
+175
+2012 2013 2014 2015 2016 2017 2018
+Ventas Internas de Vehículos Ligeros al
+Menudeo
+Ingresos al por Menor
+Enero
+Diciembre
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda
+con la punteada.
+1/ Elaboración y desestacionalización de Banco de México. Incluye
+bienes nacionales e importados.
+Fuente: Sistema de Cuentas Nacionales (SCNM), INEGI.
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda
+con la punteada.
+Fuente: Elaboración de Banco de México con información de la
+Asociación Mexicana de la Industria Automotriz (AMIA)
+y de la Encuesta Mensual sobre Empresas
+Comerciales (EMEC), INEGI.
+Gráfica 14
+Determinantes del Consumo
+a) Masa Salarial Real Total
+Índice 2013=100, a. e.
+b) Remesas
+Miles de millones de dólares y de
+pesos constantes, a. e.
+c) Confianza del Consumidor
+Índice enero 2003=100, a. e.
+80
+85
+90
+95
+100
+105
+110
+115
+120
+125
+2005 2007 2009 2011 2013 2015 2017
+Población Ocupada Remunerada
+Ingreso Promedio Real
+Masa Salarial Real
+IV Trim.
+18.0
+21.8
+25.6
+29.4
+33.2
+37.0
+40.8
+44.6
+1.4
+1.6
+1.8
+2.0
+2.2
+2.4
+2.6
+2.8
+2012 2013 2014 2015 2016 2017
+Dólares
+Pesos 1/
+Diciembre
+65
+70
+75
+80
+85
+90
+95
+100
+105
+2012 2013 2014 2015 2016 2017 2018
+Enero
+a. e. / Serie con ajuste estacional.
+Fuente: Elaboración de Banco de México con
+información de la Encuesta Nacional de
+Ocupación y Empleo (ENOE), INEGI.
+a. e. / Serie con ajuste estacional y serie de
+tendencia. La primera se representa con la
+línea sólida y la segunda con la punteada.
+1/ A precios de la segunda quincena de diciembre
+de 2010.
+Fuente: Banco de México e INEGI.
+a. e. / Serie con ajuste estacional y serie de
+tendencia. La primera se representa con la
+línea sólida y la segunda con la punteada.
+Fuente: Encuesta Nacional sobre la Confianza del
+Consumidor (ENCO), INEGI y Banco de
+México.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 25
+Gráfica 15
+Indicadores de Inversión
+a) Inversión y sus Componentes
+Índice 2013=100, a. e.
+b) Inversión en Construcción
+Residencial y No Residencial
+Índice 2013=100, a. e.
+c) Valor Real de la Producción en la
+Construcción por Sector Institucional
+Contratante
+Índice enero 2012=100, a. e.
+90
+95
+100
+105
+110
+115
+120
+125
+130
+2012 2013 2014 2015 2016 2017
+Total
+Maquinaria y Equipo
+Construcción
+Noviembre
+85
+90
+95
+100
+105
+110
+115
+120
+125
+2012 2013 2014 2015 2016 2017
+No Residencial
+Residencial
+Noviembre
+50
+75
+100
+125
+150
+175
+200
+2012 2013 2014 2015 2016 2017
+Total
+Pública
+Privada
+Privada Vivienda
+Privada sin Vivienda
+Diciembre
+a. e. / Serie con ajuste estacional y serie de
+tendencia. La primera se representa con la
+línea sólida y la segunda con la punteada.
+Fuente: Sistema de Cuentas Nacionales de México
+(SCNM), INEGI.
+a. e. / Serie con ajuste estacional y serie de
+tendencia. La primera se representa con la
+línea sólida y la segunda con la punteada.
+Fuente: Sistema de Cuentas Nacionales de México
+(SCNM), INEGI.
+a. e. / Serie con ajuste estacional y serie de
+tendencia. La primera se representa con la
+línea sólida y la segunda con la punteada.
+Fuente: Elaboración de Banco de México con
+información de la Encuesta Nacional de
+Empresas Constructoras (ENEC), INEGI.
+Desestacionalización de Banco de México,
+excepto el total.
+Con relación al comportamiento de la actividad económica por el lado de la
+producción, en el cuarto trimestre de 2017 el PIB se expandió a una tasa trimestral
+desestacionalizada de 0.78 por ciento (1.5 por ciento a tasa anual con cifras
+originales y con datos ajustados por estacionalidad), luego de haberse contraído
+0.17 por ciento en el tercer trimestre (Gráfica 16a y Gráfica 16b). Con estos
+resultados, la actividad económica en todo 2017 creció 2.0 por ciento (2.3 por
+ciento con datos ajustados por estacionalidad), cifra que se compara con la tasa
+de 2.9 por ciento registrada en 2016 (2.7 por ciento con cifras
+desestacionalizadas).3
+Por el lado de las actividades productivas, la expansión registrada en el cuarto
+trimestre de 2017 estuvo impulsada por el dinamismo del sector de servicios, luego
+de que estas actividades se vieran afectadas por los sismos de septiembre. En
+contraste, la actividad industrial siguió exhibiendo un débil desempeño, si bien en
+diciembre se observó un repunte, reflejando un mejor desempeño de la
+construcción en ese mes, el cual podría estar asociado a los esfuerzos de
+reconstrucción a raíz de los movimientos telúricos de septiembre (Gráfica 17a y
+Gráfica 17b). En particular:
+i. Al interior de la actividad industrial, en el cuarto trimestre de 2017 la
+minería continuó mostrando la tendencia negativa que ha venido
+presentando en los últimos años. No obstante, en octubre se recuperó de
+3 En 2017, la tasa de crecimiento anual del PIB con series originales resultó menor que la calculada con
+cifras ajustadas por estacionalidad debido a su mayor base de comparación respecto al año anterior, toda
+vez que 2016 fue año bisiesto. Cabe notar que, de manera inversa y por el mismo motivo, en 2016 la tasa
+de crecimiento del PIB con cifras sin desestacionalizar fue mayor que la calculada con datos ajustados por
+estacionalidad.
+Banco de México
+26 Informe Trimestral Octubre – Diciembre 2017
+la contracción extraordinaria registrada en septiembre por la caída en la
+producción petrolera (Gráfica 18b).
+Gráfica 16
+Producto Interno Bruto
+a) Variaciones Trimestrales
+Por ciento, a. e.
+b) Variaciones Anuales
+Por ciento
+2012 2013 2014 2015 2016 2017
+-1.0
+-0.5
+0.0
+0.5
+1.0
+1.5
+2.0
+IV Trim.
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+2012 2013 2014 2015 2016 2017
+Original
+Desestacionalizada
+IV Trim.
+a. e. / Serie con ajuste estacional.
+Fuente: Sistema de Cuentas Nacionales de México, INEGI.
+Gráfica 17
+Indicadores de Producción
+Índice 2013=100, a. e.
+a) Indicador Global de la Actividad
+Económica
+b) Actividad Industrial
+85
+100
+115
+130
+90
+100
+110
+120
+2012 2013 2014 2015 2016 2017
+Total
+Actividades Secundarias
+Actividades Terciarias
+Actividades Primarias
+Diciembre
+70
+75
+80
+85
+90
+95
+100
+105
+110
+115
+2012 2013 2014 2015 2016 2017
+Manufacturas
+Construcción
+Electricidad, Agua y Gas
+Minería
+Diciembre
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda con
+la punteada.
+Fuente: Sistema de Cuentas Nacionales de México (SCNM),
+INEGI.
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda con
+la punteada.
+Fuente: Indicador Mensual de la Actividad Industrial, Sistema de
+Cuentas Nacionales de México (SCNM), INEGI.
+ii. Por el contrario, en el periodo de referencia la actividad manufacturera
+exhibió una trayectoria positiva, aunque persistió el menor ritmo de
+crecimiento respecto al observado en la segunda mitad de 2016 (Gráfica
+17b). A su interior, el subsector de equipo de transporte mostró cierta
+pérdida de dinamismo en comparación con el incremento que presentó
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 27
+en 2016 y la primera mitad de 2017. En contraste, el agregado de las manufacturas sin equipo de transporte registró una recuperación en los últimos meses, luego del debilitamiento que exhibió a finales de 2016 y principios de 2017 (Gráfica 18a). A su interior, si bien el subsector de la industria de las bebidas y del tabaco, así como el de la industria metálica básica, mostraron un comportamiento favorable, el subsector de fabricación de productos derivados del petróleo y del carbón siguió presentando una tendencia negativa, al tiempo que los de la industria química y de fabricación de equipo de computación y otros componentes electrónicos registraron cierta desaceleración, congruente con lo observado en las exportaciones no automotrices a Estados Unidos.
+iii. A la recuperación que las actividades terciarias exhibieron en el cuarto trimestre de 2017 contribuyeron, principalmente, el avance mostrado en el comercio y los incrementos reportados en los rubros de transporte, correos y almacenamiento; servicios educativos; servicios de apoyo a los negocios; e información en medios masivos (Gráfica 19). En este contexto, el desempeño favorable de algunos de los rubros de servicios en el periodo de referencia parecería haber reflejado el desvanecimiento de los efectos de los sismos ocurridos en septiembre.
+iv. La expansión trimestral desestacionalizada de las actividades primarias en el cuarto trimestre de 2017 se derivó, en buena medida, de una mayor superficie cosechada del ciclo otoño – invierno, además de aumentos en la producción de maíz en grano, algodón, aguacate, nuez y sorgo en grano (Gráfica 17a).
+Respecto de las cuentas externas del país, en un contexto en el que el tipo de cambio real se mantuvo en niveles depreciados respecto a lo observado en 2015 y en el que el fortalecimiento de la actividad económica a nivel global contribuyó a que las exportaciones manufactureras de México continuaran recuperándose, en 2017 el déficit de la cuenta corriente siguió disminuyendo y alcanzó niveles inferiores a los registrados en 2015 y 2016. Esto a pesar de que en el cuarto trimestre de 2017 este se incrementó respecto al mismo periodo de 2016 (Gráfica 20b y Gráfica 20c). En particular, el déficit de la cuenta corriente como proporción del PIB pasó de 2.1 a 1.6 por ciento entre 2016 y 2017 (de 22.8 a 18.8 miles de millones de dólares, respectivamente). El menor déficit en 2017 respecto a 2016 reflejó, principalmente, el mayor saldo de la balanza de productos no petroleros, el cual incluso pasó de un déficit en 2015 y 2016 a un superávit en 2017, aunque también contribuyeron los mayores superávits en las cuentas de remesas y de viajes. En contraste, en 2017 el déficit de la balanza comercial petrolera continuó ampliándose (Gráfica 20a).
+Banco de México
+28 Informe Trimestral Octubre – Diciembre 2017
+Gráfica 18
+Sector Manufacturero y Sector Minero
+Índice 2013=100, a. e.
+a) Sector Manufacturero b) Componentes del Sector de la Minería
+85
+100
+115
+130
+145
+96
+98
+100
+102
+104
+106
+108
+110
+2012 2013 2014 2015 2016 2017
+Manufacturas sin Equip o de
+Transporte 1/
+Subsector Manufacturero de
+Equipo de Transporte
+Diciembre
+50
+60
+70
+80
+90
+100
+110
+120
+2012 2013 2014 2015 2016 2017
+Extracción de Petróleo y Gas
+Servicios Relacionados con la
+Minería
+Minería de Minerales Metálicos y
+No Metálicos
+Diciembre
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda con
+la punteada.
+1/ Elaboración y desestacionalización del Banco de México.
+Fuente: Indicador Mensual de la Actividad Industrial, Sistema de
+Cuentas Nacionales de México (SCNM), INEGI.
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda con
+la punteada.
+Fuente: Indicador Mensual de la Actividad Industrial, Sistema de
+Cuentas Nacionales de México (SCNM), INEGI.
+Gráfica 19
+IGAE del Sector Servicios
+Índice 2013=100, a. e.
+90
+100
+110
+120
+130
+2012 2013 2014 2015 2016 2017
+Transportes e Inf. en Medios Masivos
+Alojamiento y Preparación de Alimentos
+Comercio 1/
+Esparcimiento y Otros
+Diciembre
+90
+100
+110
+120
+130
+2012 2013 2014 2015 2016 2017
+Financieros e Inmobiliarios
+Prof., Corp. y Apoyo a Negocios
+Educativos y Salud
+Actividades de Gobierno
+Diciembre
+a. e. / Serie con ajuste estacional y serie de tendencia. La primera se representa con la línea sólida y la segunda con la punteada.
+1/ Elaboración de Banco de México. Incluye el comercio al por menor y al por mayor.
+Fuente: Sistema de Cuentas Nacionales de México (SCNM), INEGI.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 29
+Gráfica 20
+Balanza Comercial y Cuenta Corriente
+a) Balanza Comercial
+Millones de dólares
+b) Cuenta Corriente
+Millones de dólares
+c) Cuenta Corriente
+Proporción del PIB
+-8,000
+-6,000
+-4,000
+-2,000
+0
+2,000
+4,000
+6,000
+8,000
+2012 2013 2014 2015 2016 2017
+Total
+Petrolera
+No Petrolera
+IV Trim.
+-12,000
+-10,000
+-8,000
+-6,000
+-4,000
+-2,000
+0
+2,000
+2012 2013 2014 2015 2016 2017
+IV Trim.
+-5.0
+-4.0
+-3.0
+-2.0
+-1.0
+0.0
+1.0
+2012 2013 2014 2015 2016 2017
+IV Trim.
+Fuente: SAT, SE, Banco de México, INEGI. Balanza
+Comercial de Mercancías de México.
+SNIEG. Información de Interés Nacional.
+Fuente: Banco de México.
+Fuente: Banco de México e INEGI.
+2.2.2. Mercado Laboral
+En el cuarto trimestre de 2017 las tasas de desocupación permanecieron en niveles
+particularmente bajos (Gráfica 21) y menores a los que se estima que en los últimos
+años han sido congruentes con un entorno de inflación estable (Gráfica 22), aunque
+en los últimos meses parecen haber frenado su tendencia a la baja. Lo anterior se
+ha dado en un contexto en el que la participación laboral se ha ubicado en niveles
+reducidos, aunque en el periodo que se reporta se incrementó respecto al trimestre
+previo, si bien desde niveles bajos. Así, las tasas de ocupación de la economía en
+su conjunto continuaron creciendo, al tiempo que el número de puestos de trabajo
+afiliados al IMSS siguió registrando un elevado dinamismo y la tasa de informalidad
+laboral mantuvo una tendencia decreciente, situándose alrededor de los niveles
+más bajos de los últimos trece años.4
+No obstante lo anterior, no se han detectado presiones salariales de consideración
+en el periodo que se reporta. Los indicadores salariales presentaron tasas de
+crecimiento nominal similares a las del trimestre previo, lo que en una comparación
+con la inflación acumulada en los cuatro trimestres previos implicó variaciones
+reales negativas, si bien en la comparación con la inflación esperada en el último
+trimestre de 2017 para los próximos doce meses representó un ligero avance en
+términos reales. En particular, el salario promedio nominal de los trabajadores
+asalariados en la economía registró una tasa de crecimiento anual de 4.1 por
+ciento, incremento similar al observado en el trimestre anterior, en tanto que la
+revisión promedio de los salarios contractuales negociados por empresas de
+jurisdicción federal fue de 4.0 por ciento (Gráfica 23). En contraste, el salario diario
+asociado a trabajadores asegurados en el IMSS exhibió un aumento anual nominal
+de 5.2 por ciento. El comportamiento de algunos salarios nominales en el último
+trimestre pudo estar influido por el aumento al salario mínimo el cual, a diferencia
+4 Actualmente, tanto las tasas de desocupación, como las de informalidad laboral, se miden con base en los
+resultados de la Encuesta Nacional de Ocupación y Empleo (ENOE), la cual comenzó a levantarse en
+2005.
+Banco de México
+30 Informe Trimestral Octubre – Diciembre 2017
+de años anteriores, tuvo efecto desde el primero de diciembre y no en enero del siguiente año.
+Así, como resultado en buena medida de la ausencia de presiones significativas sobre las remuneraciones medias reales, los costos de la mano de obra en la economía en su conjunto disminuyeron en el último trimestre del año y mantuvieron una tendencia a la baja. Cabe destacar, no obstante, que aquellos correspondientes al sector manufacturero en particular continuaron mostrando una tendencia al alza (Gráfica 24a y Gráfica 24b).
+Cabe notar que el comportamiento de las remuneraciones reales en 2017 reflejó, en parte, el ajuste inducido por la considerable depreciación que el tipo de cambio real ha presentado con respecto a su nivel en 2015, como consecuencia de los choques a los que la economía mexicana ha estado sujeta. En este sentido, la política monetaria, en cumplimiento de su mandato, ha tomado acciones conducentes para preservar el poder adquisitivo de la moneda, de tal modo que, incluso ante la presencia de dichos choques, se han mitigado los efectos adversos de este entorno sobre los salarios reales.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 31
+Gráfica 21
+Indicadores del Mercado Laboral
+a) Tasas de Desocupación Nacional y
+Urbana
+Por ciento, a. e.
+b) Tasa de Participación Laboral Nacional 1/
+Por ciento, a. e.
+2005 2007 2009 2011 2013 2015 2017
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+8.5
+Tasa de Desocupación Urbana
+Tasa de Desocupación Nacional
+Diciembre
+58.0
+58.5
+59.0
+59.5
+60.0
+60.5
+61.0
+61.5
+2005 2007 2009 2011 2013 2015 2017
+Diciembre
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda con
+la punteada.
+Fuente: Encuesta Nacional de Ocupación y Empleo (ENOE),
+INEGI.
+a. e. / Serie con ajuste estacional y serie de tendencia. La primera
+se representa con la línea sólida y la segunda con la
+punteada.
+1/ Porcentaje de la Población Económicamente Activa (PEA)
+respecto de la de 15 y más años de edad.
+Fuente: Encuesta Nacional de Ocupación y Empleo (ENOE),
+INEGI.
+c) Puestos de Trabajo Afiliados al IMSS,
+IGAE Total y Población Ocupada
+Índice 2013=100, a. e.
+d) Ocupación en el Sector Informal 1/
+e Informalidad Laboral 2/
+Por ciento, a. e.
+75
+80
+85
+90
+95
+100
+105
+110
+115
+120
+125
+2006 2008 2010 2012 2014 2016 2018
+Puestos de Trabajo Afiliados al IMSS 1/
+IGAE Total
+Población Ocupada
+Enero
+Diciembre
+IV Trim.
+55
+56
+57
+58
+59
+60
+61
+62
+26
+27
+28
+29
+30
+31
+32
+33
+2005 2007 2009 2011 2013 2015 2017
+Tasa de Ocupación en el Sector Informal
+Tasa de Informalidad Laboral
+Diciembre
+a. e. / Serie con ajuste estacional.
+1/ Permanentes y eventuales urbanos. Desestacionalización de
+Banco de México.
+Fuente: Elaboración de Banco de México con información del
+IMSS e INEGI (SCNM y ENOE).
+a. e. / Serie con ajuste estacional y serie de tendencia. La primera
+se representa con la línea sólida y la segunda con la
+punteada.
+1/ Se refiere a las personas que trabajan para unidades
+económicas no agropecuarias operadas sin registros contables
+y que funcionan a través de los recursos del hogar.
+2/ Incluye a los trabajadores que, además de los que se emplean
+en el sector informal, laboran sin la protección de la seguridad
+social y cuyos servicios son utilizados por unidades económicas
+registradas y a los ocupados por cuenta propia en la agricultura
+de subsistencia.
+Fuente: Encuesta Nacional de Ocupación y Empleo (ENOE),
+INEGI.
+Banco de México
+32 Informe Trimestral Octubre – Diciembre 2017
+Gráfica 22
+Estimación de la Brecha de Desempleo
+Por ciento, a. e.
+a) Tasa de Desempleo 1/ b) Tasa de Desempleo e Informales
+Asalariados 1/
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+2003 2005 2007 2009 2011 2013 2015 2017
+Diciembre
+-3
+-2
+-1
+0
+1
+2
+3
+4
+2003 2005 2007 2009 2011 2013 2015 2017
+Diciembre
+a. e. / Cifras con ajuste estacional.
+1/ Las sombras representan las bandas de confianza. El intervalo
+corresponde a dos desviaciones estándar promedio de entre
+todas las estimaciones.
+Fuente: Banco de México.
+a. e. / Cifras con ajuste estacional.
+1/ Las sombras representan las bandas de confianza. El
+intervalo corresponde a dos desviaciones estándar promedio
+de entre todas las estimaciones.
+Fuente: Banco de México.
+Gráfica 23
+Indicadores Salariales
+Variación anual en por ciento
+a) Salario Promedio de Asalariados
+según la ENOE 1/
+b) Salario Contractual Nominal 2/ c) Salario Diario Asociado a
+Trabajadores Asegurados en el
+IMSS 3/
+-4
+-2
+0
+2
+4
+6
+2012 2013 2014 2015 2016 2017
+Nominal
+Real
+IV Trim.
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+2012 2013 2014 2015 2016 2017
+Total
+Empresas Públicas
+Empresas Privadas
+IV Trim.
+3.1
+3.6
+4.6
+5.6
+4.0
+3.1
+5.2
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+2009 2011 2013 2015 2017
+Nominal
+Real
+IV Trim.
+1/ Para calcular los salarios nominales promedio se truncó el 1 por ciento más bajo y el 1 por ciento más elevado de la distribución de los salarios. Se excluyen
+personas con ingreso reportado de cero o que no lo reportaron.
+2/ El incremento salarial contractual es un promedio ponderado por el número de trabajadores involucrados. El número de trabajadores de empresas de jurisdicción
+federal que anualmente reportan sus incrementos salariales a la STPS equivale aproximadamente a 2.3 millones.
+3/ Durante el cuarto trimestre de 2017 se registraron en promedio 19.6 millones de trabajadores asegurados en el IMSS.
+Fuente: Cálculos elaborados por el Banco de México con información de IMSS, STPS e INEGI (ENOE).
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 33
+Gráfica 24
+Productividad y Costo Unitario de la Mano de Obra
+Índice 2008=100, a. e.
+a) Total de la Economía 1/ b) Manufacturas 1/
+80
+84
+88
+92
+96
+100
+104
+108
+2007 2009 2011 2013 2015 2017
+Productividad
+Costos Unitar ios
+IV Trim. e/
+92
+94
+96
+98
+100
+102
+104
+106
+108
+2007 2009 2011 2013 2015 2017
+Productividad
+Costos Unitar ios
+Diciembre
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda con
+la punteada.
+e/ El dato del cuarto trimestre de 2017 es una estimación de
+Banco de México a partir del PIB del SCNM del INEGI.
+1/ Productividad laboral elaborada con las horas trabajadas.
+Series con Base 2013 del Sistema de Cuentas Nacionales de
+México.
+Fuente: Elaboración de Banco de México con cifras del INEGI.
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda con
+la punteada.
+1/ Productividad laboral elaborada con las horas trabajadas.
+Fuente: Elaboración de Banco de México a partir de información
+desestacionalizada de la Encuesta Mensual de la
+Industria Manufacturera y del Indicador Mensual de la
+Actividad Industrial del Sistema de Cuentas Nacionales
+de México. Series con Base 2013, INEGI.
+2.2.3. Activos Financieros Internos, Dinero y Financiamiento
+El 31 de enero de 2018, el Banco de México publicó una nueva estadística de
+agregados monetarios, activos financieros internos y financiamiento, la cual amplía
+la gama de ejercicios analíticos que pueden llevarse a cabo para entender mejor
+la interacción entre dichos indicadores y la evolución de la actividad económica y
+la inflación en México, lo cual es un insumo fundamental para las decisiones de
+política monetaria.5 El Recuadro 3 resume las características de la nueva
+estadística e ilustra algunos de sus posibles usos analíticos.
+5 De hecho, estos indicadores se utilizan en el Recuadro 4 para identificar las condiciones de holgura en la
+economía.
+Banco de México
+34 Informe Trimestral Octubre – Diciembre 2017
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 35
+Banco de México
+36 Informe Trimestral Octubre – Diciembre 2017
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 37
+Banco de México
+38 Informe Trimestral Octubre – Diciembre 2017
+2.2.3.1. Fuentes y Usos de Recursos Financieros de la Economía 6
+Antes de analizar la evolución que han presentado las fuentes y los usos de recursos financieros de la economía en el periodo que se estudia en este Informe, conviene hacer una reflexión sobre su dinámica bajo una perspectiva de más largo plazo, que presente cómo esta se ha venido ajustando con relación a los distintos choques que ha venido enfrentando la economía mexicana desde 2014. En particular, a partir del último trimestre de ese año nuestra economía ha estado sujeta a una serie de choques adversos que, en general, condujeron a una mayor restricción de financiamiento externo. Entre ellos destacan, en primer lugar, la caída de los precios internacionales del petróleo en 2014 y 2015, y posteriormente, las consecuencias que sobre los mercados financieros nacionales tuvieron el proceso electoral en Estados Unidos y su desenlace, y la incertidumbre con relación al proceso de normalización de la política monetaria en las economías avanzadas, particularmente en Estados Unidos. Como consecuencia de estos choques, las fuentes externas de recursos financieros de la economía mexicana se redujeron significativamente, de niveles superiores a 4 por ciento del PIB en promedio en 2013 y 2014, a un promedio anual de 1.4 por ciento del producto entre 2015 y 2017 (Cuadro 1). Esta restricción de financiamiento externo requería un ajuste en la postura macroeconómica de México tal que, por un lado, dada la fase del ciclo en la que se encontraba la economía, propiciara una reducción en la absorción y que indujera un mayor ahorro en la economía para incrementar las fuentes internas de financiamiento y, por el otro, un menor uso de recursos financieros por parte del sector público, de tal modo que se diera un ajuste más eficiente en la canalización de financiamiento hacia los distintos sectores de la economía, evitando que la mayor parte de la reducción en el financiamiento recayera sobre las actividades productivas y los hogares.
+En este contexto, dicho ajuste se dio en dos vertientes. En primer lugar, las acciones de política monetaria implementadas por el Banco de México a partir del último trimestre de 2015 contribuyeron a un ajuste ordenado en el mercado de fondos prestables. En particular, la postura monetaria más restrictiva mantuvo ancladas las expectativas de inflación de mediano y largo plazo, reforzando la resiliencia de la economía ante un entorno más adverso, e indujo a que los agentes económicos reasignaran gasto intertemporalmente, reduciendo así la absorción de la economía. Ello generó un incremento en el ahorro financiero de los agentes, aumentando la oferta de fondos prestables. En efecto, las fuentes internas de recursos se incrementaron entre 2015 y 2017, al pasar de 4.6 a 6.6 por ciento del PIB durante ese periodo, destacando la recuperación de las fuentes monetarias –y en particular de los instrumentos dentro del M2, que son los que constituyen una de las fuentes de recursos de los intermediarios financieros para la canalización de crédito a los distintos sectores de la economía–. En consecuencia, las acciones de política monetaria mencionadas se reflejarían también en condiciones de financiamiento más astringentes para los usuarios del crédito. En segundo lugar, era importante que el ajuste afectara lo menos posible a las actividades productivas. En particular, en ese contexto, a partir de 2016 se ha venido llevando a cabo un esfuerzo de consolidación fiscal que ha permitido liberar recursos para
+6 A menos que se indique lo contrario, en esta sección las tasas de crecimiento se expresan en términos reales anuales y se calculan con base en los saldos ajustados por efectos de variaciones en el tipo de cambio y precios de los activos.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 39
+que los intermediarios financieros los canalicen al sector privado, mitigándose así
+las presiones sobre los costos de financiamiento correspondientes.
+Cuadro 1
+Fuentes y Usos de Recursos Financieros de la Economía
+2013 2014 2015 2016 2017 2013 2014 2015 2016 2017
+Total de Fuentes 10.0 9.7 5.8 7.4 7.8 5.9 5.3 3.4 3.8 0.9
+Fuentes Internas (F1) 1/ 5.7 5.6 4.6 5.5 6.6 5.6 5.1 5.3 5.4 3.6
+Monetarias 2/ 3.8 3.2 2.7 3.6 4.2 6.0 4.1 4.7 5.7 3.7
+No Monetarias 3/ 1.9 2.4 1.9 1.9 2.3 5.0 7.0 6.3 4.9 3.4
+Fuentes Externas 4/ 4.2 4.1 1.2 1.9 1.2 6.3 5.7 0.6 1.3 -3.4
+Total de Usos 10.0 9.7 5.8 7.4 7.8 5.9 5.3 3.4 3.8 0.9
+Reserva Internacional 5/ 1.0 1.3 -1.5 0.0 -0.4 0.8 2.0 -9.2 -3.5 -8.5
+Financiamiento al Sector Público 4.1 4.7 4.2 2.8 1.1 4.6 5.7 6.3 2.4 -4.1
+Público Federal 3.7 4.5 4.0 2.8 1.1 4.3 6.0 6.5 2.6 -4.1
+Estados y municipios 0.4 0.2 0.1 0.1 0.1 9.1 2.5 2.9 -0.6 -4.6
+Financiamiento al Sector Privado 4.2 2.5 3.1 3.0 3.8 6.6 2.2 5.5 4.0 2.8
+Interno 2.5 1.7 3.0 3.0 3.3 5.3 2.1 8.9 7.3 4.5
+Externo 1.7 0.8 0.1 0.0 0.5 9.5 2.4 -1.6 -3.5 -1.7
+Otros conceptos 6/
+0.7 1.2 0.1 1.6 3.2 n.s. n.s. n.s. n.s. n.s.
+Flujos anuales como porcentaje del PIB Variación real anual
+Nota: Los flujos anuales se expresan en por ciento del PIB nominal promedio anual.
+1/ Corresponde al agregado de activos financieros internos F1, el cual incluye al agregado monetario M3 más otros instrumentos en poder de los
+sectores residentes tenedores de dinero que no son considerados en los agregados monetarios.
+2/ Se refiere a los instrumentos financieros incluidos en el agregado monetario M3, el cual está compuesto por el M2 más los valores emitidos por el
+Gobierno Federal, el Banco de México (BREMs) y el IPAB en poder de los sectores residentes tenedores de dinero.
+3/ Incluye los fondos de ahorro para la vivienda y el retiro, valores privados, otros valores públicos y otros pasivos bancarios (títulos de crédito emitidos
+por la banca con plazo residual mayor a 5 años y obligaciones subordinadas).
+4/ Incluye el agregado monetario M4 en poder de no residentes (igual a la diferencia del agregado monetario M4 menos M3), el endeudamiento externo
+del Gobierno Federal, de organismos y empresas públicas, los pasivos externos de la banca comercial, el financiamiento externo al sector privado
+no financiero, la captación de agencias y otros instrumentos no monetarios en poder de no residentes.
+5/ Según se define en la Ley del Banco de México.
+6/ Incluye las cuentas de capital y resultados y otros activos y pasivos de la banca comercial y de desarrollo, de los intermediarios financieros no
+bancarios, del Infonavit y del Banco de México –incluyendo los títulos colocados por este Instituto Central con propósitos de regulación monetaria,
+destacando aquellos asociados a la esterilización del impacto monetario de sus remanentes de operación–. Asimismo, incluye pasivos no monetarios
+del IPAB, así como el efecto del cambio en la valuación de los instrumentos de deuda pública, entre otros conceptos.
+Fuente: Banco de México.
+En este contexto, durante 2017 continuó registrándose una menor disponibilidad
+de fuentes externas de recursos financieros. Por su parte, la participación relativa
+de las fuentes internas se incrementó con relación al año previo, no obstante que
+su tasa de crecimiento en términos reales disminuyó como reflejo de la mayor
+inflación observada en 2017 (Gráfica 25a). En cuanto a sus usos, sobresale la
+menor utilización de recursos financieros por parte del sector público, lo cual
+permitió mitigar la desaceleración en el uso de recursos por parte del sector privado
+(Gráfica 25b).
+Banco de México
+40 Informe Trimestral Octubre – Diciembre 2017
+Gráfica 25
+Fuentes y Usos de Recursos Financieros de la Economía
+Variación real anual en por ciento 1/
+a) Fuentes
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+2012 2013 2014 2015 2016 2017
+Fuentes Internas 2/
+Fuentes Externas 3/
+IV Trim. p/
+b) Usos
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+2012 2013 2014 2015 2016 2017
+Reserva Internacional 4/
+Financiamiento al Sector Privado 5/
+Financiamiento al Sector Público 6/
+IV Trim. p/
+p/ Cifras preliminares.
+1/ Las variaciones reales anuales se calculan sobre el saldo ajustado por efecto de variaciones en el tipo de cambio y precios de los
+activos.
+2/ Equivalente al agregado de activos financieros internos F1, el cual incluye al agregado monetario M3 más otros instrumentos no
+monetarios en poder de los sectores residentes tenedores de dinero. Estos incluyen a los fondos de ahorro para la vivienda y el retiro,
+valores privados, otros valores públicos y otros pasivos bancarios.
+3/ Incluye el agregado monetario M4 en poder de no residentes (igual a la diferencia entre M4 y M3), el endeudamiento externo del
+Gobierno Federal, de organismos y empresas públicas, los pasivos externos de la banca comercial, el financiamiento externo al sector
+privado no financiero, la captación de agencias e instrumentos no monetarios en poder del sector externo.
+4/ Según se define en la Ley del Banco de México.
+5/ Se refiere a la cartera total de los intermediarios financieros, del Instituto del Fondo Nacional de la Vivienda para los Trabajadores
+(Infonavit) y del Fondo de la Vivienda del ISSSTE (Fovissste), la emisión de deuda interna y el financiamiento externo.
+6/ Incluye el financiamiento al sector público federal, así como el destinado a los estados y municipios.
+Fuente: Banco de México.
+En el trimestre que se reporta, las fuentes internas de recursos –medidas por el
+agregado de activos financieros internos F1– se expandieron a una tasa de 3.6 por
+ciento real anual, lo que se compara con la cifra de 3.2 por ciento registrada en el
+trimestre previo (Gráfica 26a). Este mayor ritmo de crecimiento obedeció, en parte,
+al aumento en la tenencia por parte de residentes de los instrumentos monetarios
+a plazo contenidos en el M2, en sustitución de instrumentos más líquidos (Gráfica
+26b). A ello han contribuido los mayores rendimientos relativos de los activos a
+plazo, en un entorno de tasas de interés de mercado más elevadas. Asimismo, la
+evolución favorable de la tenencia de instrumentos no monetarios, en particular de
+los fondos de ahorro para el retiro, también ha contribuido al crecimiento de las
+fuentes internas (Gráfica 26a). Esto se explica tanto por las mayores aportaciones
+a las siefores –reflejando el dinamismo que ha continuado registrando el empleo
+formal– como por las plusvalías registradas en sus carteras de inversión.
+En contraste, las fuentes externas de recursos –que incluyen los instrumentos
+monetarios en poder de no residentes, así como otros pasivos de residentes con
+el sector externo– se contrajeron en 3.4 por ciento real anual en el trimestre de
+referencia, reducción mayor a la de 1.6 por ciento observada el trimestre anterior
+(Gráfica 26c). Esto fue resultado, principalmente, de una menor inversión de no
+residentes en instrumentos monetarios –en particular títulos de deuda
+gubernamental–, así como del menor endeudamiento en moneda extranjera del
+sector público.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 41
+Gráfica 26
+Fuentes de Recursos Financieros 1/
+a) Fuentes Internas (F1) 2/
+Variación real anual en por ciento
+b) Agregado Monetario M2
+Variación real anual en por ciento
+c) Fuentes Externas
+Variación real anual en por ciento y
+contribución al crecimiento
+0
+2
+4
+6
+8
+10
+12
+2012 2013 2014 2015 2016 2017
+Total
+Monetarias 3/
+No Monetarias 4/
+Diciembre
+-10
+-5
+0
+5
+10
+15
+2012 2013 2014 2015 2016 2017
+Total
+Líquido
+A plazo
+Diciembre
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+2012 2013 2014 2015 2016 2017
+Monetarias 5/
+No Monetarias 6/
+Diciembre
+Total
+1/ Las variaciones reales anuales se calculan sobre el saldo ajustado por efecto de variaciones en el tipo de cambio y precios de los activos.
+2/ Corresponde al agregado de activos financieros internos F1, el cual incluye al agregado monetario M3 más otros instrumentos en poder de los sectores
+residentes tenedores de dinero que no son considerados en los agregados monetarios.
+3/ Se refiere a los instrumentos financieros incluidos en el agregado monetario M3, el cual está compuesto por el M2 más los valores emitidos por el Gobierno
+Federal, el Banco de México (BREMs) y el IPAB en poder de los sectores residentes tenedores de dinero.
+4/ Incluye los fondos de ahorro para la vivienda y el retiro, valores privados, otros valores públicos y otros pasivos bancarios.
+5/ Es la suma de los instrumentos monetarios en poder de no residentes y equivale al agregado monetario M4 menos el agregado monetario M3.
+6/ Incluye el endeudamiento externo del Gobierno Federal, de organismos y empresas públicas y PIDIREGAS externos; los pasivos externos de la banca
+comercial, excluyendo la captación de no residentes; el financiamiento externo al sector privado no financiero; y otros pasivos de residentes en poder del sector
+externo.
+Fuente: Banco de México.
+Por el lado de los usos de recursos financieros de la economía, el financiamiento
+al sector público se redujo en términos reales anuales, en respuesta al ajuste fiscal
+implementado por el Gobierno Federal. Por su parte, el saldo de la reserva
+internacional se contrajo en términos reales anuales, lo que fue consecuencia en
+parte de que, a diferencia de años anteriores, Pemex no vendió dólares al Banco
+de México en 2017, reflejando el deterioro observado en la balanza comercial
+petrolera. Adicionalmente, a diferencia de los tres años previos, el flujo neto de las
+operaciones cambiarias del Banco de México con el Gobierno Federal en 2017 fue
+negativo.
+En lo que se refiere al financiamiento total al sector privado no financiero, en el
+cuarto trimestre de 2017 este continuó expandiéndose a una tasa real anual
+moderada (2.8 por ciento; Gráfica 27a). No obstante, a su interior se observó cierta
+heterogeneidad en la evolución de sus componentes. Por un lado, el financiamiento
+interno a las empresas siguió mostrando tasas relativamente elevadas (6.7 por
+ciento), derivado tanto del dinamismo del mercado interno de deuda, como de la
+sostenida expansión del crédito de la banca comercial a las empresas de mayor
+tamaño (Gráfica 27b y Gráfica 28). Lo anterior estaría reflejando, en gran medida,
+que este conjunto de empresas –con un mayor acceso a diversas fuentes de
+financiamiento– ha estado sustituyendo financiamiento externo por interno, y
+menores pasivos con la banca de desarrollo por crédito de la banca comercial, lo
+que sugiere un menor gasto de inversión, en el que usualmente participa la banca
+de desarrollo, y un mayor refinanciamiento de pasivos, que usualmente realiza la
+banca comercial. Al respecto, la Encuesta sobre Condiciones Generales y
+Estándares en el Mercado de Crédito Bancario (EnBan) que levanta el Banco de
+México señala que los directivos de los bancos comerciales del país percibieron
+Banco de México
+42 Informe Trimestral Octubre – Diciembre 2017
+que a lo largo de 2017 la demanda de crédito por parte de las empresas grandes
+se expandió, aun cuando las condiciones de oferta de crédito en el segmento
+tendieron a estrecharse.7 En contraste, el crédito otorgado a las pequeñas y
+medianas empresas se moderó sustancialmente en 2017, tanto por una menor
+demanda por crédito, como por condiciones de otorgamiento más estrechas. En
+este periodo, los costos del financiamiento se mantuvieron en niveles superiores a
+los observados en 2016. Ello refleja, en parte, los incrementos en el objetivo del
+Banco de México sobre la tasa de interés interbancaria a un día. Al respecto, los
+efectos suelen ser mayores entre aquellos que se financian a tasa variable y entre
+los potenciales usuarios de crédito en el margen. Por su parte, los índices de
+morosidad de las carteras de crédito a las empresas permanecieron en niveles
+bajos y estables (Gráfica 29).
+Gráfica 27
+Financiamiento al Sector Privado No Financiero
+Variación real anual en por ciento
+a) Financiamiento Total al Sector Privado
+No Financiero 1/
+b) Financiamiento Interno a las Empresas
+Privadas No Financieras
+-12
+-8
+-4
+0
+4
+8
+12
+16
+2012 2013 2014 2015 2016 2017
+Total
+Externo
+Interno 2/
+IV Trim.
+-8
+-4
+0
+4
+8
+12
+16
+20
+2012 2013 2014 2015 2016 2017
+Total
+Crédito 1/ 2/ 3/
+Emisión
+Diciembre
+1/ Las variaciones reales anuales se calculan sobre el saldo ajustado por efecto de variaciones en el tipo de cambio.
+2/ Estas cifras se ajustan por la salida e incorporación de algunos intermediarios financieros a la estadística de crédito.
+3/ Se refiere a la cartera vigente y vencida. Incluye el crédito de la banca comercial y de desarrollo, así como de otros intermediarios
+financieros no bancarios.
+Fuente: Banco de México.
+Por otro lado, el crédito a los hogares continuó creciendo a un ritmo moderado (2.5
+por ciento; Gráfica 30a). A su interior, el crédito a la vivienda ha venido mostrando
+una disminución en su dinamismo desde el cuarto trimestre de 2016, lo que refleja
+en buena medida la menor demanda por crédito hipotecario que se ha registrado
+desde ese trimestre (Gráfica 30b). Ello también estaría reflejando, en menor grado,
+condiciones de oferta más estrechas, lo que es congruente con el ligero incremento
+que presentaron las tasas de interés a largo plazo. Por su parte, los índices de
+morosidad correspondientes continuaron bajos y estables (Gráfica 30c).
+7 Para mayor información al respecto, consultar el comunicado de prensa de la Encuesta sobre Condiciones
+Generales y Estándares en el Mercado de Crédito Bancario durante el trimestre Octubre – Diciembre de
+2017, disponible en la siguiente liga:
+http://www.banxico.org.mx/informacion-para-la-prensa/comunicados/resultados-de-encuestas/encuestasobre-
+condiciones-generales-y-estandares-/condiciones-en-credito-bancar.html.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 43
+Gráfica 28
+Financiamiento Interno a Empresas Privadas No Financieras
+a) Colocación Neta de Valores
+de Mediano Plazo 1/
+Miles de millones de pesos
+b) Crédito Vigente 2/
+Variación real anual en por ciento
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+25
+30
+2012 2013 2014 2015 2016 2017
+IV Trim.
+-10
+0
+10
+20
+30
+40
+2012 2013 2014 2015 2016 2017
+Banca Comercial 3/
+Banca de Desarrollo
+Diciembre
+1/ Colocaciones menos amortizaciones (vencimientos y prepagos) en el trimestre.
+2/ Las variaciones reales anuales se calculan sobre el saldo ajustado por efecto de variaciones en el tipo de cambio.
+3/ Incluye a las sofomes Entidades Reguladas (ER) subsidiarias de instituciones bancarias y grupos financieros. Las cifras se ajustan para
+no verse afectadas por el traspaso de créditos puente.
+Fuente: Banco de México.
+Gráfica 29
+Tasas de Interés Anual e Índices de Morosidad de las Empresas Privadas No Financieras
+a) Tasas de Interés
+de Valores Privados
+Promedio del trimestre
+en por ciento
+b) Tasas de Interés
+de Nuevos Créditos 3/
+Promedio del trimestre
+en por ciento
+c) Índices de Morosidad
+En por ciento
+0
+2
+4
+6
+8
+10
+12
+14
+2012 2013 2014 2015 2016 2017
+Mediano Plazo 1/
+Corto Plazo 2/
+IV Trim.
+1/ Rendimiento al vencimiento promedio ponderado de las emisiones en circulación, con un plazo mayor a un año, al cierre del mes.
+2/ Tasa promedio ponderada de las colocaciones de deuda privada, a un plazo de hasta un año, expresada en curva de 28 días. Incluye únicamente certificados
+bursátiles.
+3/ Se refiere a la tasa de interés de nuevos créditos de la banca a las empresas privadas no financieras, ponderada por el saldo asociado de crédito vigente y
+para todos los plazos solicitados.
+4/ El índice de morosidad (IMOR) se define como el saldo de la cartera vencida entre el saldo de la cartera total.
+5/ El índice de morosidad ajustado (IMORA) se define como el saldo de la cartera vencida más castigos acumulados en los últimos 12 meses entre el saldo de
+la cartera total más castigos acumulados en los últimos 12 meses.
+Fuente: Banco de México.
+0
+2
+4
+6
+8
+10
+12
+14
+2008 2011 2014 2017
+Banca Comercial
+Banca de Desarrollo
+IV Trim.
+0
+2
+4
+6
+8
+10
+2007 2009 2011 2013 2015 2017
+IMOR Banca Comercial 4/
+IMORA Banca Comercial 5/
+IMOR Banca de Desarrollo 4/
+Diciembre
+Banco de México
+44 Informe Trimestral Octubre – Diciembre 2017
+Por último, el crédito al consumo ha continuado desacelerándose en prácticamente
+todos sus componentes (Gráfica 31a). Este menor dinamismo está asociado, en
+parte, i) a la desaceleración de la masa salarial real, ii) a una menor demanda de
+crédito para la adquisición de bienes de consumo duradero, que había repuntado
+significativamente el año previo, y iii) a mayores costos de financiamiento,
+especialmente en las tarjetas de crédito, ello a pesar de que este tipo de
+financiamiento ya contaba con tasas de interés elevadas. En congruencia con lo
+anterior, los resultados de la EnBan señalan que desde finales de 2016 y durante
+la mayor parte de 2017 se estrecharon las condiciones de oferta de los créditos al
+consumo, al tiempo que la demanda por este tipo de créditos se redujo,
+particularmente en el segmento de tarjetas. En este contexto, los índices de
+morosidad ajustados por castigos de cartera mostraron cierto deterioro (Gráfica
+31b y Gráfica 31c).
+Gráfica 30
+Crédito a los Hogares
+a) Crédito Total 1/
+Variación real anual
+en por ciento
+b) Crédito Vigente a la Vivienda
+Variación real anual
+en por ciento
+c) Tasa de Interés Anual de Nuevos
+Créditos e Índices de Morosidad del
+Crédito a la Vivienda
+En por ciento
+1/ Estas cifras se ajustan por la salida e incorporación de algunos intermediarios financieros a la estadística de crédito.
+2/ Incluye a las sofomes ER subsidiarias de instituciones bancarias y grupos financieros.
+3/ Las cifras se ajustan para no verse distorsionadas por efectos de traspaso y reclasificación de créditos en cartera directa, del traspaso de la cartera del fideicomiso
+UDIS al balance de la banca comercial y por la reclasificación de créditos en cartera directa a ADES.
+4/ Tasa de interés de nuevos créditos de la banca comercial a la vivienda, ponderada por el saldo asociado de crédito vigente. Incluye créditos para la adquisición
+de vivienda nueva y usada.
+5/ El índice de morosidad (IMOR) se define como el saldo de la cartera vencida entre el saldo de la cartera total.
+6/ El índice de morosidad ajustado (IMORA) se define como el saldo de la cartera vencida más castigos acumulados en los últimos 12 meses entre el saldo de la
+cartera total más castigos acumulados en los últimos 12 meses.
+Fuente: Banco de México.
+Considerando todo lo anterior, y ante la posibilidad de que en 2018 persistan
+condiciones de financiamiento estrechas y fuentes externas de recursos
+financieros limitadas, es de gran importancia que hacia adelante los esfuerzos de
+consolidación fiscal que ha venido realizando el Gobierno Federal continúen. Ello,
+además de fortalecer el marco macroeconómico del país, contribuirá a que aun en
+un entorno de condiciones financieras restrictivas, el sector financiero se mantenga
+en posibilidades de canalizar recursos al sector privado.
+0
+4
+8
+12
+16
+20
+24
+2012 2013 2014 2015 2016 2017
+Total
+Vivienda
+Consumo
+Diciembre
+0
+2
+4
+6
+8
+10
+12
+14
+2012 2013 2014 2015 2016 2017
+Infonavit
+Banca Comercial 1/ 2/ 3/
+Diciembre
+0
+2
+4
+6
+8
+10
+12
+14
+2012 2013 2014 2015 2016 2017
+Tasa de Interés 4/
+IMOR Infonavit 5/
+IMOR Banca Comercial 5/
+IMORA Banca Comercial 6/
+Diciembre
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 45
+Gráfica 31
+Crédito de la Banca Comercial al Consumo
+a) Crédito Vigente 1/
+Variación real anual en por ciento
+b) Índices de Morosidad 1/ 4/
+En por ciento
+c) Índices de Morosidad
+Ajustados 1/ 5/
+En por ciento
+1/ Incluye a las sofomes ER subsidiarias de instituciones bancarias y grupos financieros.
+2/ Incluye crédito para operaciones de arrendamiento capitalizable y otros créditos al consumo.
+3/ Incluye crédito automotriz y crédito para la adquisición de otros bienes muebles.
+4/ El índice de morosidad (IMOR) se define como el saldo de la cartera vencida entre el saldo de la cartera total.
+5/ El índice de morosidad ajustado (IMORA) se define como el saldo de la cartera vencida más castigos acumulados en los últimos 12 meses entre
+el saldo de la cartera total más castigos acumulados en los últimos 12 meses.
+Fuente: Banco de México.
+2.2.3.2. Activos Financieros Internos
+La totalidad de los activos financieros internos, denominados F conforme a la nueva
+estadística, se integra por el saldo en poder de los sectores tenedores de dinero
+(residentes y no residentes) de los instrumentos monetarios (M4), los fondos de
+ahorro para la vivienda y el retiro, otros instrumentos de renta fija e instrumentos
+de renta variable e híbridos.8 Como se detalla en el Recuadro 3, las variaciones del
+saldo a valor de mercado de este indicador parecerían proveer cierta señal sobre
+la evolución futura de la actividad económica en México, en buena medida porque
+los precios de mercado de las acciones bursátiles y otros instrumentos contenidos
+en F consideran la información acerca de las expectativas sobre la evolución de la
+economía. En este contexto, este agregado registró un dinamismo relativamente
+bajo en 2017, si bien su tasa de crecimiento mostró cierto repunte en los últimos
+meses del año. En efecto, entre el tercer y el cuarto trimestre de 2017, su tasa real
+anual aumentó de 2.4 a 3.5 por ciento (Gráfica 32). La evidencia estadística sugiere
+que las variaciones de este agregado alcanzan una correlación máxima, positiva y
+significativa con las de la actividad económica un trimestre después. Es decir, las
+variaciones de este agregado tienden a preceder las de la actividad económica.
+Así, su reciente aceleración podría indicar un posible mayor ritmo de expansión de
+la economía hacia adelante.
+8 Como se definió en el comunicado de prensa sobre Agregados Monetarios y Actividad Financiera en
+diciembre de 2017, el agregado F representa la medida más amplia de los instrumentos financieros
+emitidos en México en poder de los sectores tenedores de dinero en sentido amplio. Para mayores detalles
+se sugiere consultar dicho comunicado y los documentos metodológicos que se refieren a la redefinición
+de los agregados monetarios y la construcción de los activos financieros internos disponibles en la
+siguiente liga:
+http://www.banxico.org.mx/informacion-para-la-prensa/comunicados/sector-financiero/agregadosmonetarios/
+indexpage.html.
+-10
+0
+10
+20
+30
+40
+50
+2012 2013 2014 2015 2016 2017
+Total 2/
+Tarjetas de Crédito
+ABCD 3/
+Personales
+Nómina
+Diciembre
+0
+3
+6
+9
+12
+15
+18
+2012 2013 2014 2015 2016 2017
+IMORA Total 5/
+IMOR Total
+IMOR Tarjetas de Crédito
+IMOR ABCD 3/
+IMOR Personales
+IMOR Nómina
+Diciembre 0
+3
+6
+9
+12
+15
+18
+2012 2013 2014 2015 2016 2017
+IMORA Total
+IMORA Tarjetas de Crédito
+IMORA ABCD 3/
+IMORA Personales
+IMORA Nómina
+Diciembre
+Banco de México
+46 Informe Trimestral Octubre – Diciembre 2017
+Gráfica 32
+Activos Financieros Internos (F) 1/
+Variación real anual en por ciento p/
+-5
+0
+5
+10
+15
+2012 2013 2014 2015 2016 2017
+Diciembre
+p/ Cifras preliminares.
+1/ Se refiere a la suma de los agregados de activos financieros internos de residentes y de no residentes, F2 y FNR.
+Incluye al agregado monetario M4 más los saldos en poder de los sectores tenedores de dinero en sentido amplio
+de: valores emitidos por empresas privadas, estados y municipios, organismos de control presupuestario directo e
+indirecto, empresas productivas del Estado y Fonadin; fondos de ahorro para el retiro y la vivienda; otros pasivos
+de la banca; e instrumentos de renta variable e híbridos.
+Fuente: Banco de México.
+2.2.4. Condiciones de Holgura en la Economía
+Para la conducción de la política monetaria, es primordial tener una lectura
+adecuada de las condiciones de holgura en la economía y evaluar la fase del ciclo
+en la que se encuentra. Ello permite identificar de manera oportuna, tanto la posible
+presencia de presiones inflacionarias provenientes de la demanda agregada y de
+los mercados de insumos, como la capacidad de asimilar posibles choques que
+afecten a la inflación.
+En este contexto, es importante reconocer que, por varios años, la economía
+mexicana ha venido transitando por un ciclo económico atípico, tanto por la
+influencia de condiciones económicas externas inéditas, como por el tipo de
+choques que la han afectado. Esto ha complicado la evaluación de las condiciones
+cíclicas; en particular, de las condiciones de holgura de la economía y su papel en
+la formación de precios. Así, con la finalidad de tener una lectura integral de la
+posición cíclica de la economía mexicana que informe la toma de decisiones de
+política monetaria, a partir del presente Informe se ha decidido incluir como parte
+del seguimiento del entorno económico en México un conjunto de indicadores de
+holgura adicionales a los que periódicamente venían reportándose. En particular,
+se presentan cuatro índices de holgura basados en indicadores respectivos de
+consumo, actividad económica y demanda, mercado laboral y demanda en el
+mercado de fondos prestables, los cuales se derivan de una selección de variables
+económicas que presumiblemente están asociadas con las condiciones de holgura
+en los mercados de bienes y de insumos en la economía y que tienen poder
+predictivo sobre la inflación (ver Recuadro 4). Los resultados de este análisis
+sugieren que las condiciones de holgura se han venido estrechando,
+especialmente en el mercado laboral y en lo que corresponde al consumo, si bien
+en general parecen haber comenzado a ceder moderadamente.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 47
+Banco de México
+48 Informe Trimestral Octubre – Diciembre 2017
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 49
+Banco de México
+50 Informe Trimestral Octubre – Diciembre 2017
+2.2.4.1. Indicadores de Holgura
+La estimación de la brecha del PIB que tradicionalmente se presenta en este Informe continuó ubicándose en un nivel cercano a cero, sugiriendo que la economía actualmente opera cerca de su potencial (Gráfica 33a). Por su parte, la estimación de la brecha del PIB que excluye el producto del sector petrolero apunta a condiciones de mayor estrechez, toda vez que se mantuvo en terreno positivo en 2017, si bien en niveles más reducidos que en 2016 y no significativamente distintos de cero (Gráfica 33b).9 Esto último es consistente con el análisis de la fase del ciclo en la que se encuentra la economía mexicana basado en un mayor número de indicadores, el cual sugiere que, si bien a finales de 2015 y en 2016 las condiciones de holgura se fueron estrechando y llegaron a presentar niveles positivos, en los últimos meses estas han disminuido ligeramente, aunque permanecen relativamente estrechas. En particular, los índices más agregados sugieren que la economía no presenta actualmente condiciones de holgura, si bien en el margen estas han dejado de estrecharse y podrían estar relajándose (Gráfica 34a y Gráfica 34b). En efecto, aunque los indicadores de holgura de consumo y del mercado laboral continúan estrechos (Gráfica 35a y Gráfica 35b), aquellos derivados de indicadores más agregados de actividad y demanda han vuelto a acercarse a cero, y aquellos derivados de indicadores de las condiciones de demanda en el mercado de fondos prestables han vuelto a tornarse negativos (Gráfica 35c y Gráfica 35d). En balance, si bien a lo largo de 2017 las condiciones de holgura en la economía se venían estrechando, lo que podría estar influyendo la velocidad a la que la inflación subyacente se está reduciendo, en el margen pareciera que dichas condiciones, salvo en el mercado laboral, han comenzado a revertirse moderadamente.
+9 La brecha del PIB que excluye el sector petrolero permite identificar de mejor manera el balance de oferta y demanda agregadas en la economía, toda vez que se basa en la consideración de que la pérdida de capacidad productiva de la industria petrolera que ha prevalecido por varios años es fundamentalmente una afectación por el lado de la oferta.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 51
+Gráfica 33
+Estimación de la Brecha del Producto 1/
+Porcentaje del producto potencial, a. e.
+a) Producto Interno Bruto b) Producto Interno Bruto Excluyendo
+Sector Petrolero 4/
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+2007 2009 2011 2013 2015 2017
+Producto Interno Bruto
+IGAE
+Interv alo al 95% de Conf ianza
+Diciembre
+IV Trim.
+3/
+2/
+2/
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+2007 2009 2011 2013 2015 2017
+Producto Interno Bruto
+IGAE
+Interv alo al 95% de Conf ianza
+Diciembre
+IV Trim.
+3/
+2/
+2/
+a. e. / Elaborada con cifras ajustadas por estacionalidad.
+1/ Estimadas con el filtro de Hodrick-Prescott con corrección de colas; véase Informe sobre la Inflación Abril – Junio 2009, Banco
+de México, pág. 74.
+2/ Cifras del PIB al cuarto trimestre de 2017; cifra del IGAE a diciembre de 2017.
+3/ Intervalo de confianza de la brecha del producto calculado con un método de componentes no observados.
+4/ PIB sin extracción de petróleo y gas, sin servicios relacionados a la minería, y derivados del petróleo y carbón.
+Fuente: Elaboración de Banco de México con información del INEGI.
+Gráfica 34
+Primer Componente Principal por Frecuencia de Indicadores 1/
+Por ciento
+a) Mensuales b) Trimestrales
+-6
+-4
+-2
+0
+2
+4
+6
+2007 2009 2011 2013 2015 2017
+Nov iembre
+-6
+-4
+-2
+0
+2
+4
+6
+2007 2009 2011 2013 2015 2017
+III Trim.
+1/ Índices construidos con base en la metodología CCM; véase Recuadro 4. Los índices de holgura mensuales y trimestrales se
+basan en el primer componente principal de conjuntos que incluyen 11 y 12 indicadores, respectivamente. El primer
+componente representa 51% y 58% de la variación conjunta de los indicadores mensuales y trimestrales, respectivamente.
+Las líneas grises corresponden a los indicadores de holgura individuales utilizados en el análisis de Componentes Principales.
+Fuente: Elaboración propia con información de INEGI y del Banco de México.
+Banco de México
+52 Informe Trimestral Octubre – Diciembre 2017
+Gráfica 35
+Primer Componente Principal por Grupo de Indicadores 1/
+Por ciento
+a) Consumo b) Mercado Laboral
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+2007 2009 2011 2013 2015 2017
+Nov iembre
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+2007 2009 2011 2013 2015 2017
+Nov iembre
+c) Actividad Económica y
+Demanda Agregada
+d) Condiciones de Demanda en el Mercado
+de Fondos Prestables
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+2007 2009 2011 2013 2015 2017
+III Trim.
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+2007 2009 2011 2013 2015 2017
+Nov iembre
+1/ Índices construidos con base en la metodología CCM; véase Recuadro 4. Los índices de holgura relacionados con el consumo,
+mercado laboral, actividad económica y condiciones financieras se basan en el primer componente principal de conjuntos que
+incluyen 6, 3, 4 y 6 indicadores, respectivamente. El primer componente principal representa 63%, 55%, 95% y 57% de la
+variación conjunta de los indicadores de consumo, mercado laboral, actividad económica y demanda agregada, y condiciones
+de demanda en el mercado de fondos prestables, en el mismo orden. Los índices se basan en indicadores mensuales, con
+excepción del de actividad económica y demanda agregada, el cual utiliza indicadores trimestrales. Las líneas grises
+corresponden a los indicadores de holgura individuales utilizados en el análisis de Componentes Principales.
+Fuente: Elaboración propia con información de INEGI y del Banco de México.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 53
+3. Evolución Reciente de la Inflación
+3.1. La Inflación en el Cuarto Trimestre de 2017
+En 2017, la inflación estuvo influida de manera adversa por una serie de choques significativos, tanto externos como internos, que llevaron a que este indicador alcanzara al cierre del año niveles que no se habían registrado desde el año 2001. Estos choques se dieron en un entorno en el que, dadas las condiciones cíclicas de la economía, se podría dificultar su asimilación. Ello pone de manifiesto la importancia de que la política monetaria actúe para evitar que dichos choques den lugar a efectos de segundo orden y que se vean afectadas las expectativas de inflación de mediano y largo plazo. En particular, desde inicios del 2017 la inflación fue afectada por la depreciación de la moneda nacional y el aumento en su volatilidad, como resultado, en buena medida, de la incertidumbre respecto a la postura que tendría el nuevo gobierno de los Estados Unidos en la relación bilateral con nuestro país, así como por los aumentos en los precios de algunos energéticos derivados del proceso de su liberalización, como fue el caso de las gasolinas y el del gas L.P. Cabe señalar que en el caso de este último combustible, sus incrementos de precios no únicamente estuvieron relacionados a presiones de costos, sino también a aspectos relacionados con su estructura de mercado.10 Adicionalmente, en la primera mitad del año se registraron aumentos en las tarifas de autotransporte en varias ciudades del país y alzas en los precios de algunos productos agropecuarios. De esta forma, la postura de política monetaria se fue modificando para permitir que el ajuste en precios relativos derivado de estos choques ocurriera de manera ordenada, sin efectos de segundo orden sobre el proceso de formación de precios de la economía. De este modo, a partir de septiembre de 2017 la inflación comenzaba a alcanzar cierto punto de inflexión a la baja, en parte como resultado de las acciones de política monetaria adoptadas hasta el momento.
+No obstante, en los últimos meses del año pasado se registró una serie de choques adicionales que dio un nuevo impulso a la inflación. Así, la inflación general anual promedio aumentó de 6.48 a 6.59 por ciento entre el tercer y el cuarto trimestre de 2017, ubicándose en diciembre en un nivel de 6.77 por ciento. Entre estos choques destacaron los aumentos en los precios de algunos energéticos, principalmente el gas L.P., y de ciertas frutas y verduras, asociados a factores climatológicos; una depreciación adicional de la moneda nacional y un aumento en su volatilidad, derivados entre otros factores, de la incertidumbre asociada al proceso de renegociación del TLCAN, a la normalización de la política monetaria en Estados Unidos, a la aprobación de un plan fiscal en ese país, y a algunos elementos asociados al proceso electoral de México; y el efecto calendario de corto plazo del aumento al salario mínimo, que entró en vigor en diciembre en lugar de enero. Una buena parte del incremento en la inflación general al final del 2017 se explica por la dinámica que tuvo la inflación no subyacente anual, la cual entre los trimestres referidos pasó de un promedio de 11.51 a 12.00 por ciento, ubicándose en 12.62 por ciento en diciembre de 2017. En contraste, la inflación subyacente anual mostró una ligera tendencia a la baja, al situarse en promedio en 4.91 y 4.85 por ciento en los trimestres mencionados, respectivamente, y ubicarse en diciembre en 4.87 por ciento (Cuadro 2). Cabe señalar que, como se presentó en la Sección 2.2.4,
+10 Véase el Comunicado de Prensa COFECE-008-2018 de la Comisión Federal de Competencia Económica (COFECE) “COFECE investiga posible práctica monopólica absoluta en el mercado de gas L.P.” emitido el 22 de febrero de 2018.
+Banco de México
+54 Informe Trimestral Octubre – Diciembre 2017
+diversos indicadores sobre la fase del ciclo en la que se encuentra la economía
+mexicana, especialmente aquellos relacionados al mercado laboral y al consumo,
+apuntan a que las condiciones de holgura en la economía se han mantenido
+relativamente estrechas. Esto pudiera estar dificultando la asimilación de los
+choques que la han afectado, lo que podría estar influyendo en la velocidad a la
+que la inflación subyacente se está reduciendo.
+Cuadro 2
+Índice Nacional de Precios al Consumidor, Principales Componentes e Indicadores de Media Truncada
+Variación anual en por ciento
+2016 2017
+IV I II III IV Diciembre Enero 1q Febrero
+INPC 3.24 4.98 6.10 6.48 6.59 6.77 5.55 5.45
+Subyacente 3.28 4.19 4.78 4.91 4.85 4.87 4.56 4.32
+Mercancías 3.98 5.33 6.22 6.37 6.11 6.17 5.78 5.29
+Alimentos, Bebidas y Tabaco 4.26 5.93 6.82 7.29 6.80 6.82 6.50 6.17
+Mercancías No Alimenticias 3.75 4.83 5.73 5.60 5.53 5.62 5.17 4.56
+Servicios 2.68 3.23 3.55 3.68 3.77 3.76 3.52 3.49
+Vivienda 2.40 2.52 2.56 2.61 2.66 2.65 2.62 2.57
+Educación (Colegiaturas) 4.26 4.37 4.39 4.56 4.74 4.74 4.69 4.80
+Otros Servicios 2.50 3.62 4.34 4.53 4.63 4.63 4.09 4.04
+No Subyacente 3.14 7.38 10.31 11.51 12.00 12.62 8.44 8.77
+Agropecuarios 4.98 -0.20 6.39 12.07 8.99 9.75 10.76 10.45
+Frutas y Verduras 8.32 -6.88 9.60 21.80 15.59 18.60 20.65 17.95
+Pecuarios 3.09 4.02 4.54 6.50 5.06 4.50 5.14 6.33
+Energéticos y Tarifas Aut. por Gobierno 2.00 12.28 12.90 11.14 13.92 14.44 7.10 7.82
+Energéticos 1.75 16.85 15.72 13.68 17.03 17.69 7.00 8.14
+Tarifas Autorizadas por Gobierno 2.48 3.91 7.99 6.82 8.20 8.36 7.31 7.15
+Indicador de Media Truncada 1/
+INPC 3.20 4.19 4.60 4.61 4.69 4.71 4.39 4.29
+Subyacente 3.27 4.00 4.39 4.50 4.48 4.46 4.20 4.01
+2017 2018
+1/ Elaboración propia con información del INEGI.
+Fuente: Banco de México e INEGI.
+Gráfica 36
+Índice Nacional de Precios al Consumidor
+Variación anual en por ciento
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+INPC
+Subyacente
+No Subyacente
+Objetivo de Inflación General
+1q Febrero
+Fuente: Banco de México e INEGI.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 55
+Banco de México
+56 Informe Trimestral Octubre – Diciembre 2017
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 57
+Como era anticipado, en enero de 2018 la inflación general anual presentó una reducción importante, derivada tanto del efecto aritmético asociado con el hecho de que en 2018 no se repitieron con igual magnitud los aumentos de precios de los energéticos que tuvieron lugar a principios de 2017, como de una disminución de la inflación subyacente, la cual refleja tanto la dilución de los efectos indirectos que los incrementos de precios de los energéticos habían tenido sobre las mercancías y los servicios, como cierto cambio en su tendencia desde finales de 2017. De esta forma, en enero la inflación general anual disminuyó a 5.55 por ciento, en tanto que la inflación subyacente anual alcanzó 4.56 por ciento y la no subyacente 8.44 por ciento. Por su parte, en la primera quincena de febrero la inflación general anual se ubicó en 5.45 por ciento, en tanto que la inflación subyacente y la no subyacente registraron niveles de 4.32 y 8.77 por ciento, respectivamente. Si bien la reducción que tuvo la inflación a inicios de 2018 fue importante, estuvo acotada porque se mantuvieron los incrementos de precios de algunos componentes de la inflación no subyacente observados desde finales del año previo. En particular, el comportamiento de este subíndice siguió viéndose afectado desfavorablemente en enero porque se mantuvieron elevados los incrementos de los precios del gas L.P. y de las gasolinas, así como por el hecho de que no se disiparon totalmente los aumentos en los precios de algunas frutas y verduras observados en los meses previos (Cuadro 2 y Gráfica 36).
+Con el fin de ilustrar con mayor detalle la evolución que tanto en el margen, como en términos de sus tendencias, han tenido la inflación general y la subyacente, a continuación se analizan algunos indicadores que ofrecen información complementaria al respecto.
+En primer lugar, se presenta la proporción de la canasta del Índice Nacional de Precios al Consumidor (INPC), tanto general, como subyacente, que tiene variaciones mensuales de precios ajustadas por estacionalidad y anualizadas dentro de ciertos intervalos. Los intervalos definidos son: i) genéricos con variaciones en sus precios menores a 2 por ciento; ii) entre 2 y 3 por ciento, iii) mayores a 3 por ciento y hasta 4 por ciento; y iv) mayores a 4 por ciento. Adicionalmente, se muestra el porcentaje de las canastas en dos categorías más: la que tiene variaciones mensuales en sus precios menores o iguales a 3 por ciento, y la que presenta variaciones mensuales en sus precios mayores a 3 por ciento (Gráfica 37). Se observa que el porcentaje de la canasta, tanto del INPC, como del índice subyacente, con incrementos de precio menores a 3 por ciento ha tendido a aumentar en los últimos meses (áreas azul y verde, Gráfica 37). En particular, la proporción de la canasta del índice general con variaciones mensuales de precios anualizadas menores o iguales a 3 por ciento (área debajo
+Banco de México
+58 Informe Trimestral Octubre – Diciembre 2017
+de la línea amarilla), fue 41 por ciento en el tercer trimestre de 2017 y 45 por ciento
+en el cuarto, ubicándose en 43 por ciento en la primera quincena de febrero de
+2018. En el caso de la canasta del índice subyacente, las proporciones fueron 43,
+46 y 46 por ciento, respectivamente.
+Gráfica 37
+Porcentaje de la Canasta del INPC según Rangos de Incremento Mensual Anualizado a. e.1/
+Cifras en por ciento
+a) INPC
+0
+20
+40
+60
+80
+100
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Mayor a 4%
+Mayor a 3 y hasta 4%
+Entre 2 y 3%
+Menor a 2%
+Menor o igual a 3%
+1q Febrero
+b) Subyacente
+0
+20
+40
+60
+80
+100
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Mayor a 4%
+Mayor a 3 y hasta 4%
+Entre 2 y 3%
+Menor a 2%
+Menor o igual a 3%
+1q Febrero
+a. e. / Cifras ajustadas estacionalmente.
+1/ Media móvil de 3 meses.
+Fuente: Banco de México e INEGI.
+En lo que respecta a la evolución de las variaciones mensuales ajustadas por
+estacionalidad y anualizadas, tanto del índice general, como del subyacente, se
+aprecia que estas han descendido en el periodo de análisis, con un leve repunte
+en el margen. Más aún, la media móvil de seis observaciones de estos dos índices
+marca una tendencia descendente, si bien ligeramente más atenuada en el caso
+del índice subyacente, pero en ambos casos, dirigiéndose gradualmente al objetivo
+de 3.0 por ciento. Destaca que, mientras que las variaciones mensuales ajustadas
+por estacionalidad y anualizadas de los servicios aumentaron en el margen, las de
+las mercancías presentaron una disminución. Asimismo, la medida de tendencia
+para el subíndice de precios de las mercancías muestra un ligero repunte, mientras
+que la de los servicios mantiene una trayectoria descendente (Gráfica 38).
+Por su parte, una medida de tendencia de mediano plazo de la inflación,
+representada por el Indicador de Media Truncada, muestra que, en parte, los
+niveles que actualmente presenta la inflación general son producto del
+comportamiento de las variaciones especialmente elevadas de los precios de
+algunos bienes y servicios. Es decir, si se excluyen las variaciones extremas de
+precios, el nivel de inflación resultante es menor al observado. En efecto, entre el
+tercer y el cuarto trimestre de 2017, el Indicador de Media Truncada para la
+inflación general pasó de 4.61 a 4.69 por ciento, disminuyendo a 4.29 por ciento
+en la primera quincena de febrero de 2018. Estas cifras se comparan con la
+inflación observada, que registró niveles de 6.48, 6.59 y 5.45 por ciento,
+respectivamente. En cuanto a la inflación subyacente anual, el Indicador de Media
+Truncada se mantuvo relativamente estable entre el tercer y el cuarto trimestre de
+2017, al ubicarse en 4.50 y 4.48 por ciento, respectivamente, en tanto que en la
+primera quincena de febrero de 2018 disminuyó a 4.01 por ciento. Si bien la
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 59
+diferencia con las cifras observadas no es tan amplia en comparación con la que
+se registra en el caso de la inflación general, la inflación subyacente truncada
+también ha sido inferior a la observada en los últimos meses (Gráfica 39 y Cuadro
+2).
+Gráfica 38
+Variación Mensual Desestacionalizada Anualizada y Tendencia
+Cifras en por ciento
+a) INPC b) Subyacente
+-6
+-3
+0
+3
+6
+9
+12
+15
+18
+21
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Media Móvil de 6 Observaciones
+Var iación Mensual Anualizada (a. e.)
+Objetivo de Inflación General
+1q Febrero
+1/
+-6
+-3
+0
+3
+6
+9
+12
+15
+18
+21
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Media Móvil de 6 Observaciones
+Var iación Mensual Anualizada (a. e.)
+Obj etivo de Inflación General
+1q Febrero
+1/
+c) Mercancías d) Servicios
+-6
+-3
+0
+3
+6
+9
+12
+15
+18
+21
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Media Móvil de 6 Observaciones
+Variación Mensual Anualizada (a. e.)
+Objetivo de Inflación General
+1q Febrero
+1/
+-6
+-3
+0
+3
+6
+9
+12
+15
+18
+21
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Media Móvil de 6 Observaciones
+Variación Mensual Anualizada (a. e.)
+Objetivo de Inflación General
+1q Febrero
+1/
+a. e. / Cifras ajustadas estacionalmente.
+1/ Para la última observación se utiliza la variación quincenal anualizada.
+Fuente: Desestacionalización propia con información de Banco de México e INEGI.
+Banco de México
+60 Informe Trimestral Octubre – Diciembre 2017
+Gráfica 39
+Índices de Precios e Indicadores de Media Truncada 1/
+Variación anual en por ciento
+a) INPC b) Subyacente
+0
+1
+2
+3
+4
+5
+6
+7
+8
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Inflació n Anual
+Indicador de Media Truncada
+Objetivo de Inflación General
+1q Febrero
+5.45
+4.29
+0
+1
+2
+3
+4
+5
+6
+7
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Inflació n Anual
+Indicador de Media Truncada
+Objetivo de Inflación General
+1q Febrero
+4.32
+4.01
+1/ El Indicador de Media Truncada elimina la contribución de las variaciones extremas en los precios de algunos genéricos a la
+inflación de un índice de precios. Para eliminar el efecto de estas variaciones se realiza lo siguiente: i) las variaciones
+mensuales desestacionalizadas de los genéricos del índice de precios se ordenan de menor a mayor; ii) se excluyen los
+genéricos con mayor y menor variación, considerando en cada cola de la distribución hasta el 10 por ciento de la canasta del
+índice de precios, respectivamente; y iii) con los genéricos restantes, que por construcción se ubican más cerca del centro de
+la distribución, se calcula el Indicador de Media Truncada.
+Fuente: Elaboración propia con información de Banco de México e INEGI.
+3.1.1. Inflación Subyacente
+A continuación, se presenta la Inflación Subyacente Fundamental, la cual permite
+identificar de mejor manera las presiones que afectan a la inflación, especialmente
+las asociadas al comportamiento cíclico de la economía, si bien también considera
+presiones derivadas de otros factores, como pueden ser los efectos del tipo de
+cambio y otros choques. Dicho Índice se construye para que responda de manera
+más estrecha a los cambios en la actividad económica que la inflación subyacente
+(ver Recuadro 5). En particular, las fluctuaciones en las condiciones cíclicas de la
+economía suelen anteceder a los cambios de tendencia de este indicador. Cabe
+señalar que esta medida de inflación alcanzó a mediados de 2017 sus niveles más
+elevados desde junio de 2009 (Gráfica 40). Debido a que la Inflación Subyacente
+Fundamental refleja de mejor manera los efectos de la fase cíclica de la economía
+en la formación de precios, la tendencia que exhibió a inicios de 2017 sugiere que,
+en adición a factores de oferta y, en particular, el ajuste cambiario, la menor holgura
+en ciertos mercados, en específico en el laboral, podría haber dificultado la
+asimilación de los choques que han afectado a la inflación. No obstante, en los
+últimos meses esta medida de inflación ha mostrado una tendencia a la baja, lo
+cual es congruente con el comportamiento en el margen de los indicadores de
+holgura, cuyo estrechamiento parecería estar cediendo moderadamente (ver
+Sección 2.2.4).
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 61
+Gráfica 40
+Inflación Subyacente e Inflación Subyacente Fundamental
+Variación anual en por ciento
+0
+1
+2
+3
+4
+5
+6
+7
+8
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+Inflación Subyacente
+Inflación Subyacente Fundamental
+1q Febrero
+Fuente: Cálculos propios con información de Banco de México e INEGI.
+Como se mencionó, la inflación subyacente ha presentado una incipiente
+trayectoria descendente, aunque la velocidad a la que ha disminuido pudiera estar
+afectada por la posición cíclica de la economía. No obstante, si bien la inflación ha
+estado sujeta a diversos choques, tales como el aumento en los precios de los
+energéticos, la depreciación del tipo de cambio y los incrementos en los precios de
+algunos productos agropecuarios, no parecen haberse generado hasta el momento
+efectos de segundo orden en el proceso de formación de precios en la economía.
+En particular, el aumento del subíndice de precios de las mercancías se explica
+tanto por el ajuste en precios relativos derivado de la depreciación del tipo de
+cambio, siendo esto natural ya que son bienes comerciables internacionalmente,
+como por los efectos indirectos generados por el aumento en los precios de los
+energéticos y en los de los productos agropecuarios. En cuanto a los precios de
+los servicios, estos también han aumentado, si bien a una menor tasa que la de los
+precios de las mercancías. En particular, su evolución ha sido congruente con el
+aumento en los costos de sus insumos, lo que sugiere que no se han presentado
+efectos de segundo orden. Esto se confirma si se separan aquellos servicios que
+sí responden al tipo de cambio, como el transporte aéreo, los servicios turísticos
+en paquete y el autobús foráneo, del resto. En particular, se encuentra que la
+dinámica de precios de los servicios destinados al mercado interno ha estado
+estrechamente asociada a la de sus costos.11
+En el comportamiento de la inflación subyacente y, en particular, de la brecha
+acumulada entre la variación de los precios de las mercancías y la de los servicios,
+esta muestra el importante ajuste de precios relativos derivado de la depreciación
+que ha registrado el tipo de cambio real en los últimos años y durante el periodo
+que se reporta. En específico, destaca lo siguiente:
+i. Entre el tercer y el cuarto trimestre de 2017, la variación anual promedio
+del subíndice de precios de las mercancías pasó de 6.37 a 6.11 por
+11 Lo anterior se desprende de una actualización al ejercicio presentado en el Recuadro 1 del Informe
+Trimestral Octubre – Diciembre 2016, “Efectos Indirectos de los Incrementos en los Precios de los
+Energéticos sobre el Proceso de Formación de Precios de la Economía Mexicana”.
+Banco de México
+62 Informe Trimestral Octubre – Diciembre 2017
+ciento, y se ubicó en 5.78 por ciento en enero de 2018 y en 5.29 por
+ciento en la primera quincena de febrero. Tanto el subíndice de precios
+de las mercancías alimenticias, como el de las no alimenticias, mostraron
+una tendencia decreciente en el periodo que se reporta. En efecto, el
+primer rubro redujo su variación anual promedio de 7.29 a 6.80 por ciento
+entre los trimestres mencionados, registrando 6.50 por ciento en enero
+de 2018 y 6.17 por ciento en la primera quincena de febrero. Por su parte,
+entre el tercer y el cuarto trimestre de 2017 la variación anual promedio
+de las mercancías no alimenticias disminuyó de 5.60 a 5.53 por ciento.
+En enero de 2018 su variación anual se ubicó en 5.17 por ciento y en
+4.56 por ciento en la primera quincena de febrero (Gráfica 41a y Gráfica
+41b).
+ii. Por su parte, si bien la variación anual promedio del subíndice de precios
+de los servicios exhibió cierta tendencia al alza hacia finales de 2017, en
+enero y en la primera quincena de febrero volvió a mostrar una reducción.
+En particular, su variación pasó de 3.68 por ciento en el tercer trimestre
+de 2017 a 3.77 por ciento en el cuarto trimestre, y disminuyó a 3.52 por
+ciento en enero y a 3.49 por ciento en la primera quincena de febrero.
+Una parte importante del comportamiento de estos precios en el último
+trimestre de 2017 se explica por un efecto aritmético en el rubro de los
+servicios distintos a educación y vivienda, debido a que no se repitieron
+las reducciones en las tarifas de telefonía móvil registradas en el mismo
+periodo del año previo, así como a incrementos de precios en algunos
+servicios de alimentación (Gráfica 41a). Por su parte, las menores tasas
+de crecimiento que ha venido exhibiendo el subíndice de precios de los
+servicios a principios de 2018 también reflejan el desvanecimiento de los
+efectos indirectos que los incrementos en las cotizaciones de algunos
+insumos, en particular, los de los energéticos, habían tenido sobre los
+precios de los servicios el año anterior.
+Gráfica 41
+Índice de Precios Subyacente
+Variación anual en por ciento
+a) Mercancías y Servicios
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Mercancías
+Servicios
+1q Febrero
+b) Mercancías
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Mercancías Alimenticias
+Mercancías No Alimenticias
+1q Febrero
+Fuente: Banco de México e INEGI.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 63
+3.1.2. Inflación No Subyacente
+En cuanto al comportamiento de la inflación no subyacente destaca:
+i. Entre el tercer y el cuarto trimestre de 2017, la tasa de crecimiento anual
+del subíndice de precios de los productos agropecuarios disminuyó de
+12.07 a 8.99 por ciento. No obstante este resultado, hacia finales de 2017
+comenzó a ser notorio el aumento en los precios de algunas frutas y
+verduras con elevada ponderación dentro del INPC, como lo son el
+jitomate, la calabacita, el tomate verde y la cebolla, entre otras. Ello fue
+reflejo de condiciones climatológicas adversas, tanto en México como en
+Estados Unidos, este último afectado por huracanes en ciertas regiones,
+lo cual redujo el abasto de estos bienes. En particular, el precio del
+jitomate pasó de una variación anual de 13.26 por ciento en diciembre de
+2017 a 43.56 por ciento en enero de 2018 y a 33.89 por ciento en la
+primera quincena de febrero. Como resultado de ello, entre noviembre y
+diciembre de 2017 la variación anual del subíndice de precios de los
+productos agropecuarios aumentó de 8.84 a 9.75 por ciento, ubicándose
+en 10.76 por ciento en enero y en 10.45 por ciento en la primera quincena
+de febrero. A su interior, el de las frutas y verduras pasó de 14.91 a 18.60
+entre noviembre y diciembre de 2017, registrando 20.65 y 17.95 por
+ciento en enero de 2018 y en la primera quincena de febrero,
+respectivamente (Gráfica 42).
+Gráfica 42
+Índice de Precios de Frutas y Verduras Seleccionados
+Variación anual en por ciento
+-120
+-60
+0
+60
+120
+180
+240
+300
+-20
+-10
+0
+10
+20
+30
+40
+50
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+Frutas y Verduras
+Jitomate
+Tomate Verde
+Calabacita
+1q Febrero
+Fuente: Banco de México e INEGI.
+ii. El incremento anual promedio del subíndice de precios de los energéticos
+y tarifas autorizadas por el gobierno aumentó de 11.14 por ciento en el
+tercer trimestre de 2017 a 13.92 por ciento en el cuarto. En particular, el
+rubro de energéticos tuvo variaciones anuales promedio de 13.68 y 17.03
+por ciento en los mismos periodos. Lo anterior se debió en buena medida
+a los aumentos de precio que tuvo el gas L.P. desde mediados del tercer
+trimestre, asociados a los bajos inventarios internacionales y a las
+afectaciones que el huracán Harvey causó en la oferta proveniente de
+Banco de México
+64 Informe Trimestral Octubre – Diciembre 2017
+Estados Unidos. Así, el aumento anual promedio de este energético pasó
+de 13.36 por ciento en el tercer trimestre de 2017 a 39.93 por ciento en
+el cuarto. En enero de 2018, la variación anual del rubro de los
+energéticos fue considerablemente más moderada, al ubicarse en 7.00
+por ciento, mientras que en la primera quincena de febrero fue 8.14 por
+ciento. No obstante, la variación anual del precio del gas L.P. permaneció
+elevada, al situarse en 25.90 por ciento en enero y en 19.66 por ciento
+en la primera quincena de febrero. Esto contribuyó a acotar la
+disminución de la inflación no subyacente en esos periodos (Gráfica 43).
+Gráfica 43
+Índices de Precios de Energéticos Seleccionados
+Variación anual en por ciento
+-25
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Energéticos
+Gas LP
+Gas Natural
+Gasolina
+1q Febrero
+Fuente: Banco de México e INEGI.
+Profundizando en lo anterior:
+ En el cuarto trimestre de 2017, la variación mensual promedio de
+las gasolinas fue 0.77 por ciento, mientras que en el tercero fue
+0.44 por ciento. Este aumento estuvo asociado a la depreciación
+adicional que experimentó la moneda nacional en el último
+trimestre de 2017, así como a los aumentos en las referencias
+internacionales de ese combustible. En enero de 2018, estos
+factores afectaron más notablemente la variación del precio de las
+gasolinas, que se ubicó en 3.11 por ciento en su variación
+mensual, mientras que en la primera quincena de febrero su
+variación fue 2.50 por ciento. Cabe recordar que el 30 de
+noviembre de 2017 entró en vigor la cuarta y última etapa del
+programa de liberalización de los precios de las gasolinas, con lo
+que a partir de esa fecha dichos precios se encuentran
+liberalizados en todos los estados del país.
+ El precio del gas natural, determinado en función de sus
+referencias internacionales, pasó de un incremento mensual
+promedio de 0.85 por ciento en el tercer trimestre de 2017, a 0.02
+por ciento en el cuarto, registrando una variación mensual de 0.01
+por ciento en enero de 2018 y un nulo aumento en la primera
+quincena de febrero.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 65
+ En el caso de las tarifas eléctricas para el sector doméstico de bajo
+consumo, estas han permanecido sin cambio desde la reducción
+de 2 por ciento que tuvo lugar a inicios de 2016. Las tarifas
+domésticas de alto consumo (DAC), por su parte, varían en función
+de los costos de los combustibles utilizados en la generación de
+energía eléctrica. De esta forma, en octubre, noviembre y
+diciembre de 2017, las tarifas DAC tuvieron incrementos
+mensuales de 0.6, 1.5 y 0.9 por ciento, respectivamente. Las
+variaciones mensuales de estas tarifas en enero y febrero de 2018
+fueron 2.9 y 1.5 por ciento.
+ Entre el tercer y el cuarto trimestre de 2017, la tasa de crecimiento
+anual promedio de los precios del rubro de tarifas autorizadas por
+el gobierno pasó de 6.82 a 8.20 por ciento. Debe recordarse que
+en septiembre, a raíz del sismo del día 19, se otorgó gratuidad
+temporal en los servicios del Metro, autobús urbano y
+estacionamientos en la Ciudad de México, además de algunas
+autopistas a nivel nacional, lo cual influyó en las menores
+variaciones anuales del tercer trimestre. En enero de 2018, la
+variación anual de este rubro disminuyó a 7.31 por ciento y a 7.15
+por ciento en la primera quincena de febrero.
+En este contexto, como consecuencia de los choques no previstos en los precios
+de algunos energéticos, principalmente el gas L.P., y de ciertas frutas y verduras,
+la incidencia de la inflación no subyacente a la inflación general fue en aumento a
+lo largo del cuarto trimestre, con mayores contribuciones tanto del rubro de los
+agropecuarios, como de los energéticos y tarifas autorizadas por el gobierno. No
+obstante, como se mencionó, desde enero de 2018 la inflación anual medida ya no
+contiene el efecto de los aumentos de los precios de los energéticos registrados en
+el mismo periodo del año anterior, lo que contribuyó a reducir la incidencia de la
+inflación no subyacente a la inflación general (Gráfica 44).
+Gráfica 44
+Índice Nacional de Precios al Consumidor
+Incidencias anuales en puntos porcentuales 1/
+0.53
+0.45
+0.54
+0.44
+0.43
+0.41
+0.36
+0.37
+0.34
+0.25
+0.20
+0.15
+0.13
+0.11
+-0.06
+-0.01
+-0.10
+-0.08
+0.12
+0.19
+0.14
+0.23
+0.30
+0.38
+1.78
+1.87
+1.88
+1.83
+1.90
+1.83
+1.56
+1.56
+1.70
+1.96
+2.10
+2.17
+1.14
+1.26
+0.76
+0.74
+0.74
+0.87
+0.67
+0.68
+0.62
+0.47
+0.37
+0.36
+0.25
+0.16
+0.50
+0.75
+0.58
+0.42
+0.48
+0.36
+0.28
+0.29
+0.50
+0.49
+0.52
+0.39
+0.42
+0.61
+0.79
+1.12
+1.29
+0.99
+0.79
+0.84
+0.93
+1.00
+0.95
+0.93
+0.91
+0.96
+0.84
+0.93
+0.91
+0.91
+0.93
+0.93
+0.93
+0.80
+0.85
+1.01
+0.97
+0.97
+0.97
+0.99
+1.01
+0.98
+0.95
+0.97
+0.97
+1.13
+1.19
+1.25
+1.34
+1.35
+1.47
+1.44
+1.47
+1.52
+1.53
+1.49
+1.53
+1.54
+1.53
+1.41
+1.40
+0.84
+0.91
+0.90
+0.92
+0.85
+0.87
+0.86
+0.82
+0.88
+0.94
+0.96
+0.97
+0.98
+1.04
+1.11
+1.16
+1.23
+1.25
+1.28
+1.30
+1.36
+1.38
+1.35
+1.40
+1.64
+1.86
+2.02
+2.10
+2.20
+2.22
+2.25
+2.28
+2.16
+2.09
+2.15
+2.14
+1.99
+1.83
+3.07
+3.00
+3.14
+3.06
+2.88
+2.87
+2.74
+2.59
+2.52
+2.48
+2.21
+2.13
+2.61
+2.87
+2.60
+2.54
+2.60
+2.54
+2.65
+2.73
+2.97
+3.06
+3.30
+3.36
+4.72
+4.86
+5.35
+5.82
+6.16
+6.31
+6.44
+6.66
+6.35
+6.37
+6.63
+6.77
+5.55
+5.45
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+2015 2016 2017 2018
+1q Febrero
+INPC
+Mercancías
+Servicios
+Agropecuarios
+Energéticos y Tarifas Aut por el Gob.
+1/ En ciertos casos la suma de los componentes respectivos puede tener alguna discrepancia por efectos de redondeo.
+Fuente: Elaboración propia con información del INEGI.
+Banco de México
+66 Informe Trimestral Octubre – Diciembre 2017
+3.2. Índice Nacional de Precios al Productor
+En lo que se refiere al Índice Nacional de Precios al Productor (INPP) de producción
+total, excluyendo petróleo, al igual que en el trimestre anterior, su variación anual
+promedio entre el tercer y el cuarto trimestre de 2017 se redujo, con lo cual su tasa
+de crecimiento pasó de 5.35 a 5.03 por ciento, ubicándose en 3.38 por ciento en
+enero de 2018 (Gráfica 45). De los componentes del INPP, el de bienes intermedios
+fue el que mostró la mayor contribución a la baja entre los trimestres que se
+analizan, al disminuir su variación de 6.63 a 5.82 por ciento, ubicándose en 3.89
+por ciento en enero de 2018. Por su parte, los precios de bienes finales también
+mostraron una reducción en su tasa de variación anual, al pasar de 4.80 a 4.69 por
+ciento del tercer al cuarto trimestre, ubicándose en 3.16 por ciento en enero de
+2018. Al interior de este, el subíndice de precios de las mercancías finales para
+consumo interno continuó disminuyendo (6.62 y 6.40 por ciento en el tercer y cuarto
+trimestre de 2017, respectivamente, al tiempo que en enero de 2018 se ubicó en
+5.44 por ciento), siendo esta agrupación del INPP la que tiene mayor poder
+predictivo sobre la evolución de los precios de las mercancías al consumidor
+incluidas en el índice subyacente.12
+Gráfica 45
+Índice Nacional de Precios al Productor 1/
+Variación anual en por ciento
+2.04
+2.37
+2.20
+2.50
+2.84
+2.03
+2.82
+3.30
+2.99
+2.89
+2.71
+3.34
+2.56
+1.93
+2.64
+2.76
+2.34
+3.17
+3.31
+3.25
+3.47
+3.47
+3.46
+2.78
+3.91
+4.76
+4.03
+4.12
+5.02
+5.60
+5.50
+5.50
+6.40
+6.70
+7.87
+8.52
+9.81
+9.46
+9.45
+8.75
+8.10
+6.69
+5.92
+5.64
+4.50
+5.27
+5.19
+4.65
+3.38
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+2014 2015 2016 2017 2018
+INPP Producción Total
+INPP Mercancías Finales: Consumo Interno
+Enero
+1/ Índice Nacional de Precios al Productor Total, excluyendo petróleo.
+Fuente: Banco de México e INEGI.
+12 Véase el Recuadro 1 del Informe Trimestral Abril – Junio 2016, “¿Se Pueden Identificar Presiones
+Inflacionarias Medidas a través del INPC por medio del Comportamiento de los Subíndices de Mercancías
+del INPP?”.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 67
+4. Política Monetaria y Determinantes de la Inflación
+Para guiar sus acciones de política monetaria, la Junta de Gobierno de este Instituto Central da seguimiento cercano a la evolución de la inflación respecto a su trayectoria prevista, considerando la postura monetaria adoptada y el horizonte en el que opera la política monetaria, así como la información disponible de todos los determinantes de la inflación y sus expectativas de mediano y largo plazo, incluyendo el balance de riesgos para estos. Hacia adelante, la Junta ha destacado que continuará vigilando el traspaso potencial de las variaciones del tipo de cambio a los precios, la posición monetaria relativa entre México y Estados Unidos y la evolución de las condiciones de holgura en la economía. Asimismo, ante la presencia de riesgos que, por su naturaleza, impliquen un elevado grado de incertidumbre respecto a sus consecuencias para la inflación y sus expectativas, la política monetaria se adecúa de manera oportuna y firme. Con ello, se contribuye al anclaje de las expectativas de inflación de mediano y largo plazo y se propicia la convergencia de la inflación a su meta (ver Recuadro 6).
+Así, si bien con el fin de hacer frente al complejo entorno que caracterizaba a la economía y las consecuencias que ello tuvo sobre la inflación, durante los primeros seis meses de 2017 la Junta de Gobierno del Banco de México incrementó la tasa de referencia en 125 puntos base, hasta alcanzar un nivel de 7 por ciento en junio de 2017, de julio a noviembre de 2017 el Banco de México mantuvo sin cambios el objetivo para la Tasa de Interés Interbancaria a un día. No obstante, ante los choques adicionales que afectaron a la inflación a finales de 2017, y con el objeto de mantener una postura monetaria que evitara efectos de segundo orden en el proceso de formación de precios y reforzara la tendencia descendente de la inflación general anual hacia su meta, en las reuniones de diciembre de 2017 y de febrero de 2018 la Junta de Gobierno decidió aumentar la tasa objetivo en 25 puntos base en cada una de ellas, llevándola a un nivel de 7.50 por ciento. En su última decisión de política monetaria, la Junta de Gobierno consideró que las condiciones de holgura en la economía se han venido estrechando, lo cual podría dificultar la asimilación de los choques que han afectado a la inflación e influir en la velocidad a la que la inflación subyacente se está reduciendo, y las condiciones monetarias más restrictivas que se prevén en la economía estadounidense (Gráfica 46a). Cabe señalar que las tasas de interés se han incrementado a un nivel real ex-ante cercano al 3.5 por ciento (Gráfica 46b). Para poner ese nivel en perspectiva, considérese que el rango estimado para la tasa neutral de corto plazo es de 1.7 a 3.3 por ciento, con un punto medio de 2.5 por ciento.13
+13 Para una descripción de la estimación de la tasa de interés neutral de corto plazo, ver el Recuadro “Consideraciones sobre la Evolución de la Tasa de Interés Neutral en México” en el Informe Trimestral Julio - Septiembre 2016.
+Banco de México
+68 Informe Trimestral Octubre – Diciembre 2017
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 69
+Banco de México
+70 Informe Trimestral Octubre – Diciembre 2017
+Gráfica 46
+Objetivo de la Tasa de Interés Interbancaria a 1 Día, Inflación General y Tasa Real Ex Ante
+Por ciento anual
+a) Objetivo de la Tasa de Interés Interbancaria a
+1 Día e Inflación General 1/
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+2003 2005 2007 2009 2011 2013 2015 2017
+Objetivo de la Tasa de Interés
+Interbancaria a 1 Día
+Inflació n General
+Objetivo de Inflación
+b) Tasa Real Ex-Ante de Corto Plazo y
+Rango Estimado para la Tasa Neutral Real de
+Corto Plazo en el Largo Plazo 1/
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+ene.-15 jun.-15 nov.-15abr.-16 sep.-16 feb.-17 jul.-17 dic.-17
+Tasa Real Ex-ante de Corto Plazo
+Rango de la Tasa Real Neutral
+de Corto Plazo en el Largo Plazo
+1/ Hasta el 20 de enero de 2008 se muestra la Tasa de Interés
+Interbancaria a 1 día. El último dato de inflación corresponde a
+enero.
+Fuente: Banco de México.
+1/ La tasa real ex-ante de corto plazo se calcula como la
+diferencia entre el Objetivo de la Tasa de Interés Interbancaria
+a un día y la media de las expectativas de inflación a 12 meses
+extraídas de la Encuesta de Banco de México. La línea
+punteada corresponde al punto medio del rango.
+Fuente: Banco de México.
+Tomando en consideración el horizonte en el que opera la política monetaria, en
+las acciones tomadas durante el periodo que se reporta influyeron: i) el desempeño
+de la inflación respecto a la trayectoria prevista; ii) el comportamiento de los
+principales determinantes de la inflación; y, iii) la evolución de las expectativas de
+inflación de mediano y largo plazo.
+En cuanto a la evolución de la inflación respecto a sus proyecciones, con la
+información disponible al momento de la publicación del Informe Trimestral Julio -
+Septiembre de 2017 se anticipaba que la inflación general anual en 2017
+continuaría la tendencia a la baja y que esa trayectoria se acentuaría durante 2018,
+alcanzando un nivel cercano a 3 por ciento hacia finales del año. No obstante, ante
+la presencia de choques adicionales no previstos a finales del año, la inflación
+aumentó y cerró 2017 en 6.77 por ciento. Así, esta trayectoria de inflación fue
+mayor a lo anticipado en el Informe referido. Posteriormente, si bien a inicios de
+2018 la inflación registró una reducción significativa, el comportamiento de la
+inflación no subyacente siguió resintiendo los efectos de los choques que la
+afectaron al cierre de 2017, con lo cual dicha reducción fue menor a la anticipada.
+Como resultado de estos choques, se retrasó la trayectoria con la que se estima
+que la inflación general anual convergería al objetivo de 3.0 por ciento. En efecto,
+si bien en el Informe previo se esperaba que ello se alcanzaría al cierre de 2018,
+como resultado de lo anterior ahora se estima que esta alcance esos niveles en el
+primer trimestre de 2019 (ver Gráfica 50 en Sección 5). Por lo que se refiere a la
+trayectoria esperada para la inflación subyacente, se prevé que continúe
+descendiendo gradualmente y alcance niveles cercanos a 3.0 por ciento en el
+primer trimestre de 2019, para consolidarse en dicho nivel durante el año. En este
+sentido, la trayectoria de la inflación subyacente tuvo ajustes menores respecto a
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 71
+lo anticipado en el Informe anterior (ver Gráfica 51 en Sección 5). El retraso en la convergencia de la inflación a su meta fue uno de los elementos considerados en la decisión de la Junta de Gobierno tomada en la reunión de febrero. De hecho, el ajuste a la tasa de referencia llevado a cabo en la decisión de ese mes conduce a que, a pesar de los choques que impactaron a la inflación a finales del 2017 e inicios del año presente, se prevea la convergencia de la inflación a su meta en el horizonte en el que opera la política monetaria. A su vez, las nuevas previsiones toman en cuenta los efectos de las acciones de política monetaria que se han implementado, las cuales operan con cierto rezago sobre la inflación.
+Con respecto a los determinantes de la inflación destaca el referente al traspaso potencial de las variaciones del tipo de cambio a los precios. Al respecto, cabe recordar que los movimientos del tipo de cambio real son un mecanismo de ajuste natural de la economía ante distintas perturbaciones, y que conducen a cambios en los precios relativos de las mercancías respecto a los servicios. En este contexto, el papel de la autoridad monetaria es que dichos ajustes se den de manera ordenada, sin generar efectos de segundo orden en la inflación. Durante el periodo que cubre este Informe la cotización del peso mexicano frente al dólar estadounidense registró una depreciación y un incremento importante en su volatilidad, si bien a partir de enero de 2018 se observó cierta reversión en esta tendencia.
+i. Entre los factores que presionaron al tipo de cambio hacia el cierre del 2017, destaca la incertidumbre que prevalecía relativa a: i) los procesos de normalización de la política monetaria en Estados Unidos y de aprobación del estímulo fiscal en dicho país, así como su ratificación final en diciembre del año pasado; ii) la renegociación del TLCAN, y iii) algunos eventos relacionados con el proceso electoral en México. Así, la cotización de la moneda nacional se ubicó en un rango de entre 18.00 y 19.70 pesos por dólar entre finales de septiembre y finales de diciembre de 2017. Sin embargo, desde principios de enero el peso ha mostrado una ligera apreciación, para ubicarse en niveles alrededor de 18.6 pesos por dólar a finales de febrero (Gráfica 47a y Gráfica 47b). Ello está asociado, entre otros factores, a las acciones de política monetaria adoptadas por este Instituto Central, así como a cierta mejora en el ambiente de negociaciones del TLCAN y a la debilidad generalizada del dólar. En este contexto, las expectativas para el tipo de cambio al cierre de 2018 y 2019 extraídas de encuestas han estado influidas considerablemente por su cotización más reciente, ajustándose de septiembre a enero de 18.21 a 19.04 pesos por dólar para 2018, y de 18.01 a 18.61 pesos por dólar para 2019.
+ii. Ante la presencia de episodios que afectaron la liquidez en el mercado cambiario e indujeron una mayor volatilidad en el mismo, en octubre y diciembre de 2017 la Comisión de Cambios anunció un aumento en las subastas de coberturas cambiarias liquidables en moneda nacional (Non-Deliverable Forwards) por un monto de 4,000 millones de dólares el 25 de octubre y por 500 millones de dólares el 26 de diciembre con cargo al programa originalmente anunciado.14 Esto, con el objetivo de procurar un funcionamiento más ordenado en el mercado cambiario ante dichos
+14 Ver Comunicados de Prensa de la Comisión de Cambios del 25 de octubre de 2017 y del 26 de diciembre de 2017.
+Banco de México
+72 Informe Trimestral Octubre – Diciembre 2017
+episodios. Asimismo, ratificó su compromiso de continuar evaluando las
+condiciones de operación de dicho mercado y no descartó la posibilidad
+de llevar a cabo acciones adicionales de ser necesario. Igualmente,
+reiteró que el anclaje del valor de la moneda nacional continuará
+procurándose principalmente mediante la preservación de fundamentos
+económicos sólidos.
+Gráfica 47
+Tipo de Cambio y Volatilidad Implícita del Tipo de Cambio
+a) Tipo de Cambio Nominal 1/
+Pesos por dólar
+16.0
+16.5
+17.0
+17.5
+18.0
+18.5
+19.0
+19.5
+20.0
+20.5
+21.0
+21.5
+22.0
+22.5
+23.0
+ene.-16 jul.-16 ene.-17 jul.-17 ene.-18
+Tipo de Cambio Observado
+Exp cierre 2018 Banxico
+Exp cierre 2019 Banxico
+18.61
+18.65
+19.04
+b) Volatilidad Implícita en Opciones de
+Tipo de Cambio
+Por ciento
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+sep.-17 oct.-17 nov.-17 dic.-17 ene. -18 feb.-18
+1 Semana
+1 Mes
+6 meses
+9 Meses
+18 Meses
+1/ El tipo de cambio observado es el dato diario del tipo de cambio
+FIX. Las etiquetas de las expectativas corresponden al
+promedio de la encuesta Banco de México de enero.
+Fuente: Banco de México.
+Fuente: Bloomberg.
+En cuanto a la postura de política monetaria relativa entre México y Estados
+Unidos, los mercados financieros mantienen la expectativa de que el proceso de
+normalización de la postura monetaria de la Reserva Federal de Estados Unidos,
+incluyendo el programa de reducción de su hoja de balance iniciado en octubre de
+2017, seguirá dándose de manera gradual. No obstante, la consolidación de la
+recuperación cíclica y el efecto del estímulo fiscal recientemente aprobado en ese
+país podrían presionar a la inflación, y ello a su vez podría acelerar el ritmo de
+normalización de la política monetaria, lo cual presionaría a las tasas de interés al
+alza y podría propiciar un rebalanceo en los portafolios de inversión. Como se
+describió en la Sección 2.1, los mercados financieros internacionales han
+empezado a reconocer este riesgo.
+Por su parte, las condiciones de holgura en la economía se han mantenido
+relativamente estrechas, como se menciona en la Sección 2.2.4. Ello ha sido
+especialmente notorio en el mercado laboral, y podría estar dificultando la
+asimilación de los choques que han afectado a la inflación y, por ende, podría estar
+influyendo en la velocidad a la que la inflación subyacente se está reduciendo. En
+este contexto cobra especial relevancia la postura monetaria que ha adoptado el
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 73
+Banco de México, para evitar efectos de segundo orden en la formación de precios
+en la economía.
+Con respecto a las expectativas de inflación, si bien la media de esta expectativa
+correspondiente al cierre de 2018 se ajustó de 3.84 a 4.06 por ciento entre
+septiembre y enero, este cambio refleja en buena medida el efecto aritmético de
+los choques que afectaron a la inflación no subyacente en los últimos meses
+(Gráfica 48a).15 En contraste, la media para el componente subyacente se revisó a
+la baja, de 3.72 a 3.63 por ciento en el mismo periodo, mientras que la expectativa
+implícita para el componente no subyacente aumentó de 4.24 a 5.52 por ciento.
+Por lo que respecta a la media de las expectativas al cierre de 2019, esta se ajustó
+al alza de 3.55 a 3.65 por ciento.16 Por su parte, el componente subyacente se
+mantuvo en 3.43 por ciento en el mismo periodo, en tanto que la expectativa
+implícita para el componente no subyacente se incrementó de 3.98 a 4.38 por
+ciento (Gráfica 48b). Finalmente, las expectativas para el mediano y largo plazo se
+mantuvieron estables, si bien en niveles superiores a la meta, alrededor de 3.5 por
+ciento (Gráfica 48c).17
+Gráfica 48
+Expectativas de Inflación
+Por ciento
+a) Medias de Expectativas de
+Inflación General, Subyacente y No
+Subyacente al Cierre de 2018
+b) Medias de Expectativas de
+Inflación General, Subyacente y No
+Subyacente al Cierre de 2019
+c) Medias de Expectativas de
+Inflación General a Distintos Plazos
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+2016 2017 2018
+General
+Subyacente
+No Subyacente
+4.06
+3.63
+5.52
+Enero
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+2017 2018
+General
+Subyacente
+No Subyacente
+3.65
+3.43
+4.38
+Enero
+2
+2.5
+3
+3.5
+4
+4.5
+5
+5.5
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Siguientes 4 Años
+Siguientes 5 - 8 Años
+Citibanamex 3 - 8 Años
+Objetivo de Inflación
+Límite Superior del Intervalo de Variabilidad
+Enero
+Fuente: Encuesta de Banco de México. Fuente: Encuesta de Banco de México. Fuente: Encuesta Banco de México y Encuesta
+Citibanamex.
+Por lo que respecta a la compensación por inflación y riesgo inflacionario
+(diferencia entre las tasas de interés nominal y real de largo plazo), esta repuntó
+entre septiembre y enero, pasando de 3.53 a 3.87 por ciento (Gráfica 49a). En
+relación a los componentes de la misma destaca, por un lado, que estimaciones
+sobre las expectativas de inflación implícitas en las cotizaciones de instrumentos
+de mercado para horizontes de largo plazo (extraídas de instrumentos
+gubernamentales con vencimiento a 10 años) presentaron cierto incremento, de
+3.42 por ciento en septiembre a 3.48 por ciento en enero. Estas cifras contrastan
+15 La media de la expectativa de inflación general para el cierre de 2018 de la Encuesta Citibanamex aumentó
+de 3.82 a 4.11 por ciento entre las encuestas del 20 de septiembre de 2017 y 20 de febrero de 2018.
+16 La media de la expectativa de inflación general para el cierre de 2019 de la Encuesta de Citibanamex del
+20 de febrero de 2018 se ubicó en 3.64 por ciento.
+17 Por lo que respecta a la media de las expectativas de inflación de largo plazo de la Encuesta de
+Citibanamex (para los siguientes 3 a 8 años), se mantuvo alrededor de 3.5 por ciento entre las encuestas
+del 20 de septiembre de 2017 y la del 20 de febrero de 2018.
+Banco de México
+74 Informe Trimestral Octubre – Diciembre 2017
+con los niveles de 3.2 por ciento alcanzados durante 2016. Este aumento
+responde principalmente al ajuste al alza que han registrado las expectativas de
+inflación de menor plazo (1 a 5 años), cuya estimación se ubica en 3.80 por
+ciento, toda vez que aquella correspondiente a las de mayor plazo (6 a 10 años)
+se ubica en 3.16 por ciento (Gráfica 49b). Por su parte, la estimación de la prima
+por riesgo inflacionario a 10 años tuvo un aumento significativo de 9 a 39 puntos
+base en el mismo lapso (Gráfica 49c).18
+Gráfica 49
+Expectativas de Inflación
+Por ciento
+a) Compensación por Inflación y
+Riesgo Inflacionario Implícita en
+Bonos
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+2005 2008 2011 2014 2017
+Compensación Implícita en Bonos a 10
+Años
+Media Móvil 20 Días
+D05 D06 D07 D08 D09 D10 D11 D12 D13 D14 D15 D16 D17
+b) Expectativas de Inflación Anual
+Extraídas de Instrumentos de
+Mercado 1/
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+2005 2007 2009 2011 2013 2015 2017
+Expectatitva Promedio de 1 a 5 Años
+Expectativa Promedio de 6 a 10 Años
+Expectativa de Inf lación de Largo
+Plazo (Promedio 1 a 10 Años)
+3.80
+3.48
+3.16
+c) Prima por Riesgo Inflacionario a
+10 Años 1/
+-0.6
+-0.4
+-0.2
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+2005 2007 2009 2011 2013 2015 2017
+0.39
+Fuente: Estimación de Banco de México con datos
+de Valmer y Bloomberg.
+1/ La expectativa de inflación se calcula con base en
+un modelo afín usando datos de Bloomberg, PiP y
+Valmer, con base en Aguilar, Elizondo y Roldán
+(2016).
+Fuente: Estimaciones del Banco de México con datos
+de Bloomberg, Valmer y PIP.
+1/ La prima por riesgo inflacionario se calcula con
+base en un modelo afín usando datos de
+Bloomberg, PiP y Valmer, con base en Aguilar,
+Elizondo y Roldán (2016).
+Fuente: Estimaciones del Banco de México con
+datos de Bloomberg, Valmer y PIP.
+Por lo que respecta al comportamiento de las tasas de interés en México en el
+periodo de referencia, estas mostraron una elevada volatilidad e incrementos para
+todos los plazos, sobre todo aquellas de 2 años en adelante. Esto se observó,
+sobre todo, hacia finales de 2017, si bien dichos aumentos se han moderado
+ligeramente desde principios de este año. Al respecto, destaca que los ajustes en
+la curva de rendimientos estuvieron influidos tanto por los incrementos de la tasa
+de referencia en las tasas de interés de corto plazo, como por las presiones en las
+tasas de interés externas en las de mayor plazo. Así, en el periodo que cubre este
+Informe, la tasa de interés para un horizonte de 3 meses subió 50 puntos base, de
+7.1 a 7.6 por ciento, mientras que las correspondientes a 2 y 10 años se
+incrementaron 90 puntos base, de 6.7 a 7.6 por ciento y de 6.8 a 7.7 por ciento,
+respectivamente (Gráfica 50a y Gráfica 50b). Lo anterior condujo a que la curva de
+rendimientos se desplazara al alza, lo cual se ha dado de manera ordenada, en
+parte como resultado de las acciones de política monetaria que el Banco de México
+ha implementado (Gráfica 50c).
+18 Para una descripción de la estimación de las expectativas de inflación de largo plazo, ver el Recuadro
+“Descomposición de la Compensación por Inflación Esperada y Riesgo Inflacionario” en el Informe
+Trimestral Octubre - Diciembre 2013. Para este informe, se actualizó la estimación para incluir datos hasta
+noviembre de 2017.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 75
+Gráfica 50
+Tasas de Interés en México
+a) Tasas de Interés de Valores
+Gubernamentales
+Por ciento
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+11.0
+12.0
+2012 2013 2014 2015 2016 2017 2018
+1 Día 3 Meses
+6 Meses 1 Año
+2 Años 10 Años
+30 Años
+D 12 D 13 D14 D 15 D16 D17
+b) Curva de Rendimientos
+Por ciento
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+8.5
+9.0
+1 1 3 6 1 2 5 10 20 30
+01-dic-15
+31-mar-17
+30-jun-17
+29-sep-17
+26-feb-18
+Día Meses Años
+c) Pendiente de la Curva de
+Rendimientos
+Puntos base
+-100
+-50
+0
+50
+100
+150
+200
+250
+300
+350
+400
+2007 2009 2011 2013 2015 2017
+México EUA
+Fuente: Proveedor Integral de Precios (PiP) y Departamento del Tesoro de Estados Unidos.
+Durante el cuarto trimestre de 2017 y a inicios de 2018, los diferenciales de tasas
+de interés entre México y Estados Unidos se han mantenido en niveles elevados,
+especialmente los de menor plazo. A partir de enero a la fecha, los aumentos en
+las tasas de interés de largo plazo en Estados Unidos han reducido los
+diferenciales de rendimiento a plazo equivalente, si bien estos se ubican en niveles
+superiores a los observados en el Informe Trimestral Julio - Septiembre de 2017.
+Así, los diferenciales de las tasas de 3 meses y 2 años se mantuvieron sin cambio
+en alrededor de 600 y 530 puntos base, respectivamente, en relación al Informe
+previo, mientras que el correspondiente a 10 años aumentó 20 puntos base, para
+ubicarse en niveles de 480 puntos base (Gráfica 51a y Gráfica 51b).
+Gráfica 51
+Diferenciales de Tasas de Interés de México y Estados Unidos
+a) Diferenciales de Tasas de Interés entre
+México y Estados Unidos 1/
+Por ciento
+b) Curva de Diferenciales de Tasas de
+Interés entre México y Estados Unidos
+Puntos porcentuales
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+2012 2013 2014 2015 2016 2017 2018
+1 Día 3 Meses
+6 Meses 1 Año
+2 Años 10 Años
+30 Años
+D 12 D13 D 14 D 15 D16 D17
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+1 1 3 6 1 2 5 10 20 30
+01-dic-15
+31-mar -17
+30-jun-17
+29-sep-17
+26-feb-18
+Día Meses Años
+1/ Para la tasa objetivo de Estados Unidos se considera el promedio del intervalo considerado por la Reserva Federal.
+Fuente: Proveedor Integral de Precios (PiP) y Departamento del Tesoro Norteamericano.
+Banco de México
+76 Informe Trimestral Octubre – Diciembre 2017
+Por otra parte, los indicadores de mercado que miden el riesgo de crédito soberano
+nacional disminuyeron. Al respecto, cabe destacar que dichos indicadores para
+otros mercados emergentes registraron una disminución mayor (Gráfica 52).
+Gráfica 52
+Indicadores de Mercado que Miden el Riesgo de Crédito Soberano Nacional 1/
+Puntos base
+30
+80
+130
+180
+230
+280
+330
+380
+430
+480
+ene.-16 abr.-16 jul.-16 oct.-16 ene.-17 abr.-17 jul.-17 oct.-17 ene.-18
+Brasil Chile Colombia
+México Perú Tailandia
+1/ Se refiere a los Credit Default Swaps a 5 años.
+Fuente: Bloomberg.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 77
+5. Previsiones y Balance de Riesgos
+5.1. Previsiones para la Actividad Económica
+Crecimiento de la Economía Nacional: Los pronósticos de crecimiento económico de México para 2018 y 2019 permanecen sin cambio con respecto a los publicados en el Informe anterior. Así, se continúa anticipando que la tasa de crecimiento del PIB en 2018 se ubique entre 2.0 y 3.0 por ciento y que en 2019 se observe una expansión de la economía de entre 2.2 y 3.2 por ciento (Gráfica 53a). Estas previsiones consideran que, si bien la demanda externa que enfrenta el país podría verse favorecida por las mejores expectativas de crecimiento, tanto de la producción industrial de Estados Unidos, como del comercio global, el entorno de incertidumbre que prevalece, especialmente respecto de los términos que regirán la relación comercial de México en Norteamérica, podría seguir influyendo adversamente en la evolución de la inversión en el país.19 Cabe señalar que las condiciones de holgura en la economía han venido estrechándose, lo cual ha sido especialmente notorio en el mercado laboral, si bien recientemente parecen haber comenzado a ceder moderadamente. En este contexto, y tomando en cuenta que se espera un crecimiento de la economía cercano a su potencial, se estima que las condiciones cíclicas de la economía permanecerán en niveles similares a los actuales (Gráfica 53b).
+Empleo: De manera congruente con la evolución reciente de la economía y las previsiones para el crecimiento, los pronósticos para el número de puestos de trabajo registrados en el IMSS para 2018 y 2019 se mantienen sin cambio con respecto al Informe previo. Así, para 2018 se prevé que se observe un aumento de entre 680 y 780 mil puestos de trabajo, mientras que para para 2019 se espera un incremento de entre 690 y 790 mil plazas.
+Cuenta Corriente: Para 2018 se anticipan déficits en la balanza comercial y en la cuenta corriente de 1.1 y 2.1 por ciento del PIB, respectivamente (13.7 y 25.9 miles de millones de dólares, en el mismo orden), que se comparan con los previstos en el Informe anterior de 1.0 y 2.1 por ciento del PIB (13.1 y 25.9 miles de millones dólares, en el mismo orden). Para 2019 se esperan déficits en la balanza comercial y en la cuenta corriente de 1.2 y 2.3 por ciento del PIB, respectivamente (15.0 y 30.5 miles de millones de dólares, en el mismo orden), los cuales se comparan con los publicados en el Informe previo de 1.1 y 2.3 por ciento (14.5 y 30.6 miles de millones de dólares, en el mismo orden).
+19 En particular, las expectativas para la producción industrial de Estados Unidos en 2018 y 2019 se revisaron de 2.3 y 2.1 por ciento en el Informe anterior a 3.3 y 2.4 por ciento, respectivamente, en el Informe actual, con base en el consenso de analistas encuestados por Blue Chip en febrero de 2018.
+Banco de México
+78 Informe Trimestral Octubre – Diciembre 2017
+Gráfica 53
+Gráficas de Abanico: Crecimiento del PIB y Brecha del Producto
+a) Crecimiento del Producto, a. e.
+Por ciento anual
+-1
+0
+1
+2
+3
+4
+5
+6
+-1
+0
+1
+2
+3
+4
+5
+6
+T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4
+Observado
+Escenario Cent ral Informe Anterior
+Escenario Cent ral Informe Actual
+2013 2014 2015 2016 2017 2018 2019
+4
+trim.
+6
+trim.
+siguientes
+b) Estimación de la Brecha del Producto, a. e.
+Porcentaje del producto potencial
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4
+Observado
+Escenario Cent ral Informe Anterior
+Escenario Cent ral Informe Actual
+4
+trim.
+2013 2014 2015 2016 2017 2018 2019
+6
+trim.
+siguientes
+a. e. / Cifras desestacionalizadas. Se señalan los próximos
+cuatro y seis trimestres a partir del primer trimestre de
+2018, es decir, el primer y tercer trimestres de 2019,
+lapsos en los que los canales de transmisión de la política
+monetaria operan a cabalidad.
+Fuente: INEGI y Banco de México.
+a. e. / Elaborado con cifras desestacionalizadas. Se señalan los
+próximos cuatro y seis trimestres a partir del primer
+trimestre de 2018, es decir, el primer y tercer trimestres de
+2019, lapsos en los que los canales de transmisión de la
+política monetaria operan a cabalidad.
+Fuente: Banco de México.
+Entre los riesgos a la baja para la actividad económica destacan:
+i. Que se postergue la renegociación del TLCAN, o bien que esta no resulte
+favorable para el sector productivo mexicano. En particular, un acuerdo
+que conduzca a un nuevo esquema de relaciones comerciales que afecte
+la formación de cadenas globales de valor podría incidir no solo en el
+crecimiento de corto plazo, sino incluso en el potencial de expansión de
+largo plazo.
+ii. Que se observen episodios de volatilidad en los mercados financieros
+internacionales derivados del proceso de normalización de la política
+monetaria en Estados Unidos, o de otros factores que pudieran reducir
+las fuentes de financiamiento.
+iii. Que se presente volatilidad en los mercados financieros nacionales
+asociada al proceso electoral en México.
+iv. Que la competitividad de la economía mexicana se vea afectada por
+diversos factores, externos o internos, como lo son la reducción tributaria
+a empresas en Estados Unidos y los problemas de inseguridad pública
+en nuestro país.
+Entre los riesgos al alza para el crecimiento sobresalen:
+i. Que se resuelva la incertidumbre asociada a la renegociación del TLCAN,
+de modo que se reactive la inversión, posiblemente incluso en sectores
+antes no incluidos en el Tratado.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 79
+ii. Que la implementación de las reformas estructurales produzca
+resultados superiores a los esperados. Al respecto, cabe señalar que ya
+se han observado algunos avances, tales como los resultados favorables
+de las rondas de licitación de las áreas de exploración y extracción de
+hidrocarburos, los cuales se espera redunden en una mayor inversión en
+los próximos años y en incrementos en la producción en el mediano
+plazo.
+Al respecto, si bien el balance de riesgos para el crecimiento ha mejorado
+ligeramente como reflejo de la moderación de algunos de los riesgos más adversos
+y de la reactivación de la economía observada en el último trimestre de 2017, este
+sigue sesgado a la baja. Por otro lado, cabe destacar que la trayectoria negativa
+que la inversión ha mostrado por varios años, en conjunto con la atonía que podría
+mantener hacia adelante, apunta a riesgos a la baja para el crecimiento de la
+economía en el mediano y largo plazo.
+5.2. Previsiones para la Inflación
+Inflación: Considerando el comportamiento reciente de la inflación, la evolución de
+sus determinantes, la postura de política monetaria actual y el horizonte en el que
+esta opera, se prevé que la inflación general continúe disminuyendo,
+aproximándose a lo largo del año hacia el objetivo de 3.0 por ciento y alcanzándolo
+en el primer trimestre de 2019, ubicándose cerca del objetivo durante el resto del
+año. El retraso en esta trayectoria está asociado, en parte, a los efectos aritméticos
+que tendrán los incrementos de los precios de algunos energéticos y frutas y
+verduras que afectaron en los últimos meses la medición de la inflación no
+subyacente, así como a la posición cíclica de la economía, la cual podría estar
+afectando la velocidad a la que la inflación subyacente ha disminuido. Por lo que
+se refiere a la trayectoria esperada para la inflación subyacente, se prevé que
+continúe descendiendo gradualmente y alcance niveles cercanos a 3.0 por ciento
+en el primer trimestre de 2019, para consolidar su convergencia a dicho nivel
+durante el resto del año (Cuadro 3). Las previsiones anteriores consideran un
+comportamiento ordenado del tipo de cambio, la ausencia de presiones
+provenientes del mercado laboral y una reducción importante de la inflación no
+subyacente a lo largo de 2018, en la medida que no se repitan el tipo de choques
+que la afectaron el año anterior (Gráfica 54 y Gráfica 55).
+Cuadro 3
+Pronósticos de la Inflación General y Subyacente
+Variación anual promedio trimestral en por ciento 1/
+I II III IV I II III IV
+INPC
+Informe Actual 5.5 4.8 4.3 3.8 3.2 3.0 3.1 3.2
+Informe Anterior 4.6 4.1 3.6 3.0 3.1 3.3 3.1 3.0
+Subyacente
+Informe Actual 4.4 4.0 3.8 3.6 3.3 3.2 3.1 3.0
+Informe Anterior 3.48.32 5.32.39 3.37.46 1.36.35 # 3.3 3.2 3.1 3.1
+2018 2019
+1 El cálculo de la inflación anual para cada trimestre se obtiene al comparar el índice promedio del trimestre respecto al índice promedio del mismo trimestre
+del año anterior. Por ello, estas cifras pueden diferir del promedio simple de las inflaciones anuales de cada mes del trimestre correspondiente.
+Elaboración propia.
+Banco de México
+80 Informe Trimestral Octubre – Diciembre 2017
+Las previsiones anteriores están sujetas a riesgos, entre los que destacan, al alza:
+i. Que se registre una depreciación de la moneda nacional en respuesta,
+entre otros factores, a una evolución desfavorable del proceso de
+negociación del TLCAN, a una reacción adversa de los mercados a las
+acciones de política monetaria en los Estados Unidos, a condiciones más
+restrictivas en los mercados financieros internacionales o a volatilidad
+asociada al proceso electoral de 2018.
+ii. Que ocurran nuevos episodios desfavorables de choques en los precios
+de los bienes agropecuarios.
+iii. Que se presenten alzas importantes en los precios de algunos
+energéticos, debido a incrementos en sus referencias internacionales, o
+a la ausencia de competencia en algunos mercados.
+iv. Tomando en cuenta que la economía no presenta condiciones de
+holgura, especialmente en el mercado laboral, la evolución de los costos
+unitarios de la mano de obra podría presionar a la inflación.
+A la baja se encuentran:
+i. Que se aprecie la moneda nacional como consecuencia de que el
+resultado de las negociaciones del TLCAN sea favorable.
+ii. Que la actividad económica presente un menor dinamismo que el
+anticipado.
+Respecto al balance de riesgos para la inflación, este mantiene un sesgo al alza
+asociado a los escenarios de riesgo antes descritos, en un entorno con un alto
+grado de incertidumbre.
+Gráfica 54
+Gráfica de Abanico: Inflación General Anual 1/
+Por ciento
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4
+Inflación Observada
+Escenario Central Informe Anterior
+Escenario Central Informe Actual
+Objetivo de Inflación General
+Intervalo de Variabilidad
+2013 2014 2015 2016 2017 2018 2019
+4 trim. 6 trim.
+siguientes
+1/ Promedio trimestral de la inflación general anual. Se señalan los próximos cuatro y seis trimestres a partir del
+primer trimestre de 2018, es decir, el primer y tercer trimestres de 2019, lapsos en los que los canales de
+transmisión de la política monetaria operan a cabalidad.
+Fuente: Banco de México e INEGI.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2017 81
+Gráfica 55
+Gráfica de Abanico: Inflación Subyacente Anual 1/
+Por ciento
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4
+Inflación Observada
+Escenario Central Informe Anterior
+Escenario Central Informe Actual
+Objetivo de Inflación General
+4 trim.
+2013 2014 2015 2016 2017 2018 2019
+6 trim.
+siguientes
+1/ Promedio trimestral de la inflación subyacente anual. Se señalan los próximos cuatro y seis trimestres a partir del
+primer trimestre de 2018, es decir, el primer y tercer trimestres de 2019, lapsos en los que los canales de
+transmisión de la política monetaria operan a cabalidad.
+Fuente: Banco de México e INEGI.
+En el entorno antes descrito, la Junta de Gobierno del Banco de México continuará
+vigilando muy de cerca la evolución de la inflación respecto a la trayectoria prevista,
+considerando el horizonte en el que opera la política monetaria, así como la
+información disponible de todos los determinantes de la inflación y sus expectativas
+de mediano y largo plazo, incluyendo el traspaso potencial de las variaciones del
+tipo de cambio a los precios, la posición monetaria relativa entre México y Estados
+Unidos y la evolución de las condiciones de holgura en la economía. Ante la
+presencia de factores que, por su naturaleza, impliquen un riesgo para la inflación
+y sus expectativas, de ser necesario la política monetaria actuará de manera
+oportuna y firme para fortalecer el anclaje de las expectativas de inflación de
+mediano y largo plazo y lograr la convergencia de esta a su objetivo de 3 por ciento.
+Las acciones de política monetaria que se han venido implementando para
+mantener ancladas las expectativas de inflación de mediano y largo plazo, aunadas
+al cumplimiento de las metas fiscales en 2017 y al compromiso de hacerlo en 2018,
+así como a la resiliencia que ha mantenido el sistema financiero, han contribuido a
+que la economía mexicana esté en mejor posición para enfrentar posibles
+escenarios adversos. A lo anterior también contribuye la renovación anticipada de
+la Línea de Crédito Flexible que México tiene con el Fondo Monetario Internacional
+por dos años más, otorgada en reconocimiento de la solidez del marco
+macroeconómico del país. En el futuro, es crucial que, además de seguir una
+política monetaria prudente y firme, se impulse la implementación de todas aquellas
+acciones que propicien una mayor productividad, y que las autoridades
+correspondientes avancen hacia una consolidación sostenible de las finanzas
+públicas.
+Banco de México
+82 Informe Trimestral Octubre – Diciembre 2017
+En este contexto, es importante reconocer que, hasta ahora, el reforzamiento del marco macroeconómico de la economía mexicana ha contribuido a que esta continúe creciendo a pesar de la severidad y simultaneidad de los diversos choques que ha enfrentado. No obstante, la economía mexicana sigue enfrentando riesgos en el corto y mediano plazos. Para atender los retos que podrían presentarse es fundamental que México adopte las medidas necesarias para lograr una asignación más eficiente de sus recursos e incrementar su capacidad productiva. A su vez, se deben propiciar acciones que promuevan una mayor productividad en la economía y que mejoren su competitividad, así como llevar a cabo esfuerzos para revertir la tendencia a la baja de la inversión y desarrollar su infraestructura. Adicionalmente, como se ha señalado en informes anteriores, es importante implementar reformas y acciones profundas que permitan contar con mejores condiciones de seguridad pública, de certeza jurídica y de competencia económica, lo cual redundará en mejores condiciones para la inversión y el crecimiento, en menor inflación, y en un mayor bienestar de la población.
+Informe sobre la Inflación Enero – Marzo 2012 1
+Agosto 2012
+Febrero 2018

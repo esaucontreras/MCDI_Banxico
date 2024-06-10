@@ -1,0 +1,4193 @@
+Informe Trimestral
+Octubre – Diciembre 2013
+
+JUNTA DE GOBIERNO
+Gobernador
+AGUSTÍN GUILLERMO CARSTENS CARSTENS
+Subgobernadores
+ROBERTO DEL CUETO LEGASPI
+JAVIER EDUARDO GUZMÁN CALAFELL
+MANUEL RAMOS FRANCIA
+MANUEL SÁNCHEZ GONZÁLEZ
+
+INFORME TRIMESTRAL
+En este informe se analiza la inflación, la evolución económica, el comportamiento de los indicadores económicos del país, así como la ejecución de la política monetaria del trimestre octubre – diciembre de 2013 y, en general de las actividades del Banco durante dicho periodo, en el contexto de la situación económica nacional e internacional, para dar cumplimiento a lo dispuesto en el artículo 51, fracción II, de la Ley del Banco de México.
+ADVERTENCIA
+A menos que se especifique lo contrario, este documento está elaborado con información disponible al 10 de febrero de 2014. Las cifras son de carácter preliminar y están sujetas a revisiones.
+CONTENIDO
+1. Introducción ....................................................................................................................... 1
+2. Evolución Reciente de la Inflación ..................................................................................... 5
+2.1. La Inflación en el Cuarto Trimestre de 2013 .......................................................... 5
+2.2. Salarios ................................................................................................................. 13
+3. Entorno Económico y Financiero Prevaleciente en el Cuarto Trimestre de 2013 ........... 14
+3.1. Condiciones Externas ........................................................................................... 14
+3.1.1. Actividad Económica Mundial ................................................................. 14
+3.1.2. Precios de las Materias Primas ............................................................... 19
+3.1.3. Tendencias de la Inflación en el Exterior ................................................ 20
+3.1.4. Mercados Financieros Internacionales ................................................... 21
+3.2. Evolución de la Economía Mexicana ................................................................... 24
+3.2.1. Actividad Económica ............................................................................... 24
+3.2.2. Ahorro Financiero y Financiamiento en el País ...................................... 31
+4. Política Monetaria y Determinantes de la Inflación ......................................................... 40
+5. Previsiones para la Inflación y Balance de Riesgos ........................................................ 54
+Anexo Modificaciones al Calendario para los Anuncios de las Decisiones de Política Monetaria, las Minutas sobre las Reuniones de la Junta de Gobierno Referentes a las Decisiones de Política Monetaria y los Informes Trimestrales en 2014 .................... 62
+RECUADRO
+1. Descomposición de la Compensación por Inflación y Riesgo Inflacionario .................... 46
+
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 1
+1. Introducción
+La conducción de la política monetaria del Banco de México ha buscado una convergencia eficiente de la inflación al objetivo permanente de 3 por ciento, es decir, al menor costo posible para la sociedad en términos de actividad económica. Los avances estructurales alcanzados en el combate a la inflación durante la última década han coadyuvado a generar un ambiente de mayor credibilidad en el objetivo antes señalado. Esto le dio al Instituto Central un mayor margen de maniobra en la conducción de la política monetaria durante 2013.
+Reconociendo los logros de mediano plazo en el abatimiento de la inflación y el entorno de mayor certidumbre sobre la economía mexicana, en marzo de 2013 la Junta de Gobierno del Banco de México decidió reducir en 50 puntos base la tasa de interés de referencia. Posteriormente, en las reuniones de septiembre y octubre de 2013, ante el debilitamiento de la actividad económica observado en la primera parte del año, redujo en 25 puntos base el objetivo para la tasa de interés interbancaria a un día en cada una de estas decisiones. La posibilidad de implementar una política monetaria contracíclica sin comprometer el proceso de convergencia de la inflación hacia el objetivo señalado, a pesar de la incertidumbre en los mercados financieros internacionales, fue posible gracias al avance en el anclaje de las expectativas de inflación en México.
+Durante el cuarto trimestre de 2013, la actividad económica en México continuó la trayectoria ascendente que inició en el tercer trimestre, aunque a un menor ritmo, después de la contracción que exhibió durante la primera mitad de ese año. La recuperación que ha venido presentando la economía desde el tercer trimestre de 2013 se derivó primero de un mayor dinamismo de la demanda externa, así como de una incipiente recuperación de algunos componentes de la demanda interna en el cuarto trimestre. En particular, el consumo privado y el gasto público han tendido a repuntar, si bien la inversión continúa sin mostrar señales claras de reanimación. Aun tomando en cuenta esta recuperación, prevalecen condiciones de holgura en la economía.
+La inflación general anual se mantuvo dentro del intervalo de más o menos un punto porcentual alrededor del objetivo de 3 por ciento en el cuarto trimestre de 2013, en tanto que la inflación subyacente continuó ubicándose por debajo de 3 por ciento, en niveles cercanos a su mínimo histórico. A pesar de lo anterior, la inflación general anual tuvo un repunte en noviembre y diciembre como resultado, principalmente, de mayores tasas de crecimiento en los precios del componente no subyacente. Este incremento estuvo determinado por dos factores plenamente identificados: i) ajustes no anticipados en las tarifas de transporte público en algunas ciudades del país; y ii) aumentos en los precios de un número reducido de productos agrícolas como resultado de fenómenos climáticos que retrasaron su producción en los meses previos.
+Con el inicio de 2014 entraron en vigor medidas fiscales y una serie de ajustes en precios públicos que han generado un incremento en la inflación general anual. Cabe señalar que este crecimiento reciente en la inflación hasta ahora ha estado en línea con las previsiones del Instituto Central y que se ha concentrado en aquellos bienes y servicios afectados por las referidas medidas impositivas y de
+Banco de México
+2 Informe Trimestral Octubre – Diciembre 2013
+precios públicos. Es importante subrayar que la evidencia que se tiene hasta el momento sugiere que no se han presentado efectos de segundo orden derivados de los ajustes en precios relativos antes mencionados.
+Esta evolución de la actividad económica y la inflación en México sucedió en un entorno en el que la actividad económica mundial continuó recuperándose en el cuarto trimestre por el mejor desempeño de las economías avanzadas, principalmente la de Estados Unidos, y por la estabilización en el ritmo de crecimiento de las emergentes. En particular, la economía de Estados Unidos registró una recuperación impulsada por un mayor dinamismo del gasto privado, un mayor crecimiento de las exportaciones, el desvanecimiento de los efectos del ajuste fiscal en los primeros meses del año y una mejoría en el mercado laboral. Ante ello, la Reserva Federal comenzó a reducir el monto de compra de valores a partir de enero, al tiempo que enfatizó que su tasa de interés de referencia permanecería en niveles bajos por un periodo considerable. No obstante, a pesar del bajo nivel de inflación en Estados Unidos, aún persiste incertidumbre sobre las acciones futuras de política monetaria y, consecuentemente, sobre el nivel que las tasas de interés de largo plazo podrían alcanzar en ese país.
+Diversas economías emergentes enfrentan un panorama complicado, ya que la acumulación de desbalances macroeconómicos en el pasado ha exacerbado el impacto de la incertidumbre en los mercados financieros internacionales sobre los precios de sus activos financieros, en particular sobre sus monedas. Adicionalmente, existe el riesgo de que el proceso de normalización de la política monetaria en Estados Unidos pudiera conducir a condiciones de acceso a financiamiento externo más astringentes, lo que resalta la importancia de mantener la disciplina fiscal en esos países.
+Los flujos de capitales a México, y en general a las economías emergentes, continuaron mostrando una elevada volatilidad durante el cuarto trimestre de 2013 y particularmente en las primeras semanas de 2014. Cabe señalar que, ante el anuncio de la Reserva Federal de diciembre, los ajustes en los mercados financieros nacionales, en particular los de renta fija y cambiario, se dieron de manera ordenada. A este ajuste ordenado también contribuyó la mejoría relativa en la percepción de riesgo soberano de México derivada del notable avance en la aprobación de reformas estructurales en el país, en particular, la energética, la financiera, la de telecomunicaciones, la de competencia económica, la laboral y la educativa, lo que ha llevado a la elevación de la calificación crediticia de la deuda pública mexicana. A lo anterior también contribuyó la reforma hacendaria. Los principales ajustes incluyeron la homologación del IVA en la región fronteriza, nuevos gravámenes a los refrescos y a los alimentos con alta densidad calórica, así como un impuesto ecológico a los combustibles automotrices y un menor desliz mensual de sus precios. En el ISR se acotaron o eliminaron regímenes especiales, se aplicarán tasas más elevadas a las personas físicas de mayores ingresos y un impuesto a dividendos y ganancias de capital. También, se derogaron el IETU y el IDE. En particular, la reforma establece como ancla fiscal a los Requerimientos Financieros del Sector Público (medida amplia del déficit público) y limita el crecimiento del gasto corriente para que sea congruente con el crecimiento potencial del PIB (por definirse). En este contexto, el déficit público sin inversión de Pemex se ampliará de 0.3 por ciento del PIB en 2013 a 1.5 por ciento en 2014 y se ha propuesto reducirlo en los años subsecuentes para
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 3
+converger al equilibrio en 2017. En suma, si bien es claro que las medidas tributarias y de precios públicos afectarán a la inflación en el corto plazo, en tanto que esta reforma consiga consolidar la estabilidad de las finanzas públicas en el mediano plazo ayudará a la convergencia de la inflación al objetivo permanente de 3 por ciento.
+A pesar del repunte en la inflación general antes señalado y del moderado incremento en las expectativas de inflación para 2014 como reflejo del impacto esperado de las medidas fiscales sobre algunos precios, el proceso de formación de precios en la economía no se ha visto contaminado. De esta manera, las expectativas de inflación correspondientes a horizontes de mediano y largo plazo se han mantenido estables.
+En el entorno económico descrito, se prevé que la inflación general se ubique por arriba de 4 por ciento durante los primeros meses del año y que en el segundo trimestre disminuya por debajo de dicho nivel para cerrar el año dentro del intervalo de variabilidad de más o menos un punto porcentual con respecto al objetivo de 3 por ciento. Para 2015 se prevé que la inflación presente un ajuste importante a la baja desde enero y que permanezca en niveles ligeramente por arriba de 3 por ciento el resto del año. En cuanto a la inflación subyacente anual, se anticipa que aun con los efectos derivados de los cambios impositivos ésta se ubique alrededor de 3 por ciento durante 2014 y por debajo de dicho nivel en 2015. Dicha evolución prevista para la inflación toma en consideración el desvanecimiento de los efectos de los cambios en precios relativos antes señalados, una reducción esperada en el desliz de los precios de las gasolinas a partir del siguiente año de acuerdo a la Ley de Ingresos recientemente aprobada y la previsión de que no habrá presiones inflacionarias por el lado de la demanda, dadas las expectativas de que la holgura en la economía persista, aunque reduciéndose gradualmente.
+Cabe señalar que, si bien se anticipa que el incremento reciente en la inflación será temporal, no puede descartarse el riesgo de que los ajustes en precios relativos antes señalados puedan dar lugar a incrementos en las expectativas de inflación para horizontes de mediano plazo que conduzcan a efectos de segundo orden, especialmente en un contexto en el que se anticipa una reducción gradual de las condiciones de holgura en la economía en el horizonte en que opera la política monetaria. Adicionalmente, existe la posibilidad de que ante un nuevo episodio de elevada volatilidad en los mercados financieros internacionales tenga lugar un ajuste cambiario que potencialmente afecte a la inflación y que pudiera tener efectos de segundo orden. Sin embargo, para que los efectos de segundo orden, en su caso, se tornaran permanentes, el Banco de México tendría que validarlos monetizándolos, lo que no sucedería porque va en contra de su mandato.
+Considerando el entorno internacional, así como el comportamiento reciente de la economía nacional, se anticipa que el PIB de México para 2013 en su conjunto haya crecido alrededor de 1.2 por ciento. Al igual que en el Informe precedente, se prevé que la tasa de crecimiento del PIB en 2014 se ubique entre 3.0 y 4.0 por ciento en 2014 y entre 3.2 y 4.2 por ciento en 2015. Este pronóstico considera que durante 2014 la demanda agregada se verá apoyada tanto por una demanda externa más dinámica, como por el impulso fiscal. Al respecto, conviene señalar
+Banco de México
+4 Informe Trimestral Octubre – Diciembre 2013
+que el balance de riesgos para el crecimiento ha mejorado, en particular derivado de los avances en el proceso de las reformas estructurales recientemente aprobadas. Sin embargo, aun considerándolos, con la información actual se prevé que la holgura en la economía vaya disminuyendo gradualmente, y que la brecha del producto se mantenga en terreno negativo a lo largo de 2014 y convergiendo a cero hacia finales de 2015. Así, no se anticipan presiones derivadas del comportamiento de la demanda agregada sobre la inflación ni sobre las cuentas externas en el horizonte de pronóstico.
+Teniendo en consideración todo lo anterior, después de la reducción en el objetivo para la Tasa de Interés Interbancaria que implementó en octubre de 2013, la Junta de Gobierno decidió mantener dicho objetivo en 3.50 por ciento en las decisiones de diciembre de 2013 y enero de 2014. Ello en virtud de que estima que la postura monetaria es congruente con la convergencia eficiente de la inflación a la meta de 3 por ciento. No obstante, dada la lectura reciente de la inflación y en consideración de los riesgos que se mencionan en este Informe, la Junta se mantendrá atenta a todas las presiones que pudieran afectar a la inflación y a sus expectativas para horizontes de mediano y largo plazo. Asimismo, vigilará las implicaciones que sobre las previsiones para la inflación tengan la evolución de la actividad económica y la postura monetaria relativa de México frente a la de Estados Unidos, entre otros factores, con el fin de estar en condiciones de alcanzar la meta de inflación señalada.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 5
+2. Evolución Reciente de la Inflación
+2.1. La Inflación en el Cuarto Trimestre de 2013
+Desde hace más de una década, la inflación ha mostrado una tendencia general
+a la baja convergente al objetivo permanente de 3 por ciento. Durante 2013, esta
+tendencia fue evidente en el comportamiento de la inflación subyacente cuya
+variación anual fue la menor desde que se tiene registro de este indicador. A
+pesar de lo anterior, la tendencia descendente que había exhibido la inflación
+general anual en buena parte de 2013 se vio interrumpida en el cuarto trimestre
+del año debido a cambios de precios relativos de un número reducido de bienes y
+servicios del índice no subyacente (Cuadro 1 y Gráfica 1). Posteriormente, las
+medidas impositivas y ajustes de precios públicos que entraron en vigor en 2014
+generaron un incremento en la inflación general. Al respecto, es importante
+señalar que dicho aumento se ha concentrado en aquellos bienes y servicios
+afectados por las medidas antes descritas y por los cambios en precios públicos y
+que, hasta el momento, no hay evidencia de efectos de segundo orden en la
+formación de precios.
+Gráfica 1
+Índice Nacional de Precios al Consumidor
+Variación anual en por ciento
+0
+2
+4
+6
+8
+10
+12
+14
+16
+E
+2001
+E
+2002
+E
+2003
+E
+2004
+E
+2005
+E
+2006
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+E
+2013
+E
+2014
+INPC
+Subyacente
+Servicios
+INPC Excluyendo Alimentos y Energía 1/
+1/ Excluye alimentos dentro de casa (alimentos procesados, bebidas no alcohólicas y agropecuarios), alimentos
+fuera de casa y energéticos.
+Fuente: Banco de México e INEGI.
+Durante el cuarto trimestre de 2013, la inflación general anual se ubicó en
+promedio en 3.65 por ciento, dentro del intervalo de variabilidad de más o menos
+un punto porcentual alrededor del objetivo de inflación de 3 por ciento, mientras
+que en el trimestre previo la cifra correspondiente fue 3.44 por ciento. Al cierre del
+año, este indicador registró un nivel de 3.97 por ciento (Cuadro 1 y Gráfica 2).
+Banco de México
+6 Informe Trimestral Octubre – Diciembre 2013
+Gráfica 2
+Índice Nacional de Precios al Consumidor
+Variación anual en por ciento
+3.78
+3.57
+3.04
+3.36
+3.25
+3.28
+3.55
+3.42
+3.14
+3.20
+3.48
+3.82
+4.05
+3.87
+3.73
+3.41
+3.85
+4.34
+4.42
+4.57
+4.77
+4.60
+4.18
+3.57
+3.25
+3.55
+4.25
+4.65
+4.63
+4.09
+3.47
+3.46
+3.39
+3.36
+3.62
+3.97
+4.48
+0
+2
+4
+6
+8
+10
+12
+E
+2011
+A J O E
+2012
+A J O E
+2013
+A J O E
+2014
+INPC
+Subyacente
+No Subyacente
+Fuente: Banco de México e INEGI.
+Como se había anticipado, la inflación subyacente anual aumentó en el cuarto
+trimestre de 2013 debido al efecto aritmético de una baja base de comparación,
+alcanzando un nivel promedio de 2.61 por ciento, en tanto que en el tercer
+trimestre éste fue 2.46 por ciento. En diciembre de 2013 la variación anual de
+este índice de precios fue 2.78 por ciento. Durante el trimestre de referencia, al
+interior de este subíndice, sus componentes mostraron trayectorias opuestas
+(Cuadro 1 y Gráfica 3).
+Gráfica 3
+Índice de Precios Subyacente
+Variación anual en por ciento
+0
+2
+4
+6
+8
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+E
+2013
+E
+2014
+Subyacente
+Mercancías
+Servicios
+D 07 D 08 D 09 D 10 D 11 D 12 D 13
+Fuente: Banco de México e INEGI.
+Por una parte, la inflación anual del subíndice de precios subyacente de las
+mercancías mantuvo una tendencia a la baja registrando niveles inferiores a 2 por
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 7
+ciento a finales del cuarto trimestre. De esta forma, la variación anual promedio
+de este indicador en el trimestre de referencia se ubicó en 2.09 por ciento,
+mientras que en el trimestre previo fue 2.58 por ciento. A este resultado
+contribuyó el desvanecimiento de los incrementos en las cotizaciones
+internacionales de materias primas que habían presionado los precios de algunas
+mercancías alimenticias el año anterior. Así, la variación anual promedio de las
+mercancías alimenticias en el último trimestre de 2013 fue 2.92 por ciento, que se
+compara con 3.44 por ciento del trimestre previo, lo cual fue consecuencia,
+principalmente, de la menor contribución de los precios de productos derivados
+del maíz, del trigo y de la soya. Por su parte, la tasa de variación anual promedio
+de las mercancías no alimenticias pasó de 1.90 por ciento en el tercer trimestre
+de 2013 a 1.43 por ciento en el trimestre objeto de este Informe, lo cual estuvo
+asociado a la fuerte competencia observada entre las principales cadenas
+comerciales (Cuadro 1 y Gráfica 4a).
+La variación anual promedio del subíndice de precios subyacente de los servicios
+en el cuarto trimestre de 2013 fue 3.04 por ciento, siendo la cifra del trimestre
+anterior 2.36 por ciento. Este resultado se debió, fundamentalmente, al
+comportamiento del grupo de servicios distintos a educación y vivienda, el cual
+tuvo una variación anual promedio de 3.52 por ciento en el cuarto trimestre de
+2013, en tanto que en el trimestre anterior la cifra respectiva fue 1.87 por ciento.
+Lo anterior se explica a su vez por el genérico de servicio de telefonía móvil, en el
+cual no se repitieron con la misma intensidad que el año previo algunas ofertas
+por parte de las compañías operadoras, originando una baja base de
+comparación que propició un incremento en su tasa de variación anual en el
+último trimestre del año (Cuadro 1 y Gráfica 4b).
+Gráfica 4
+Índice de Precios Subyacente: Mercancías y Servicios
+Variación anual en por ciento
+a) Mercancías b) Servicios
+0
+2
+4
+6
+8
+10
+12
+14
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+E
+2013
+E
+2014
+Mercancías
+Alimentos, Bebidas y Tabaco
+Mercancías Distintas a los Alimentos, Bebidas y
+Tabaco
+D 07 D 08 D 09 D 10 D 11 D 12 D 13
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+E
+2013
+E
+2014
+Servicios
+Vivienda
+Educación (Colegiaturas)
+Otros Servicios
+D 07 D 08 D 09 D 10 D 11 D 12 D 13
+Fuente: Banco de México e INEGI.
+Banco de México
+8 Informe Trimestral Octubre – Diciembre 2013
+Cuadro 1
+Índice Nacional de Precios al Consumidor y Componentes
+Variación anual en por ciento
+Julio Agosto Septiembre Octubre Noviembre Diciembre Enero Trim III Trim IV
+2013 2013 2013 2013 2013 2013 2014 2013 2013
+INPC 3.47 3.46 3.39 3.36 3.62 3.97 4.48 3.44 3.65
+Subyacente 2.50 2.37 2.52 2.48 2.56 2.78 3.21 2.46 2.61
+Mercancías 2.64 2.51 2.59 2.41 1.99 1.89 2.93 2.58 2.09
+Alimentos, Bebidas y Tabaco 3.50 3.46 3.36 3.28 2.82 2.67 4.64 3.44 2.92
+MercaAnuctoíamsó Nvoile Aslimenticias 01..5916 01..7857 01..7988 11..0714 11..1333 01..2666 01..5646 01..7902 01..4935
+Servicios 2.38 2.24 2.45 2.54 3.06 3.54 3.47 2.36 3.04
+Vivienda 2.21 2.26 2.21 2.19 2.20 2.19 2.21 2.23 2.19
+Educación (Colegiaturas) 4.41 4.55 4.42 4.42 4.43 4.42 4.32 4.46 4.42
+Otros Servicios 1.97 1.55 2.10 2.34 3.54 4.69 4.53 1.87 3.52
+Loncherías, Fondas, Torterías y Taquerías 4.72 4.18 3.87 3.77 3.61 3.33 4.29 4.26 3.57
+Restaurantes y Similares 4.22 4.11 3.84 3.59 3.71 3.74 4.79 4.06 3.68
+Servicio de Telefonía Móvil -7.35 -9.10 -7.33 -0.98 23.56 50.91 27.42 -7.93 20.84
+No Subyacente 6.60 7.01 6.20 6.18 7.02 7.84 8.58 6.60 7.02
+Agropecuarios 4.22 5.19 2.33 1.67 5.53 6.67 6.21 3.90 4.62
+Frutas y Verduras -6.01 0.22 -0.63 1.10 11.46 13.89 10.54 -2.14 8.77
+Jitomate -21.19 5.64 -1.57 -5.02 43.00 63.89 18.36 -6.10 32.37
+Pecuarios 10.60 8.15 4.04 1.92 2.03 2.43 3.65 7.53 2.13
+Energéticos y Tarifas Aut. por Gobierno 8.12 8.16 8.66 9.07 8.01 8.65 10.13 8.32 8.57
+Energéticos 8.26 8.13 8.91 9.62 8.20 8.30 9.67 8.43 8.69
+Gasolina 11.77 11.79 11.72 11.37 11.08 11.23 12.24 11.76 11.23
+Electricidad -5.43 -5.59 -3.53 3.45 3.72 3.63 5.07 -4.86 3.61
+Gas Doméstico 9.38 8.81 9.07 8.41 8.25 8.37 10.41 9.09 8.34
+Tarifas Autorizadas por Gobierno 7.50 7.87 7.87 7.83 7.65 9.32 11.02 7.75 8.27
+Colectivo 11.39 12.24 12.21 12.05 11.81 12.21 12.52 11.95 12.02
+CMoelteroct iov oTransporte Eléctrico 0.79 0.79 0.79 0.79 0.79 30.97 51.20 0.79 10.85
+INPC Excluye Alimentos (Dentro y Fuera de Casa) y Energía 1/ 2.49 2.41 2.68 2.68 2.89 3.35 3.53 2.53 2.97
+por ciento
+Promedio
+Variación Anual
+1/ Excluye alimentos dentro de casa (alimentos procesados, bebidas no alcohólicas y agropecuarios), alimentos fuera de casa y energéticos.
+Fuente: Banco de México e INEGI.
+En el cuarto trimestre de 2013 la variación anual promedio del índice de precios
+no subyacente se ubicó en 7.02 por ciento, mientras que el trimestre anterior fue
+6.60 por ciento. En diciembre de 2013 la variación anual de este indicador fue
+7.84 por ciento. Al respecto, los dos componentes de este índice de precios
+experimentaron incrementos en sus tasas de variación debido a aumentos en los
+precios de un número reducido de productos agropecuarios y a incrementos en
+las tarifas autorizadas por distintos niveles de gobierno (Cuadro 1 y Gráfica 5).
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 9
+Gráfica 5
+Índice de Precios No Subyacente
+Variación anual en por ciento
+-9
+-6
+-3
+0
+3
+6
+9
+12
+15
+18
+21
+24
+27
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+E
+2013
+E
+2014
+No Subyacente
+Agropecuarios
+Energéticos y Tarifas Autorizadas por el Gobierno
+D 07 D 08 D 09 D 10 D 11 D 12 D 13
+Fuente: Banco de México e INEGI.
+Durante el último trimestre de 2013, la variación anual promedio del subíndice de
+precios de energéticos y tarifas autorizadas por distintos niveles de gobierno fue
+8.57 por ciento, mientras que en el trimestre precedente fue 8.32 por ciento. Al
+respecto destacaron los ajustes al alza no anticipados en las tarifas de transporte
+público en distintas ciudades, sobresaliendo el caso del Metro de la Ciudad de
+México, lo cual contribuyó a que la tasa de crecimiento anual promedio del grupo
+de tarifas autorizadas por distintos niveles de gobierno alcanzara 8.27 por ciento
+en el último trimestre de 2013, comparado con 7.75 por ciento del trimestre
+previo. Por su parte, los mayores deslices en el precio de las gasolinas y del gas
+LP respecto al mismo periodo del año anterior provocaron que el subíndice de
+energéticos exhibiera una variación anual promedio de 8.69 por ciento en el
+trimestre de referencia, mientras que en el trimestre previo fue 8.43 por ciento
+(Cuadro 1, Gráfica 6b y Gráfica 7). Es pertinente señalar que en 2013 en su
+conjunto el precio de las gasolinas se incrementó 11.23 por ciento, con lo que
+suman 4 años en que este componente del INPC crece cuando menos dos veces
+por arriba del objetivo de inflación.
+Banco de México
+10 Informe Trimestral Octubre – Diciembre 2013
+Gráfica 6
+Índice de Precios No Subyacente
+Variación anual en por ciento
+a) Agropecuarios b) Energéticos y Tarifas Autorizadas por el
+Gobierno
+-18
+-15
+-12
+-9
+-6
+-3
+0
+3
+6
+9
+12
+15
+18
+21
+24
+27
+30
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+E
+2013
+E
+2014
+Agropecuarios
+Frutas y Verduras
+Pecuar ios
+D 07 D 08 D 09 D 10 D 11 D 12 D 13
+-3
+0
+3
+6
+9
+12
+15
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+E
+2013
+E
+2014
+Energéticos y Tarifas Aut. por el Gob.
+Energéticos
+Tarifas Autorizadas por el Gobierno
+D 07 D 08 D 09 D 10 D 11 D 12 D 13
+Fuente: Banco de México e INEGI.
+Gráfica 7
+Índice de Precios No Subyacente
+Variación anual en por ciento
+a) Energéticos b) Tarifas Autorizadas por el Gobierno
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+16
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+E
+2013
+E
+2014
+Energéticos
+Gasolina
+Electricidad
+Gas Doméstico
+D 07 D 08 D 09 D 10 D 11 D 12 D 13
+-10
+0
+10
+20
+30
+40
+50
+60
+-4
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+E
+2013
+E
+2014
+Tarifas Autorizadas por el Gobierno
+Colectivo
+Metro o Transpor te Eléctrico
+D 07 D 08 D 09 D 10 D 11 D 12 D 13
+Fuente: Banco de México e INEGI.
+El subíndice de precios de productos agropecuarios tuvo una variación anual
+promedio de 4.62 por ciento en el cuarto trimestre de 2013, siendo que el
+trimestre previo la cifra correspondiente fue 3.90 por ciento. Esto se explica por
+los ajustes en precios relativos de un número reducido de productos agrícolas
+debido a fenómenos climáticos adversos que retrasaron su producción,
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 11
+destacando el caso del jitomate. Así, la variación anual promedio del grupo de
+frutas y verduras aumentó de -2.14 por ciento en el tercer trimestre de 2013 a
+8.77 por ciento en el cuarto trimestre (Cuadro 1, Gráfica 6a y Gráfica 8).
+Gráfica 8
+Índice de Precios Agropecuarios
+Variación anual en por ciento
+a) Frutas y Verduras b) Pecuarios
+-100
+-50
+0
+50
+100
+150
+200
+250
+-20
+-10
+0
+10
+20
+30
+40
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+E
+2013
+E
+2014
+Frutas y Verduras
+Tomate Verde
+Jitomate
+Frijol
+D 07 D 08 D 09 D 10 D 11 D 12 D 13
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+E
+2013
+E
+2014
+Pecuar ios
+Huevo
+Pollo
+D 07 D 08 D 09 D 10 D 11 D 12 D 13
+Fuente: Banco de México e INEGI.
+Posteriormente, en enero de 2014, la inflación general anual alcanzó 4.48 por
+ciento, impulsada en gran parte por la política de precios públicos y por la entrada
+en vigor de diversas medidas fiscales, las cuales incluyeron, como se mencionó,
+la aplicación de nuevos IEPS a un grupo de productos con alto contenido
+calórico, entre ellos los refrescos, así como la homologación de la tasa del IVA en
+la frontera. Al respecto, conviene señalar que la inflación general anual en la
+primera quincena de enero fue 4.63 por ciento (variación quincenal de 0.68 por
+ciento), mientras que en la segunda quincena del mismo mes fue 4.34 por ciento
+(variación quincenal de 0.12 por ciento).
+Lo anterior muestra que el impacto sobre la inflación de las medidas fiscales se
+concentró en la primera quincena de enero y que en la segunda quincena del
+mes los incrementos de precios comenzaron a ser menores. En efecto, la referida
+dinámica del impacto inflacionario de las medidas fiscales fue reflejo
+principalmente del patrón del componente subyacente. Mientras que su variación
+anual en la primera quincena de enero fue 3.33 por ciento (variación quincenal de
+0.69 por ciento), en la segunda quincena del mes resultó ser 3.10 por ciento
+(variación quincenal de 0.24 por ciento). Así, la inflación subyacente anual se
+ubicó en 3.21 por ciento para el mes en su conjunto.
+En cuanto a las variaciones anuales de los subíndices de precios de las
+mercancías y de los servicios, en el mes referido registraron niveles de 2.93 y
+3.47 por ciento, respectivamente. En particular, dentro del grupo de las
+mercancías alimenticias destacaron por su contribución los ajustes de precios
+observados en los refrescos, mientras que el subíndice de las mercancías no
+alimenticias se vio afectado por la homologación del IVA en la frontera. En lo que
+se refiere al subíndice de precios de los servicios, el aumento se explica por la
+dinámica exhibida por el grupo de servicios distintos a la vivienda y a la
+Banco de México
+12 Informe Trimestral Octubre – Diciembre 2013
+educación, donde se han registrado incrementos en los precios de los servicios de alimentación. Estos aumentos han sido de magnitudes similares a las de años previos, si bien con una mayor concentración en la primera quincena del mes, lo que puede ser una respuesta indirecta a la entrada en vigor de la reforma fiscal.
+En el caso del índice de precios no subyacente, su tasa de variación anual en enero se ubicó en 8.58 por ciento. Por su parte, los subíndices de precios de los agropecuarios y de los energéticos y tarifas autorizadas por el gobierno se situaron respectivamente en 6.21 y 10.13 por ciento durante el citado mes. Este comportamiento al alza se debió, principalmente, al efecto de las modificaciones sobre los precios de los combustibles fósiles, a la homologación del IVA en las tarifas eléctricas de las ciudades de la frontera, y al aumento en las tarifas de transporte público de algunas localidades, destacando por su peso las ciudades de Monterrey y Guadalajara.
+En lo que corresponde al Índice Nacional de Precios al Productor (INPP) de mercancías y servicios finales, excluyendo petróleo, se registró una variación anual promedio de 1.31 por ciento durante el cuarto trimestre de 2013, mientras que en los tres meses previos se ubicó en promedio en 0.89 por ciento (Gráfica 9). Lo anterior obedeció, principalmente, al incremento en la tasa de variación anual promedio de precios de los servicios, cuya variación anual pasó de 2.85 por ciento en el tercer trimestre, a 3.42 por ciento en el cuarto trimestre de 2013, en especial por la evolución de la tasa de variación anual de los precios de los servicios de telefonía móvil. En enero de 2014, la tasa de variación anual del INPP se situó en 1.97 por ciento, lo cual se explica principalmente por la mayor contribución de los índices de precios del sector de la construcción.
+Gráfica 9
+Índice Nacional de Precios Productor
+Variación anual en por ciento
+Fuente: Banco de México e INEGI.
+3.483.523.423.943.373.553.884.274.545.155.545.745.595.004.834.635.295.574.474.043.893.332.701.541.582.061.811.430.770.610.760.871.041.061.161.711.9721012345678910E2011AJOE2012AJOE2013AJOE 2014INPP Mercancías y Servicios FinalesINPP Mercancías FinalesINPP Servicios Finales
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 13
+2.2. Salarios
+El comportamiento de los principales indicadores salariales durante el cuarto
+trimestre de 2013 sugiere que los costos laborales continuaron sin representar un
+elemento que genere presiones inflacionarias. El salario base de cotización de los
+trabajadores afiliados al IMSS aumentó 3.7 por ciento durante el último trimestre
+de 2013, cifra similar a la del trimestre previo y menor a las observadas durante el
+año anterior (Gráfica 10a).
+Por su parte, el incremento al salario contractual negociado por empresas de
+jurisdicción federal fue 4.0 por ciento durante el cuarto trimestre de 2013, cifra
+inferior a la registrada en el mismo trimestre del año anterior (4.3 por ciento). Esta
+diferencia se debió a las menores variaciones en los salarios contractuales tanto
+de las empresas públicas, como de las privadas. En particular, las empresas
+públicas negociaron un aumento de 3.8 por ciento (4.0 por ciento en el mismo
+trimestre de 2012). En este grupo, destacó el incremento salarial que otorgó el
+IMSS a sus trabajadores (3.8 por ciento en 2013 respecto a 4.0 por ciento el año
+2012). En lo que respecta a las empresas privadas, éstas negociaron un aumento
+de 4.5 por ciento de octubre a diciembre de 2013 (4.9 por ciento en el cuarto
+trimestre de 2012, Gráfica 10b).
+Gráfica 10
+Indicadores Salariales
+Variación anual en por ciento
+a) Salario Base de Cotización al IMSS 1/ b) Salario Contractual 2/
+4.9
+5.2
+5.6
+5.7
+5.3
+4.6
+4.0
+3.0
+2.9
+3.0
+3.3
+3.8
+4.1
+4.4
+4.3
+4.3
+4.3
+4.2
+4.5
+4.2
+4.3
+4.0
+3.6
+3.7
+2
+3
+4
+5
+6
+7
+8
+I
+2008
+II IIIIV I
+2009
+II IIIIV I
+2010
+II IIIIV I
+2011
+II III IV I
+2012
+II III IV I
+2013
+II III IV
+4.4
+4.4
+4.8
+4.2
+4.4
+4.4
+4.7
+4.1
+4.5
+4.8
+4.8
+3.6
+4.5
+4.5
+4.8
+3.6
+4.4
+4.5
+4.6
+4.3
+4.4
+4.4
+4.3
+4.0
+4.0
+3.8
+4.9
+4.5
+2
+3
+4
+5
+6
+7
+8
+I
+2008
+II III IV I
+2009
+II III IV I
+2010
+II IIIIV I
+2011
+II III IV I
+2012
+II III IV I
+2013
+II III IV
+Total
+Empresas Públicas
+Empresas Privadas
+Fuente: Cálculos elaborados por el Banco de México con información de IMSS y STPS.
+1/ Durante el cuarto trimestre de 2013 se registraron en promedio 16.6 millones de cotizantes al IMSS.
+2/ El incremento salarial contractual es un promedio ponderado por el número de trabajadores involucrados. El número de
+trabajadores de empresas de jurisdicción federal que anualmente reportan sus incrementos salariales a la STPS equivale
+aproximadamente a 2 millones.
+Banco de México
+14 Informe Trimestral Octubre – Diciembre 2013
+3. Entorno Económico y Financiero Prevaleciente en el
+Cuarto Trimestre de 2013
+3.1. Condiciones Externas
+La economía mundial continuó su recuperación durante el cuarto trimestre de
+2013, apoyada por el mayor dinamismo de las economías avanzadas, en
+particular de Estados Unidos. Por su parte, los indicadores disponibles de las
+economías emergentes apuntan a un comportamiento diferenciado, luego de la
+desaceleración observada en los trimestres previos. Algunas economías como
+China registraron un menor crecimiento en tanto que otras mostraron una
+recuperación. En este contexto, tanto la producción industrial como las
+exportaciones a nivel mundial han tenido una mejoría (Gráfica 11). La volatilidad
+en los mercados financieros internacionales se mantuvo elevada durante el último
+trimestre de 2013 y aumentó de forma importante a principios de este año. Esto
+último derivado del acrecentamiento de dificultades en diversas economías
+emergentes, en un entorno de gran nerviosismo ante la incertidumbre sobre los
+efectos que el proceso de normalización de la política monetaria en Estados
+Unidos pudiera tener sobre el nivel de las tasas de interés de largo plazo en dicho
+país y sobre los flujos de capital a las economías emergentes. El impacto se
+reflejó con mayor fuerza en algunas de estas economías que presentan
+desbalances macroeconómicos significativos. En suma, las perspectivas de
+crecimiento de la economía mundial han mejorado, aunque prevalecen riesgos
+importantes.
+Gráfica 11
+Actividad Económica Mundial
+a) Producción Industrial Mundial
+Índice enero 2008=100, a. e.
+b) Volumen de Exportación
+Índice enero 2008=100 de la media móvil de
+tres meses, a. e.
+80
+90
+100
+110
+120
+130
+140
+2008 2009 2010 2011 2012 2013
+Mundial
+Avanzados
+Emergentes
+75
+80
+85
+90
+95
+100
+105
+110
+115
+120
+125
+130
+2008 2009 2010 2011 2012 2013
+Mundial
+Avanzados
+Emergentes
+a. e. / Cifras con ajuste estacional.
+Fuente: CPB Netherlands.
+a. e. / Cifras con ajuste estacional.
+Fuente: CPB Netherlands.
+3.1.1. Actividad Económica Mundial
+En Estados Unidos, la economía presentó una mejoría gradual durante el último
+trimestre del año, apoyada en un fortalecimiento de la demanda interna y externa.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 15
+Si bien aún prevalecen riesgos y vulnerabilidades, distintos factores apuntan hacia un fortalecimiento sostenido de la actividad económica en dicho país.1 Entre ellos destaca la recuperación del mercado laboral, la mejoría en la confianza de los hogares y de las empresas, el saneamiento en el balance de los hogares, la amplia disponibilidad de liquidez en las empresas y el gradual desvanecimiento de los efectos de la consolidación fiscal.
+El gasto en consumo privado en Estados Unidos mostró una fuerte expansión durante el cuarto trimestre de 2013, registrando su tasa de crecimiento trimestral anualizada más elevada en los últimos tres años (Gráfica 12a). Asimismo, la inversión en equipo se fortaleció, luego del lento crecimiento observado en los trimestres previos. Por su parte, las exportaciones netas contribuyeron significativamente al crecimiento del PIB, apoyadas por una mayor demanda externa. En contraste, el sector de la construcción mostró cierta debilidad, con una contracción tanto en la inversión en estructuras como en la residencial, esta última reflejando los efectos del alza en las tasas de interés hipotecarias. El gasto público también contribuyó negativamente al crecimiento del PIB debido, en parte, al cierre temporal del Gobierno Federal en octubre pasado.
+En general, el mercado laboral mantuvo una mejoría en el cuarto trimestre de 2013, al registrarse un incremento en la nómina no agrícola y una reducción en la tasa de desempleo, si bien algunos indicadores aún presentaron cierta debilidad. Así, la nómina no agrícola creció en un promedio mensual de 195 mil plazas en el último trimestre de 2013, por arriba de las 172 mil registradas en el trimestre previo. No obstante, la creación de empleos se desaceleró a inicios de 2014, con una expansión de 113 mil plazas en enero. Por su parte, la tasa de desempleo disminuyó de 7.2 por ciento en septiembre a 6.7 por ciento en diciembre debido, en parte, a que continuó registrándose una disminución en la tasa de participación laboral (Gráfica 12b).2 Dicha tendencia descendente en la tasa de desempleo siguió en enero, al situarse en 6.6 por ciento.
+1 De acuerdo a la estimación inicial del Bureau of Economic Analysis, el PIB creció a una tasa trimestral anualizada de 3.2 por ciento en el cuarto trimestre de 2013, después de una expansión de 4.1 por ciento en el tercer trimestre.
+2 La tasa de participación se redujo de 63.2 a 62.8 por ciento de la población en edad laboral, en ese mismo periodo.
+Banco de México
+16 Informe Trimestral Octubre – Diciembre 2013
+Gráfica 12
+Actividad Económica en Estados Unidos
+a) Gasto en Consumo Personal Real
+Variación trimestral anualizada en
+por ciento, a. e.
+b) Tasa de Desempleo y de
+Participación Laboral
+Por ciento de la fuerza laboral y de la
+población civil, a. e.
+c) Producción Industrial y
+Manufacturera
+Índice IV 2007=100, a. e.
+0
+1
+2
+3
+4
+5
+I
+2010
+II III IV I
+2011
+II III IV I
+2012
+II III IV I
+2013
+II III IV
+6
+7
+8
+9
+10
+11
+62.0
+62.5
+63.0
+63.5
+64.0
+64.5
+65.0
+65.5
+E
+2010
+M S E
+2011
+M S E
+2012
+M S E
+2013
+M S E
+2014
+Part icipación Laboral
+Desempleo
+80
+85
+90
+95
+100
+105
+2007 2008 2009 2010 2011 2012 2013
+Total
+Manufacturas
+a. e. / Cifras con ajuste estacional.
+Fuente: BEA.
+a. e. / Cifras con ajuste estacional.
+Fuente: BLS.
+a. e. / Cifras con ajuste estacional.
+Fuente: Reserva Federal.
+La producción industrial de Estados Unidos repuntó en el cuarto trimestre, luego
+del reducido crecimiento observado en los dos trimestres previos. Así, este
+indicador finalmente superó los niveles prevalecientes al inicio de la recesión. De
+la misma manera, la producción manufacturera mostró un buen desempeño, en
+particular la relativa a bienes de consumo duraderos (Gráfica 12c).
+A mediados de diciembre de 2013 el Congreso de Estados Unidos llegó a un
+acuerdo sobre los niveles de gasto para los años fiscales 2014 y 2015, que
+reduce los recortes automáticos, decretados por la legislación previa, en 63 mil
+millones de dólares.3 Posteriormente, a mediados de enero el Congreso aprobó la
+“Ley de Asignaciones Presupuestales 2014” (“Consolidated Appropriations Act,
+2014”), la cual formalizó los mayores niveles de gasto y las asignaciones del
+mismo para lo que resta del año fiscal actual. Este acuerdo presupuestal, que
+representa el primero que se alcanza desde 2009, atenuará la restricción fiscal
+antes prevista y reduce la incertidumbre sobre la falta de acuerdos en materia
+fiscal en dicho país. De esta manera, se prevé una menor restricción fiscal
+respecto al año previo.4
+En este entorno, la Reserva Federal anunció en diciembre pasado el inicio de una
+reducción moderada en los montos de sus compras de activos a partir de enero
+de 2014, al tiempo que enfatizó que probablemente sea apropiado mantener la
+tasa de política en niveles bajos por un periodo prolongado, aun después de que
+3 De acuerdo a estimaciones preliminares de la Oficina de Presupuesto del Congreso (CBO, por sus siglas
+en inglés), el citado acuerdo se traducirá en un aumento en el gasto discrecional de 26 y 22 mil millones
+de dólares en 2014 y 2015, respectivamente, en relación a lo previsto anteriormente.
+4 Un aspecto pendiente se refiere a la finalización de la suspensión temporal del techo de la deuda,
+acordada en octubre de 2013. De acuerdo a estimaciones del Departamento del Tesoro, los recursos
+extraordinarios con que dispondría el Gobierno Federal para cumplir con sus obligaciones, una vez que
+finalizó la suspensión temporal del techo de la deuda el 7 de febrero de 2014 podrían agotarse a finales
+del mismo mes.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 17
+se rebase el umbral de la tasa de desempleo de 6.5 por ciento, y en tanto la inflación proyectada continúe por abajo de la meta de largo plazo de 2.0 por ciento.5 Posteriormente en enero de este año, la Reserva Federal dio a conocer una reducción adicional en el monto de sus compras de activos, a partir de febrero.
+La mayor evidencia sobre una recuperación más sólida de la actividad económica en Estados Unidos, junto con el anuncio señalado de la Reserva Federal, dieron lugar a que las tasas de interés de largo plazo en dicho país continuaran presentando una tendencia al alza, como reflejo del proceso de descompresión de primas de riesgo, sobre todo de la prima por plazo (term premium), que inició a mediados de 2013. También se observó una apreciación generalizada del dólar frente al resto de las monedas.
+En la zona del euro, los indicadores disponibles apuntan a una expansión moderada de la actividad económica de la región en el último trimestre de 2013, si bien a partir de niveles bajos.6 La producción industrial registró un repunte casi generalizado, en línea con la evolución de los indicadores prospectivos del área (Gráfica 13a). Además, se espera que el consumo privado muestre un ligero crecimiento durante el periodo, motivado principalmente por las ventas de autos, dada la debilidad en el resto de las ventas al menudeo (Gráfica 13b). Por su parte, la tasa de desempleo se estabilizó durante el último trimestre del año, aunque continúa estando elevada y con fuertes divergencias entre los países miembros (Gráfica 13c). Así, el crecimiento económico se mantiene limitado por el todavía elevado desempleo, el proceso de consolidación fiscal en algunos países, el considerable nivel de endeudamiento del sector privado, particularmente en países de la periferia, y la fragilidad del sistema bancario europeo.
+5 La Reserva Federal también reafirmó su expectativa de que el rango de entre 0 y 0.25 por ciento de su tasa de referencia se mantenga, al menos mientras la tasa de desempleo permanezca por encima de 6.5 por ciento, que la proyección de inflación de mediano plazo no supere el 2.5 por ciento y que las expectativas de inflación continúen bien ancladas.
+6 De acuerdo a estimaciones iniciales de sus oficinas de estadísticas, países como Alemania, Bélgica, España y Lituania registraron un crecimiento positivo del PIB durante el cuarto trimestre de 2013.
+Banco de México
+18 Informe Trimestral Octubre – Diciembre 2013
+Gráfica 13
+Indicadores Económicos en la Zona del Euro
+a) Índice de Gerentes de Compras
+Compuesto
+Índice, a. e.
+b) Ventas al Menudeo 1/
+Variación anual del promedio móvil
+de tres meses en por ciento, a. e.
+c) Tasa de Desempleo
+Por ciento de la población
+económicamente activa, a. e.
+40
+45
+50
+55
+60
+65
+E
+2010
+M S E
+2011
+M S E
+2012
+M S E
+2013
+M S E
+2014
+Zona del Euro
+Alemania
+Francia
+-14
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+E
+2010
+M S E
+2011
+M S E
+2012
+M S E
+2013
+M S
+Zona del Euro
+Irlanda
+Italia
+Portugal
+España
+Alemania
+4
+8
+12
+16
+20
+24
+28
+2007 2008 2009 2010 2011 2012 2013
+Zona del Euro
+Irlanda
+Italia
+Portugal
+España
+Alemania
+a. e. / Cifras con ajuste estacional.
+Fuente: Markit.
+a. e. / Cifras con ajuste estacional.
+1/ Excluye ventas de vehículos.
+Fuente: Eurostat.
+a. e. / Cifras con ajuste estacional.
+Fuente: Eurostat.
+En el periodo que se reporta, se avanzó en la creación de una unión fiscal y
+bancaria en Europa. En octubre, por primera ocasión, la Comisión Europea llevó
+a cabo una evaluación de las propuestas de planes presupuestales para 2014 de
+sus estados miembros. Por otra parte, el 18 de diciembre, el Consejo de la Unión
+Europea anunció una propuesta para establecer el Mecanismo Único de
+Resolución (SRM, por sus siglas en inglés), cuyo objetivo será permitir una
+reestructuración rápida y expedita de bancos con dificultades financieras.7 Estas
+medidas, en conjunto con los resultados de la evaluación integral del sistema
+bancario por parte del Banco Central Europeo (BCE)8 y las autoridades
+nacionales competentes, así como la implementación adecuada de otras
+reformas estructurales, serán esenciales para apoyar la recuperación económica
+de la zona del euro.
+En Japón, la política monetaria acomodaticia continuó apoyando un gradual
+fortalecimiento de la demanda interna durante el cuarto trimestre de 2013, en
+tanto que la demanda externa también repuntó. El consumo privado se mantuvo
+sólido debido a la mejoría en el empleo y el ingreso, a pesar del incremento
+esperado en el impuesto al consumo en abril de 2014. Por su parte, las
+7 Éste incluye la creación de una Junta Única de Resolución y un Fondo Único de Resolución. Este último
+estará constituido inicialmente por fondos nacionales, los cuales serán financiados con aportaciones de
+los bancos. Asimismo, se adoptó una resolución para el financiamiento de estos fondos durante su fase
+inicial, el cual incluye financiamiento provisional de otras fuentes nacionales o del Mecanismo de
+Estabilidad Europeo (ESM, por sus siglas en inglés). Se espera que el SRM entre en vigor en 2015 y
+constituirá, junto con el Mecanismo Único de Supervisión, uno de los elementos clave de la unión
+bancaria.
+8 A inicios de febrero de 2014, el BCE en conjunto con la Autoridad Bancaria Europea (EBA, por sus siglas
+en inglés) dio a conocer los parámetros para la próxima prueba de estrés. El umbral de capital para el
+escenario base será de 8 por ciento del capital ordinario de nivel 1 (CET1) y de 5.5 por ciento para el
+escenario adverso. La prueba estrés incorporará los resultados del análisis de calidad de activos, cuya
+metodología será publicada durante el primer trimestre de este año. Para más información sobre la
+evaluación integral a bancos véase Informe sobre la Inflación Julio – Septiembre 2013.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 19
+inversiones pública y privada continuaron creciendo, esta última con perspectivas
+favorables reflejadas en la fortaleza de los índices de confianza empresariales.
+No obstante, existen riesgos a la baja para el crecimiento económico, derivados
+del moderado avance en la agenda de reformas estructurales y del ajuste fiscal
+previsto a partir del segundo trimestre de 2014.
+Durante el último trimestre de 2013, las exportaciones de la mayoría de las
+economías emergentes aumentaron como reflejo de la expansión en la demanda
+de las economías avanzadas (Gráfica 14). No obstante, existe una importante
+divergencia en la evolución de las economías emergentes debido a la
+persistencia de desbalances externos, la debilidad de la demanda interna y el
+lento avance en la implementación de reformas estructurales en algunos países.
+Cabe destacar que la expectativa y posterior anuncio del inicio de la
+normalización de la política monetaria en Estados Unidos exacerbaron la
+volatilidad de los mercados cambiarios, de bonos y de acciones de los países
+emergentes, aunque la magnitud de la volatilidad dependió de la fortaleza fiscal y
+del saldo de cuenta corriente en cada nación. Así, los países que resintieron más
+los ajustes de cartera fueron Argentina, Brasil, India, Indonesia, Rusia, Sudáfrica,
+Tailandia, Turquía y Ucrania. En general, esta situación presagia un menor
+apetito por riesgo por parte de inversionistas institucionales de activos de países
+emergentes.
+Gráfica 14
+Actividad en Economías Emergentes
+a) Producción Industrial
+Variación anual del promedio móvil
+de tres meses en por ciento
+b) Exportaciones
+Variación anual del promedio móvil
+de tres meses en por ciento
+-5
+0
+5
+10
+15
+20
+25
+30
+35
+E
+2010
+M S E
+2011
+M S E
+2012
+M S E
+2013
+M S
+Brasil
+China
+Corea
+India
+México
+Rusia
+Sudáfr ica
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+E
+2010
+M S E
+2011
+M S E
+2012
+M S E
+2013
+M S E
+2014
+Brasil
+China
+Corea
+India
+México
+Rusia
+Sudáfr ica
+Fuente: Bloomberg y Haver Analytics. Fuente: Bloomberg.
+3.1.2. Precios de las Materias Primas
+Los precios internacionales de las materias primas registraron una moderación
+durante el cuarto trimestre de 2013 (Gráfica 15a). En el caso del petróleo crudo,
+tuvieron una caída durante el trimestre debido a una mayor producción en
+Estados Unidos, Canadá y el Mar del Norte, así como cierta disminución en los
+Banco de México
+20 Informe Trimestral Octubre – Diciembre 2013
+riesgos geopolíticos en Medio Oriente (Gráfica 15b). Por su parte, los precios de
+los granos cayeron ante una mayor oferta de los principales exportadores de
+maíz y trigo, gracias a que condiciones climatológicas favorables compensaron
+una mayor demanda, en particular de maíz, por parte de las economías
+emergentes (Gráfica 15c).
+Gráfica 15
+Precios Internacionales de las Materias Primas
+a) Total Materias Primas, Alimentos
+y Energéticos
+Índice enero 2002=100
+b) Petróleo Crudo 1/
+Dólares por barril
+c) Maíz y Trigo 1/
+Dólares por búshel
+0
+100
+200
+300
+400
+500
+600
+700
+2002 2003 2005 2007 2009 2011 2013
+Total Materias Primas
+Alimentos
+Energéticos
+60
+70
+80
+90
+100
+110
+120
+130
+140
+E
+2010
+M S E
+2011
+M S E
+2012
+M S E
+2013
+M S E
+2014
+Brent
+WTI
+3
+4
+5
+6
+7
+8
+9
+10
+E
+2010
+M S E
+2011
+M S E
+2012
+M S E
+2013
+M S E
+2014
+Maíz
+Trigo
+Nota: Cifras mensuales a enero de 2014.
+Fuente: Fondo Monetario Internacional.
+1/ Mercado Spot.
+Fuente: Bloomberg.
+1/ Mercado Spot.
+Fuente: Bloomberg.
+3.1.3. Tendencias de la Inflación en el Exterior
+En general, las presiones inflacionarias a nivel global se atenuaron en el cuarto
+trimestre de 2013. En la mayoría de las economías avanzadas y parte de las
+economías emergentes se observó una reducción de la inflación en el periodo, y
+las expectativas apuntan a que ésta se mantendrá en niveles reducidos en los
+siguientes trimestres (Gráfica 16). En las economías avanzadas —excluyendo a
+Japón, donde la política monetaria expansionista ha inducido el aumento en la
+inflación y sus expectativas— la holgura en el mercado laboral y menores precios
+de la energía contribuyeron a una disminución del ritmo de crecimiento de los
+precios, resaltando los bajos niveles observados en la zona del euro. Por su
+parte, en gran parte de las economías emergentes, un crecimiento moderado de
+la actividad económica y la caída en los precios de los granos contribuyeron a
+mantener un ambiente de inflación relativamente baja. No obstante, en algunas
+economías emergentes con fundamentos macroeconómicos menos sólidos, la
+depreciación de sus monedas y problemas estructurales generaron mayores
+presiones inflacionarias.
+En Estados Unidos, la inflación general anual fue de 1.5 por ciento en diciembre,
+por debajo del objetivo de largo plazo de la Reserva Federal de 2 por ciento, en
+tanto que la subyacente se situó en 1.7 por ciento. Por su parte, la variación anual
+del deflactor del gasto en consumo fue de 1.0 por ciento.
+En la zona del euro la inflación general anual mantuvo una tendencia
+descendente durante el cuarto trimestre de 2013, al ubicarse en 0.8 por ciento en
+diciembre. Así, la inflación se alejó aún más del objetivo del Banco Central
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 21
+Europeo (BCE) de una cifra menor pero cercana a 2 por ciento en el mediano
+plazo. Por su parte, la inflación subyacente alcanzó un mínimo histórico de 0.7
+por ciento en el mismo mes. La persistencia de reducidos niveles de inflación y la
+expectativa de que se mantendrán bajos en los próximos años han incrementado
+el riesgo de un periodo deflacionario en la zona del euro. Hasta ahora, solamente
+algunos países de la periferia europea muestran deflación, tales como Grecia y
+Chipre, aunque una recuperación más lenta a la esperada de la actividad
+económica de la región pudiera aumentar la probabilidad de que este fenómeno
+se generalice.
+Gráfica 16
+Inflación General en Economías Avanzadas y Emergentes
+a) Economías Avanzadas
+Variación anual en por ciento
+b) Economías Emergentes
+Variación anual en por ciento
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+2006 2007 2008 2009 2010 2011 2012 2013
+Estados Unidos
+Zona del Euro
+Japón
+-4
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+2006 2007 2008 2009 2010 2011 2012 2013 2014
+Brasil
+China
+India 1/
+México
+Polonia
+Fuente: BLS, Eurostat y Oficina de Estadísticas de Japón. 1/ Se refiere a la inflación de los precios al mayoreo.
+Fuente: Oficinas Nacionales de Estadística.
+3.1.4. Mercados Financieros Internacionales
+En un entorno en el que se prevé una moderada recuperación en la actividad
+económica mundial y una baja inflación, se espera que la postura de política
+monetaria se mantenga relativamente laxa en gran parte de las economías
+avanzadas, en tanto que en algunas emergentes se ha tornado más restrictiva
+ante la mayor volatilidad en sus mercados financieros.
+Como se comentó, la Reserva Federal dio inicio en este año al proceso de
+normalización de su política monetaria. En su reunión de diciembre pasado
+anunció una reducción en sus compras mensuales de activos de 85 a 75 mil
+millones de dólares, a partir de enero de 2014. Posteriormente, en su reunión de
+enero, decidió llevar a cabo una nueva reducción de 75 a 65 mil millones de
+dólares, a partir de febrero.9 La Reserva Federal señaló como razones para esta
+decisión el avance acumulado en el empleo y la mejoría en las perspectivas de
+las condiciones del mercado laboral. Adicionalmente, mencionó que de continuar
+dicha tendencia y de permanecer la inflación por debajo del objetivo de largo
+9 Los anuncios contemplan reducciones de 5 mil millones de dólares en las compras de bonos del Tesoro
+y de 5 mil millones en activos respaldados por hipotecas.
+Banco de México
+22 Informe Trimestral Octubre – Diciembre 2013
+plazo, es muy probable que en las siguientes reuniones de política se anuncien recortes similares en las compras mensuales de activos. Sin embargo, también advirtió que la compra de bonos no necesariamente seguirá un curso preestablecido y que las decisiones respecto al ritmo de compras permanecerán contingentes a las perspectivas que el Comité Federal de Mercado Abierto (FOMC, por sus siglas en inglés) tenga sobre la evolución del empleo y la inflación, así como al análisis de los costos y beneficios de continuar con dichas compras. Adicionalmente, la Reserva Federal ha mantenido sin cambio el rango objetivo de 0 a 0.25 por ciento para la tasa de fondos federales y, como se mencionó, indicó que éste se conservará por algún tiempo aun si la tasa de desempleo es menor al umbral de 6.5 por ciento y en tanto la inflación proyectada continúe por abajo de la meta de inflación de largo plazo de 2 por ciento.
+El Banco Central Europeo (BCE) adoptó una posición más acomodaticia en su reunión de política monetaria de noviembre, al disminuir sus tasas de interés de política monetaria, en tanto que en sus reuniones de diciembre, enero y febrero decidió mantener sin cambio dichas tasas. Adicionalmente, en la reunión de enero de este año el BCE reforzó marginalmente la guía futura (“forward guidance”) de las tasas de interés de referencia dada a conocer en julio pasado, al señalar de manera enfática que conservará una política monetaria acomodaticia por el tiempo que sea necesario y que espera que sus tasas de interés continúen en los niveles actuales, o por debajo de los mismos, por un periodo prolongado, debido a las bajas tasas de inflación esperadas en los próximos años. Además, el BCE dejó abierta la posibilidad de utilizar todos los instrumentos disponibles para estimular una recuperación de la zona del euro y delineó posibles escenarios que motivarían una respuesta por parte del banco central.
+El Banco de Japón (BJ), en sus reuniones de diciembre y enero, mantuvo sin cambio su nivel programado de compras de activos, con el objetivo de alcanzar su meta de inflación de 2 por ciento (anunciada en abril pasado), en un plazo de alrededor de dos años. En sus comunicados, el BJ reiteró su evaluación favorable sobre las condiciones económicas y mostró mayor confianza en que el crecimiento en los precios siga una trayectoria congruente con su objetivo.
+En las economías emergentes se observaron diferencias importantes en la dirección de su política monetaria durante el cuarto trimestre de 2013 y principios de 2014. Por un lado, a pesar del lento desempeño de su economía, los países emergentes con elevados déficits en cuenta corriente, mayor dependencia de la inversión de cartera y presiones inflacionarias, incrementaron sus tasas de política y en algunos casos, como en Brasil, Indonesia, Sudáfrica y Turquía, intervinieron en el mercado cambiario para moderar la depreciación de sus monedas (Gráfica 17a y Gráfica 17b). Por otro lado, países con fundamentos macroeconómicos sólidos y expectativas de inflación bien ancladas pudieron relajar su política monetaria para apoyar la actividad económica.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 23
+Gráfica 17
+Inflación, Tipos de Cambio y Balances en Cuenta Corriente en Economías Emergentes
+a) Inflación y Tipo de Cambio
+Por ciento
+b) Cuenta Corriente y Tipo de Cambio
+Por ciento
+BRA
+CHL
+CHN
+COL
+COR
+FIL
+HUN
+IND
+INDO
+ISR
+MAL
+MEX
+PER
+POL
+RCH
+RS
+SA
+TAI
+TUR
+y = 5.158x + 9.7591
+-5
+0
+5
+10
+15
+20
+25
+30
+-4.0 -2.0 0.0 2.0 4.0
+Depreciación del TCN de may o 2013 a la f echa
+(%)
+Dif erencia inf lación esperada para 2013 en
+may o de 2013 y observ ada en diciembre de
+2013 (pb)
+BRA
+CHL
+CHN
+COL
+COR
+FIL
+HUN
+IND
+INDO
+ISR
+MAL
+MEX
+PER
+POL
+RCH
+RS
+SA
+TAI
+TUR
+y = -1.668x + 8.08
+-5
+0
+5
+10
+15
+20
+25
+30
+-10.0 -5.0 0.0 5.0 10.0
+Depreciación del TCN de may o 2013 a la f echa
+(%)
+Cuenta Corriente (% del PIB)
+Fuente: Haver Analytics, Bloomberg y Consensus Forecasts. Nota: La cuenta corriente se calcula como el promedio del
+tercer trimestre de 2012 al tercer trimestre de 2013,
+excepto México, en cuyo caso se considera el dato de
+cuenta corriente esperado para el cierre de 2013
+publicado en este Informe Trimestral.
+Fuente: Haver Analytics, Bloomberg y Consensus Forecasts.
+En este entorno, las salidas de capital de las economías emergentes continuaron
+durante el cuarto trimestre de 2013, lo que se tradujo en una tendencia al alza en
+sus tasas de interés de largo plazo (Gráfica 18a). Asimismo, durante las primeras
+semanas de 2014, la volatilidad en los mercados financieros de las economías
+emergentes se ha exacerbado, registrándose caídas adicionales en los mercados
+accionarios, depreciaciones de sus monedas y un aumento en las primas de
+riesgo de crédito soberano de estas economías (Gráfica 18b). La magnitud de
+estos ajustes dependió en gran medida, como ya se mencionó, de los
+fundamentos macroeconómicos de cada país.
+Banco de México
+24 Informe Trimestral Octubre – Diciembre 2013
+Gráfica 18
+Indicadores Financieros de Economías Emergentes
+a) Tasas de Bonos a 10 años
+Por ciento
+b) Tipo de Cambio
+Índice 01/01/2013=100
+1
+3
+5
+7
+9
+11
+13
+15
+E
+2013
+F M A M J J A S O N D E
+2014
+F
+Brasil 1/ Chile 1/
+Colombia Corea
+México Perú
+Polonia Rep. Checa
+Rusia
+90
+100
+110
+120
+130
+140
+E
+2013
+F M A M J J A S O N D E
+2014
+F
+Real Brasileño
+Corona Checa
+Peso Chileno
+Peso Colombiano
+Won Coreano
+Rupia India
+Peso Mexicano
+Sol Peruano
+Zloty Polaco
+Rublo Ruso
+Lira Turca
+Depreciación
+frente al dólar
+1/ Se refiere al bono de 9 años.
+Fuente: Bloomberg.
+Fuente: Bloomberg.
+Como se señaló, los mercados financieros han mostrado una mayor volatilidad
+ante la reducción en la compra de activos por parte de la Reserva Federal,
+principalmente en el caso de las economías emergentes. Adicionalmente, existe
+incertidumbre en virtud del proceso de normalización de la política monetaria en
+ese país. Esto pudiera conducir a condiciones de acceso a financiamiento externo
+más astringentes, en particular en aquellas economías emergentes con elevados
+desbalances macroeconómicos. Por consiguiente, no se pueden descartar
+nuevos episodios de volatilidad en los mercados financieros internacionales. En
+este sentido, para las economías emergentes es importante resaltar la necesidad
+de adoptar políticas macroeconómicas que aseguren un crecimiento robusto con
+estabilidad de precios, en particular mantener una disciplina fiscal que reduzca
+sus requerimientos de financiamiento del exterior, e implementar reformas
+estructurales que aumenten su PIB potencial.
+3.2. Evolución de la Economía Mexicana
+3.2.1. Actividad Económica
+Durante el cuarto trimestre de 2013, la economía mexicana continuó recuperando
+sus niveles de actividad, después de la desaceleración que registró en la
+segunda mitad de 2012 y la contracción en la primera de 2013. La reactivación
+que presentó la economía en la segunda mitad del año fue reflejo de la expansión
+que exhibió la demanda externa, así como de un incipiente repunte en algunos
+indicadores de la demanda interna en el cuarto trimestre, en particular en los
+relacionados con el consumo privado y el gasto público, ya que la inversión
+todavía no muestra signos claros de mejoría.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 25
+En el trimestre que se reporta, las exportaciones manufactureras no automotrices
+dirigidas a Estados Unidos mantuvieron una trayectoria positiva. Como
+consecuencia de ello, a pesar de la tendencia decreciente de las exportaciones
+no automotrices al resto del mundo y de la caída en las ventas al exterior de
+productos automotrices en diciembre, la cual respondió en buena medida a
+factores temporales, el total de las exportaciones manufactureras se mantuvo en
+niveles elevados (Gráfica 19).10
+Gráfica 19
+Indicadores de las Exportaciones Manufactureras
+Índice 2007=100, a. e.
+a) Exportaciones Manufactureras por
+Región de Destino
+b) Exportaciones Manufactureras
+Automotrices
+c) Exportaciones Manufactureras
+No Automotrices
+70
+85
+100
+115
+130
+145
+160
+175
+190
+E
+2007
+M S E
+2008
+M S E
+2009
+M S E
+2010
+M S E
+2011
+M S E
+2012
+M S E
+2013
+M S D
+Total
+Estados Unidos
+Resto
+50
+70
+90
+110
+130
+150
+170
+190
+210
+230
+E
+2007
+M S E
+2008
+M S E
+2009
+M S E
+2010
+M S E
+2011
+M S E
+2012
+M S E
+2013
+M S D
+Total
+Estados Unidos
+Resto
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+E
+2007
+M S E
+2008
+M S E
+2009
+M S E
+2010
+M S E
+2011
+M S E
+2012
+M S E
+2013
+M S D
+Total
+Estados Unidos
+Resto
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Banco de México.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Banco de México.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Banco de México.
+En cuanto a la demanda doméstica, si bien el gasto público se aceleró en el
+cuarto trimestre y algunos indicadores del consumo privado han mostrado una
+incipiente mejoría, la inversión fija bruta continúa presentando un desempeño
+desfavorable. En particular:
+i. Los datos más oportunos sobre el consumo privado sugieren que éste
+presentó un repunte en el cuarto trimestre de 2013. Dicho repunte
+estuvo influido, en parte, por las promociones implementadas durante el
+programa “El Buen Fin”. En efecto, tanto las ventas de la ANTAD, como
+las ventas al menudeo en establecimientos comerciales, exhibieron un
+crecimiento importante en noviembre, el cual se calcula no fue
+contrarrestado totalmente por una disminución en diciembre. Así, en el
+bimestre noviembre-diciembre, se estima que las ventas de bienes de
+consumo al menudeo habrán presentado cierto incremento en su ritmo
+de expansión (Gráfica 20a y Gráfica 20b).
+10 En particular, los niveles de producción y exportación automotriz en diciembre de 2013 se vieron
+afectados negativamente, en parte, por el paro temporal que durante ese mes llevaron a cabo algunas
+armadoras en sus plantas para realizar adecuaciones y acondicionamientos en sus líneas de producción.
+Banco de México
+26 Informe Trimestral Octubre – Diciembre 2013
+Gráfica 20
+Indicadores de Consumo
+a) Ventas Totales de la ANTAD
+Índice 2003=100, a. e.
+b) Ventas en los Establecimientos
+Comerciales
+Índice 2003=100, a. e.
+140
+150
+160
+170
+180
+190
+200
+210
+E
+2007
+A J O E
+2008
+A J O E
+2009
+A J O E
+2010
+A J O E
+2011
+A J O E
+2012
+A J O E
+2013
+A J OD
+100
+106
+112
+118
+124
+130
+E
+2007
+A J O E
+2008
+A J O E
+2009
+A J O E
+2010
+A J O E
+2011
+A J O E
+2012
+A J O E
+2013
+A J ON
+Ventas Mayoreo
+Ventas Menudeo
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Elaborado por Banco de México con información de la
+ANTAD.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Encuesta Mensual sobre Establecimientos
+Comerciales, INEGI.
+ii. En congruencia con lo anterior, algunos determinantes del consumo
+presentaron un desempeño favorable, como es el caso de las remesas
+familiares, las cuales registraron una expansión en el trimestre que se
+reporta (Gráfica 21a). No obstante, otros indicadores, como el índice de
+confianza de los consumidores, continúan mostrando una tendencia
+negativa (Gráfica 21b).
+Gráfica 21
+Determinantes del Consumo
+a) Remesas Familiares
+Millones de dólares, a. e.
+b) Índice de Confianza del Consumidor
+Índice enero 2003=100, a. e.
+1,600
+1,700
+1,800
+1,900
+2,000
+2,100
+2,200
+2,300
+2,400
+2,500
+2,600
+E
+2006
+M S E
+2007
+M S E
+2008
+M S E
+2009
+M S E
+2010
+M S E
+2011
+M S E
+2012
+M S E
+2013
+M S D
+75
+80
+85
+90
+95
+100
+105
+110
+115
+E
+2006
+AJOE
+2007
+AJOE
+2008
+AJOE
+2009
+AJOE
+2010
+AJOE
+2011
+AJOE
+2012
+AJOE
+2013
+AJOE
+2014
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Banco de México.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Encuesta Nacional sobre la Confianza del Consumidor,
+INEGI y Banco de México.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 27
+iii. Por su parte, la inversión fija bruta, la cual se ha venido contrayendo
+desde el último trimestre de 2012, no ha mostrado un claro cambio de
+tendencia, si bien en noviembre exhibió un repunte en su componente
+de inversión en construcción. El comportamiento de la inversión fija
+bruta refleja, principalmente, la debilidad de las importaciones de bienes
+de capital y la trayectoria negativa que ha presentado la actividad del
+sector de la construcción, en particular en lo relacionado con la
+inversión en vivienda (Gráfica 22).
+Gráfica 22
+Indicadores de Inversión
+a) Inversión y sus Componentes
+Índice 2008=100, a. e.
+b) Importaciones de Bienes de
+Capital
+Índice 2007=100, a. e.
+c) Valor Real de la Producción en la
+Construcción por Sector
+Institucional Contratante
+Enero 2008=100, a. e.
+60
+80
+100
+120
+140
+160
+180
+200
+70
+75
+80
+85
+90
+95
+100
+105
+110
+115
+E
+2007
+A JOE
+2008
+A JOE
+2009
+A JOE
+2010
+A JOE
+2011
+A JOE
+2012
+A JOE
+2013
+A J ON
+Total
+Construcción
+Maquinaria y Equipo Nacional
+Maquinaria y Equipo Importado
+75
+85
+95
+105
+115
+125
+135
+E
+2007
+M S E
+2008
+M S E
+2009
+M S E
+2010
+M S E
+2011
+M S E
+2012
+M S E
+2013
+M S D
+40
+60
+80
+100
+120
+140
+E
+2006
+AJOE
+2007
+AJOE
+2008
+AJOE
+2009
+AJOE
+2010
+AJOE
+2011
+AJOE
+2012
+AJOE
+2013
+AJ ON
+Total
+Pública
+Privada
+Privada Vivienda
+Privada sin Vivienda
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Sistema de Cuentas Nacionales de
+México, INEGI.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Banco de México.
+a. e. / Cifras con ajuste estacional. Para el caso
+de la construcción pública y privada
+(vivienda y privada total sin vivienda) la
+desestacionalización fue elaborada por el
+Banco de México con cifras del INEGI.
+Fuente: INEGI.
+iv. En lo que se refiere al gasto público, en el segundo semestre, y en
+particular en el último trimestre, se aceleró este componente de la
+demanda agregada, revirtiendo con ello el subejercicio que se había
+observado a comienzos del año.
+La evolución descrita tanto de la demanda externa, como de la interna, condujo a
+que la actividad económica continuara expandiéndose en el último trimestre del
+año, aunque a un ritmo más moderado que en el trimestre previo. En particular, la
+ligera tendencia positiva que se observó en la producción industrial en octubrenoviembre
+tendió a reflejar el moderado dinamismo en el sector de la minería, ya
+que el sector manufacturero mostró cierto estancamiento y la industria de la
+construcción continuó presentando una trayectoria a la baja, aunque en
+noviembre este último sector registró un repunte (Gráfica 23a y Gráfica 23b).
+El sector servicios siguió expandiéndose, principalmente como reflejo del
+crecimiento de aquellas actividades más relacionadas a la demanda externa,
+tales como el comercio y los transportes, correos y almacenamiento. Por su parte,
+si bien los servicios más asociados a la demanda interna también mostraron un
+avance, éste fue menor que el observado en los servicios arriba mencionados
+(Gráfica 23c).
+Banco de México
+28 Informe Trimestral Octubre – Diciembre 2013
+En el trimestre que se reporta, la actividad agropecuaria tendió a presentar un
+desempeño más favorable que en el tercer trimestre, cuando ésta había sido
+afectada por los huracanes “Ingrid” y “Manuel” (Gráfica 23a). En este sentido, en
+el periodo octubre-noviembre de 2013 destacan los crecimientos en la producción
+de ajonjolí, maíz forrajero, avena forrajera, frijol, manzana, cebada, sorgo
+forrajero, copra, papa, soya, jitomate, aguacate, limón, arroz y plátano. Por su
+parte, también se registraron aumentos en la producción de huevo para plato,
+leche de bovino y carne en canal de porcino.
+Gráfica 23
+Indicadores de Producción
+a) Indicador Global de la Actividad
+Económica
+Índice 2008=100, a. e.
+b) Actividad Industrial
+Índice 2008=100, a. e.
+c) IGAE del Sector Servicios
+Índice 2008=100, a. e.
+80
+90
+100
+110
+120
+130
+140
+150
+160
+84
+88
+92
+96
+100
+104
+108
+112
+116
+E
+2008
+A J O E
+2009
+A J O E
+2010
+A J O E
+2011
+A J O E
+2012
+A J O E
+2013
+A J N
+Total
+Industrial
+Servicios
+Agropecuario
+85
+95
+105
+115
+125
+E
+2008
+A J O E
+2009
+A J O E
+2010
+A J O E
+2011
+A J O E
+2012
+A J O E
+2013
+A J N
+Manufacturas
+Construcción
+Electricidad
+Minería
+85
+90
+95
+100
+105
+110
+115
+120
+125
+E
+2008
+A J O E
+2009
+A J O E
+2010
+A J O E
+2011
+A J O E
+2012
+A J O E
+2013
+A J N
+Servicios Asociados a la Demanda Externa 1/
+Servicios Asociados a la Demanda Interna 2/
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Sistema de Cuentas Nacionales de México,
+INEGI.
+a. e. / Cifras con ajuste estacional.
+Fuente: Sistema de Cuentas Nacionales de
+México, INEGI.
+1/ Incluye los sectores de comercio; transporte,
+correos y almacenamiento, y servicios de
+información en medios masivos.
+2/ Conformado por los servicios profesionales,
+científicos y técnicos; la dirección de corporativos;
+servicios de salud; las actividades
+gubernamentales; los servicios de esparcimiento
+y recreativos; los servicios financieros y de
+seguros; servicios inmobiliarios y de alquileres;
+servicios de apoyo a los negocios; los servicios
+educativos; los servicios de alojamiento temporal
+y de preparación de alimentos, y otros servicios.
+a. e. / Cifras con ajuste estacional.
+Fuente: Elaboración de Banco de México con
+información del Sistema de Cuentas
+Nacionales de México, INEGI.
+Dada la expansión de la economía, se continuó observando una trayectoria
+positiva en los principales indicadores del mercado laboral. En particular, el
+número de trabajadores asegurados en el IMSS siguió mostrando una tendencia
+ascendente (Gráfica 24a), lo cual contribuyó a que las tasas de desocupación
+nacional y urbana se redujeran a los niveles mínimos que se han observado
+desde que estalló la crisis. En efecto, de diciembre de 2012 a diciembre de 2013,
+el número de trabajadores permanentes y eventuales urbanos asegurados en el
+IMSS aumentó en 453,719 personas. Por su parte, en términos
+desestacionalizados la tasa de desocupación nacional pasó en promedio de 4.9
+por ciento en el tercer trimestre a 4.7 por ciento en el último trimestre de 2013, en
+tanto que la de desocupación urbana pasó de 5.6 a 5.5 por ciento, en la misma
+comparación. Por su parte, la tasa de informalidad laboral disminuyó de 58.9 por
+ciento en el periodo julio-septiembre de 2013, a 58.8 por ciento en el cuarto
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 29
+trimestre de ese año (Gráfica 24b). No obstante, dichas tasas aún permanecen
+por arriba de los niveles observados antes de la crisis, lo cual sugiere que
+prevalecen condiciones de holgura en el mercado laboral. En este entorno, como
+se mencionó, en el periodo octubre-diciembre de 2013 los principales indicadores
+salariales de la economía reportaron variaciones moderadas, como es el caso del
+salario base de cotización del IMSS (ver Sección 2.2).
+Gráfica 24
+Indicadores del Mercado Laboral
+a) Trabajadores Asegurados en el IMSS 1/
+Millones de personas
+b) Tasas de Desocupación Nacional y
+Urbana y Tasa de Informalidad Laboral
+Por ciento, a. e.
+13.5
+14.0
+14.5
+15.0
+15.5
+16.0
+16.5
+E
+2007
+M S E
+2008
+M S E
+2009
+M S E
+2010
+M S E
+2011
+M S E
+2012
+M S E
+2013
+M S D
+Original
+Desestacionalizada
+3
+4
+5
+6
+7
+8
+9
+10
+55
+56
+57
+58
+59
+60
+61
+E
+2007
+A J O E
+2008
+A J O E
+2009
+AJ O E
+2010
+AJ O E
+2011
+A J O E
+2012
+A J O E
+2013
+A J OD
+Tasa de Informalidad Laboral 1/
+Tasa de Desocupación Urbana
+Tasa de Desocupación Nacional
+1/ Permanentes y eventuales urbanos.
+Fuente: IMSS. Desestacionalización efectuada por Banco de
+México.
+1/ Datos desestacionalizados por Banco de México.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Encuesta Nacional de Ocupación y Empleo, INEGI.
+Así, para el cuarto trimestre de 2013 se prevé un crecimiento trimestral
+desestacionalizado del PIB de alrededor de 0.5 por ciento, cifra que se compara
+con las variaciones de 0.20, -0.55 y 0.84 por ciento registradas en los primeros
+tres trimestres del año, respectivamente (Gráfica 25a). En términos anuales
+desestacionalizados, se estima una expansión del PIB de alrededor de 1.1 por
+ciento para el último trimestre de 2013, la cual se compara con las de 2.8, 0.5 y
+1.3 por ciento observadas en los primeros tres trimestres de ese año,
+respectivamente. Con datos sin desestacionalizar, se anticipa una variación anual
+del PIB de 1.2 por ciento en el trimestre que se reporta (Gráfica 25b). Con este
+resultado, se espera que para 2013 en su conjunto se haya registrado una tasa
+de expansión de alrededor de 1.2 por ciento.
+Banco de México
+30 Informe Trimestral Octubre – Diciembre 2013
+Gráfica 25
+Producto Interno Bruto
+a) Variaciones Trimestrales
+Por ciento, a. e.
+b) Variaciones Anuales
+Por ciento
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+I
+2005
+III I
+2006
+III I
+2007
+III I
+2008
+III I
+2009
+III I
+2010
+III I
+2011
+III I
+2012
+III I
+2013
+IV e/
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+I
+2005
+III I
+2006
+III I
+2007
+III I
+2008
+III I
+2009
+III I
+2010
+III I
+2011
+III I
+2012
+III I
+2013
+IV
+Original
+Desestacionalizada
+e/
+a. e. / Cifras con ajuste estacional.
+e/ Estimación de Banco de México.
+Fuente: Sistema de Cuentas Nacionales de México, INEGI. Desestacionalización del cuarto trimestre de 2013 efectuada por el
+Banco de México.
+Finalmente, los datos disponibles sugieren que en el último trimestre de 2013 la
+cuenta corriente habrá presentado un déficit moderado y que el país continuó
+captando recursos a través de la cuenta financiera que permitieron el
+financiamiento holgado de dicho déficit (Gráfica 26a y Gráfica 26b).
+Gráfica 26
+Balanza Comercial y Cuenta Corriente
+Millones de dólares
+a) Balanza Comercial b) Cuenta Corriente
+-10,000
+-8,000
+-6,000
+-4,000
+-2,000
+0
+2,000
+I
+2006
+III I
+2007
+III I
+2008
+III I
+2009
+III I
+2010
+III I
+2011
+III I
+2012
+III I
+2013
+IV
+-10,000
+-8,000
+-6,000
+-4,000
+-2,000
+0
+2,000
+I
+2006
+III I
+2007
+III I
+2008
+III I
+2009
+III I
+2010
+III I
+2011
+III I
+2012
+III I
+2013
+IV e/
+Fuente: Banco de México. e/ Estimación de Banco de México.
+Fuente: Banco de México.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 31
+3.2.2. Ahorro Financiero y Financiamiento en el País
+En el cuarto trimestre de 2013, las fuentes de recursos financieros de la economía continuaron con la recuperación que habían mostrado el trimestre previo, luego de la disminución que registraron en el segundo trimestre del año. Este comportamiento estuvo explicado por el mayor ritmo de expansión de las fuentes internas de recursos. Por su parte, si bien las fuentes externas mostraron un menor dinamismo que el trimestre anterior, éstas continuaron registrando flujos positivos.
+Ahondando en lo anterior, en lo que respecta a las fuentes internas de recursos financieros, la base monetaria registró un repunte en su ritmo de expansión a tasa nominal anual, con una variación nominal anual de 8.5 por ciento al cierre de diciembre de 2013, superior al crecimiento observado de 5.7 por ciento en septiembre de dicho año.11 Ello obedeció a la recuperación en los niveles de actividad económica en México, así como al desvanecimiento del efecto de base de comparación asociado al incremento en la demanda de billetes y monedas que se dio en torno al periodo de elecciones federales en 2012.
+El ahorro financiero –definido como el agregado monetario M4 menos el saldo de billetes y monedas en poder del público– mantuvo su ritmo de crecimiento en el trimestre de referencia, debido principalmente a la expansión del saldo del ahorro financiero de residentes (Gráfica 27a). En particular, el ritmo de crecimiento del ahorro financiero de residentes fue superior al registrado el trimestre previo, lo que se explicó principalmente por la recuperación en el crecimiento del saldo del componente voluntario (Gráfica 27a y Gráfica 27b). En contraste, el saldo del componente obligatorio mantuvo un débil ritmo de expansión debido al efecto de la menor valuación de su cartera de instrumentos de deuda, lo que respondió al incremento de las tasas de interés de mediano y largo plazo.
+Por su parte, el componente de no residentes siguió mostrando flujos positivos, si bien de menor magnitud que los flujos observados en los primeros meses de 2013 (Gráfica 27c). Al respecto, cabe subrayar que, a pesar del entorno de incertidumbre en los mercados financieros internacionales, México continuó captando recursos del exterior dirigidos a la adquisición de instrumentos financieros, lo que contrasta con la situación que prevaleció en otras economías emergentes. Lo anterior es reflejo en buena medida de la percepción de la estabilidad macroeconómica del país y de la perspectiva favorable que tienen los inversionistas ante los avances en el proceso de reformas estructurales. Así, en 2013, el saldo de la tenencia de valores gubernamentales en poder de los no residentes se incrementó en 259.7 miles de millones de pesos, lo que significó una variación real anual de 12.1 por ciento respecto al cierre de 2012.
+En comparación con el trimestre previo, el saldo del ahorro financiero de no residentes presentó un ligero incremento en el cuarto trimestre de 2013 (Gráfica 27c). A este respecto, destaca que el 19 de diciembre hubo un vencimiento semestral programado de bonos a tasa fija, lo que implicó –al igual que en vencimientos previos de este tipo de instrumentos– una disminución en la tenencia de valores gubernamentales de mediano y largo plazo en poder de no
+11 La base monetaria se define como el saldo de billetes y monedas en circulación más los depósitos bancarios en el Banco de México.
+Banco de México
+32 Informe Trimestral Octubre – Diciembre 2013
+residentes, que se compensó por un incremento en su tenencia de Cetes y del
+saldo de captación.
+Gráfica 27
+Indicadores de Ahorro Financiero
+a) Ahorro Financiero Total 1/
+Variación real anual en por ciento
+b) Ahorro Financiero Residentes 1/
+Variación real anual en por ciento
+c) Ahorro Financiero No Residentes
+Billones de pesos
+de diciembre de 2013
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+-4
+0
+4
+8
+12
+16
+20
+24
+28
+32
+36
+D
+2009
+J D
+2010
+J D
+2011
+J D
+2012
+J D
+2013
+Total
+Residentes
+No Residentes
+J
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+D
+2009
+J D
+2010
+J D
+2011
+J D
+2012
+J D
+2013
+Total
+Obligatorio
+Voluntario
+J
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+1.8
+2.0
+2.2
+2.4
+D
+2009
+J D
+2010
+J D
+2011
+J D
+2012
+J D
+2013
+No Residentes
+Captación
+Total Valores Públicos
+Mediano y Largo Plazo
+Cetes
+J
+Fuente: Banco de México.
+1/ Se define como el agregado monetario M4 menos el saldo de billetes y monedas en poder del público.
+En relación con la utilización de recursos financieros en la economía, en el último
+trimestre del año se observó una mayor utilización de recursos por parte del
+sector público federal y de los estados y municipios, mientras que los recursos
+destinados a la acumulación de reservas internacionales, así como a financiar al
+sector privado, fueron menores.12 Por su parte, el financiamiento canalizado al
+sector privado no financiero mantuvo un flujo positivo, aunque de menor tamaño
+que en el trimestre previo.
+En lo que respecta a este último punto, en el cuarto trimestre del año el
+financiamiento a las empresas privadas no financieras se expandió a una tasa, en
+términos reales anuales, superior a la registrada en el tercer trimestre. Dicha
+expansión se observó tanto en los mercados internos de crédito, como en los de
+deuda (Gráfica 28). El financiamiento externo también siguió mostrando
+dinamismo, particularmente debido a la colocación de deuda en el mercado
+externo.
+12 En el cuarto trimestre de 2013, la acumulación de reservas internacionales fue de 4,428.1 miles de
+millones de dólares, inferior a la variación observada en el trimestre previo de 5,563.3 miles de millones
+de dólares.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 33
+Gráfica 28
+Financiamiento Interno a las Empresas Privadas No Financieras
+Variación real anual en por ciento
+-10
+-5
+0
+5
+10
+15
+20
+25
+30
+D
+2009
+J D
+2010
+J D
+2011
+J D
+2012
+J D
+2013
+Total 1/ 2/
+Crédito 1/ 2/ 3/
+Emisión
+Fuente: Banco de México.
+1/ Estas cifras son afectadas por la desaparición de algunos intermediarios financieros no bancarios y su conversión
+a sofomes no reguladas.
+2/ A partir de febrero de 2009, los datos son afectados por la reclasificación de créditos a PyMES de la cartera de
+crédito al consumo a la cartera comercial.
+3/ Se refiere a la cartera vigente y vencida. Incluye el crédito de la banca comercial y de desarrollo, así como de
+otros intermediarios financieros no bancarios.
+En lo referente al mercado de crédito interno, los préstamos de la banca
+comercial a las empresas privadas no financieras se expandieron a un ritmo
+similar al registrado en el tercer trimestre del año (Gráfica 29a). Tanto las
+empresas grandes, como las de menor tamaño han continuado accediendo a
+estos recursos crediticios. Las tasas de interés disminuyeron, en parte como
+consecuencia de las reducciones del objetivo para la Tasa de Interés
+Interbancaria a un día en septiembre y octubre (Gráfica 29b). Por su parte, los
+índices de morosidad de esta cartera no registraron cambios significativos en el
+periodo que se reporta, luego del deterioro mostrado el trimestre previo a raíz de
+los problemas que enfrentaron un número reducido de empresas del sector
+construcción (Gráfica 29c).
+El crédito de la banca de desarrollo a las empresas privadas no financieras
+presentó en el trimestre de referencia tasas de crecimiento mayores a las
+observadas en el trimestre previo (Gráfica 29a). En este entorno de expansión de
+la cartera, las tasas de interés correspondientes mostraron una evolución
+favorable, si bien este indicador registra cierta volatilidad (Gráfica 29b). Por su
+parte, los índices de morosidad observaron una mejoría después del deterioro
+que registraron el trimestre anterior como consecuencia del mencionado
+problema de impago que enfrentaron algunas empresas del sector construcción
+(Gráfica 29c).
+Banco de México
+34 Informe Trimestral Octubre – Diciembre 2013
+Gráfica 29
+Crédito de la Banca a las Empresas Privadas No Financieras
+a) Crédito Vigente de la Banca a
+las Empresas Privadas
+No Financieras
+Variación real anual en por ciento
+b) Tasas de Interés de Nuevos
+Créditos de la Banca a las Empresas
+Privadas No Financieras 2/
+Por ciento
+c) Índices de Morosidad del Crédito
+de la Banca a las Empresas
+Privadas No Financieras 3/
+Por ciento
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+80
+D
+2009
+J D
+2010
+J D
+2011
+J D
+2012
+J D
+2013
+Banca Comercial 1/
+Banca de Desarrollo
+4
+6
+8
+10
+12
+14
+16
+D
+2009
+J D
+2010
+J D
+2011
+J D
+2012
+J D
+2013
+Banca Comercial
+Banca de Desarrollo
+0
+2
+4
+6
+8
+10
+12
+D
+2009
+J D
+2010
+J D
+2011
+J D
+2012
+J D
+2013
+Banca Comercial
+Banca de Desarrollo
+Fuente: Banco de México.
+1/ A partir de febrero 2009, los datos son afectados por la reclasificación de créditos a PyMES de la cartera de crédito al consumo a la cartera comercial.
+2/ Se refiere a la tasa de interés de nuevos créditos de la banca a las empresas privadas no financieras, ponderada por el saldo asociado de crédito vigente y
+para todos los plazos solicitados.
+3/ El índice de morosidad (IMOR) se define como la cartera vencida entre la cartera total.
+En lo que respecta a los mercados de deuda, las empresas privadas no
+financieras continuaron recurriendo a la colocación de títulos en el mercado
+internacional, prolongando así el dinamismo que caracterizó al sector a lo largo
+del año, particularmente en el tercer trimestre cuando se registró un volumen de
+colocación en el exterior relativamente elevado. Por su parte, el mercado de
+deuda interna presentó un repunte respecto de lo observado el trimestre anterior,
+derivado del incremento en las colocaciones de deuda privada de mediano plazo,
+en un contexto de condiciones favorables en términos de los plazos de
+vencimiento y las tasas de interés. Así, en el cuarto trimestre de 2013, la
+colocación neta de deuda interna de mediano plazo fue de 10.2 miles de millones
+de pesos, cifra superior en 7.1 miles de millones de pesos respecto al trimestre
+previo (Gráfica 30a). Con respecto al plazo promedio de colocación de deuda
+privada, éste fue de 8 años en el periodo octubre-diciembre de 2013. Las tasas
+de interés de las colocaciones de valores de corto plazo por parte de las
+empresas privadas se redujeron, respondiendo a las disminuciones señaladas en
+la tasa de referencia de la política monetaria. Asimismo, las tasas de interés de
+los valores privados de mediano plazo registraron, en promedio, un nivel inferior
+al del trimestre previo, prolongando la tendencia de largo plazo a la baja que han
+venido mostrando (Gráfica 30b).
+Con relación al crédito a los hogares, éste se expandió en el cuarto trimestre del
+año, si bien con cierta moderación en su tasa de crecimiento. La tasa de
+expansión de este segmento en términos reales anuales durante el trimestre de
+referencia fue de 4.1 por ciento, mientras que en el tercer trimestre del año se
+ubicó en 5.1 por ciento (Gráfica 31).
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 35
+Gráfica 30
+Valores de Empresas Privadas No Financieras
+a) Colocación Neta de Valores a Mediano Plazo
+de Empresas Privadas No Financieras 1/
+Miles de millones de pesos
+b) Tasas de Valores de Empresas Privadas
+No Financieras
+Por ciento anual
+-15
+-10
+-5
+0
+5
+10
+15
+D
+2009
+J D
+2010
+J D
+2011
+J D
+2012
+J D
+2013
+3
+4
+5
+6
+7
+8
+D
+2009
+J D
+2010
+J D
+2011
+J D
+2012
+J D
+2013
+Mediano Plazo 2/
+Corto Plazo 3/
+Fuente: Banco de México, con información de Valmer e Indeval.
+1/ Colocaciones menos amortizaciones en el mes (vencimientos y prepagos).
+2/ Colocaciones con un plazo mayor a un año.
+3/ Colocaciones con un plazo de hasta un año.
+Gráfica 31
+Crédito a los Hogares
+Variación real anual en por ciento
+-30
+-20
+-10
+0
+10
+20
+30
+D
+2009
+J D
+2010
+J D
+2011
+J D
+2012
+J D
+2013
+Total 1/ 2/
+Consumo 1/ 2/ 3/
+Vivienda 4/
+Fuente: Banco de México.
+1/ A partir de febrero de 2009, los datos son afectados por la reclasificación de créditos a PyMES de la cartera de
+crédito al consumo a la cartera comercial.
+2/ Incluye la cartera de crédito de las sofomes reguladas de tarjetas de crédito: Tarjetas Banamex, Santander
+Consumo, Ixe Tarjetas y Sociedad Financiera Inbursa. A partir de febrero de 2009, los datos son afectados por la
+reclasificación de créditos a PyMES de la cartera de crédito al consumo a la cartera comercial.
+3/ Se refiere a la cartera vigente y vencida. Incluye el crédito de la banca comercial y de desarrollo, así como de
+otros intermediarios financieros no bancarios.
+4/ Se refiere a la cartera vigente y vencida. Incluye el crédito de la banca comercial y de desarrollo, Infonavit,
+Fovissste, y otros intermediarios financieros no bancarios.
+Banco de México
+36 Informe Trimestral Octubre – Diciembre 2013
+Si bien los préstamos de la banca comercial al consumo continuaron
+incrementándose en el último trimestre de 2013, dicha expansión se dio a un
+ritmo menor que el del trimestre previo (Gráfica 32a). El crédito vigente de la
+banca comercial al consumo se expandió en octubre-diciembre a una tasa real
+anual promedio de 7.6 por ciento, cifra por debajo del crecimiento de 10.3 por
+ciento del tercer trimestre del año, lo que obedeció a la moderación de las tasas
+de crecimiento de las carteras de nómina, personales y otros, así como de
+tarjetas de crédito. Las tasas de interés siguieron sin mostrar variaciones
+significativas. Por su parte, los índices de morosidad han permanecido estables
+en meses recientes, si bien el índice de morosidad ajustado –que considera los
+castigos de cartera acumulados en los últimos doce meses– se ha incrementado.
+No obstante, la información al cierre del cuarto trimestre de 2013 sugiere que el
+deterioro de este último indicador se ha estabilizado (Gráfica 32b).
+Gráfica 32
+Crédito de la Banca Comercial al Consumo
+a) Crédito Vigente de la Banca Comercial
+al Consumo 1/
+Variación real anual en por ciento
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+D
+2009
+J D
+2010
+J D
+2011
+J D
+2012
+J D
+2013
+Total 2/
+Tarjetas de Crédito
+ABCD 2/ 3/ 4/
+Nómina, Personales y Otros 3/ 5/
+b) Índice de Morosidad del Crédito de
+la Banca Comercial al Consumo 1/ 6/
+Por ciento
+0
+5
+10
+15
+20
+25
+D
+2009
+J D
+2010
+J D
+2011
+J D
+2012
+J D
+2013
+IMORA Total 7/
+IMOR Total
+Tarjetas de Crédito
+ABCD 4/
+Nómina, Personales y Otros 5/
+Fuente: Banco de México.
+1/ Incluye la cartera de crédito de las sofomes reguladas de tarjetas de crédito: Tarjetas Banamex, Santander Consumo, Ixe Tarjetas y
+Sociedad Financiera Inbursa. A partir de febrero de 2009, los datos son afectados por la reclasificación de créditos a PyMES de la
+cartera de crédito al consumo a la cartera comercial.
+2/ Entre junio de 2010 y mayo de 2011, las cifras se ajustan para no ser distorsionadas por la compra de cartera automotriz de una
+institución bancaria.
+3/ A partir de julio de 2011, las cifras se ajustan para no ser distorsionadas por la reclasificación de ABCD a otros créditos al consumo
+por parte de una institución bancaria.
+4/ Incluye crédito para la adquisición de bienes muebles y crédito automotriz.
+5/ Otros se refiere a créditos para operaciones de arrendamiento capitalizable y otros créditos al consumo.
+6/ El índice de morosidad (IMOR) se define como la cartera vencida entre la cartera total.
+7/ Se define como la cartera vencida más castigos acumulados en los últimos 12 meses entre cartera total más castigos acumulados en
+los últimos 12 meses.
+El crédito para la adquisición de vivienda continuó expandiéndose en el trimestre
+de referencia, si bien con un menor dinamismo al observado en el trimestre
+previo. Lo anterior, en gran parte, derivado de la desaceleración que ha
+registrado el crédito otorgado por el Infonavit en meses recientes. Por su parte, la
+cartera hipotecaria de la banca comercial también experimentó una
+desaceleración (Gráfica 33a). Así, el crédito vigente de la banca comercial para la
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 37
+adquisición de vivienda registró una tasa de crecimiento real anual promedio de
+5.2 por ciento en el cuarto trimestre de 2013, mientras que el Infonavit incrementó
+su saldo vigente en 2.9 por ciento en el mismo periodo, variaciones inferiores a
+las registradas en promedio el trimestre previo de 5.6 y 4.2 por ciento,
+respectivamente. Los costos del crédito otorgado por la banca comercial para la
+adquisición de vivienda, los cuales registraron una baja gradual a lo largo del año,
+continuaron mostrando una evolución favorable, en tanto que los índices de
+morosidad correspondientes permanecieron en niveles bajos (Gráfica 33b y
+Gráfica 33c).
+Gráfica 33
+Crédito a la Vivienda
+a) Crédito Vigente a la Vivienda
+Variación real anual en por ciento
+b) Costos del Crédito de la Banca
+Comercial a la Vivienda
+Por ciento
+c) Índices de Morosidad del
+Crédito a la Vivienda 3/
+Por ciento
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+D
+2009
+J D
+2010
+J D
+2011
+J D
+2012
+J D
+2013
+Infonavit
+Banca Comercial 1/
+0
+4
+8
+12
+16
+20
+24
+28
+32
+D
+2009
+J D
+2010
+J D
+2011
+J D
+2012
+J D
+2013
+Rango CAT Max-Min
+CAT Promedio 2/
+0
+2
+4
+6
+8
+10
+12
+D
+2009
+J D
+2010
+J D
+2011
+J D
+2012
+J D
+2013
+Infonavit
+Banca Comercial
+Fuente: Banco de México.
+1/ Las cifras se ajustan para no ser distorsionadas por el efecto del traspaso de la cartera del fideicomiso UDIS al balance de la banca comercial y por la
+reclasificación de créditos en cartera directa a ADES.
+2/ Promedio simple del indicador que resume el costo anual total del crédito (CAT) para un producto hipotecario estándar.
+3/ El índice de morosidad (IMOR) se define como la cartera vencida entre la cartera total.
+Así, para el año en su conjunto, el análisis de las fuentes y los usos de recursos
+financieros durante 2013 sugiere un menor dinamismo respecto de lo observado
+el año previo, reflejando la moderación en el ritmo de expansión de la actividad
+económica.13 Hacia adelante, si bien la expansión de la economía podría generar
+un crecimiento de las fuentes internas de financiamiento, los mayores
+requerimientos de financiamiento del sector público podrían presionar la
+disponibilidad de recursos para el sector privado, de no mantenerse la atracción
+de recursos del exterior. En este mismo sentido, la mayor profundización
+financiera que podría resultar de una apropiada instrumentación de la reforma
+financiera podría a su vez tener un impacto favorable en la disponibilidad de
+recursos internos.
+13 La información de flujos anuales de fuentes y usos de recursos financieros se estima con datos
+oportunos al cuarto trimestre de 2013.
+Banco de México
+38 Informe Trimestral Octubre – Diciembre 2013
+Con relación a lo anterior, en el Cuadro 2 se presenta la evolución de las fuentes y usos de recursos en 2013, así como una estimación de éstos con base en un ejercicio de programación financiera para 2014 y 2015. Dicho ejercicio permite analizar las posibles presiones de financiamiento a los distintos sectores de la economía, tomando en cuenta las previsiones macroeconómicas y del entorno internacional descritas en este Informe. En particular, para el cierre de 2013 se presenta una actualización de las cifras presentadas en el Informe sobre la Inflación Julio-Septiembre de 2013. Los resultados muestran un escenario más favorable al cierre de 2013 para las fuentes de recursos financieros que el previsto anteriormente. Ello refleja tanto mayores fuentes internas, como un incremento hacia el cierre del año de las fuentes provenientes del exterior, derivado principalmente de la mayor colocación de deuda en los mercados internacionales por parte del sector privado. No obstante esta revisión al alza, las fuentes totales para 2013 resultaron menores a las observadas en los años previos.
+Para 2014, se estima una reducción en el flujo anual de las fuentes de recursos financieros de la economía, particularmente de las fuentes externas, así como un incremento en los recursos destinados al financiamiento del sector público de 3.4 a 4.4 puntos del PIB de acuerdo al Paquete Económico 2014 y a la previsión que se tiene para el financiamiento a estados y municipios. Lo anterior implicaría una reducción en el flujo de financiamiento al sector privado, el cual se situaría en 2.3 por ciento del PIB, inferior al flujo de 3.5 por ciento registrado en 2013.
+Para 2015, el pronóstico considera, por el lado de las fuentes internas de recursos, una situación similar a la de 2014. En contraste, en lo que respecta a las fuentes externas se estima que éstas sean menores que en 2014 como resultado del proceso de normalización de la política monetaria en las principales economías avanzadas, principalmente en Estados Unidos. Por el lado de la utilización de recursos, los requerimientos de financiamiento del sector público continuarían siendo elevados aunque menores que en 2014 (3.9 por ciento del producto), por lo que los recursos al sector privado ascenderían a 2.6 puntos del producto.
+En este contexto, en la medida en que continúe dinamizándose la expansión de las fuentes de recursos financieros a la economía, la probabilidad de que los mayores requerimientos de financiamiento que demandará el sector público en los siguientes años generen presiones en el mercado de fondos prestables que afecten el financiamiento al sector privado será menor. Así, debido a que la utilización de recursos por parte del sector público será elevada, es fundamental que se cumpla la trayectoria de déficits públicos propuesta por el Gobierno Federal, que considera disminuciones en éstos a partir de 2015 hasta alcanzar un déficit público sin inversión de Pemex de cero en 2017, ya que ello, además de garantizar la sostenibilidad de la deuda pública, permitiría una canalización proporcionalmente mayor de recursos al sector privado. Adicionalmente, dados los mayores requerimientos financieros del sector público durante los próximos años, también será de gran importancia continuar atrayendo recursos del exterior.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 39
+Cuadro 2
+Fuentes y Usos de Recursos Financieros de la Economía
+Porcentaje del PIB
+2008 2009 2010 2011 2012 2013 p/ 2014 e/ 2015 e/
+Total de Recursos 5.9 4.0 9.3 10.0 10.0 8.3 8.0 7.6
+Fuentes Internas 5.5 3.4 4.1 5.7 4.4 4.8 4.9 5.2
+M4 Voluntario 4.2 1.7 2.6 4.2 3.0 4.1 3.6 3.9
+M4 Obligatorio 1/ 1.3 1.7 1.5 1.5 1.4 0.7 1.3 1.3
+Fuentes Externas 0.5 0.6 5.2 4.3 5.6 3.5 3.1 2.4
+M4 no Residentes 0.5 0.5 2.9 3.0 4.5 1.3 1.7 1.1
+Valores y Crédito del Exterior 2/ 0.0 0.2 2.3 1.3 1.1 2.2 1.5 1.3
+Total de Usos 5.9 4.0 9.3 10.0 10.0 8.3 8.0 7.6
+Reserva Internacional 3/ 0.7 0.5 2.2 2.4 1.8 1.0 1.4 1.2
+Financiamiento al Sector Público 1.8 3.4 3.8 2.9 3.7 3.4 4.4 3.9
+Requerimientos Financieros del Sector Público 4/ 1.6 2.6 3.4 2.7 3.2 3.0 4.1 3.6
+Estados y Municipios 0.2 0.8 0.4 0.3 0.5 0.4 0.3 0.3
+Financiamiento al Sector Privado 2.0 0.0 2.5 3.5 3.1 3.5 2.3 2.6
+Externo 0.0 -0.4 0.5 0.7 0.8 1.3 0.7 0.7
+Interno 5/ 2.0 0.4 2.0 2.8 2.4 2.2 1.6 1.9
+Otros conceptos 6/ 1.4 0.2 0.8 1.1 1.4 0.3 -0.1 -0.1
+Flujos Anuales
+Fuente: Banco de México.
+Nota: La suma de las partes puede no coincidir con el total debido al redondeo. Cifras expresadas en por ciento del PIB nominal promedio anual. En la
+información de flujos (revalorizados) se elimina el efecto de las variaciones del tipo de cambio.
+p/ Cifras preliminares. Se expresan en por ciento del PIB nominal promedio anual estimado por el Banco de México.
+e/ Cifras estimadas. Se expresan en por ciento del PIB nominal promedio anual estimado por el Banco de México.
+1/ Los flujos revalorizados anuales excluyen el efecto de la reforma a la Ley del ISSSTE.
+2/ Incluye el endeudamiento externo del Gobierno Federal, de organismos y empresas públicas y PIDIREGAS externos, los pasivos externos de la banca
+comercial y el financiamiento al sector privado no financiero.
+3/ Según se define en la Ley del Banco de México.
+4/ De 2008 a 2013, los Requerimientos Financieros del Sector Público (RFSP) corresponden a los datos reportados por la SHCP. Para 2014 y 2015, los RFSP
+como porcentaje del PIB se obtienen del Paquete Económico 2014. Las cifras de los flujos revalorizados excluyen el impacto de la reforma a la Ley del
+ISSSTE sobre los RFSP.
+5/ Cartera total de los intermediarios financieros, del Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit) y del Fondo de la Vivienda del
+ISSSTE (Fovissste). Incluye programas de reestructura.
+6/ Incluye cuentas de capital y resultados y otros activos y pasivos de la banca comercial y de desarrollo, del Banco de México, de los intermediarios financieros
+no bancarios y del INFONAVIT, así como pasivos no monetarios del IPAB, entre otros conceptos.
+Banco de México
+40 Informe Trimestral Octubre – Diciembre 2013
+4. Política Monetaria y Determinantes de la Inflación
+Como resultado de haber adoptado políticas congruentes con un entorno
+macroeconómico estable, en 2013 quedó de manifiesto que el Banco de México
+cuenta con un mayor margen de maniobra para conducir la política monetaria.
+Así, reconociendo los avances en el combate a la inflación en los últimos años
+mencionados en Informes previos, la Junta de Gobierno del Banco de México
+decidió reducir el objetivo para la Tasa de Interés Interbancaria a un día en 50
+puntos base en marzo de 2013. Los mercados financieros reaccionaron de
+manera favorable ante este ajuste e incluso a lo largo de la curva de rendimientos
+las tasas de interés presentaron disminuciones similares. Esto fue posible gracias
+al anclaje de las expectativas de inflación de mediano y largo plazo.
+Posteriormente, considerando el debilitamiento de la actividad económica en el
+primer semestre del año, el Banco Central implementó ajustes a la baja de 25
+puntos base en la tasa de referencia en septiembre y octubre sin que ello pusiera
+en riesgo el control de la inflación. Es importante subrayar que dichos ajustes en
+la postura de política monetaria obedecieron, primordialmente, a factores internos
+y que pudieron implementarse a pesar de la incertidumbre que prevalecía en los
+mercados financieros internacionales. Finalmente, la Junta de Gobierno decidió
+mantener el objetivo para la Tasa de Interés Interbancaria a un día sin cambio en
+3.50 por ciento en diciembre y enero pasados (Gráfica 34).
+Gráfica 34
+Tasa de Interés Interbancaria a 1 Día 1/
+Por ciento anual
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+E M S E M S E M S E M S E M S E M S E M S E M S E M S E M S E M S E
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+1/ A partir del 21 de enero de 2008 se muestra el objetivo para la Tasa de Interés Interbancaria a 1 día.
+Fuente: Banco de México.
+Entre los elementos que se tomaron en consideración para la conducción de la
+política monetaria durante el periodo que cubre este Informe destacan:
+a) Que, a pesar del incipiente repunte que comenzó a registrar la actividad
+económica, prevalece un considerable grado de holgura en el mercado
+laboral y en la economía en su conjunto.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 41
+b) Que, si bien la inflación general presentó un incremento en noviembre y diciembre como resultado de aumentos no previstos en el precio de un número reducido de bienes y servicios, la inflación subyacente permaneció en niveles cercanos a sus mínimos históricos, por debajo de 3 por ciento.
+c) Que el incremento observado en la inflación en enero de 2014, como resultado de las medidas fiscales que entraron en vigor este año, ha estado en línea con lo anticipado por el Banco de México.
+d) Que, aun cuando las expectativas de inflación correspondientes al cierre de 2014 registraron un aumento debido al efecto previsto de las medidas impositivas, las correspondientes para horizontes de mediano y largo plazo permanecieron estables como reflejo de que no se anticipan efectos de segundo orden.
+e) Que el ajuste en los mercados financieros nacionales ante un entorno global de elevada volatilidad se dio de manera ordenada gracias a la fortaleza del marco macroeconómico en México.
+Por lo que se refiere a los determinantes de la inflación, la información disponible sobre la evolución de diversos indicadores relacionados con el uso de los recursos productivos sugiere que en el trimestre que se reporta no se registraron presiones sobre los precios en los principales mercados de insumos, ni sobre las cuentas externas. En particular:
+a) No obstante la moderada recuperación de la actividad económica en la segunda mitad de 2013, dada la contracción en la primera mitad del año, la brecha del producto continuó situándose en terreno negativo (Gráfica 35).14
+b) Como se mencionó previamente, prevalecen condiciones de holgura en el mercado laboral, si bien éstas tendieron a disminuir respecto a trimestres anteriores.
+c) Las variaciones moderadas que se observaron en los principales indicadores salariales de la economía, en adición a la tendencia que ha exhibido la productividad media del trabajo, condujo a que los costos unitarios continuaran bajando (Gráfica 36).
+d) La evolución reciente de diversos indicadores en los mercados de deuda y crédito al sector privado no financiero continúan apuntando a la ausencia de indicios de presiones en dichos mercados.
+14 Considerando que la estimación de este indicador está sujeta a cierto grado de incertidumbre, su interpretación debe ser cautelosa puesto que desde un punto de vista estadístico no presenta niveles significativamente diferentes de cero.
+Banco de México
+42 Informe Trimestral Octubre – Diciembre 2013
+Gráfica 35
+Estimación de la Brecha del Producto 1/
+Porcentaje del producto potencial, a. e.
+-12.0
+-10.0
+-8.0
+-6.0
+-4.0
+-2.0
+0.0
+2.0
+4.0
+6.0
+8.0
+E
+2004
+A J O E
+2005
+A J O E
+2006
+A J O E
+2007
+A J O E
+2008
+A J O E
+2009
+A J O E
+2010
+A J O E
+2011
+A J O E
+2012
+A J O E
+2013
+A JON
+Producto Interno Bruto
+IGAE
+Intervalo al 95%de Conf ianza
+2/
+2/
+3/
+1/ Estimadas con el filtro de Hodrick-Prescott con corrección de colas; véase Informe Trimestral Abril-Junio 2009,
+Banco de México, pág. 74.
+2/ Cifras del PIB al tercer trimestre de 2013, cifras del IGAE a noviembre de 2013.
+3/ Intervalo de confianza de la brecha del producto calculado con un método de componentes no observados.
+a. e. / Elaborada con cifras ajustadas por estacionalidad.
+Fuente: Elaborado por Banco de México con información del INEGI.
+Gráfica 36
+Productividad 1/ y Costo Unitario de la Mano de Obra
+a) En la Economía
+Índice 2008=100, a. e.
+b) En el Sector Manufacturero
+Índice 2008=100, a. e.
+85
+87
+89
+91
+93
+95
+97
+99
+101
+103
+105
+I
+2007
+III I
+2008
+III I
+2009
+III I
+2010
+III I
+2011
+III I
+2012
+III I
+2013
+III
+Costo Unitario
+Productividad
+87
+92
+97
+102
+107
+112
+E
+2007
+A J O E
+2008
+A J O E
+2009
+A J O E
+2010
+A J O E
+2011
+A J O E
+2012
+A J O E
+2013
+A J ON
+Costo Unitario
+Productividad
+a. e. / Cifras con ajuste estacional. Tendencias estimadas por
+Banco de México.
+1/ Productividad con base en las horas trabajadas.
+Fuente: Costo Unitario elaborado por el Banco de México con
+cifras del INEGI. Índice Global de la Productividad
+Laboral en la Economía (IGPLE) publicado por INEGI.
+a. e. / Cifras con ajuste estacional y de tendencia.
+1/ Productividad con base en las horas trabajadas.
+Fuente: Elaboración de Banco de México a partir de
+información desestacionalizada de la Encuesta
+Mensual de la Industria Manufacturera y del Indicador
+Mensual de la Actividad Industrial del Sistema de
+Cuentas Nacionales de México, INEGI.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 43
+De acuerdo con la encuesta que levanta el Banco de México entre especialistas
+del sector privado, la mediana de las expectativas de inflación de corto plazo,
+para el cierre de 2014, presentó incrementos con respecto a su nivel de
+septiembre como reflejo de ajustes en el impacto previsto de las medidas fiscales
+que entraron en vigor este año. En particular, la mediana de las expectativas de
+inflación general para el cierre de 2014 aumentó de 3.77 a 4.10 por ciento de la
+encuesta de septiembre de 2013 a enero de 2014. Por su parte, la
+correspondiente a la inflación subyacente para el cierre del mismo año aumentó
+de 3.30 a 3.55 por ciento de septiembre a enero, en tanto que la expectativa de la
+inflación no subyacente implícita en las medianas mencionadas pasó de 5.38 a
+6.0 por ciento durante el mismo periodo.15 En contraste, las expectativas
+correspondientes a mayores plazos se han mantenido estables alrededor de 3.5
+por ciento (Gráfica 37).16
+Gráfica 37
+Expectativas de Inflación
+a) Medianas de Expectativas de Inflación
+General, Subyacente y No Subyacente al
+Cierre de 2014
+Por ciento
+b) Medianas de Expectativas de Inflación
+General a Distintos Plazos 1/
+Por ciento
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+E M M J S N E M M J S N E
+General
+Subyacente
+No Subyacente
+2012 2013 2014
+6.00
+4.10
+3.55
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+E MMJ S N E MMJ S N E MMJ S N E MMJ S N E
+Siguientes 12 Meses
+Cierre 2015
+Siguientes 4 Años
+Siguientes 5 - 8 Años
+Intervalo de Variabilidad
+2010 2011 2012 2013 2014
+Fuente: Encuesta de Banco de México. 1/ Último dato disponible: enero 2014.
+Fuente: Encuesta de Banco de México.
+Por su parte, las expectativas de inflación que provienen de instrumentos de
+mercado también muestran un comportamiento estable. Al respecto, conviene
+destacar la evolución de la compensación por inflación y riesgo inflacionario
+15 De acuerdo con la Encuesta de Expectativas de Analistas de Mercados Financieros de Banamex, la
+mediana de las expectativas de inflación general para el cierre de 2014 aumentó de 3.75 a 3.94 por
+ciento entre las encuestas del 20 de septiembre de 2013 y el 5 de febrero del 2014. Esto fue resultado
+de un aumento en las medianas de las expectativas de inflación subyacente para el mismo horizonte de
+3.20 a 3.51 por ciento, mientras que la expectativa de inflación no subyacente implícita en las medianas
+anteriores disminuyó de 5.64 a 5.42 por ciento.
+16 Cabe señalar que esta cifra coincide con los resultados de la encuesta que levanta Banamex entre
+analistas de mercados financieros, cuya mediana de las expectativas de inflación de largo plazo fue 3.50
+por ciento tanto de la encuesta del 7 de enero como la del 5 de febrero. A partir de este año, la encuesta
+incluye la inflación promedio anual esperada con un horizonte de largo plazo (periodo 2016-2020).
+Banco de México
+44 Informe Trimestral Octubre – Diciembre 2013
+(diferencia entre las tasas de interés nominales y reales de largo plazo), la cual ha venido disminuyendo en los últimos años de un promedio de 4.3 por ciento en 2005 a aproximadamente 3.8 por ciento durante el último mes. Es importante señalar que el que dicha compensación se haya reducido refleja por parte de los tenedores de estos instrumentos una cobertura demandada por inflación futura menor y con un menor riesgo asociado. Estudios recientes sugieren que los componentes de dicha compensación, tanto la expectativa de inflación para un horizonte de largo plazo, como la prima por riesgo inflacionario, han mostrado una tendencia a la baja en los últimos años. En particular, las expectativas referidas han disminuido de un nivel cercano a 3.6 por ciento en 2005 a aproximadamente 3.2 por ciento en 2013, alcanzando niveles mínimos históricos. Por su parte, la prima por riesgo inflacionario, si bien ha presentado una elevada volatilidad, también se ha reducido en los últimos años de niveles de alrededor de 75 puntos base en 2005 a 40 puntos base en 2013. Cabe señalar que un ambiente de mayor certidumbre respecto de la inflación se refleja en una menor dispersión de las expectativas de inflación, que a su vez se encuentra asociada a una menor prima por riesgo inflacionario. Así, en la medida en que los agentes puedan pronosticar de manera más precisa la inflación futura, el riesgo de que ésta sea diferente a la inflación esperada disminuye, y por ende la compensación asociada a dicho riesgo que demandaría el tenedor de un instrumento financiero denominado en términos nominales. Todos estos resultados apuntan a un mejor anclaje de las expectativas de inflación y a una mayor credibilidad por parte de los agentes económicos en el objetivo de inflación del Instituto Central (ver Recuadro 1).
+En suma, la evolución de las expectativas de inflación para horizontes de mediano y largo plazo permite mantener la previsión en el sentido de que el reciente aumento en la inflación será transitorio y no afectará el proceso de formación de precios en la economía. En efecto, la reducción en el ritmo de crecimiento del INPC que se registró de la primera quincena de enero a la segunda quincena del mismo mes, de 4.63 por ciento a 4.34 por ciento, es congruente con esta previsión.
+A raíz de la crisis financiera en 2008-2009, los mercados financieros han presentado una elevada volatilidad. Durante 2013 la incertidumbre en estos mercados se incrementó en el segundo trimestre del año ante el anuncio por parte de la Reserva Federal de que podría comenzar a reducir el ritmo de sus compras de activos. Esto dio inicio a un proceso de descompresión de algunas primas de riesgo en los mercados financieros internacionales, con su correspondiente efecto en las tasas de interés de mayor plazo, que dio lugar a movimientos abruptos en los flujos de capital. El régimen de tipo de cambio flexible en México ha servido como un amortiguador que ha permitido atenuar parte de los efectos de estos choques externos adversos. Varios elementos han fortalecido el papel del tipo de cambio como amortiguador de estos choques. Primero, la reducción en el traspaso de las fluctuaciones del tipo de cambio a los precios internos que se ha observado en los últimos años. Segundo, la existencia de un mercado de derivados bien desarrollado en México que les permite a los agentes económicos cubrir sus riesgos cambiarios. Por tanto, debido a sus propiedades estabilizadoras, el régimen de tipo de cambio flexible es un elemento importante para la gestión de la política monetaria en México.
+Así, si bien a partir de mayo de 2013 se comenzó a observar una reducción en las entradas de capital a las economías emergentes, incluyendo México, los
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 45
+ajustes en los mercados financieros nacionales, en particular el cambiario y el de
+renta fija, han sido ordenados. Cabe señalar que ambos mercados han
+mantenido un funcionamiento adecuado y con elevados niveles de liquidez. En el
+caso del mercado cambiario, durante 2013 la moneda nacional registró una
+depreciación de 0.9 por ciento respecto al dólar, si bien con una elevada
+volatilidad, misma que continuó observándose en fechas recientes (Gráfica 38).
+Sin embargo, como reflejo de la fortaleza de la economía mexicana, el peso
+registró en 2013 una apreciación de 8.2 por ciento en promedio frente a otras
+monedas de países emergentes (ver Sección 3.1.4).17 Recientemente, ante la
+renovada volatilidad mencionada en los mercados financieros internacionales, se
+ha registrado una depreciación de aproximadamente 1.75 por ciento en la
+moneda nacional respecto al dólar. Esta evolución de la moneda nacional
+contrasta con la de otras economías emergentes con fundamentos
+macroeconómicos menos sólidos, cuyas monedas han registrado depreciaciones
+importantes ante la incertidumbre que prevalece en los mercados financieros
+internacionales.
+Gráfica 38
+Tipo de Cambio Nominal y Expectativas del Tipo de Cambio al Cierre de 2014 y 2015 1/
+Pesos por dólar
+11.0
+11.5
+12.0
+12.5
+13.0
+13.5
+14.0
+14.5
+E F MA M J J A S O N D E F MA M J J A S O N D E F MA M J J A S O N D E F
+Observado
+Cierre 2014
+Cierre 2015
+2011 2012 2013 2014
+12.84
+13.31
+12.77
+1/ El tipo de cambio observado es el dato diario del tipo de cambio FIX. El último dato del tipo de cambio observado
+corresponde al 10 de febrero de 2014. Para el caso de las expectativas, el último dato corresponde a la encuesta
+de enero de 2014.
+Fuente: Banco de México y Encuesta de Banco de México.
+Derivado del proceso de descompresión de primas de riesgo en los mercados
+internacionales, las tasas de interés de largo plazo en México, al igual que en la
+mayoría de las economías emergentes, registraron un incremento durante 2013.
+En particular, la tasa de interés de bonos gubernamentales a 10 años aumentó de
+un nivel promedio de alrededor de 5.9 por ciento a finales de septiembre a 6.5 por
+ciento a principios de febrero de 2014, como reflejo del incremento en la prima
+por plazo en Estados Unidos. Por su parte, la tasa de interés de valores
+gubernamentales a 3 meses disminuyó ligeramente de 3.5 a 3.4 por ciento
+durante el mismo periodo (Gráfica 39).
+17 Monedas de Brasil, Chile, Colombia, India, Perú, República Checa, Rusia, Tailandia y Turquía.
+Banco de México
+46 Informe Trimestral Octubre – Diciembre 2013
+Banco de México
+Recuadro 1
+Descomposición de la Compensación por Inflación y Riesgo Inflacionario
+1. Introducción
+La dinámica de la inflación y de sus expectativas ha
+presentado cambios importantes en la última década.
+Varios de los avances estructurales alcanzados en el
+combate a la inflación han sido documentados por el
+Banco de México en diversos estudios y recuadros de
+Informes Trimestrales.1 Como complemento a dicho
+análisis, en este Recuadro se estudia la evolución de
+la compensación por inflación y riesgo inflacionario
+(break even inflation, por su nombre en inglés)
+implícita en instrumentos financieros que, como se ha
+mencionado en Informes previos, ha disminuido en los
+últimos años. En particular, se analiza la dinámica de
+los componentes de dicha compensación, es decir, la
+expectativa de inflación para un horizonte de largo
+plazo y la prima por riesgo inflacionario, y se muestra
+que éstos se han reducido de manera importante en el
+lapso 2005-2013.2
+Existen dos fuentes principales de las cuales es
+posible extraer información con respecto a las
+expectativas de inflación de los agentes económicos.
+La primera corresponde a la información obtenida
+directamente de los agentes mediante encuestas. Así,
+el Banco de México levanta y da seguimiento a
+encuestas que recaban las expectativas de inflación y
+otras variables económicas desde hace más de 13
+años.3 La segunda se deriva de la información
+implícita en los precios de algunos instrumentos
+financieros, en particular de ciertos bonos
+gubernamentales. Al respecto, cabe mencionar que,
+dado el grado de desarrollo de los mercados
+financieros en México, la información que se logra
+extraer de estos instrumentos es confiable, y por ende
+relevante.
+Específicamente, un indicador que contiene
+información acerca de las perspectivas inflacionarias
+de largo plazo proveniente de la segunda fuente es la
+compensación por inflación y riesgo inflacionario que
+los inversionistas demandan por mantener
+instrumentos de deuda gubernamental de mediano y
+largo plazo denominados en pesos. Esta
+compensación se calcula a partir de la diferencia entre
+los rendimientos derivados de los bonos nominales y
+1 Para más detalles sobre los avances estructurales alcanzados en el
+combate a la inflación se pueden consultar: Ramos-Francia y Torres
+(2005); Chiquiar et. al. (2007); García-Verdú (2012); Cortés (2013);
+Aguilar et. al. (2013).
+2 Para más detalles respecto a este análisis ver Aguilar et. al. (2014) por
+aparecer como Documento de Investigación de Banco de México.
+3 Entre éstas se encuentra la “Encuesta sobre las Expectativas de los
+Especialistas en la Economía del Sector Privado”, realizada por el
+Banco de México.
+de los bonos indexados a la inflación.
+El que la compensación antes referida haya venido
+disminuyendo en los últimos años indica que los
+tenedores de bonos nominales demandan una menor
+cobertura para protegerse por inflación futura
+(expectativa de inflación) y por la incertidumbre
+asociada a ésta (prima por riesgo inflacionario). Si
+bien la evolución de la compensación proporciona
+información sobre la percepción de los mercados con
+respecto a las expectativas de inflación, para un
+seguimiento más preciso de éstas es indispensable
+analizar por separado la parte que corresponde a la
+prima por riesgo inflacionario, por un lado, y a las
+referidas expectativas, por el otro.
+2. Compensación por Inflación y Riesgo
+Inflacionario
+Una de las ventajas asociadas a separar esta
+compensación en sus dos componentes utilizando
+información proveniente de instrumentos financieros
+en lugar de encuestas es que este enfoque permite
+obtener un indicador de expectativas de inflación que
+toma en cuenta la percepción de un grupo más amplio
+de personas, considera horizontes de más largo plazo
+y refleja las posiciones de portafolio de los agentes
+económicos en su conjunto.4 Así, puede considerarse
+que este indicador refleja de manera más precisa las
+expectativas de inflación de los participantes en los
+mercados financieros. Ello, en contraste con el
+indicador derivado de encuestas que usualmente
+provienen de un grupo específico de agentes y no
+necesariamente están respaldadas por posiciones
+financieras.
+En este contexto, considerando la ecuación de Fisher
+que relaciona las tasas de interés nominales y las
+tasas de interés reales con la inflación esperada, la
+compensación por inflación y riesgo inflacionario para
+cualquier plazo n, en el periodo t, está dada a partir de
+la siguiente relación:
+𝐶𝑜𝑚𝑝𝑡
+𝑛 = 𝑖𝑡
+𝑛𝑜𝑚 ,𝑛 − 𝑖𝑡
+𝑟𝑒𝑎𝑙 ,𝑛
+= 𝐸𝑡 𝜋𝑡+1,𝑡+𝑛 + 𝜑𝑡
+𝑛 + 𝜀𝑡 (1)
+donde 𝐶𝑜𝑚𝑝𝑡
+𝑛 es la compensación por inflación y
+riesgo inflacionario en el plazo n; 𝑖𝑡
+𝑛𝑜𝑚 ,𝑛 e 𝑖𝑡
+𝑟𝑒𝑎𝑙 ,𝑛
+corresponden al rendimiento de un bono nominal y al
+rendimiento de un instrumento de deuda indexado por
+inflación, respectivamente, ambos con vencimiento en
+4 La expectativa de inflación de mayor plazo que proporcionan las
+encuestas con las que actualmente se cuenta es la correspondiente a
+los siguientes 5-8 años.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 47
+n periodos; 𝐸𝑡 𝜋𝑡+1,𝑡+𝑛 es la expectativa promedio de
+inflación entre t+1 y t+n; 𝜑𝑡
+𝑛 es la prima por riesgo
+inflacionario en n y, 𝜀𝑡 es un ajuste por convexidad
+que, de acuerdo con la literatura, se supone igual a
+cero.5
+Con base en lo anterior, la compensación por inflación
+y riesgo inflacionario de largo plazo se obtiene de
+sustraer del rendimiento de los bonos nominales a
+diez años el rendimiento real asociado a los bonos
+indexados por inflación (Udibonos) de igual plazo. La
+Gráfica 1 presenta la dinámica que dichas tasas han
+tenido de 2005 a 2013. Por su parte, la Gráfica 2
+muestra la evolución de la compensación durante el
+mismo periodo. En ellas se puede observar que no
+sólo los rendimientos de los bonos nominales y reales
+de largo plazo han mostrado una tendencia a la baja
+en los últimos años, sino que también la diferencia
+entre éstos (es decir, la compensación por inflación y
+riesgo inflacionario) ha venido reduciéndose,
+reflejando una cobertura demandada por inflación
+futura menor y con un menor riesgo asociado, como
+ya se mencionó. Es importante destacar que, a pesar
+del reciente proceso de descompresión de algunas
+primas de riesgo que ha incrementado las tasas de
+interés de largo plazo en los mercados financieros
+internacionales, incluyendo el mexicano, la
+compensación antes referida no ha presentado
+cambios importantes.6
+Gráfica 1
+Rendimiento de Bonos Nominales y Reales
+Por ciento
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+11.0
+12.0
+E A J O D M J S D M J S D F M A N F M A N F M J O E A J O E A J S D
+Rendimiento Bono Nominal a 10 Años
+Rendimiento Bono Real a 10 Años
+2005 2006 2007 2008 2009 2010 2011 2012 2013
+Fuente: Proveedor Integral de Precios (PiP) y Valmer.
+La descomposición de la compensación por inflación y
+riesgo inflacionario se calcula en dos etapas. Primero,
+se estima la expectativa de inflación promedio para el
+5 La convexidad de un bono mide la sensibilidad de cambio en su precio.
+Suponer un ajuste por convexidad igual a cero implica considerar que
+tanto los bonos nominales como los indexados a la inflación al
+vencimiento n tienen la misma convexidad.
+6 Para un análisis del proceso de descompresión de las primas por riesgo
+ver el Recuadro “Proceso de Descompresión de Primas de Riesgo y su
+Efecto sobre las Tasas de Interés de Mayor Plazo en Estados Unidos y
+en el Resto del Mundo” en el Informe Trimestral Abril - Junio 2013.
+horizonte de los próximos diez años, 𝐸𝑡 𝜋𝑡+1,𝑡+10𝑎ñ𝑜𝑠 .
+Una vez teniendo un pronóstico de largo plazo de la
+inflación, en una segunda etapa se calcula la prima
+por riesgo inflacionario como la diferencia entre la
+compensación por inflación y riesgo inflacionario
+extraída de los bonos nominales e indexados a la
+inflación y dicha expectativa:
+𝜑𝑡
+10𝑎ñ𝑜𝑠 = 𝐶𝑜𝑚𝑝𝑡
+10𝑎ñ𝑜𝑠 − 𝐸𝑡 𝜋𝑡+1,𝑡+10𝑎ñ𝑜𝑠 (2)
+Gráfica 2
+Compensación por Inflación y Riesgo Inflacionario
+Por ciento
+3.0
+3.2
+3.4
+3.6
+3.8
+4.0
+4.2
+4.4
+4.6
+4.8
+5.0
+E A J OD M J S D M J S D F MA N F MA N F M J O E A J O E A J S D M J S D
+Compensación Implícita en Bonos a 10 Años
+Media Móvil 20 Días
+Línea de Tendencia
+2005 2006 2007 2008 2009 2010 2011 2012 2013
+Fuente: Estimación Banco de México con datos de PiP y Valmer.
+2.1 Etapa 1: Estimación de la Expectativa de Inflación
+de Largo Plazo
+La estimación de esta expectativa se realiza mediante
+un modelo afín de la estructura temporal de las tasas
+de interés (ETTI), lo cual es estándar en la literatura
+financiera.7 Específicamente, el modelo afín estimado
+en este análisis es representado por el siguiente
+sistema de ecuaciones:
+𝑋𝑡 = 𝜇 + 𝜙𝑋𝑡−1 + 𝑡
+𝑖𝑡 = 𝐴 + 𝐵𝑋𝑡 + 𝜀𝑡
+La primera expresión corresponde a la ecuación de
+transición que describe la dinámica de un vector de
+variables de estado, Xt, que sigue un proceso
+estocástico autorregresivo de orden 1 (VAR(1)). Dicho
+vector está formado por la inflación y por dos variables
+no observables (factores latentes).8 La segunda
+expresión corresponde a la ecuación de medida que
+relaciona a Xt con el comportamiento de las tasas de
+interés 𝑖𝑡 que, en este caso, es un vector compuesto
+por los rendimientos de los instrumentos
+gubernamentales nominales e indexados a la inflación,
+7 Ver, por ejemplo, Adrian y Wu (2010); García y Werner (2010) y Melo y
+Granados (2010).
+8 Las variables no observables en la estimación pueden ser interpretadas
+como el nivel y la pendiente de la curva de rendimientos (ver Cortés et.
+al. (2008)).
+Banco de México
+48 Informe Trimestral Octubre – Diciembre 2013
+la inflación observada y la expectativa de inflación
+para los siguientes 12 meses proveniente de la
+encuesta de Banco de México. Por su parte, 𝜇 y A son
+vectores, mientras que 𝜙,  y B son matrices de
+coeficientes. Finalmente,  𝑡 = 𝑁(0, 𝐼) y 𝜀𝑡~𝑁(0, 𝐻) son
+errores no correlacionados entre sí.9
+Una vez estimado el modelo anterior, se obtiene la
+expectativa de inflación promedio para el horizonte de
+los próximos 10 años, como el pronóstico de la
+inflación que se deriva de la dinámica de la ecuación
+de transición. Específicamente, se considera el tercer
+elemento del vector, el cual corresponde a la inflación:
+𝐸𝑡|𝑚𝑜𝑑𝑒𝑙𝑜
+10𝑎ñ𝑜𝑠 𝜋𝑡+1,𝑡+10𝑎ñ𝑜𝑠
+= 𝑒3 ′
+𝐼 − 𝜙10 𝐼 − 𝜙 −1𝜇 + 𝑒3 ′
+𝜙10𝑋𝑡 (3)
+donde 𝑒3 ′
+= 0,0,1 .
+La Gráfica 3 muestra la trayectoria de dicha
+expectativa. 10 En particular, se observa que ésta se ha
+reducido de un nivel promedio de 3.6 por ciento en
+2005 a uno de 3.2 por ciento en 2013. Esta
+disminución contrasta con la evolución de las
+expectativas de inflación de largo plazo recabadas por
+encuestas, las cuales se han mantenido estables en
+los últimos años alrededor de 3.5 por ciento.
+Adicionalmente, cabe destacar que, a pesar de que en
+los últimos meses los rendimientos de los bonos
+nominales y reales han aumentado a raíz de la
+descompresión de algunas primas de riesgo en los
+mercados financieros internacionales (Gráfica 1), la
+compensación por inflación y riesgo inflacionario así
+como las expectativas promedio de inflación de largo
+plazo se han mantenido estables.
+Gráfica 3
+Expectativa de Inflación de Largo Plazo
+Por ciento
+2.8
+3.0
+3.2
+3.4
+3.6
+3.8
+E M J S D M J S D MM A N F M A N F M J O E A J O E A J O D M J S D M J S D
+2005 2006 2007 2008 2009 2010 2011 2012 2013
+Fuente: Estimación Banco de México.
+9 Los datos usados en la estimación están en frecuencia mensual. Para
+más detalles sobre el modelo y su estimación ver Aguilar et. al. (2014).
+10 Es importante destacar que, como en el caso de cualquier ejercicio
+econométrico, los resultados derivados de esta estimación se
+encuentran sujetos a cierto grado de incertidumbre, por lo que deben
+interpretarse con cautela.
+2.2 Etapa 2: Estimación de la Prima por Riesgo
+Inflacionario
+Una vez obtenido el pronóstico de la inflación de largo
+plazo, es posible estimar la prima por riesgo
+inflacionario a partir de la ecuación (2). En la Gráfica 4
+se observa que dicha prima, si bien ha presentado una
+elevada volatilidad, ha venido disminuyendo en los
+últimos años. En particular, ésta ha mostrado una
+tendencia a la baja en los últimos años, disminuyendo
+de niveles de alrededor de 75 puntos base en 2005 a
+40 puntos base en 2013.
+Gráfica 4
+Prima por Riesgo Inflacionario
+Por ciento
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+E M J S D M J S D MM A N F M A N F M J O E A J O E A J O D M J S D M J S D
+2005 2006 2007 2008 2009 2010 2011 2012 2013
+Fuente: Estimación Banco de México.
+Por su parte, la Gráfica 5 resume el análisis antes
+descrito al presentar tanto la compensación por
+inflación y riesgo inflacionario como sus dos
+componentes.
+Gráfica 5
+Descomposición de la Compensación por Inflación
+y Riesgo Inflacionario
+Por ciento
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+E M J S D M J S D MM A N F M A N F M J O E A J O E A J O D M J S D M J S D
+Prima por Riesgo Inflacionario
+Expectativa de Inflación de Largo Plazo
+Compensación Implícita en Bonos a 10 Años
+2005 2006 2007 2008 2009 2010 2011 2012 2013
+Fuente: Estimación Banco de México.
+En general, una menor dispersión en las expectativas
+de inflación se encuentra asociada a una menor prima
+por riesgo inflacionario. Lo anterior debido a que una
+menor dispersión en las expectativas de inflación
+refleja un ambiente de mayor certidumbre. Así, en la
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 49
+medida en que los agentes puedan pronosticar de
+manera más precisa la inflación futura, el riesgo de
+que ésta sea diferente a la inflación esperada
+disminuye, y por ende la compensación asociada a
+dicho riesgo que demandaría el tenedor de un
+instrumento financiero denominado en términos
+nominales. Por lo tanto, es de esperarse que ambas
+variables se relacionen positivamente. En México,
+como ya se ha documentado, la dispersión de las
+expectativas de inflación ha venido disminuyendo en
+los últimos años.11 Ante ello resulta relevante estudiar
+la relación entre la dispersión de las expectativas de
+inflación y la prima por riesgo inflacionario aquí
+estimada. En particular, se analiza la relación entre la
+prima por riesgo inflacionario a 10 años y la dispersión
+de las expectativas de inflación para los siguientes 4
+años provenientes de la encuesta del Banco de
+México mediante la estimación de una regresión
+lineal.12 Como se observa en la Gráfica 6, se
+encuentra que dicha relación es, efectivamente,
+positiva.
+Gráfica 6
+Relación entre la Prima por Riesgo Inflacionario a 10 Años y
+la Dispersión de la Expectativa de Inflación a 4 Años
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+1.8
+0.00 0.10 0.20 0.30 0.40 0.50 0.60 0.70 0.80
+Prima por Riesgo Inflacionario
+Dispersión de las Expectativas de Inflación a 4 Años
+Prima= 0.86*(Dispersión Exp. Inf. a 4 años)+ 0.32
+Fuente: Estimación Banco de México.
+3. Consideraciones Finales
+Complementando el análisis realizado por Banco de
+México sobre los avances estructurales alcanzados en
+el combate a la inflación, en este Recuadro se
+presenta una estimación de la descomposición de la
+compensación por la inflación y riesgo inflacionario
+implícita en la tasa de interés de los bonos
+gubernamentales. Para ello, se estima la expectativa
+de inflación promedio para un horizonte de 10 años
+mediante un modelo afín de la ETTI. Una vez
+pronosticada esta expectativa, se sustrae de la
+referida compensación para así obtener la prima por
+11 Véase García-Verdú (2012).
+12 La dispersión es estimada como la diferencia entre el percentil 75 y el
+percentil 25 de la muestra. Se utiliza la expectativa de inflación para los
+siguientes 4 años debido a que es aquella expectativa de largo plazo
+para la que se tiene más información histórica (la correspondiente a los
+siguientes 5-8 años sólo se encuentra disponible a partir de 2008).
+riesgo inflacionario. Los resultados del análisis
+sugieren que tanto la expectativa de inflación de largo
+plazo como la prima por riesgo inflacionario se han
+reducido en el periodo 2005-2013.
+Referencias
+[1] Adrian T. y H. Wu, (2010). “The Term Structure of
+Inflation Expectations”. Federal Reserve Bank of
+New York Staff Reports No. 362.
+[2] Aguilar A., G. Cuadra, C. Ramírez y D. Sámano,
+(2013). “El Anclaje de las Expectativas de Inflación
+ante Choques de Oferta”. Por aparecer en la serie
+de Documentos de Investigación del Banco de
+México.
+[3] Aguilar A., R. Elizondo y J. Roldán-Peña, (2014).
+“Descomposición de la Compensación por
+Inflación y Prima por Riesgo Inflacionario”. Por
+aparecer en la serie de Documentos de
+Investigación del Banco de México.
+[4] Chiquiar D., A. Noriega y M. Ramos‐Francia,
+(2007). “Un Enfoque de Series de Tiempo para
+Probar un Cambio en Persistencia de la Inflación:
+la Experiencia de México”. Banco de México.
+Documento de Investigación No. 2007‐01.
+[5] Cortés J., M. Ramos-Francia y A. Torres, (2008).
+“Un Análisis Empírico de la Estructura Temporal
+de Tasas de Interés en México”. Banco de México.
+Documento de Investigación No. 2008-07.
+[6] Cortés J., (2013). “Estimación del Traspaso de las
+Variaciones en el Tipo de Cambio a los Precios en
+México”. Banco de México. Documento de
+Investigación No. 2013‐02.
+[7] García J. y T. Werner, (2010). “Inflation Risk and
+Inflation Risk Premia”. European Central Bank
+Working Paper No. 1162.
+[8] García-Verdú S., (2012). “Evolución de las
+Expectativas de Inflación en México”. Banco de
+México. Documento de Investigación No. 2012‐06.
+[9] Melo L. y V. Granados, (2010). “Expectativas y
+Prima por Riesgo Inflacionario bajo una Medida de
+Compensación a la Inflación”. Banco de la
+República Colombia, Borradores de Economía No.
+589.
+[10] Ramos‐Francia M. y A. Torres, (2005). “Reducción
+de la Inflación a Través de un Esquema de
+Objetivos de Inflación: La Experiencia Mexicana”.
+Banco de México. Documento de Investigación
+No. 2005‐01.
+Banco de México
+50 Informe Trimestral Octubre – Diciembre 2013
+Gráfica 39
+Tasas de Interés en México
+a) Tasas de Interés de Valores
+Gubernamentales 1/
+Por ciento
+b) Curva de Rendimientos
+Por ciento
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+8.5
+9.0
+9.5
+10.0
+10.5
+11.0
+11.5
+12.0
+F J O F J O F J O F J O F J O F J O F J O F
+1 día
+3 meses
+6 meses
+1 año
+10 años
+30 años
+D 09 D 10 D 11 D 12 D 13
+2007 2008 2009 2010 2011 2012 2013 2014
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+1 1 3 6 1 2 5 10 20 30
+30-jun-13
+30-sep-13
+30-dic-13
+10-feb-14
+día meses años
+1/ A partir del 21 de enero de 2008, la tasa de interés a 1 día
+corresponde al objetivo para la Tasa de Interés
+Interbancaria a 1 día.
+Fuente: Proveedor Integral de Precios (PiP).
+Fuente: Proveedor Integral de Precios (PiP).
+Como se mencionó en la Sección 3.2.2, en el último trimestre de 2013, a pesar de
+la incertidumbre en los mercados financieros internacionales y a diferencia de
+otras economías emergentes, México continuó captando recursos del exterior
+dirigidos a la adquisición de instrumentos financieros. Así, el ahorro financiero de
+no residentes continuó mostrando flujos positivos, si bien de menor magnitud que
+aquéllos observados en los primeros meses de 2013. Respecto a lo anterior,
+destaca el cambio reciente en la composición del portafolio de este tipo de
+inversionistas, quienes han incrementado su tenencia en instrumentos
+gubernamentales de corto plazo misma que se ha mantenido en niveles elevados
+en las últimas semanas (Gráfica 40).
+Como resultado de lo anterior, durante 2013 las tasas de interés de mediano y
+largo plazo en México tuvieron incrementos mayores que las correspondientes en
+Estados Unidos, por lo que los diferenciales de tasas de interés de largo plazo
+entre ambos países registraron un incremento a niveles cercanos a los
+observados a mediados de 2012 (Gráfica 41).
+Como complemento a lo antes descrito, a continuación se analiza la evolución de
+las tasas nominales de interés de largo plazo en México, a través de la evolución
+de cada uno de sus componentes: i) la tasa de interés de corto plazo (tasa de
+interés de referencia); ii) las tasas de interés de corto plazo esperadas, las cuales
+consideran las expectativas de inflación de mediano y largo plazos; y, iii) las
+primas de riesgo.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 51
+Gráfica 40
+Tenencia de Valores Gubernamentales de Residentes en el Extranjero
+Miles de millones de pesos
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1,000
+1,100
+1,200
+1,300
+E M S E M S E M S E M S E M S E M S E
+Millares
+Bonos
+CETES
+2008 2009 2010 2011 2012 2013 2014
+Fuente: Banco de México.
+Gráfica 41
+Diferenciales de Tasas de Interés entre México y Estados Unidos 1/
+Puntos porcentuales
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+F J O F J O F J O F J O F J O F J O F J O F J O F
+1 Día
+3 Meses
+6 Meses
+1 Año
+10 Años
+30 Años
+2006 2007 2008 2009 2010 2011 2012 2013 2014
+Dic 09 Dic 10 Dic 11 Dic 12 Dic 13
+1/ Para la tasa objetivo de Estados Unidos se considera el promedio del intervalo considerado por la Reserva
+Federal.
+Fuente: Proveedor Integral de Precios (PiP) y Departamento del Tesoro Norteamericano.
+Banco de México
+52 Informe Trimestral Octubre – Diciembre 2013
+En general para el caso de México, destaca que:
+a) Con respecto a la tasa de interés de corto plazo observada, como ya se mencionó, durante 2013 se redujo la tasa de interés de referencia en 100 puntos base. Cabe destacar que en su momento, dichas reducciones se reflejaron en una disminución de las tasas de interés de mediano y largo plazo.
+b) En cuanto a las tasas de interés de corto plazo esperadas, éstas se han mantenido relativamente estables ante la expectativa por parte de los analistas económicos y los participantes en los mercados financieros en general, de que la política monetaria se mantendrá sin cambios en un entorno en el que prevalece holgura en la economía y las expectativas de inflación de mayor plazo se mantienen ancladas. En particular, de acuerdo con la encuesta que levanta el Banco de México entre especialistas del sector privado, la mediana de las expectativas para la tasa de interés de Cetes a 28 días al cierre de 2014 es de 3.5 por ciento. De igual manera, las tasas de interés de instrumentos gubernamentales de menos de 1 año se ubican alrededor de 3.5 por ciento.
+c) En general, como reflejo de un entorno de estabilidad macroeconómica y del avance en la agenda de reformas estructurales, las primas de riesgo en México han venido disminuyendo:
+i. Durante 2013, diversos indicadores de la prima por riesgo soberano para México presentaron una ligera disminución. Esto a diferencia de la gran mayoría de economías emergentes que observaron incrementos en sus primas de riesgo soberano en el mismo lapso, en especial en aquéllas que mostraron vulnerabilidades ante un entorno externo adverso (Gráfica 42a). Adicionalmente, durante enero y los primeros días de febrero los indicadores de la prima por riesgo soberano de economías emergentes han mostrado incrementos generalizados debido a que persiste una gran incertidumbre en los mercados financieros internacionales. No obstante, en el caso de México, el incremento ha sido de menor magnitud como reflejo de los sólidos fundamentos macroeconómicos y del avance en la aprobación de las reformas estructurales que dieron lugar a una elevación en la calificación de la deuda soberana por dos agencias calificadoras en diciembre y febrero.
+ii. Tal como se mencionó, el esfuerzo del Banco Central en reducir la inflación ha dado lugar a una tendencia a la baja de la prima por riesgo inflacionario. Tan solo en 2013, esta prima se redujo alrededor de 15 puntos base con respecto al año previo.
+iii. En cuanto a la prima por riesgo cambiario, el diferencial entre la tasa de interés del bono gubernamental a 10 años emitido en pesos y el bono gubernamental del mismo plazo emitido en dólares, mostró gran volatilidad durante 2013, en línea con lo observado en los mercados financieros internacionales. No obstante, dicho diferencial disminuyó de finales de 2012 al cierre de enero de 2014 (Gráfica 42b).
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 53
+iv. Como resultado del elevado grado de lasitud monetaria en Estados
+Unidos en los últimos años, la prima por plazo en los mercados
+financieros internacionales había permanecido en niveles mínimos
+históricos. En el caso de México, esta disminución se vio reflejada
+en menores tasas de interés de largo plazo. Sin embargo, en 2013,
+ante el proceso de descompresión de primas de riesgo en Estados
+Unidos antes señalado, el aumento en la prima por plazo en dicho
+país también dio lugar a un aumento en la prima por plazo en
+México (medida como la diferencia de la tasa de interés de 10 años
+y aquélla de 2 años), la cual ha aumentado de 70 puntos base a
+principios de mayo de 2013 a alrededor de 250 puntos base a
+principios de febrero de 2014. Así, no es de sorprender que el
+aumento reciente en las tasas de interés en México de largo plazo
+ha sido resultado en gran medida del proceso de descompresión de
+la prima por plazo en aquel país (Gráfica 42c).
+Gráfica 42
+Primas de Riesgo
+a) Indicadores de Mercado que
+Miden el Riesgo de Crédito
+Soberano 1/
+Índice 01-ene-13=100
+b) Diferencial entre la Tasa de
+Bonos de 10 Años en Moneda
+Nacional y en Dólares y Volatilidad
+Implícita en Opciones de Tipo de
+Cambio 2/
+Puntos porcentuales, por ciento
+c) Tasa de Interés en México del
+Bono Gubernamental a 10 años y
+Prima por Plazo 3/
+Por ciento, puntos porcentuales
+60
+80
+100
+120
+140
+160
+180
+200
+220
+E F M A M J J A S O N D E F
+Brasil
+México
+Chile
+Colombia
+Perú
+Sudáfrica
+Turquía
+2013 2014
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+F A J A O D F A J A O D F
+Diferencial de Tasas
+Volatilidad Implícita
+2012 2013 2014
+0
+1
+2
+3
+4
+5
+6
+7
+8
+0
+1
+2
+3
+4
+5
+6
+7
+8
+F A J A O D F A J A O D F
+Tasa de Interés de 10 Años
+Prima por Plazo de México
+2012 2013 2014
+1/ Se refiere a los Credit Default Swaps de 5
+años.
+Fuente: Bloomberg.
+2/ La volatilidad implícita en opciones del tipo de
+cambio se refiere a opciones a un mes.
+Fuente: Bloomberg, Proveedor Integral de
+Precios y Valmer.
+3/ La prima por plazo se refiere a la diferencia
+entre la tasa de interés a 10 años y la tasa de
+interés a 2 años.
+Fuente: Proveedor Integral de Precios.
+Banco de México
+54 Informe Trimestral Octubre – Diciembre 2013
+5. Previsiones para la Inflación y Balance de Riesgos
+Como se señaló, en la segunda mitad de 2013 la economía mexicana retomó una trayectoria positiva. Este comportamiento, aunado a las expectativas de que aumente el dinamismo de la economía estadounidense y que continúe la recuperación del gasto interno, tanto privado como público, sugieren una evolución del crecimiento económico de México durante los próximos dos años similar a la anticipada en el Informe anterior.
+Las previsiones sobre la actividad de Estados Unidos en las que se basa el marco macroeconómico para México son las siguientes:18
+a) El PIB de Estados Unidos mostró una expansión de 1.9 por ciento en 2013, cifra que se compara con la de 1.6 por ciento reportada en el Informe anterior. Para 2014 y 2015, se espera un crecimiento del PIB de ese país de 2.9 y 3.0 por ciento, respectivamente. Estas cifras se comparan con las de 2.6 y 2.9 por ciento, en el mismo orden, contenidas en el Informe precedente.
+b) La producción industrial estadounidense registró una tasa de crecimiento de 2.6 por ciento en 2013, la cual se compara con la expansión esperada de 2.3 por ciento en el Informe previo. Para 2014 y 2015, se anticipa que este indicador crezca 3.6 y 3.5 por ciento, respectivamente, cifras superiores a las reportadas en el Informe anterior de 2.9 y 3.4 por ciento, en el mismo orden.
+Crecimiento de la Economía Nacional: Como se mencionó, se prevé que el PIB de México haya crecido en 2013 a una tasa de alrededor de 1.2 por ciento anual. A su vez, ante un comportamiento más dinámico de la economía estadounidense en 2014 respecto a 2013 y a lo esperado en el Informe anterior, se prevé que la tasa de crecimiento del PIB de México se incremente en 2014 respecto al año previo, si bien se continúa esperando que ésta se sitúe entre 3.0 y 4.0 por ciento, como en el Informe precedente. Para 2015, del mismo modo que en el Informe previo, se sigue anticipando que la tasa de expansión del PIB se ubique entre 3.2 y 4.2 por ciento (Gráfica 43a).
+Empleo: Las previsiones respecto al incremento en el número de trabajadores asegurados (permanentes y eventuales urbanos) en el IMSS en 2014 y 2015 se mantienen sin cambio respecto al Informe precedente. En particular, para 2014 se espera un aumento de entre 620 y 720 mil trabajadores, de manera similar que para 2015.
+Cuenta Corriente: En 2013 la balanza comercial registró un déficit de 1.0 miles de millones de dólares (0.1 por ciento del PIB). Por su parte, se estima que el déficit en la cuenta corriente haya sido de 19.8 miles de millones de dólares en
+18 Las expectativas para la economía de Estados Unidos se basan en el consenso de los analistas encuestados por Blue Chip en febrero de 2014.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 55
+ese año (1.6 por ciento del PIB). A su vez, para 2014 se anticipan déficits en la balanza comercial y en la cuenta corriente de 5.8 y 25.4 miles de millones de dólares, respectivamente (0.4 y 1.9 por ciento del PIB, en el mismo orden). Para 2015 se prevén déficits en la balanza comercial y en la cuenta corriente de 7.2 y 27.9 miles de millones de dólares, respectivamente (0.5 y 1.9 por ciento del PIB, en el mismo orden).
+El balance de riesgos para el crecimiento de la actividad económica ha mejorado respecto al Informe previo:
+i. En el corto plazo, las expectativas para la economía de Estados Unidos más favorables podrían significar un mayor dinamismo de la demanda externa.
+ii. Este año se contará con un impulso fiscal significativo.
+iii. En el mediano plazo, una consecución e implementación efectiva de las reformas estructurales podrían traducirse en mejores perspectivas para la inversión en México, con su consecuente efecto sobre la demanda agregada y sobre el crecimiento potencial de la economía, con lo que el crecimiento en nuestro país podría acelerarse sin generar presiones inflacionarias.
+A pesar de lo anterior, prevalecen riesgos a la baja:
+i. No puede descartarse la posibilidad de que el proceso de normalización de la política monetaria en Estados Unidos propicie un ajuste importante en los flujos de capital hacia las economías emergentes, lo que podría afectar las fuentes de recursos disponibles para la economía.
+ii. La recuperación del consumo podría ser más modesta que lo anticipado o podría continuar retrasándose la recuperación del nivel de la inversión, particularmente en la medida en que el sector de vivienda no se recupere.
+Aun considerando los posibles riesgos al alza para el pronóstico de crecimiento, con la información actual se prevé que la holgura en la economía vaya disminuyendo gradualmente y que la brecha del producto se mantenga en terreno negativo a lo largo de 2014 y convergiendo a cero hacia finales de 2015 (Gráfica 43b). Así, no se anticipan presiones derivadas del comportamiento de la demanda agregada sobre la inflación ni sobre las cuentas externas en el horizonte de pronóstico.
+Banco de México
+56 Informe Trimestral Octubre – Diciembre 2013
+Gráfica 43
+Gráficas de Abanico: Crecimiento del PIB y Brecha del Producto
+a) Crecimiento del Producto, a. e.
+Por ciento anual
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4
+2013
+T4
+2008 2010 2012 2014 2015
+2014
+T4
+2015
+T4
+b) Estimación de la Brecha del Producto, a. e.
+Porcentaje del producto potencial
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4
+2013
+T4
+2008 2010 2012 2014 2015
+2014
+T4
+2015
+T4
+a. e. / Cifras con ajuste estacional.
+Fuente: INEGI y Banco de México.
+a. e. / Elaborado con cifras desestacionalizadas.
+Fuente: Banco de México.
+Inflación: En lo que corresponde a los pronósticos para la inflación, se prevé que
+ésta se ubique por arriba de 4 por ciento durante los primeros meses de 2014
+como resultado de: i) el repunte no anticipado que a finales de 2013 presentó la
+inflación no subyacente, si bien su efecto sobre la inflación general se
+desvanecerá en el transcurso del año; y ii) el efecto de los cambios en precios
+relativos derivados de las medidas fiscales, los cuales se estima sean
+moderados, que no den lugar a efectos de segundo orden y que solamente
+tengan un efecto transitorio sobre la inflación. Así, se anticipa que en el segundo
+trimestre la inflación general disminuya por debajo de dicho nivel. En el segundo
+semestre, derivado del efecto aritmético de una baja base de comparación
+aunado a la volatilidad del componente no subyacente, la inflación general podría
+ubicarse en algunos meses por encima de 4 por ciento, aunque se prevé que
+cierre el año dentro del intervalo de variabilidad de más o menos un punto
+porcentual alrededor del objetivo de 3 por ciento. Esta previsión obedece al
+repunte antes señalado de la inflación general al cierre de 2013 y considera un
+impacto de las medidas fiscales de aproximadamente 40 puntos base sobre la
+inflación general anual a diciembre de 2014. Para 2015 se anticipa un ajuste
+importante a la baja a partir de enero y que permanezca en niveles ligeramente
+por arriba de 3 por ciento el resto del año (Gráfica 44). En cuanto a la inflación
+subyacente anual, se anticipa que aun con los efectos derivados de las referidas
+medidas, ésta se sitúe en niveles cercanos a 3 por ciento durante 2014 y por
+debajo de dicho nivel en 2015 (Gráfica 45). Esta evolución resulta del
+desvanecimiento de los efectos de los cambios en precios relativos antes
+señalados, de una reducción esperada en el desliz de los precios de las gasolinas
+a partir del siguiente año de acuerdo a la Ley de Ingresos recientemente
+aprobada y de la previsión de que no habrá presiones inflacionarias por el lado de
+la demanda.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 57
+Gráfica 44
+Gráfica de Abanico: Inflación General Anual 1/
+Por ciento
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4
+Inflación Observada
+Objetivo de Inflación General
+Intervalo de Variabilidad
+2014
+T4
+2006 2008 2010 2012 2014 2015
+2013
+T4
+2015
+T4
+1/ Promedio trimestral de la inflación general anual.
+Fuente: INEGI y Banco de México.
+Gráfica 45
+Gráfica de Abanico: Inflación Subyacente Anual 1/
+Por ciento
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4
+Inflación Observada
+Objetivo de Inflación General
+Intervalo de Variabilidad
+2013
+T4
+2006 2008 2010 2012 2014 2015
+2014
+T4
+2015
+T4
+1/ Promedio trimestral de la inflación subyacente anual.
+Fuente: INEGI y Banco de México.
+En lo que se refiere a los riesgos para la trayectoria prevista para la inflación
+general anual, destacan:
+i. Al alza, no puede descartarse el riesgo de que los ajustes en precios
+relativos a raíz de las medidas fiscales tengan efectos de segundo
+orden y afecten a otros precios, así como a las expectativas de inflación
+Banco de México
+58 Informe Trimestral Octubre – Diciembre 2013
+de mayor plazo, especialmente cuando se anticipa una reducción gradual de las condiciones de holgura en la economía.
+ii. Nuevos episodios de elevada volatilidad en los mercados financieros internacionales podrían generar un ajuste cambiario que potencialmente afecte a la inflación. Sin embargo, de darse tal ajuste, se esperaría que su efecto fuese transitorio y moderado, dado el bajo traspaso de variaciones cambiarias a la inflación que se ha observado en el pasado.
+iii. A la baja, prevalece la posibilidad de que la recuperación de la actividad económica en el país resulte menor a la anticipada.
+En suma, el balance de riesgos para la inflación se ha deteriorado respecto al Informe previo.
+Teniendo en consideración todo lo anterior, la Junta de Gobierno decidió mantener en 3.50 por ciento el objetivo para la Tasa de Interés Interbancaria a un día en las reuniones de Política Monetaria de diciembre de 2013 y enero de 2014, después de la reducción que implementó en octubre de 2013. En efecto, la Junta considera que la postura monetaria es congruente con la convergencia eficiente de la inflación a la meta de 3 por ciento. No obstante, como se mencionó, dada la lectura reciente de la inflación y en consideración de los riesgos señalados en este Informe, la Junta se mantendrá atenta a todas las presiones que pudieran afectar a la inflación y a sus expectativas para horizontes de mediano y largo plazo. Asimismo, vigilará las implicaciones que sobre las previsiones para la inflación tengan la evolución de la actividad económica y la postura monetaria relativa de México frente a la de Estados Unidos, entre otros factores, con el fin de estar en condiciones de alcanzar la meta de inflación señalada.
+Hacia adelante, ante un entorno global en el que se prevén condiciones menos favorables en los mercados financieros, es de fundamental importancia continuar fortaleciendo las fuentes internas de crecimiento y el marco para la conducción de la política macroeconómica en México. En este contexto, es importante señalar que recientemente se ha avanzado de manera significativa en el proceso de reformas estructurales encaminadas a incrementar la productividad del país. Es relevante mejorar el marco institucional para fortalecer las fuentes internas de crecimiento desde una perspectiva microeconómica. Así, se debe enfatizar la necesidad de flexibilizar la asignación de los recursos hacia sus usos más productivos, de incrementar la competencia en los mercados, particularmente en los de insumos, y de alcanzar una estructura de incentivos conducente a incrementar la productividad. Las reformas estructurales recientemente aprobadas representan un gran avance en esta dirección. En efecto, las reformas laboral, de telecomunicaciones, de competencia económica, financiera, energética y educativa contribuirán a incrementar la competitividad y el PIB potencial del país. Es alentador que se atiendan deficiencias en tan amplio número de mercados fundamentales. No obstante, para que estas reformas alcancen su potencial y efectivamente se traduzcan en un mayor crecimiento económico, es imprescindible tanto una apropiada legislación secundaria que las respalde, como una adecuada implementación.
+Banco de México
+Informe Trimestral Octubre – Diciembre 2013 59
+Es previsible que las reformas estructurales señaladas redunden no sólo en un crecimiento más vigoroso de la economía, sino que también conduzcan a un entorno de inflación baja y estable. Una mayor competencia podría conducir a menores precios, con el asociado incremento en bienestar para la población, al tiempo que los aumentos en productividad permitirán alcanzar tasas más altas de crecimiento de la demanda agregada sin generar presiones sobre los precios. De este modo, se enfatiza la importancia de continuar en el camino de mejora del marco institucional y de brindar mayor seguridad y certidumbre jurídica a los agentes económicos.
+Banco de México
+60 Informe Trimestral Octubre – Diciembre 2013
+Anexo Modificaciones al Calendario para los Anuncios de las Decisiones
+de Política Monetaria, las Minutas sobre las Reuniones de la Junta
+de Gobierno Referentes a las Decisiones de Política Monetaria y
+los Informes Trimestrales en 2014
+En el Cuadro 1 de este anexo se presenta el nuevo calendario para el año 2014
+de los anuncios de política monetaria, así como de la publicación de las Minutas
+sobre las reuniones de la Junta de Gobierno referentes a las decisiones de
+política monetaria y de los informes trimestrales. Con respecto al calendario dado
+a conocer en el Informe anterior, se modifica la fecha de publicación del Informe
+Trimestral Enero-Marzo de 2014 del 14 al 21 de mayo de 2014 y la fecha del
+Informe Trimestral Julio-Septiembre de 2014 cambia del 12 al 19 de noviembre
+de 2014.
+Cuadro 1
+Calendario para 2014
+Mes
+Anuncios de Decisiones
+de Política Monetaria
+Minutas sobre las
+Reuniones de la Junta de
+Gobierno referentes a las
+Decisiones de Política
+Monetaria
+Informes Trimestrales 1/
+Enero 31
+Febrero 14 12
+Marzo 21
+Abril 25 4
+Mayo 9 21
+Junio 6 20
+Julio 11 25
+Agosto 13
+Septiembre 5 19
+Octubre 31
+Noviembre 14 19
+Diciembre 5 19
+1/ El Informe Trimestral del 12 de febrero corresponde al del cuarto trimestre de 2013, el del 21 de mayo al del primer trimestre de 2014, el
+del 13 de agosto al del segundo trimestre de 2014, y el del 19 de noviembre al del tercer trimestre de 2014.
+El calendario considera 8 fechas para los anuncios de las decisiones de política
+monetaria en 2014. Dos semanas después de cada anuncio se publicarán las
+Minutas correspondientes. Sin embargo, como en años anteriores, el Banco de
+México se reserva la facultad de modificar la postura de política monetaria en
+fechas distintas a las preestablecidas, en caso de que se presentaran eventos
+extraordinarios que hicieran necesaria la intervención del Banco Central.
+Informe sobre la Inflación Enero – Marzo 2012 1
+Agosto 2012
+Febrero 2014

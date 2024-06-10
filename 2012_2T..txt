@@ -1,0 +1,3861 @@
+Informe sobre la Inflación
+Abril – Junio 2012
+
+JUNTA DE GOBIERNO
+Gobernador
+AGUSTÍN GUILLERMO CARSTENS CARSTENS
+Subgobernadores
+ROBERTO DEL CUETO LEGASPI
+MANUEL RAMOS FRANCIA
+MANUEL SÁNCHEZ GONZÁLEZ
+JOSÉ JULIÁN SIDAOUI DIB
+
+INFORME SOBRE LA INFLACIÓN
+En este informe se analiza la inflación, la evolución económica y el comportamiento de los indicadores económicos del país, para dar cumplimiento a lo dispuesto en el artículo 51, último párrafo, de la Ley del Banco de México.
+ADVERTENCIA
+A menos que se especifique lo contrario, este documento está elaborado con información disponible al 13 de agosto de 2012. Las cifras son de carácter preliminar y están sujetas a revisiones.
+CONTENIDO
+1. Introducción ....................................................................................................................... 1
+2. Evolución Reciente de la Inflación ..................................................................................... 4
+2.1. La Inflación en el Segundo Trimestre de 2012....................................................... 4
+2.2. Salarios ................................................................................................................. 15
+3. Entorno Económico y Financiero Prevaleciente en el Segundo Trimestre de 2012 ....... 17
+3.1. Condiciones Externas ........................................................................................... 17
+3.1.1. Actividad Económica Mundial ................................................................. 17
+3.1.2. Mercados Financieros Internacionales ................................................... 20
+3.1.3. Precios de las Materias Primas ............................................................... 24
+3.1.4. Tendencias Generales de la Inflación en el Exterior .............................. 25
+3.2. Evolución de la Economía Mexicana ................................................................... 27
+3.2.1. Actividad Económica ............................................................................... 27
+3.2.2. Ahorro Financiero y Financiamiento en el País ...................................... 32
+4. Política Monetaria y Determinantes de la Inflación ......................................................... 40
+5. Previsiones para la Inflación y Balance de Riesgos ........................................................ 50
+RECUADRO
+1. Consideraciones sobre el Impacto de las Fluctuaciones de los Precios Internacionales de las Materias Primas en los Precios al Consumidor en México ................................................................................................................................ 8
+
+B A N C O D E MÉ X I C O
+1
+1. Introducción
+El ritmo de crecimiento de la economía global mostró un debilitamiento durante el segundo trimestre del año. Entre los factores que explican este deterioro se encuentran los problemas en la zona del euro, una recuperación más tenue que la anticipada en Estados Unidos y una desaceleración mayor a la esperada en las principales economías emergentes, con excepción de México. El impacto de este deterioro en el entorno externo sobre la economía mexicana se puede caracterizar a través de dos choques: uno proveniente de una desaceleración de la demanda externa y otro derivado del aumento en las primas de riesgo asociado a periodos de gran incertidumbre en los mercados financieros internacionales.
+En lo que respecta al primer choque, el crecimiento del PIB de Estados Unidos ha sido más moderado al anticipado por los analistas económicos. Al respecto, resalta el menor dinamismo de la producción industrial en los últimos meses, la debilidad de los principales componentes de la demanda agregada y el hecho de que la recuperación del empleo no ha logrado consolidarse en ese país. Por lo que se refiere al segundo choque, la creciente incertidumbre alrededor de los problemas en la zona del euro condujo a un aumento en las primas por riesgo durante el trimestre de referencia, especialmente en España donde, a pesar del anuncio de diversas medidas para atender sus problemas, las referidas primas no han disminuido de manera importante. Sin embargo, a raíz de las medidas tomadas por las autoridades europeas para fortalecer la integración financiera y fiscal de la zona, dicha incertidumbre se ha revertido parcialmente en las últimas semanas. Si bien estas medidas proporcionaron un alivio temporal a los mercados financieros, prevalece una gran incertidumbre acerca de su implementación y efectividad, por lo que la posibilidad de un evento catastrófico en Europa no ha disminuido de manera significativa.
+Este entorno de menor dinamismo en la actividad económica y la referida mayor incertidumbre en los mercados financieros internacionales tuvieron efectos significativos para las economías emergentes. A pesar de que su desempeño económico ha sido mejor que el de las economías avanzadas, un número considerable de éstas se desaceleró de manera importante, entre ellas las economías de China, India y Brasil. Adicionalmente, se observó un incremento en la volatilidad de los flujos de capital hacia las economías emergentes que se vio reflejado en sus mercados financieros. En la gran mayoría de estas economías, el entorno de mayor aversión al riesgo se tradujo en una depreciación de sus monedas durante el segundo trimestre del año.
+La creciente preocupación sobre las perspectivas de crecimiento mundial también se reflejó en una reducción considerable de los precios internacionales de las materias primas, con excepción de algunos granos por razones climáticas, durante el segundo trimestre de 2012. Al respecto destaca la disminución que se observó en el caso de los precios de los energéticos.
+En congruencia con un menor ritmo de actividad económica a nivel mundial, y el concomitante descenso de los precios internacionales de las principales materias primas, en la mayoría de los países se anticipan niveles de inflación en 2012 y 2013 menores que los registrados en 2011 y muy bajos en el
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+2
+caso de las economías avanzadas. De ahí que en estas últimas y en un gran número de las emergentes ha tenido lugar un relajamiento de la postura monetaria, llevando a estas economías a un nivel de laxitud sin precedente. Incluso, es probable que en varias economías de ambos grupos se adopten posturas monetarias aún más acomodaticias en los siguientes meses.
+Los sólidos fundamentos de la economía mexicana han contribuido a que, a pesar del deterioro en el entorno externo, su evolución haya sido favorable durante el segundo trimestre de 2012. En efecto, en ese periodo la actividad económica en México continuó mostrando una trayectoria positiva, como reflejo de una expansión dinámica del sector externo y de un persistente crecimiento del gasto interno. En este contexto, los pronósticos sobre la evolución de la economía mexicana se mantienen sin cambio respecto a los del Informe anterior. Sin embargo, se reconoce que el balance de riesgos se ha deteriorado en relación con el crecimiento de la economía, como consecuencia del entorno internacional descrito. En particular, la desaceleración que muestran algunos indicadores de la economía de Estados Unidos y las revisiones a la baja en las perspectivas de crecimiento de la producción industrial de dicho país, han incrementado la probabilidad de que la economía mexicana pueda verse afectada por la profundización del choque de demanda externa negativo.
+En lo que corresponde a la inflación general anual, durante el segundo trimestre de 2012 el promedio de ésta fue prácticamente igual al del trimestre previo, situándose en ambos trimestres por abajo de la cota superior del intervalo de variabilidad de más o menos un punto porcentual en torno a la meta de 3 por ciento. Sin embargo, en junio la inflación general anual aumentó y rebasó la referida cota. Esto como resultado de cambios en el precio relativo de un número reducido de productos agropecuarios cuya producción fue afectada por factores climatológicos. Así, este incremento no obedeció a un fenómeno generalizado de aumentos en los precios de la canasta de consumo de la población y se anticipa tendrá un carácter transitorio. Destaca que, hasta el momento, no se han observado efectos de segundo orden en el proceso de formación de precios derivados de los cambios en precios relativos que se han registrado en la economía.
+El pronóstico para la inflación, considerando el incremento de ésta en junio de 2012 estima que lo más probable es que, con excepción del tercer trimestre de 2012, en el horizonte de pronóstico que se extiende hasta el cuarto trimestre de 2013 la inflación general anual se sitúe entre 3 y 4 por ciento. En el caso de la inflación subyacente anual se prevé que hacia el cierre de 2012 se acerque a 3 por ciento y que en 2013 fluctúe alrededor de dicho nivel. En cuanto al balance de riesgos para la inflación, en el corto plazo se han elevado los riesgos al alza asociados al desempeño de los precios de los productos agropecuarios, en particular, a la luz del reciente brote de influenza aviar en algunas localidades del país y su posible efecto sobre la producción pecuaria. Sin embargo, se considera que en el mediano plazo los riesgos a la baja se han intensificado en la medida en que ha aumentado la probabilidad de un severo debilitamiento de la economía mundial.
+A partir de lo anterior, la Junta de Gobierno del Banco de México decidió mantener sin cambio el objetivo para la Tasa de Interés Interbancaria a un día durante el periodo que comprende el presente Informe y considera que la postura actual de la política monetaria es conducente a alcanzar el objetivo
+B A N C O D E MÉ X I C O
+3
+permanente de inflación de 3 por ciento. Hacia adelante, la Junta se mantendrá atenta a la evolución de todos los determinantes de la inflación, dado que el comportamiento de éstos podría hacer aconsejable ajustar la postura de política monetaria para hacerla más o menos restrictiva dependiendo del escenario que se presente, procurando en todo momento la convergencia de la inflación al citado objetivo permanente de 3 por ciento. Particular atención se le pondrá a que las variaciones de precios relativos, tanto las resultantes de productos agropecuarios, como de fluctuaciones del tipo de cambio, no generen efectos de segundo orden sobre la dinámica de la inflación.
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+4
+2. Evolución Reciente de la Inflación
+2.1. La Inflación en el Segundo Trimestre de 2012
+Durante el segundo trimestre de 2012 la inflación general anual
+promedio se situó en 3.87 por ciento, mientras que en el anterior fue 3.88 por
+ciento, manteniéndose así en ambos trimestres dentro del intervalo de
+variabilidad de más o menos un punto porcentual alrededor de la meta puntual de
+3 por ciento (Gráfica 1 y Cuadro 1). Sin embargo, al cierre del trimestre la
+inflación general anual repuntó e incluso rebasó la cota superior del citado
+intervalo. Esto último fue consecuencia, primordialmente, de la mayor incidencia a
+la inflación de un grupo reducido de hortalizas. Es decir, el aumento que exhibió
+en junio la inflación general anual no fue un fenómeno generalizado sino limitado
+a una porción pequeña de la canasta del subíndice de precios no subyacente,
+cuyo precio relativo se modificó. Por consiguiente, se anticipa que el referido
+aumento en la inflación anual sea de carácter transitorio.
+Gráfica 1
+Índice Nacional de Precios al Consumidor
+Variación anual en por ciento
+5.74
+5.44
+5.08
+4.89
+4.50
+3.86
+3.57
+4.46
+4.83
+4.97
+4.27
+3.92
+3.69
+3.64
+3.68
+3.70
+4.02
+4.32
+4.40
+3.78
+3.57
+3.04
+3.36
+3.25
+3.28
+3.55
+3.42
+3.14
+3.20
+3.48
+3.82
+4.05
+3.87
+3.73
+3.41
+3.85
+4.34
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+J
+2009
+S D M J
+2010
+S D M J
+2011
+S D M J
+2012
+INPC
+Subyacente
+No Subyacente
+Fuente: Banco de México e INEGI.
+La inflación subyacente anual promedio fue considerablemente menor
+que la correspondiente a la inflación general, aunque aumentó con relación al
+trimestre previo. En particular, durante el segundo trimestre de 2012 ésta fue 3.46
+por ciento, mientras que en el primero fue 3.34 por ciento (Cuadro 1 y Gráfica 2).
+Al interior de este subíndice, la inflación subyacente de los servicios anual
+promedio –que es la que mejor refleja los determinantes domésticos que afectan
+a la inflación– mantuvo un nivel inferior a 3 por ciento durante el trimestre que se
+analiza. Al respecto, en el segundo trimestre de 2012 ésta fue 2.55 por ciento, a
+la vez que en el anterior fue 2.28 por ciento (Cuadro 1 y Gráfica 3). Esto último
+como consecuencia, primordialmente, del comportamiento de los precios de la
+telefonía móvil, cuyo índice de precios reflejó un ritmo de reducción menor
+respecto al que presentó en el mismo periodo de 2011. Así, la variación anual
+B A N C O D E MÉ X I C O
+5
+promedio de los precios de la telefonía móvil del primer al segundo trimestre de
+2012 pasó de -15.07 a -8.99 por ciento.
+Cuadro 1
+Índice Nacional de Precios al Consumidor y Componentes
+Variación anual en por ciento
+Enero Febrero Marzo Abril Mayo Junio Trim I Trim II
+2012 2012 2012 2012 2012 2012 2012 2012
+INPC 4.05 3.87 3.73 3.41 3.85 4.34 3.88 3.87
+Subyacente 3.34 3.37 3.31 3.39 3.48 3.50 3.34 3.46
+Mercancías 4.64 4.75 4.51 4.48 4.50 4.66 4.63 4.55
+Alimentos, Bebidas y Tabaco 7.18 7.30 6.63 6.42 6.32 6.43 7.03 6.39
+Tortilla de Maíz 18.79 18.22 14.16 12.45 11.82 12.12 17.01 12.13
+Azúcar 19.05 17.56 16.41 11.89 11.66 10.26 17.69 11.27
+Pan Dulce 11.22 11.73 11.98 11.71 10.00 7.79 11.64 9.81
+Mercancías no Alimenticias 2.72 2.82 2.89 3.00 3.11 3.29 2.81 3.13
+Servicios 2.28 2.23 2.32 2.48 2.63 2.54 2.28 2.55
+Vivienda 1.99 1.98 1.94 1.90 1.86 1.85 1.97 1.87
+Educación (Colegiaturas) 4.32 4.42 4.38 4.33 4.53 4.62 4.37 4.49
+Otros Servicios 2.01 1.88 2.14 2.57 2.88 2.67 2.01 2.71
+Servicio de Telefonía Móvil -13.44 -15.77 -15.98 -8.26 -6.83 -11.87 -15.07 -8.99
+No Subyacente 6.38 5.53 5.12 3.49 5.15 7.26 5.68 5.27
+Agropecuarios 7.37 5.45 5.06 0.86 5.60 11.29 5.97 5.80
+Frutas y Verduras 0.07 -4.40 -5.05 -13.50 -2.14 12.75 -3.10 -1.69
+Pecuarios 12.71 12.54 12.12 11.58 10.79 10.37 12.46 10.91
+Huevo 21.69 15.95 12.01 11.98 7.30 5.90 16.49 8.39
+Pollo 9.66 11.63 11.05 9.04 8.63 6.91 10.78 8.19
+Energéticos y Tarifas Aut. por Gobierno 5.82 5.58 5.16 5.00 4.89 5.02 5.52 4.97
+Energéticos 7.98 8.00 7.65 7.52 7.65 7.87 7.88 7.68
+Tarifas Autorizadas por Gobierno 1.93 1.21 0.61 0.55 0.33 0.30 1.25 0.39
+INPC Excluye Alimentos (dentro y fuera de Casa) y Energía 1/ 2.18 2.14 2.16 2.27 2.39 2.36 2.16 2.34
+por ciento
+Variación Anual
+Promedio
+1/ Excluye alimentos dentro de casa (alimentos procesados, bebidas no alcohólicas y agropecuarios), alimentos fuera de casa y energéticos.
+Fuente: Banco de México e INEGI.
+Gráfica 2
+Índice de Precios Subyacente
+Variación anual en por ciento
+0
+2
+4
+6
+8
+J
+2005
+J
+2006
+J
+2007
+J
+2008
+J
+2009
+J
+2010
+J
+2011
+J
+2012
+Subyacente
+Mercancías
+Servicios
+D 05 D 06 D 07 D 08 D 09 D 10 D 11
+Fuente: Banco de México e INEGI.
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+6
+Gráfica 3
+Índice de Precios Subyacente: Servicios
+Variación anual en por ciento
+a) Servicios b) Servicios y Telefonía
+1
+2
+3
+4
+5
+6
+7
+8
+9
+J
+2005
+J
+2006
+J
+2007
+J
+2008
+J
+2009
+J
+2010
+J
+2011
+J
+2012
+Servicios
+Vivienda
+Educación (Colegiaturas)
+Otros Servicios
+D 05 D 06 D 07 D 08 D 09 D 10 D 11
+Fuente: Banco de México e INEGI.
+Durante el segundo trimestre de 2012 la inflación subyacente de las
+mercancías anual promedio siguió siendo más elevada que la correspondiente a
+los servicios, si bien disminuyó con relación al primer trimestre debido al menor
+ritmo de crecimiento de los precios del grupo de los alimentos, bebidas y tabaco.
+Así, en el trimestre de referencia la inflación subyacente de las mercancías anual
+promedio se situó en 4.55 por ciento, mientras que el trimestre anterior fue 4.63
+por ciento (Cuadro 1 y Gráfica 4). Ello es congruente con los cambios en precios
+relativos que anteriormente había anticipado el Banco de México, y que
+resultaron tanto de la depreciación del tipo de cambio en la segunda parte de
+2011, como de las alzas en los precios internacionales de las materias primas en
+la primera parte de ese mismo año (en el Recuadro 1 se profundiza sobre la
+relación que existe entre los precios internacionales de las materias primas y los
+precios domésticos). Al respecto, conviene enfatizar que el traspaso de la
+depreciación del tipo de cambio a los precios ha sido reducido, en congruencia
+con los siguientes elementos:
+i. Aun cuando la actividad económica ha mantenido su dinamismo, el
+crecimiento de la demanda agregada no ha sido lo suficientemente alto
+como para propiciar un elevado traspaso del ajuste cambiario a los
+precios.
+ii. La estabilidad que han exhibido las expectativas sobre la inflación.
+iii. La opinión de directivos de empresas entrevistados recientemente por
+el Banco de México respecto a sus políticas de revisión de precios en
+un entorno de volatilidad cambiaria.1
+iv. La evidencia estadística documentada por el Banco de México.2
+1 Véase Reporte sobre las Economías Regionales Enero-Marzo 2012.
+2 Véase Informe sobre la Inflación Enero-Marzo 2011, Capítulo Técnico “Traspaso a Precios de
+Perturbaciones del Tipo de Cambio”, Banco de México, mayo 2011.
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+1
+2
+3
+4
+5
+6
+7
+8
+9
+J
+2005
+J
+2006
+J
+2007
+J
+2008
+J
+2009
+J
+2010
+J
+2011
+J
+2012
+Servicios
+Servicios de Telefonía
+D 05 D 06 D 07 D 08 D 09 D 10 D 11
+B A N C O D E MÉ X I C O
+7
+Gráfica 4
+Índice de Precios Subyacente: Mercancías
+Variación anual en por ciento
+0
+2
+4
+6
+8
+10
+12
+J
+2005
+J
+2006
+J
+2007
+J
+2008
+J
+2009
+J
+2010
+J
+2011
+J
+2012
+Mercancías
+Alimentos, Bebidas y Tabaco
+Mercancías Distintas a los Alimentos, Bebidas y Tabaco
+D 05 D 06 D 07 D 08 D 09 D 10 D 11
+Fuente: Banco de México e INEGI.
+El desempeño del componente subyacente del INPC sugiere que la
+evolución del proceso de formación de precios en la economía ha sido
+congruente con el proceso de convergencia de la inflación al objetivo permanente
+de 3 por ciento. Una muestra adicional de ello se encuentra al considerar la
+evolución de un indicador de inflación calculado a partir de un índice de precios al
+consumidor que excluye alimentos y energéticos –que son los rubros de gasto
+que experimentaron choques de oferta significativos desde el inicio del año
+pasado. Ello en virtud de que la variación anual promedio del mencionado índice,
+que coincide con la definición de inflación subyacente empleada en diversos
+países entre los que se incluye Estados Unidos, en el segundo trimestre de 2012
+se ubicó en un nivel de 2.34 por ciento (el trimestre previo fue 2.16 por ciento,
+Cuadro 1 y Gráfica 5).
+La inflación no subyacente anual promedio disminuyó entre el primer y
+segundo trimestre de 2012 al pasar de 5.68 a 5.27 por ciento (Cuadro 1 y Gráfica
+6). Esta reducción fue impulsada por el menor ritmo de crecimiento de los precios
+de los siguientes grupos de bienes y servicios: pecuarios, energéticos y tarifas
+determinadas por distintos niveles de gobierno (Gráfica 7). Sin embargo, el
+comportamiento de la inflación no subyacente anual se caracterizó por exhibir un
+alto grado de volatilidad y, hacia el final del trimestre repuntó considerablemente
+al rebasar un nivel de 7 por ciento. Esto último como consecuencia del
+desempeño de un grupo reducido de hortalizas, entre las que destacan el jitomate
+y el tomate verde. Al respecto, el precio del jitomate exhibió una tasa de variación
+anual que entre marzo y junio de 2012 pasó de -34.24 a 37.15 por ciento,
+mientras que la correspondiente al tomate verde aumentó de 1.29 a 55.87 por
+ciento en el mismo periodo.
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+8
+INFORME SOBRE LA INFLACIÓN ABRIL - JUNIO 2012 Recuadro 1 Consideraciones sobre el Impacto de las Fluctuaciones de los Precios Internacionales de las Materias Primas en los Precios al Consumidor en México Introducción En este recuadro se analiza el impacto del incremento que han exhibido desde mediados de la década anterior los precios internacionales de los energéticos y de los granos sobre los precios al consumidor en México. El análisis se descompone en dos efectos: uno directo y otro indirecto. El primero se refiere al impacto que pueden tener las fluctuaciones de las cotizaciones externas de éstos sobre los precios internos al consumidor de sus derivados en el caso de los granos, y de sus equivalentes en el caso de los energéticos. El segundo, el efecto indirecto, considera el posible impacto sobre el proceso de formación de precios del resto de los bienes y servicios de la canasta del INPC, que no son derivados o equivalentes de las mencionadas materias primas, si bien pueden representar una fracción de sus costos de producción como ocurre con los energéticos. El segundo efecto citado es de particular interés para la autoridad monetaria, ya que la respuesta de un banco central ante presiones sobre la inflación derivadas de alzas en los precios de las materias primas es contingente a la existencia de dichos efectos de segundo orden. Al respecto, el Banco de México señaló en el Programa de Política Monetaria para 2012 (p. 4) que “…cuando las presiones sobre la inflación provienen de un choque de oferta, en términos generales no es aconsejable que el banco central intente contrarrestar dichas presiones. Las perturbaciones de oferta corresponden a cambios en los precios relativos, los cuales, en principio, propician aumentos de una sola vez en el INPC.” Además, en el mencionado programa el Banco de México también indicó que “…si ante el aumento en la inflación debido a una perturbación de oferta, los agentes económicos empiezan a revisar sus expectativas de inflación al alza, ello afectaría de manera negativa al proceso de formación de precios. Éstos serían efectos de segundo orden. En este contexto, el control de la inflación estaría en riesgo, por lo que en dicho caso el banco central tendría que restringir la postura de política monetaria…”. El análisis estadístico que se presenta en este recuadro se basa en un modelo de vectores autorregresivos (VAR) similar al que se presentó en el Capítulo Técnico “Traspaso de Perturbaciones al Tipo de Cambio” que publicó el Banco de México en el Informe sobre la Inflación Enero–Marzo 2011. Este modelo se distingue en dos aspectos del anterior: primero, un mayor detalle sobre el tipo de materias primas incluidas en el modelo; y, segundo, los índices de precios considerados son distintos. Por otra parte, el periodo de análisis abarca de enero de 2002 a mayo de 2012. La selección de este periodo considera que en éste la inflación puede caracterizarse como un proceso estacionario.1 Los resultados que arroja el análisis estadístico muestran que, en general, no existe evidencia de que asociados a las cotizaciones internacionales de las materias primas haya habido efectos de segundo orden en el proceso de formación de precios en México. 1. Evolución de los Precios Internacionales de las Materias Primas Los precios internacionales de los energéticos y de los granos han registrado incrementos importantes tanto en sus niveles, como en su volatilidad desde mediados de la década anterior. La tendencia alcista comenzó a manifestarse en el año 2004 para el caso de los energéticos y a partir de 2006 en el de los granos (Gráfica 1). Lo anterior tuvo un efecto directo sobre la inflación tanto a nivel global, como doméstico: en el caso de los energéticos, debido a que forman parte de la canasta de consumo de los índices de precios y en el de los granos, debido al impacto que éstos tienen sobre la estructura de costos de alimentos procesados que los utilizan como insumo. Gráfica 1 Precios Internacionales de los Energéticos y de los Granos Índices base 2005 = 100 050100150200250300E1992E1994E1996E1998E2000E2002E2004E2006E2008E2010E2012Índice Compuesto del Maíz, Trigo y SoyaÍndice de Energéticos Fuente: Fondo Monetario Internacional (FMI). En el caso de los precios al consumidor de los energéticos en México, si bien la política de desliz que ha establecido el Gobierno Federal los ha aislado de las fluctuaciones de corto plazo de las cotizaciones internacionales, la tendencia observada de estas 1 Sobre la estacionareidad del proceso de inflación en México véase Chiquiar, D., Noriega E. A. y M. Ramos Francia, (2010). La estacionariedad es una propiedad estadística de una serie de tiempo que implica que ésta es estable alrededor de un determinado nivel y tiene varianza acotada.
+B A N C O D E MÉ X I C O
+9
+últimas ha sido un factor determinante de dicha política de deslices en el mediano plazo (Gráfica 2). Por su parte, en el caso de los granos, los precios internos al consumidor de sus derivados han reflejado en mayor grado la dinámica de corto plazo de los precios internacionales (Gráfica 3). Gráfica 2 Energéticos: Precios Internacionales e Internos Variación anual en por ciento -50510152025-60-40-20020406080100E2002E2003E2004E2005E2006E2007E2008E2009E2010E2011E2012Precios InternacionalesPrecios Nacionales de los Energéticos Fuente: FMI, INEGI y Banco de México. Gráfica 3 Precios Internacionales de los Granos y Precios Internos de sus Derivados1/ Variación anual en por ciento 02468101214-60-40-20020406080100E2002E2003E2004E2005E2006E2007E2008E2009E2010E2011E2012Precios InternacionalesPrecios Nacionales de los Derivados de los Granos1/ Fuente: FMI, INEGI y Banco de México. 1/ Derivados de maíz: tortilla de maíz, tostadas, masa y harinas de maíz y maíz (ponderación en INPC 1.75 por ciento). Derivados del trigo: pan dulce, pan blanco, pan de caja, pasteles, pastelillos y pan dulce empaquetado, pastelillos y pasteles a granel, galletas, pasta para sopa, tortillas de harina de trigo, harinas de trigo y cereales en hojuelas (ponderación 1.80 por ciento). Derivados de la soya: aceites y grasas vegetales comestibles, mayonesa y mostaza, papas fritas y similares (ponderación 0.40 por ciento). A pesar de lo anterior, la evolución de la inflación en México sugiere que el incremento de las cotizaciones internacionales de las materias primas en los últimos años ha tenido un efecto relativamente limitado sobre los precios al consumidor de los bienes y servicios que no son equivalentes o derivados de dichas materias primas. Así, al contrastar la evolución de las variaciones anuales de los precios al consumidor de los derivados de los granos con las que corresponden al índice subyacente, excluyendo dichos bienes, no parece existir una correlación clara entre éstas (Gráfica 4). Asimismo, una comparación similar de las variaciones anuales del subíndice de precios de los energéticos con el índice de precios subyacente, con su canasta completa ya que ésta no contiene bienes derivados de los energéticos, tampoco muestra una asociación clara entre ambas (Gráfica 5). Gráfica 4 Subíndice de Precios de Derivados de los Granos e Índice de Precios Subyacente1/ Variación anual en por ciento 0123456-202468101214E2002E2003E2004E2005E2006E2007E2008E2009E2010E2011E2012Índice de Precios de Derivados Maíz, Trigo y SoyaÍndice de Precios Subyacente Exluyendo Derivados de Maíz, Trigo y Soya Fuente: INEGI y Banco de México. 1/ Se refiere a la inflación subyacente excluyendo los derivados de maíz, trigo y soya. Gráfica 5 Subíndice de Precios de los Energéticos e Índice de Precios Subyacente Variación anual en por ciento 0123456-50510152025E2002E2004E2006E2008E2010E2012Subíndice de Precios de EnergéticosÍndice de Precios Subyacente Fuente: INEGI y Banco de México. 2. Estimación del Traspaso de los Precios Internacionales de los Granos al INPC En la evaluación estadística que se realiza del traspaso de los precios internacionales de los granos a los precios en México se consideran dos tipos de ejercicios. El primero estima el impacto directo mediante un modelo econométrico, que considera el efecto de los precios internacionales de los granos sobre los índices de precios al consumidor de los bienes para los que éstos son sus insumos principales. El segundo calcula los efectos de segundo orden en la inflación subyacente, es decir el impacto de los precios internacionales de los granos sobre los precios internos al consumidor de los bienes y servicios que no son derivados de los granos. Para una estimación precisa de estos impactos en ambos ejercicios se controla por variables macroeconómicas. El análisis se basa en un modelo VAR recursivo, el cual es una herramienta ampliamente utilizada para estudiar la interacción de un conjunto de variables ante perturbaciones en alguna de las mismas. Las variables incluidas son las típicamente utilizadas para modelar economías precio aceptantes (i.e., pequeñas y abiertas). Como se mencionó, el modelo es similar al que se
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+10
+presenta en el Capítulo Técnico “Traspaso de Perturbaciones al Tipo de Cambio” que publicó el Banco de México en el Informe sobre la Inflación Enero–Marzo 2011. Sin embargo, se distingue del anterior en dos aspectos: primero, los índices de precios de materias primas tienen un mayor nivel de desagregación, ya que se distingue a las energéticas y granos; y segundo, los índices de precios para la inflación doméstica son distintos, ya que en este caso se utiliza para los granos a la inflación subyacente excluyendo los derivados de éstos y para los energéticos a la inflación subyacente. Las variables endógenas son el Indicador Global de la Actividad Económica, la tasa de interés de certificados de la tesorería a 91 días, el tipo de cambio expresado en pesos por dólar, los índices de precios de los bienes derivados del maíz, trigo y soya, y el Índice Nacional de Precios al Consumidor excluyendo los índices de precios de los bienes derivados de estos granos. Adicionalmente, se incluyen variables exógenas como son la Producción Industrial de Estados Unidos, la tasa de fondos federales, el Índice de Precios al Consumidor de Estados Unidos y los precios internacionales del maíz, trigo y soya. A lo largo del análisis se supone que las variables exógenas afectan a las variables domésticas pero no al revés, ya que el modelo representa a México como una economía precio aceptante a nivel global. Al igual que en el modelo sobre el traspaso de perturbaciones al tipo de cambio que se presentó en el Capítulo Técnico antes referido, con excepción de la tasa de interés y la tasa de fondos federales, las cuales se presentan en puntos porcentuales, el resto de las variables se expresa en variaciones anuales en por ciento.2 Los datos tienen periodicidad mensual y comprenden de enero de 2002 a mayo de 2012 (el fin de periodo lo determina la disponibilidad de información del IGAE). El mecanismo utilizado para identificar los choques a los precios internacionales de las materias primas es recursivo. La variación anual de los precios de las materias primas internacionales se ordena antes que la variación de los precios de sus derivados domésticos y posteriormente la variación anual del INPC excluyendo los derivados de los granos. En el cálculo de los efectos de segundo orden la variación anual del componente subyacente excluyendo a los derivados de los granos se ordena al último (en este caso esta variable sustituye al INPC que excluye a los derivados de los granos). Esto permite que los choques a los precios de las materias primas se traspasen inmediatamente a los precios domésticos. El ordenamiento del resto de las variables se realiza como en el modelo del Capítulo Técnico mencionado. Los resultados obtenidos señalan que, cómo era de esperarse dada la evidencia de la Gráfica 3, las fluctuaciones de los precios internacionales del maíz, del 2 Choudhri et al. (2005) y Capistrán et al. (2011), al igual que en este ejercicio, definen en sus modelos a las variables consideradas, salvo las tasas de interés, en variaciones anuales. trigo y de la soya impactan a los precios al consumidor de los bienes derivados de estos granos en México. En particular, el ejercicio arroja elasticidades de traspaso a los 24 meses para el maíz, trigo y soya respectivamente de 0.38, 0.63 y 0.49 (Gráfica 6).3 Así, esto implica para el caso del maíz que ante un incremento de un punto porcentual en su precio internacional después de dos años esto repercute en los precios al consumidor en México de sus derivados en 0.38 puntos porcentuales. Esto implica que el traspaso a precios es parcial, bajo y que tiene lugar con rezago, lo que resulta congruente con lo que muestra la Gráfica 3. Gráfica 6 Efecto de Primer Orden en la Inflación Acumulada de los Derivados de los Granos ante un Aumento en el Precio Internacional de los Granos1/ Elasticidad de traspaso a) Ante un Aumento en el Precio Internacional del Maíz 0.000.100.200.300.400.500.600.700.80123456789101112131415161718192021222324Meses b) Ante un Aumento en el Precio Internacional de la Soya 0.000.100.200.300.400.500.600.700.800.90123456789101112131415161718192021222324Meses 3 La elasticidad de traspaso acumulado (PT) en el periodo 𝜏 se define como: PT= Δ%𝑋t,t+τΔ%𝑌t,t+τ donde Δ%𝑋t,t+τ es el cambio porcentual en el nivel de la variable 𝑋 τ periodos después del choque, y Δ%𝑌t,t+τ es el cambio porcentual en el nivel de la variable 𝑌 en el mismo periodo.
+B A N C O D E MÉ X I C O
+11
+c) Ante un Aumento en el Precio Internacional del Trigo 0.000.200.400.600.801.001.20123456789101112131415161718192021222324Meses Fuente: Cálculos de Banco de México con información de diversas fuentes. 1/ Las líneas punteadas en color rojo representan un intervalo de confianza al 95 por ciento alrededor de las elasticidades estimadas. En el análisis de los efectos de segundo orden se estimó un VAR recursivo como el descrito anteriormente, sustituyendo el INPC sin los derivados de los granos por un índice de precios subyacente que excluye a los bienes derivados de los granos. Los resultados muestran que, en general, los efectos de segundo orden son prácticamente nulos. De hecho, en el caso de los derivados tanto del maíz como del trigo el mencionado efecto de segundo orden no es estadísticamente distinto de cero. Por otra parte, en el caso de los derivados de la soya el traspaso es muy bajo, ya que la elasticidad a los 24 meses es 0.02 (Gráfica 7). Es decir, ante un incremento de un punto porcentual, el impacto de segundo orden en la inflación subyacente, que excluye a los derivados de los granos, sería de 0.02 puntos después de dos años. La ausencia de efectos de segundo orden considerables se asocia con un entorno de inflación baja y estable, en el que los agentes económicos pueden discernir adecuadamente entre los distintos choques que afectan a la economía. Gráfica 7 Efecto de Segundo Orden en la Inflación Subyacente (Excluye Derivados de los Granos) Acumulada ante un Aumento en el Precio Internacional de los Granos1/ Elasticidad de traspaso a) Ante un Aumento en el Precio Internacional del Maíz -0.07-0.06-0.05-0.04-0.03-0.02-0.010.000.01123456789101112131415161718192021222324Meses b) Ante un Aumento en el Precio Internacional de la Soya -0.0050.0000.0050.0100.0150.0200.0250.0300.0350.0400.045123456789101112131415161718192021222324Meses c) Ante un Aumento en el Precio Internacional del Trigo -0.020.000.020.040.060.080.100.12123456789101112131415161718192021222324Meses Fuente: Cálculos de Banco de México con información de diversas fuentes. 1/ Las líneas punteadas en color rojo representan un intervalo de confianza al 95 por ciento alrededor de las elasticidades estimadas. 3. Estimación del Traspaso de los Precios de los Energéticos a la Inflación Subyacente En el caso de los energéticos la evolución de sus precios internos es determinada por la política de desliz que establece el Gobierno Federal. Así, como se señaló, en el corto plazo las fluctuaciones de los precios internacionales no tienen una relación directa con las cotizaciones internas. Sin embargo, la tendencia de los precios internacionales de estas materias primas es un factor determinante de la política interna de desliz de precios, debido al costo fiscal que pueden implicar los subsidios implícitos (Gráfica 2). Por tanto, el ejercicio estadístico relevante para el caso de los energéticos considera únicamente el impacto de las variaciones de los precios internos de los energéticos sobre la inflación subyacente, es decir si éstas causan efectos de segundo orden. Para ello se estima un VAR recursivo como el que se describió en la sección anterior, considerando el índice de precios de los energéticos, el índice de precios subyacente y las mismas variables de control. En este caso la variación anual del índice de precios de los energéticos se ordena antes que la del índice de precios subyacente.
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+12
+Los resultados de este análisis muestran que los efectos de segundo orden de las variaciones de los precios de los energéticos sobre el índice de precios subyacente no son estadísticamente distintos de cero (Gráfica 8). Ello es congruente con una situación en la cual la ocurrencia de cambios en precios relativos no afecta el proceso de determinación de precios ni sus expectativas. Ello posiblemente como resultado de que el compromiso del banco central con la estabilidad de precios es creíble. Gráfica 8 Efecto de Segundo Orden en la Inflación Subyacente Acumulada ante un Aumento en el Precio de los Energéticos1/ Elasticidad de traspaso -0.10-0.050.000.050.100.150.20123456789101112131415161718192021222324Meses Fuente: Cálculos de Banco de México con información de diversas fuentes. 1/ Las líneas punteadas en color rojo representan un intervalo de confianza al 95 por ciento alrededor de las elasticidades estimadas. 4. Consideraciones Finales El aumento que han exhibido desde mediados de la década anterior los precios internacionales de las materias primas ha incidido sobre la inflación en México y en el mundo. Sin embargo, la evidencia estadística que se tiene para México sugiere que esteimpacto directo ha incidido únicamente sobre los precios de los bienes equivalentes en las canastas de los índices de precios al consumidor o en los bienes y servicios derivados de dichas materias primas; y que no se han presentado efectos de segundo orden de consideración en el proceso general de formación de precios. Lo anterior evidencia la efectividad que ha tenido la política monetaria en México, que se ha conjugado con una política fiscal responsable, para mantener un entorno de inflación baja y estable. Ello en virtud de que estas condiciones han permitido a los agentes una adecuada identificación de los choques que afectan a la economía y han contribuido a mantener el anclaje de las expectativas de inflación aún en un entorno dominado por importantes ajustes en algunos precios relativos de la economía. Referencias Banco de México (2011). Informe sobre la Inflación, Enero-Marzo 2011. Banco de México (2012). Programa de Política Monetaria para 2012. Capistrán, C., Ibarra-Ramírez, R. y M. Ramos-Francia (2011). “El Traspaso de Movimientos del Tipo de Cambio a los Precios: Un Análisis para la Economía Mexicana”. Banco de México, Documento de Investigación, No. 2011-12. Chiquiar, D., Noriega, E. A. y M. Ramos Francia, (2010). “A Time Series Approach to Test a Change in Inflation Persistence: The Mexican Experience”, Applied Economics, pp. 3067-3075. Choudhri, E., Faruqee, H. y S. Hakura (2005). “Explaining the Exchange Rate Pass-Through in Different Prices”. Journal of International Economics, Vol 65, pp. 349-374.
+B A N C O D E MÉ X I C O
+13
+Gráfica 5
+Índice de Precios Subyacente e Índice Nacional de Precios al Consumidor
+Excluyendo Alimentos y Energía
+Variación anual en por ciento
+0
+2
+4
+6
+J
+2005
+J
+2006
+J
+2007
+J
+2008
+J
+2009
+J
+2010
+J
+2011
+J
+2012
+Subyacente
+INPC Excluyendo Alimentos y Energía 1/
+D 05 D 06 D 07 D 08 D 09 D 10 D 11
+1/ Excluye alimentos dentro de casa (alimentos procesados, bebidas no alcohólicas y agropecuarios), alimentos
+fuera de casa y energéticos.
+Fuente: Banco de México e INEGI.
+El subíndice de precios de los energéticos y tarifas determinadas por
+distintos niveles de gobierno durante el segundo trimestre de 2012 registró una
+tasa de variación anual promedio de 4.97 por ciento, mientras que el trimestre
+previo ésta fue 5.52 por ciento (Cuadro 1 y Gráfica 7). Este resultado se debió en
+gran medida a la menor incidencia del grupo de las tarifas determinadas por
+distintos niveles de gobierno. Al respecto destacaron las menores tasas de
+crecimiento anual promedio de las tarifas de los trámites vehiculares en el
+segundo trimestre respecto al primero de 2012 debido a la eliminación de la
+tenencia vehicular (pasó de -43.20 a -68.54 por ciento), servicio de taxi
+(disminuyó de 5.52 a 3.79 por ciento), así como derechos por suministro de agua
+(se redujo de 4.26 a 2.99 por ciento).
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+14
+Gráfica 6
+Índice de Precios No Subyacente
+Variación anual en por ciento
+a) No Subyacente y Componentes b) Agropecuarios
+-9
+-6
+-3
+0
+3
+6
+9
+12
+15
+18
+21
+24
+27
+J
+2005
+J
+2006
+J
+2007
+J
+2008
+J
+2009
+J
+2010
+J
+2011
+J
+2012
+No Subyacente
+Agropecuarios
+Energéticos y Tarifas Autorizadas por el
+Gobierno
+D 05 D 06 D 07 D 08 D 09 D 10 D 11
+-15
+-12
+-9
+-6
+-3
+0
+3
+6
+9
+12
+15
+18
+21
+24
+27
+J
+2005
+J
+2006
+J
+2007
+J
+2008
+J
+2009
+J
+2010
+J
+2011
+J
+2012
+Agropecuarios
+Frutas y Verduras
+Pecuarios
+D 05 D 06 D 07 D 08 D 09 D 10 D 11
+Fuente: Banco de México e INEGI.
+Gráfica 7
+Índice de Precios No Subyacente: Energéticos y Tarifas Autorizadas por el Gobierno
+Variación anual en por ciento
+-3
+0
+3
+6
+9
+12
+15
+J
+2005
+J
+2006
+J
+2007
+J
+2008
+J
+2009
+J
+2010
+J
+2011
+J
+2012
+Energéticos y Tarifas Autorizadas por el Gobierno
+Energéticos
+Tarifas Autorizadas por el Gobierno
+D 05 D 06 D 07 D 08 D 09 D 10 D 11
+Fuente: Banco de México e INEGI.
+En general, de la evidencia presentada se infiere que la inflación en los
+últimos meses ha estado afectada por choques del exterior que no han sido
+privativos a México. Si bien la política monetaria no debería de responder
+automáticamente a estas variaciones en precios relativos, si será importante que
+la Junta de Gobierno se mantenga atenta a que los impactos de estos choques
+no afecten la dinámica de la inflación hacia adelante.
+En lo que corresponde al Índice Nacional de Precios al Productor
+(INPP) de mercancías y servicios finales, excluyendo petróleo, la variación anual
+B A N C O D E MÉ X I C O
+15
+promedio de éste durante el segundo trimestre de 2012 fue 5.16 por ciento (el
+trimestre previo fue 5.14 por ciento, Gráfica 8). Los subíndices de las mercancías
+y de los servicios de este indicador tuvieron un desempeño similar al de sus
+contrapartes del INPC. Por una parte, la tasa de crecimiento anual promedio del
+índice de precios al productor de las mercancías fue 6.07 por ciento (el trimestre
+anterior fue 6.14 por ciento). Por otra parte, el índice de precios al productor de
+los servicios alcanzó una tasa de 4.30 por ciento (en el primer trimestre fue 4.18
+por ciento).
+Gráfica 8
+Índice Nacional de Precios Productor (INPP), Excluyendo Petróleo
+Variación anual en por ciento
+5.52
+5.85
+7.49
+7.39
+5.71
+5.09
+3.38
+3.29
+3.85
+3.65
+3.49
+3.48
+3.62
+4.23
+5.48
+5.14
+5.16
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+II
+2008
+III IV I II
+2009
+III IV I II
+2010
+III IV I II
+2011
+III IV I II
+2012
+INPP Mercancías y Servicios Finales
+INPP Mercancías Finales
+INPP Servicios Finales
+Fuente: Banco de México e INEGI.
+2.2. Salarios
+El desempeño reciente de diversos indicadores salariales sugiere que,
+en general, los costos laborales siguieron siendo un factor que no dio lugar a
+presiones inflacionarias. Así, en el segundo trimestre de 2012 la variación anual
+del ingreso nominal promedio de los trabajadores del total de la economía fue 2.8
+por ciento (el trimestre anterior fue 2.3 por ciento, Gráfica 9a). En lo que
+corresponde a las remuneraciones de los trabajadores afiliados al IMSS, el
+salario base de cotización registró una variación anual de 4.2 por ciento durante
+el segundo trimestre de 2012 (el trimestre previo fue 4.3 por ciento, Gráfica 9b).
+Asimismo, el incremento a tasa anual del salario contractual negociado por
+empresas de jurisdicción federal fue 4.4 por ciento en el segundo trimestre de
+2012 (en el primer trimestre fue 4.5 por ciento, Gráfica 9c).3
+3 El salario base de cotización (SBC) considera el sueldo diario que en promedio recibieron los
+trabajadores afiliados al IMSS durante el lapso de tiempo indicado, así como algunas prestaciones (por
+ejemplo: gratificaciones, prima vacacional y comisiones). Por su parte, los salarios contractuales
+comprenden únicamente el incremento directo al tabulador que negocian los trabajadores de las
+empresas de jurisdicción federal, mismos que estarán vigentes durante los siguientes doce meses. Cabe
+señalar que la composición mensual de este último indicador se integra con la información de las
+empresas que llevaron a cabo sus revisiones salariales usualmente en el mismo periodo del año, razón
+por la que éste exhibe un patrón estacional. Debido a lo anterior, resulta conveniente realizar el análisis
+del salario base de cotización comparando periodos de tiempo sucesivos, mientras que en el caso de los
+salarios contractuales la comparación relevante es interanual.
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+16
+Gráfica 9
+Indicadores Salariales
+Variación anual en por ciento
+a) Ingreso Nominal Promedio para
+el Total de la Economía 1/
+b) Salario Base de Cotización al
+IMSS 2/
+c) Salario Contractual 3/
+2.3
+2.8
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+I
+2008
+II III IV I
+2009
+II III IV I
+2010
+II III IV I
+2011
+II III IV I
+2012
+II
+4.3
+4.2
+2
+3
+4
+5
+6
+7
+8
+I
+2008
+II III IV I
+2009
+II III IV I
+2010
+II III IV I
+2011
+II III IV I
+2012
+II
+4.5
+4.5 4.4
+4.2
+4.6
+4.5
+2
+3
+4
+5
+6
+7
+8
+I
+2008
+II III IV I
+2009
+II III IV I
+2010
+II III IV I
+2011
+II III IV I
+2012
+II
+Total
+Empresas Públicas
+Empresas Privadas
+Fuente: Cálculos elaborados por el Banco de México con información de INEGI, IMSS y STPS.
+1/ El ingreso promedio mensual se calcula con base en las remuneraciones por hora y el número de horas trabajadas en el periodo. Los datos a partir de 2011
+son de carácter preliminar y están basados en proyecciones demográficas del INEGI.
+2/ Durante el segundo trimestre de 2012 se registraron en promedio 15.7 millones de cotizantes al IMSS.
+3/ El número de trabajadores de empresas de jurisdicción federal que anualmente reportan sus incrementos salariales a la Secretaría del Trabajo y Previsión
+Social (STPS) equivale aproximadamente a 2 millones.
+B A N C O D E MÉ X I C O
+17
+3. Entorno Económico y Financiero Prevaleciente en el
+Segundo Trimestre de 2012
+3.1. Condiciones Externas
+3.1.1. Actividad Económica Mundial
+Después de haberse estabilizado en el primer trimestre de 2012, el
+ritmo de crecimiento de la actividad económica mundial se debilitó en el segundo
+trimestre, al tiempo que los riesgos a la baja se incrementaron de manera
+significativa. Entre los factores que han contribuido al deterioro en el panorama
+para la economía mundial resaltan: i) el agravamiento de los problemas de deuda
+soberana y del sistema bancario en algunos países en la zona del euro y la
+atonía en la actividad de las principales economías de la región; ii) una
+recuperación más moderada que la anticipada en Estados Unidos; y iii) una
+desaceleración de la actividad económica mayor a la esperada en las principales
+economías emergentes. En este contexto, los indicadores prospectivos apuntan a
+un menor dinamismo de la actividad económica mundial en los siguientes meses.
+Ante ello, se redujeron las expectativas de crecimiento para el año en su conjunto
+de las principales economías, con algunas excepciones entre las que destaca
+México (Gráfica 10).
+Gráfica 10
+Indicadores de Economías Avanzadas y Emergentes
+a) Índice de Perspectivas de los
+Gerentes de Compras del Sector
+Manufacturero
+Índice de difusión, a. e.
+b) Economías Avanzadas:
+Pronósticos de Crecimiento del
+PIB para 2012
+En por ciento
+c) Economías Emergentes:
+Pronósticos de Crecimiento del
+PIB para 2012
+En por ciento
+30
+35
+40
+45
+50
+55
+60
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+Mundial
+Avanzados
+Emergentes
+-1
+0
+1
+2
+3
+4
+E
+2011
+F M A M J J A S O N D E
+2012
+F M A M J J A
+Estados Unidos
+Zona del Euro
+Japón
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+E
+2011
+F M A M J J A S O N D E
+2012
+F M A M J J A
+Brasil
+Rusia
+India
+China
+México
+a. e. / Cifras con ajuste estacional.
+Fuente: Elaborado por Banco de México con
+información del FMI, ISM y Markit.
+Fuente: Blue Chip. Fuente: Blue Chip.
+En Estados Unidos el dinamismo de la actividad económica ha sido
+menor al que se había anticipado hasta hace unos meses. El PIB de este país
+creció 1.5 por ciento a tasa trimestral anualizada en el segundo trimestre del año,
+comparado con 2.0 por ciento en el primer trimestre.4 El crecimiento de la
+4 De acuerdo al Informe de Avance del Bureau of Economic Analysis (BEA).
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+18
+producción industrial y, en particular, de su componente de manufacturas, se ha
+moderado reflejando en parte el menor impulso proveniente de la demanda
+externa (Gráfica 11a). Además, el ritmo de expansión en el empleo, que mostró
+señales de recuperación en los primeros meses del año, no ha logrado
+consolidarse. A pesar de que la creación de empleos en el sector no agrícola
+aumentó en 163 mil plazas en julio, por encima de las 73 mil plazas en promedio
+por mes registradas en el segundo trimestre, esta cifra se sitúa todavía por
+debajo de las 226 mil plazas en promedio del primer trimestre del año (Gráfica
+11b). Por su parte, la tasa de desempleo aumentó de 8.1 por ciento en abril a 8.3
+por ciento en julio.
+Los principales componentes de la demanda agregada en Estados
+Unidos también han registrado un menor crecimiento. Si bien el gasto en
+consumo mostró fortaleza en los primeros meses del año, en el segundo trimestre
+desaceleró su ritmo de expansión, con lo que su contribución al crecimiento del
+PIB disminuyó de 1.7 a 1.1 puntos porcentuales (Gráfica 11c). El menor vigor del
+consumo fue reflejo de la reciente debilidad en la recuperación del empleo ya
+mencionada y de cierto deterioro en la confianza de los hogares, que todavía se
+encuentran en el proceso de reducción de su endeudamiento.
+Gráfica 11
+Actividad Económica en Estados Unidos
+a) Producción Industrial y
+Manufacturera
+Índice 2007=100, a. e.
+b) Cambio Mensual en la Nómina
+No Agrícola
+En miles de empleos
+c) Contribuciones al Crecimiento
+del PIB Real
+En por ciento
+75
+80
+85
+90
+95
+100
+105
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+Total
+Manufacturas
+0
+50
+100
+150
+200
+250
+300
+E
+2011
+M M J S N E
+2012
+M M J
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+I
+2008
+I
+2009
+I
+2010
+I
+2011
+I
+2012
+Consumo
+Personal
+Inversión Fija
+Gobierno
+Inventarios
+Exportaciones
+Netas
+PIB
+a. e. / Cifras con ajuste estacional.
+Fuente: Reserva Federal.
+Fuente: BLS. Fuente: BEA.
+A pesar de que en Estados Unidos las empresas disponen de
+considerables fondos líquidos, la inversión fija no residencial creció 5.3 por ciento
+a tasa trimestral anualizada en el segundo trimestre del año, por debajo de la tasa
+de 7.5 por ciento observada en el primer trimestre. Ello posiblemente como reflejo
+tanto de la incertidumbre que prevalece en torno al proceso de consolidación
+fiscal en dicho país, como de las perspectivas para el crecimiento de la economía
+mundial. La debilidad del gasto en inversión posiblemente también refleja el
+menor crecimiento de la demanda externa. En particular, se ha reducido
+considerablemente el ritmo de expansión de las exportaciones de Estados Unidos
+a Asia, resaltando China, así como a Europa.
+En la zona del euro los indicadores disponibles sugieren que el PIB se
+contrajo en el segundo trimestre, extendiéndose el debilitamiento de la actividad a
+B A N C O D E MÉ X I C O
+19
+algunas de las principales economías de la región. Al respecto, destaca la caída
+en la producción industrial en Alemania que se contrajo 1.8 por ciento a tasa
+anualizada en el segundo trimestre con respecto al primero. La actividad
+económica en la región se vio afectada por el deterioro de la confianza del
+consumidor (Gráfica 12a), el menor otorgamiento de crédito por parte de los
+bancos ante los requerimientos adicionales de capital que éstos han estado
+enfrentando (Gráfica 12b) y, en general, por el proceso de desapalancamiento en
+el que están inmersos las familias, las empresas y los gobiernos. En
+consecuencia, la tasa de desempleo siguió incrementándose en la mayoría de los
+países de la región (Gráfica 12c).
+En suma, el proceso de desapalancamiento, junto con la ausencia de
+una solución definitiva a los problemas fiscales y bancarios en la zona del euro,
+ha ahondado la debilidad de la actividad económica. Así, se ha acentuado la
+retroalimentación negativa entre el bajo crecimiento económico, la vulnerabilidad
+de los bancos y los problemas de sostenibilidad de la deuda soberana en varios
+países de la zona del euro.
+Gráfica 12
+Indicadores Económicos en la Zona del Euro
+a) Confianza del Consumidor
+Índice de difusión, a. e.
+b) Crédito de Instituciones
+Financieras al Sector Privado
+Variación anual en por ciento
+c) Tasa de Desempleo
+En por ciento de la población
+económicamente activa, a. e.
+-100
+-80
+-60
+-40
+-20
+0
+20
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+Zona del Euro
+Grecia
+Italia
+Portugal
+España
+Alemania
+Francia
+-4
+0
+4
+8
+12
+16
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+Corporaciones no
+Financieras
+Hogares
+Total
+4
+8
+12
+16
+20
+24
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+Zona del Euro
+Grecia
+Italia
+Portugal
+España
+Alemania
+Francia
+a. e. / Cifras con ajuste estacional.
+Fuente: Comisión Europea.
+Fuente: BCE. a. e. / Cifras con ajuste estacional.
+Fuente: Eurostat.
+El ritmo de crecimiento de las principales economías emergentes
+también se redujo en el segundo trimestre del año, reflejando, en algunos casos,
+cierto debilitamiento en la demanda interna, así como una menor demanda por
+sus exportaciones (Gráfica 13a). En particular, la actividad económica en China
+siguió desacelerándose más de lo anticipado. El PIB de este país se expandió 7.6
+por ciento a tasa anual en el segundo trimestre, el nivel más bajo en más de tres
+años. Las medidas de restricción monetaria y crediticia adoptadas en el pasado,
+que, como se menciona más adelante, se han comenzado a revertir,
+contribuyeron al debilitamiento de la demanda interna, al tiempo que la menor
+demanda externa, especialmente la proveniente de Europa, ha impactado
+negativamente sobre el crecimiento de las exportaciones de dicho país. De igual
+manera, en otras economías emergentes, como India, Brasil, Corea y Rusia, el
+ritmo de expansión de la actividad económica se redujo de manera significativa
+en el segundo trimestre del año (Gráfica 13b).
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+20
+Gráfica 13
+Actividad Económica en Economías Emergentes
+a) Exportaciones
+Variación sobre 3 meses del promedio
+móvil de 3 meses en por ciento
+b) Producción Industrial
+Variación sobre 3 meses del promedio
+móvil de 3 meses en por ciento
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+Total Emergentes
+América Latina
+Asia
+Europa
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+Total Emergentes
+Brasil
+China
+Corea
+India
+México
+Rusia
+Fuente: CPB Netherlands. Fuente: Oficinas Nacionales de Estadística, CPB Netherlands
+y Haver Analytics.
+3.1.2. Mercados Financieros Internacionales
+Los efectos favorables de las medidas adoptadas por las autoridades
+de la zona del euro para enfrentar la crisis a fines del año pasado y en los
+primeros meses del presente, en particular la implementación de operaciones de
+refinanciamiento de largo plazo (LTROs, por sus siglas en inglés) por parte del
+Banco Central Europeo (BCE), se desvanecieron durante el segundo trimestre.5
+Así, las condiciones en los mercados financieros internacionales se deterioraron,
+registrándose una elevada volatilidad ante el recrudecimiento de las dificultades
+de refinanciamiento de deuda soberana y del sistema bancario en diversos
+países de la zona del euro. A lo anterior también contribuyó una recuperación
+más débil que la anticipada en Estados Unidos y la preocupación de los
+inversionistas acerca del tamaño del ajuste fiscal que podría aplicarse en 2013 y
+el efecto que pudiera tener sobre el dinamismo de dicha economía, así como
+perspectivas de menor crecimiento en las economías emergentes en general.
+El deterioro en las condiciones en los mercados financieros durante el
+segundo trimestre estuvo influido, entre otros factores, por los resultados de las
+elecciones de Grecia en mayo, que obligaron a la realización de una segunda
+ronda electoral e incrementaron la incertidumbre respecto a la disposición de este
+país para mantener sus compromisos con el Fondo Monetario Internacional (FMI)
+y la Unión Europea (UE) suscritos en marzo.6 Con los resultados de las
+elecciones en junio, se disiparon al menos temporalmente estos temores, lo que
+5 En adición a las LTROs, las medidas incluyeron el Tratado de Estabilidad, Coordinación y Gobernanza,
+que busca fortalecer la disciplina fiscal y mejorar la vigilancia interna, la aprobación de un segundo
+paquete de ayuda a Grecia por 130 mil millones de euros, y el acuerdo para combinar el Mecanismo de
+Estabilidad Europeo (ESM, por sus siglas en inglés) con el Fondo Europeo de Estabilidad Financiera
+(EFSF, por sus siglas en inglés), para incrementar la capacidad de préstamo de emergencia en la zona
+del euro de 500 a 700 mil millones de euros.
+6 Ver Informe sobre la Inflación Enero-Marzo 2012, Banco de México, mayo.
+B A N C O D E MÉ X I C O
+21
+contribuyó a aliviar las tensiones en los mercados financieros.7 Por su parte, las
+dificultades de España para mantener la confianza en la solvencia de su sistema
+financiero ante las dificultades para recapitalizar a los bancos y para alcanzar las
+metas de consolidación fiscal, contribuyeron también al incremento en la
+incertidumbre en los mercados financieros. Al respecto, cabe señalar que la
+agencia Moody’s redujo a finales de junio la calificación crediticia de 28 bancos
+españoles entre 1 y 4 niveles, lo que también exacerbó la incertidumbre sobre la
+situación de la banca de ese país.8
+En este entorno, se observó un aumento sustancial de los indicadores
+que miden el riesgo crediticio, un incremento en las presiones en el fondeo de los
+bancos y una fuerte depreciación del euro frente a las principales monedas, en
+particular frente al dólar (Gráfica 14). La mayor retroalimentación entre el
+deterioro de la actividad económica, la vulnerabilidad de los bancos y la dificultad
+de acceso de algunos gobiernos de la región a los mercados de deuda soberana
+incrementó el riesgo de un mayor contagio a los mercados financieros
+internacionales.
+Gráfica 14
+Indicadores Financieros y de Riesgo Soberano en la Zona del Euro
+a) Indicadores de Mercado que
+Miden el Riesgo de Crédito 1/
+En puntos base
+b) Condiciones de Fondeo
+de los Bancos 1/
+Porcentaje neto de respuestas
+c) Tipo de Cambio
+Dólares por euro 1/
+-100
+100
+300
+500
+700
+900
+1100
+1300
+1500
+E
+2010
+A J O E
+2011
+A J O E
+2012
+A J
+Italia
+Portugal
+España
+Alemania
+Francia
+08-dic-11
+29-jun-12
+-40
+-20
+0
+20
+40
+60
+Depósitos
+corto
+plazo
+Depósitos
+largo
+plazo
+Mercado
+de
+dinero
+Valores
+de corto
+plazo
+Valores
+mediano
+y largo
+plazo
+T4 2011
+T1 2012
+T2 2012
+Menudeo May oreo
+Deterioro
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+E
+2010
+A J O E
+2011
+A J O E
+2012
+A J
+depreciación
+frente al dólar
+08-dic-11
+29-jun-12
+1/ Se refiere al Credit Default Swap para bonos
+soberanos a 5 años. El 8 de diciembre de 2011
+se anunciaron las medidas no convencionales
+por parte del BCE. El 29 de junio de 2012 se
+anunciaron reformas para fortalecer el marco
+institucional de la zona del euro y los
+mecanismos de apoyo.
+Fuente: Bloomberg.
+1/ Se refiere a las condiciones en los 3 meses
+previos.
+Fuente: BCE.
+1/ El 8 de diciembre de 2011 se anunciaron las
+medidas no convencionales por parte del BCE. El
+29 de junio de 2012 se anunciaron reformas para
+fortalecer el marco institucional de la zona del
+euro y los mecanismos de apoyo.
+Fuente: Bloomberg.
+Para enfrentar esta situación, las autoridades europeas anunciaron a
+principios de junio un conjunto de medidas que permitieron cierta recuperación de
+los mercados financieros, incluyendo:
+7 La primera ronda de elecciones se llevó a cabo el día 6 de mayo de 2012. La segunda ronda tuvo lugar
+el día 17 de junio de 2012.
+8 Otro elemento que contribuyó al deterioro de las condiciones en los mercados financieros fue el hecho
+de que Chipre, ante la gran exposición de su sistema bancario a Grecia, solicitó asistencia financiera al
+EFSF/ESM, con el objetivo de cubrir las metas fiscales y de recapitalización bancarias. Esta solicitud se
+emitió después de que la agencia calificadora Fitch se uniera a Moody’s y Standard & Poors, y redujera
+la calificación crediticia de este país por debajo del grado de inversión.
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+22
+a. La solicitud de un préstamo de hasta 100 mil millones de euros por parte del gobierno de España, a través de los mecanismos de apoyo regionales (EFSF y ESM, por sus siglas en inglés), para recapitalizar a los bancos de este país.9
+b. El gobierno español comisionó a evaluadores externos un ejercicio de diagnóstico sobre las posibles necesidades de capital de las instituciones financieras de ese país.10
+c. La reducción de la calificación mínima de los valores respaldados por activos aceptados como colateral por parte del BCE para incentivar el crédito al sector privado no financiero.
+Adicionalmente, los líderes del G20, en su reunión celebrada a mediados de junio en Los Cabos, acordaron extender créditos por 456 mil millones de dólares adicionales al FMI para la prevención y resolución de crisis y la atención de las necesidades financieras potenciales de todos sus países miembros, y no de una región en particular.
+Estas medidas no lograron reducir la incertidumbre sobre la situación de la deuda soberna y la solvencia de la banca española al presuponer las mismas un mayor endeudamiento público y al mantener el apoyo financiero del EFSF y del ESM el estatus de acreedor preferencial. En este contexto, las autoridades europeas acordaron a finales de junio nuevas medidas, entre ellas una serie de acciones para fortalecer la integración financiera y fiscal, así como la efectividad de los mecanismos regionales:
+i. La capitalización directa de los bancos por parte de los mecanismos de apoyo regionales (EFSF/ESM), una vez que entre en vigor, posiblemente a finales de año, un esquema de supervisión bancaria unificada para la zona del euro encabezada por el BCE.
+ii. La eliminación del estatus de acreedor preferente en los préstamos por parte del EFSF/ESM.
+iii. Se reafirmó la disposición de las autoridades europeas a considerar la compra de bonos soberanos en los mercados secundarios de deuda por parte de los mecanismos de apoyo regionales, aunque sin expandir su capacidad actual de préstamo.
+9 La aprobación de este financiamiento por parte de las autoridades europeas anunciada el 20 de julio establece que el gobierno español continuará siendo responsable de este financiamiento y firmará el denominado Memorándum de Entendimiento y el Acuerdo de Facilidad de Asistencia Financiera. El monto específico del crédito se determinará con base en un análisis de los requerimientos de capital de cada banco involucrado. Los préstamos tendrán un vencimiento promedio de hasta 12.5 años y una duración máxima de hasta 15 años. El EFSF establecerá al inicio del proceso de asistencia financiera una reserva contingente de 30 mil millones de euros.
+10 Los resultados de esta evaluación situaron las necesidades de recapitalización entre los 16 y los 26 mil millones de euros bajo un escenario base. Dicho escenario considera una caída de 1.7 por ciento del PIB en 2012 y de 0.3 por ciento en 2013, junto con una caída en los precios de casas de 5.6 por ciento este año y de 2.8 por ciento en 2013. Por otro lado, bajo un escenario de mayor estrés donde se asume una caída del PIB de 4.1 y 1.6 por ciento en 2012 y 2013, respectivamente, así como una caída en los precios de casas de 20 por ciento en 2012 y de 3.6 por ciento en 2013, las necesidades de recapitalización de los bancos españoles serían de entre 51 y 62 mil millones de euros.
+B A N C O D E MÉ X I C O
+23
+Adicionalmente, ante el agravamiento de la situación económica en España, a principios de julio las autoridades europeas acordaron un relajamiento en las metas de déficit fiscal del citado país de 5.3 a 6.3 por ciento del PIB para 2012, de 3.0 a 4.5 por ciento del PIB en 2013 y de 2.2 a 2.8 por ciento del PIB en 2014, así como un esquema de recapitalización de la banca. En este contexto, el gobierno español anunció medidas de consolidación fiscal por 65 mil millones de euros para los próximos dos años y medio con el objetivo de alcanzar las nuevas metas establecidas.11
+Por su parte, el BCE en su reunión de política monetaria de principios de agosto hizo referencia a una serie de medidas para mejorar el funcionamiento de los mercados de deuda soberana de países de la zona del euro, dado que los elevados márgenes de esta deuda y la fragmentación financiera en la región han afectado el mecanismo de transmisión de la política monetaria. Entre dichas medidas destaca que: i) los gobiernos deberán solicitar la activación de los mecanismos de apoyo regionales (EFSF/ESM) bajo la condicionalidad asociada a los mismos; ii) el banco central conducirá operaciones de mercado abierto por un monto que considere apropiado a las condiciones prevalecientes en los mercados, y iii) el BCE considerará la conveniencia de implementar medidas no convencionales de política monetaria adicionales. Los mercados financieros esperan que en las próximas semanas se definan los detalles de estas medidas.
+En suma, el conjunto de medidas anunciadas a partir de finales de junio proveyó un alivio temporal a los mercados financieros, pero éstas continúan siendo consideradas insuficientes por los mercados que demandan avances más firmes hacia una integración fiscal y una unión bancaria de la zona del euro. Adicionalmente, las autoridades enfrentan desafíos muy importantes para la implementación de las medidas descritas, entre los que destacan los siguientes: a) el ESM no ha sido ratificado por todos los países miembros; b) existe el riesgo de que se presenten retrasos en el establecimiento del mecanismo de supervisión bancaria unificado, el cual es requisito para la conversión del préstamo de rescate a la banca española en inyecciones directas de capital a las instituciones financieras; y c) varias de las medidas anunciadas van a requerir apoyo por unanimidad de parte de los ministros del Eurogrupo. En adición a lo anterior, los fondos del EFSF/ESM podrían resultar insuficientes para apoyar tanto la recapitalización de los bancos en algunos países de la zona del euro como, en caso de ser necesario, a los mercados de deuda soberana, en especial de España e Italia. Así, la posibilidad de un evento catastrófico en Europa no ha disminuido de manera significativa.
+La mayor volatilidad en los mercados financieros internacionales ha tenido un fuerte impacto en la percepción de riesgo global. Ello ha causado un nuevo aumento de la demanda de activos percibidos como de menor riesgo, entre ellos los bonos gubernamentales de Estados Unidos, Japón y Alemania. Lo anterior, junto con la disminución de las perspectivas de crecimiento mundial, provocó que los rendimientos de dichos activos se redujeran aún más durante el periodo que cubre este informe, especialmente en los últimos meses, y que el dólar y el yen registraran una apreciación frente al euro. En este contexto, las economías emergentes, no obstante el mejor desempeño de su actividad económica en relación con el de las economías avanzadas, han experimentado
+11 Estas medidas finalmente aprobadas por el parlamento español el 20 de julio de 2012 incluyen: recortes a los beneficios de desempleo después de seis meses, un aumento de 3 puntos porcentuales en el IVA y recortes a salarios públicos, transferencias a gobiernos locales y subsidios.
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+24
+volatilidad en sus flujos de capital, caídas en sus mercados accionarios y, en
+general, una depreciación en sus monedas con respecto al dólar (Gráfica 15).
+Gráfica 15
+Mercados Financieros en Economías Emergentes
+a) Flujo Acumulado de Fondos
+Dedicados (Deuda y Acciones)
+Miles de millones de dólares
+b) Mercados Accionarios de
+Economías Emergentes 1/
+Índice 01/01/2008=100
+c) Tipos de Cambio de Economías
+Emergentes 1/
+Índice 01/01/2008=100
+-80
+-60
+-40
+-20
+0
+20
+40
+60
+80
+100
+120
+140
+1 5 9 13 17 21 25 29 33 37 41 45 49
+Semanas
+2007
+2008
+2009
+2010
+2011
+2012
+25
+50
+75
+100
+125
+150
+175
+200
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+Brasil
+Chile
+Colombia
+Corea
+India
+México
+Polonia
+08-dic-11
+29-jun-12
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+180
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+Real Brasileño
+Peso Chileno
+Peso Colombiano
+Won Coreano
+Rupia India
+Peso Mexicano
+Zloty Polaco
+depreciación
+frente al dólar
+08-dic-11
+29-jun-12
+Fuente: Emerging Portfolio Fund Research. 1/ El 8 de diciembre de 2011 se anunciaron las
+medidas no convencionales por parte del BCE.
+El 29 de junio de 2012 se anunciaron reformas
+para fortalecer el marco institucional de la zona
+del euro y los mecanismos de apoyo.
+Fuente: Bloomberg.
+1/ El 8 de diciembre de 2011 se anunciaron las
+medidas no convencionales por parte del BCE.
+El 29 de junio de 2012 se anunciaron reformas
+para fortalecer el marco institucional de la zona
+del euro y los mecanismos de apoyo.
+Fuente: Bloomberg.
+3.1.3. Precios de las Materias Primas
+Los precios internacionales de las principales materias primas, con
+excepción de los granos, descendieron de manera significativa en el segundo
+trimestre, principalmente como resultado de la desaceleración de la economía
+mundial y el deterioro de sus perspectivas. En particular, los precios
+internacionales del petróleo mostraron una marcada tendencia a la baja a partir
+de marzo (Gráfica 16a), como reflejo de las menores expectativas de crecimiento
+de la economía mundial y el alza en la producción de la Organización de los
+Países Exportadores de Petróleo (OPEP), que originó un aumento en los
+inventarios. Sin embargo, en julio y lo que va de agosto se revirtió parte de dicha
+disminución debido, en gran medida, a una elevación de los riesgos geopolíticos
+en Medio Oriente. Por su parte, los precios de los granos, luego de haber
+mostrado cierta volatilidad en el primer trimestre, registraron un incremento a
+partir del cierre del segundo trimestre por razones climáticas que afectaron su
+producción (Gráfica 16c).
+B A N C O D E MÉ X I C O
+25
+Gráfica 16
+Precios Internacionales de las Materias Primas
+a) Petróleo Crudo 1/
+En dólares por barril
+b) Gas Natural y Gasolina 1/
+Dólares por MMBtu y dólares por
+galón
+c) Maíz y Trigo 1/
+En dólares por bushel
+60
+70
+80
+90
+100
+110
+120
+130
+140
+E
+2010
+E
+2011
+E
+2012
+Brent
+WTI
+-18.6%
+-10.8%
+1
+2
+3
+4
+5
+6
+7
+E
+2010
+E
+2011
+E
+2012
+Gas Natural
+Gasolina
+-12.0%
+-45.2%
+3
+4
+5
+6
+7
+8
+9
+10
+E
+2010
+E
+2011
+E
+2012
+Maíz
+Trigo -3.3%
+-0.5%
+1/ La cifra entre corchetes representa la variación
+porcentual con respecto al máximo alcanzado en
+2011.
+Fuente: Bloomberg.
+1/ La cifra entre corchetes representa la variación
+porcentual con respecto al máximo alcanzado en
+2011.
+Fuente: Bloomberg.
+1/ La cifra entre corchetes representa la variación
+porcentual con respecto al máximo alcanzado en
+2011.
+Fuente: Bloomberg.
+3.1.4. Tendencias Generales de la Inflación en el Exterior
+En un entorno caracterizado por una disminución en el ritmo de
+crecimiento de la actividad económica a nivel mundial y de menores precios
+internacionales de la mayoría de las materias primas, con excepción de algunos
+granos, se anticipa que la inflación en gran parte de los países siga moderándose
+en el segundo semestre de 2012. En este contexto en las principales economías
+avanzadas y en un gran número de las emergentes ha tenido lugar un
+relajamiento de la política monetaria, y se anticipa que se adopten posturas
+monetarias aún más acomodaticias en la segunda parte del año.
+La inflación general anual en Estados Unidos siguió bajando en el
+segundo trimestre, ubicándose en 1.7 por ciento en junio, nivel
+considerablemente menor al 2.7 por ciento del cierre del primer trimestre (Gráfica
+17a). Ello obedeció, en buena medida, a la disminución en los precios del
+petróleo y la gasolina. Por su parte, la inflación subyacente pasó de 2.3 por ciento
+en marzo a 2.2 en junio, y se anticipa que siga disminuyendo como resultado de
+la amplia holgura en el uso de los factores productivos que prevalece en la
+economía de dicho país.
+Bajo este escenario, durante el segundo trimestre y lo que va del
+tercero la Reserva Federal mantuvo sin cambio su banda objetivo de 0 a 0.25 por
+ciento para la tasa de fondos federales, dadas las bajas tasas de utilización de
+recursos y la ausencia de presiones inflacionarias de mediano plazo.12 Además,
+en su reunión de agosto, tal como lo anunció en junio, decidió continuar hasta
+diciembre de 2012 (originalmente concluía en junio de este año) con su programa
+para extender el vencimiento promedio de sus tenencias de valores. La Reserva
+Federal también acordó mantener su política actual de reinversión de pagos de
+12 En su reunión de política monetaria de enero, la Reserva Federal extendió su previsión de mantener la
+tasa de referencia en niveles excepcionalmente bajos de mediados de 2013 por lo menos hasta finales
+de 2014.
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+26
+principal de vencimientos de deuda de agencias y de valores respaldados por
+hipotecas en su poder y de reinversión de bonos del Tesoro.
+Gráfica 17
+Inflación General en Economías Avanzadas y Emergentes
+a) Economías Avanzadas b) Economías Emergentes
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+E
+2006
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+Estados Unidos
+Zona del Euro
+Japón
+-4
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+16
+E
+2006
+E
+2007
+E
+2008
+E
+2009
+E
+2010
+E
+2011
+E
+2012
+Brasil
+India 1/
+China
+Polonia
+Rusia
+México
+Fuente: BLS, Eurostat y Oficina de Estadísticas de Japón. 1/ Se refiere a la inflación de los precios al mayoreo.
+Fuente: Bloomberg.
+En la zona del euro, la inflación general anual ha registrado una
+tendencia descendente en los últimos meses, aunque ha permanecido por
+encima del objetivo de inflación del BCE (inferior pero cercana al 2 por ciento).
+Así, la inflación disminuyó de 2.7 por ciento en marzo a 2.4 por ciento en junio. En
+su reunión de junio, el BCE decidió extender la conducción de sus operaciones
+regulares de refinanciamiento (incluyendo las de tres meses) con adjudicación
+plena y a tasa fija por el tiempo que sea necesario y al menos hasta el 15 de
+enero de 2013.13 Posteriormente, en su reunión de agosto, el BCE mantuvo sin
+cambio sus tasas de interés de política, después de haberlas reducido en julio en
+25 puntos base, dejando sus tasas de interés aplicables a las operaciones
+principales de financiación, la facilidad marginal de crédito y la facilidad de
+depósito en niveles de 0.75, 1.50 y 0.00 por ciento, respectivamente. En su
+comunicado, el BCE señaló que las presiones inflacionarias han disminuido y que
+los riesgos a la baja para el panorama económico continúan y en parte se han
+materializado.
+En la mayoría de las economías emergentes se observó una
+moderación en la inflación en el segundo trimestre y se anticipa que ésta
+disminuya aún más, ante la desaceleración de la actividad económica mundial. La
+inflación anual al consumidor en China pasó de 3.6 por ciento en marzo a 2.2 por
+ciento en junio, la cifra más baja en los últimos 29 meses (Gráfica 17b). El Banco
+Central de China redujo su tasa de préstamos en junio en 25 puntos base y
+nuevamente en julio en 31 puntos base, para situarla en 6.0 por ciento. Estas
+acciones se suman a tres disminuciones en los requerimientos de reserva
+bancarios en diciembre, febrero y mayo pasados. Por su parte, la inflación anual
+13
+En su reunión de octubre de 2011, el BCE había decidido extender estas operaciones de
+refinanciamiento hasta el 10 de julio de 2012.
+B A N C O D E MÉ X I C O
+27
+en Brasil continuó disminuyendo, alcanzando 4.9 por ciento en junio. Esto
+permitió al Banco Central de Brasil bajar su tasa de política 50 puntos base en
+sus reuniones de mayo y julio situándola en 8.0 por ciento, con lo cual dicha tasa
+acumuló una reducción de 450 puntos base desde agosto de 2011.
+3.2. Evolución de la Economía Mexicana
+3.2.1. Actividad Económica
+Durante el segundo trimestre de 2012, la economía mexicana se mostró
+resistente a la elevada volatilidad e incertidumbre en los mercados financieros
+internacionales originadas por las dificultades en la zona del euro, y a la
+desaceleración de la economía mundial, en particular a la moderación que se ha
+observado en el ritmo de expansión de la actividad económica en Estados
+Unidos. Así, a pesar de la adversidad implicada por las condiciones económicas
+mundiales, la economía nacional aún no parece haberse visto afectada de
+manera significativa por dicho entorno. En efecto, los indicadores más recientes
+sugieren que la actividad económica en el país siguió registrando una tendencia
+positiva durante el periodo que se reporta. Este desempeño reflejó tanto el
+impulso que continúa ejerciendo la demanda externa sobre la producción
+manufacturera, como el persistente dinamismo de la demanda interna.
+En particular, durante el segundo trimestre del año, las exportaciones
+manufactureras registraron una trayectoria creciente, la cual fue reflejo de la
+expansión que sigue manifestando tanto la demanda de Estados Unidos, como
+de otros países (Gráfica 18a), en buena medida como resultado de los efectos de
+la depreciación que ha sufrido el tipo de cambio real, en comparación con los
+niveles de la primera mitad de 2011. Cabe destacar que el crecimiento de las
+exportaciones manufactureras tanto a Estados Unidos, como a otros mercados,
+se ha derivado tanto del dinamismo de las ventas al exterior de productos de la
+industria automotriz, como del repunte en las exportaciones del resto de las
+manufacturas (Gráfica 18b y Gráfica 18c).
+Gráfica 18
+Indicadores de las Exportaciones Manufactureras
+Índice 2007=100, a. e.
+a) Exportaciones Manufactureras
+por Región de Destino
+b) Exportaciones Manufactureras
+Automotrices
+c) Exportaciones Manufactureras
+No Automotrices
+70
+85
+100
+115
+130
+145
+160
+175
+E
+2007
+A J O E
+2008
+A J O E
+2009
+A J O E
+2010
+AJ O E
+2011
+A J O E
+2012
+AJ
+Total
+Estados Unidos
+Resto
+50
+70
+90
+110
+130
+150
+170
+190
+210
+E
+2007
+A J O E
+2008
+A J O E
+2009
+A J O E
+2010
+AJ O E
+2011
+A J O E
+2012
+AJ
+Total
+Estados Unidos
+Resto
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+E
+2007
+A J O E
+2008
+A J O E
+2009
+A J O E
+2010
+AJ O E
+2011
+A J O E
+2012
+AJ
+Total
+Estados Unidos
+Resto
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Banco de México.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Banco de México.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Banco de México.
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+28
+Por su parte, los indicadores oportunos sobre el gasto interno sugieren
+que éste continuó expandiéndose en el segundo trimestre del año, si bien a un
+ritmo relativamente más moderado que el presentado por la demanda externa. En
+particular:
+i. La información disponible indica que el consumo privado siguió
+exhibiendo una tendencia positiva. En efecto, tanto las ventas de la
+ANTAD, como las ventas al menudeo en establecimientos comerciales,
+presentaron una expansión en el segundo trimestre del año, si bien las
+ventas al mayoreo mostraron una reducción (Gráfica 19a y Gráfica
+19b).
+Gráfica 19
+Indicadores de Consumo
+a) Ventas Totales de la ANTAD
+Índice 2003=100, a. e.
+b) Ventas en los Establecimientos
+Comerciales
+Índice 2008=100, a. e.
+140
+150
+160
+170
+180
+190
+200
+E
+2007
+A J O E
+2008
+A J O E
+2009
+A J O E
+2010
+A J O E
+2011
+A J O E
+2012
+A J
+88
+90
+92
+94
+96
+98
+100
+102
+104
+106
+E
+2007
+A J O E
+2008
+A J O E
+2009
+A J O E
+2010
+A J O E
+2011
+A J O E
+2012
+AM
+Ventas Mayoreo
+Ventas Menudeo
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Elaborado por Banco de México con información de la
+ANTAD.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Elaborado por Banco de México con información de la
+Encuesta Mensual sobre Establecimientos Comerciales,
+INEGI.
+ii. En este contexto, algunos determinantes del consumo continuaron
+mostrando cierta debilidad durante el trimestre, como es el caso del
+ingreso promedio real de los trabajadores, cuyas variaciones negativas
+siguieron afectando la evolución de la masa salarial real (Gráfica 20a), y
+las remesas familiares, que se han mantenido en niveles menores a los
+observados antes de la crisis (Gráfica 20b). No obstante, otros
+determinantes, como lo es el crédito al consumo, mostraron un
+desempeño más favorable (véase Sección 3.2.2).
+iii. Por su parte, la inversión fija bruta continuó recuperándose tal como se
+había hecho evidente desde el trimestre previo (Gráfica 21a). Dicha
+evolución refleja en buena medida el dinamismo que ha exhibido el
+gasto de inversión en maquinaria y equipo de origen importado (Gráfica
+21b). En este contexto, el mayor ritmo de crecimiento de la inversión
+parecería obedecer, en parte, al hecho de que el porcentaje de
+utilización de la capacidad instalada del sector manufacturero ha
+B A N C O D E MÉ X I C O
+29
+seguido registrando una tendencia al alza, alcanzando en los últimos
+meses niveles comparables a los observados antes de la crisis (Gráfica
+21c).
+Gráfica 20
+Determinantes del Consumo
+a) Masa Salarial Real Total 1/
+Variación anual en por ciento
+b) Remesas Familiares
+Millones de dólares, a. e.
+3.4
+-1.0
+4.4
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+I
+2006
+III I
+2007
+III I
+2008
+III I
+2009
+III I
+2010
+III I
+2011
+III I II
+2012
+Masa Salarial Real
+Ingreso Promedio Real
+Población Ocupada Remunerada
+1,600
+1,700
+1,800
+1,900
+2,000
+2,100
+2,200
+2,300
+2,400
+2,500
+2,600
+E
+2006
+M S E
+2007
+M S E
+2008
+M S E
+2009
+M S E
+2010
+M S E
+2011
+M S E
+2012
+MJ
+1/ Los datos a partir de 2011 son de carácter preliminar y
+están basados en proyecciones demográficas del INEGI.
+Fuente: Cálculos elaborados por Banco de México con
+información de la ENOE, INEGI.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Banco de México.
+Gráfica 21
+Indicadores de Inversión y Capacidad Utilizada
+a) Inversión y sus Componentes
+Índice 2005=100, a. e.
+b) Maquinaria y Equipo Nacional e
+Importado
+Índice 2005=100, a. e.
+c) Uso de la Capacidad Instalada:
+Sector Manufacturero
+Por ciento, a. e.
+95
+105
+115
+125
+135
+145
+155
+165
+E
+2007
+A J O E
+2008
+A J O E
+2009
+A J O E
+2010
+A J O E
+2011
+A J O E
+2012
+AM
+Total
+Maquinaria y Equipo
+Construcción
+80
+100
+120
+140
+160
+180
+E
+2007
+A J O E
+2008
+A J O E
+2009
+A J O E
+2010
+A J O E
+2011
+A J O E
+2012
+AM
+Maquinaria y Equipo Nacional
+Maquinaria y Equipo Importado
+67
+69
+71
+73
+75
+77
+79
+38
+48
+58
+68
+78
+88
+E
+2000
+J E J E
+2002
+J E J E
+2004
+J E J E
+2006
+J E J E
+2008
+J E J E
+2010
+J E J E
+2012
+J
+Automotriz 1/
+Resto de la Manufactura
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Elaborado por Banco de México con
+información del Sistema de Cuentas
+Nacionales de México, INEGI.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Elaborado por Banco de México con
+información del Sistema de Cuentas
+Nacionales de México, INEGI.
+1/ Esta serie no presenta un patrón estacional.
+a. e. / Cifras con ajuste estacional.
+Fuente: Encuesta Mensual de Coyuntura en el
+Sector Manufacturero, Banco de México.
+Derivado de la evolución descrita tanto de la demanda externa, como
+de la interna, los principales componentes de la actividad productiva continuaron
+expandiéndose en el segundo trimestre de 2012 (Gráfica 22a). En particular, el
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+30
+crecimiento del IGAE en dicho periodo reflejó tanto el dinamismo de la actividad
+industrial, especialmente del sector manufacturero (Gráfica 22b y Gráfica 22c),
+como el de los servicios. En contraste, el sector agropecuario continuó mostrando
+una ligera tendencia al alza.
+Cabe destacar que el dinamismo del sector servicios es consecuencia,
+sobre todo, del aumento de aquellas actividades más relacionadas a la demanda
+externa, ya que, si bien también presentaron un crecimiento, los servicios más
+asociados a la demanda interna registraron un menor ritmo de expansión al de
+los trimestres previos y al resto de los servicios.
+Gráfica 22
+Indicadores de Actividad Económica
+a) Indicadores de la Actividad
+Económica
+Índice 2003=100, a. e.
+b) Producción Manufacturera
+Índice 2003=100, a. e.
+c) Producción y Exportación
+de Vehículos Ligeros
+Miles de unidades
+anualizadas, a. e.
+95
+105
+115
+125
+135
+145
+155
+90
+95
+100
+105
+110
+115
+120
+125
+130
+135
+E
+2008
+A J O E
+2009
+A J O E
+2010
+A J O E
+2011
+A J O E
+2012
+AJ
+IGAE Total 1/
+Producción Industrial 2/
+IGAE Servicios 1/
+IGAE Agropecuario 1/
+70
+90
+110
+130
+150
+170
+190
+210
+101
+103
+105
+107
+109
+111
+113
+115
+117
+E
+2008
+A J O E
+2009
+A J O E
+2010
+A J O E
+2011
+A J O E
+2012
+AJ
+Manufacturas sin Equipo de
+Transporte 1/
+Equipo de Transporte
+600
+1,100
+1,600
+2,100
+2,600
+3,100
+E
+2008
+A J O E
+2009
+A J O E
+2010
+A J O E
+2011
+A J O E
+2012
+A J
+Producción Total
+Exportación
+1/ Cifras a mayo de 2012.
+2/ Cifras a junio de 2012 del Indicador de la
+Actividad Industrial.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Sistema de Cuentas Nacionales de
+México, INEGI.
+1/ Elaboración de Banco de México con datos del
+INEGI.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Indicadores de la Actividad Industrial,
+SCNM, INEGI.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Elaboración de Banco de México con
+información de AMIA.
+Con base en lo anterior, se prevé que en el segundo trimestre de 2012
+el PIB habrá mostrado una expansión trimestral desestacionalizada de 0.9 por
+ciento. En términos anuales, se estima que el PIB haya presentado un
+crecimiento de 4.2 por ciento (Gráfica 23).
+Por su parte, los datos disponibles sugieren que en el trimestre que se
+reporta el déficit de la cuenta corriente se ubicó en niveles moderados (Gráfica
+24) y que el país continuó captando recursos que permitieron un financiamiento
+holgado de dicho déficit. En este contexto, se registró un aumento de 7,073.2
+millones de dólares en la reserva internacional durante el periodo abril-junio de
+2012, para alcanzar un saldo de 157,337.3 millones de dólares al final del
+trimestre.
+B A N C O D E MÉ X I C O
+31
+Gráfica 23
+Producto Interno Bruto
+a) Variaciones Trimestrales
+Por ciento, a. e.
+b) Variaciones Anuales
+Por ciento
+-8
+-6
+-4
+-2
+0
+2
+4
+I
+2005
+III I
+2006
+III I
+2007
+III I
+2008
+III I
+2009
+III I
+2010
+III I
+2011
+III I II
+2012
+e/
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+I
+2005
+III I
+2006
+III I
+2007
+III I
+2008
+III I
+2009
+III I
+2010
+III I
+2011
+III I II
+2012
+Original
+Desestacionalizada
+e/
+e/ Estimación de Banco de México.
+a. e. / Cifras con ajuste estacional.
+Fuente: Sistema de Cuentas Nacionales de México, INEGI. Desestacionalización al segundo trimestre de 2012 efectuada por el
+Banco de México.
+Gráfica 24
+Cuenta Corriente
+Millones de dólares
+-7,000
+-6,000
+-5,000
+-4,000
+-3,000
+-2,000
+-1,000
+0
+1,000
+2,000
+I
+2000
+III I
+2001
+III I
+2002
+III I
+2003
+III I
+2004
+III I
+2005
+III I
+2006
+III I
+2007
+III I
+2008
+III I
+2009
+III I
+2010
+III I
+2011
+III I
+2012
+Fuente: Banco de México.
+Por último, cabe destacar que, ante el deterioro que ha sufrido el
+entorno internacional, algunos indicadores de índole más prospectiva, como el
+indicador adelantado de la economía mexicana, sugieren que existe el riesgo de
+que la economía registre tasas de crecimiento relativamente más moderadas en
+los próximos meses (Gráfica 25a). Asimismo, si bien el índice de confianza del
+consumidor presentó una mejoría en meses recientes, éste aún permanece en
+niveles menores a los registrados antes de la crisis (Gráfica 25b). Por su parte, el
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+32
+índice de confianza del productor ha continuado presentando una trayectoria
+negativa, ubicándose en los últimos meses en niveles inferiores a los observados
+hacia finales de 2010 (Gráfica 25c).
+Gráfica 25
+Indicadores Prospectivos
+a) Indicador Adelantado de
+México
+Índice 2003=100, a. e.
+b) Índice de Confianza del
+Consumidor (ICC)
+Índice enero 2003=100, a. e.
+c) Índice de Confianza del
+Productor (ICP)
+Indicador con referencia a
+50 puntos, a. e.
+107
+111
+115
+119
+123
+127
+131
+E
+2007
+A J O E
+2008
+A J O E
+2009
+A J O E
+2010
+A J O E
+2011
+A J O E
+2012
+AM
+75
+80
+85
+90
+95
+100
+105
+110
+115
+E
+2005
+AJOE
+2006
+AJOE
+2007
+AJOE
+2008
+AJOE
+2009
+AJOE
+2010
+AJOE
+2011
+AJOE
+2012
+AJ
+30
+35
+40
+45
+50
+55
+60
+E
+2005
+A JOE
+2006
+A JOE
+2007
+A JOE
+2008
+A JOE
+2009
+A JOE
+2010
+A JOE
+2011
+A JOE
+2012
+A J
+a. e. / Cifras con ajuste estacional.
+Fuente: INEGI.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Encuesta Nacional sobre la Confianza del
+Consumidor, INEGI y Banco de México.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Encuesta Mensual de Opinión Empresarial,
+INEGI.
+3.2.2. Ahorro Financiero y Financiamiento en el País
+Durante el segundo trimestre de 2012 la disponibilidad de recursos
+financieros en la economía mexicana continuó incrementándose, a pesar del
+entorno de incertidumbre prevaleciente en los mercados internacionales. Por su
+parte, el financiamiento al sector privado no financiero, en particular a los
+hogares, mantuvo su tendencia de crecimiento, lo cual continuó apoyando la
+evolución de la actividad económica.
+Las fuentes de recursos financieros de la economía han continuado
+presentando incrementos anuales elevados (Cuadro 2). En el primer trimestre de
+2012, el flujo anual de las fuentes totales de recursos financieros fue de 10.6 por
+ciento del PIB, mientras que en el trimestre previo había sido de 9.8 por ciento del
+producto. Ello significó que por séptimo trimestre consecutivo este flujo resultara
+superior a 9 por ciento del PIB.14 El flujo anual de las fuentes internas de
+financiamiento registró una recuperación con respecto a trimestres previos.
+Durante el primer trimestre del año su flujo anual resultó superior al de las fuentes
+de recursos externas, que desde el tercer trimestre de 2011 registraron una
+moderación ante el aumento en la incertidumbre en el entorno financiero global.
+14 La información de flujos anuales de fuentes y usos de recursos financieros se encuentra disponible al
+primer trimestre de 2012.
+B A N C O D E MÉ X I C O
+33
+Cuadro 2
+Fuentes y Usos de Recursos Financieros de la Economía
+Porcentaje del PIB
+2010 IV 2011 I 2011 II 2011 III 2011 IV 2012 I % PIB Est. %
+Total Fuentes 9.8 9.5 10.0 9.6 9.8 10.6 82.9 100.0
+Fuentes Internas 1/ 4.2 4.1 4.1 4.5 5.7 6.4 56.2 67.8
+Fuentes Externas 2/ 5.6 5.5 5.9 5.1 4.1 4.3 26.7 32.2
+Total Usos 9.8 9.5 10.0 9.6 9.8 10.6 82.9 100.0
+Sector Público 3.9 3.6 3.4 3.2 3.0 3.4 39.9 48.1
+Sector Público (RFSP) 3/ 3.5 3.3 3.3 3.1 2.7 3.1 37.3 45.0
+Estados y Municipios 0.4 0.3 0.1 0.2 0.3 0.3 2.6 3.1
+Reserva Internacional 4/ 2.2 2.5 2.5 2.6 2.5 2.4 13.1 15.8
+Sector Privado 2.9 3.2 3.5 3.4 3.2 3.2 32.3 39.0
+Hogares 0.9 1.1 1.3 1.5 1.5 1.6 14.1 17.0
+Consumo 0.2 0.3 0.4 0.6 0.7 0.7 4.2 5.0
+Vivienda 5/ 0.8 0.8 0.9 0.9 0.8 0.8 9.9 12.0
+Empresas 2.0 2.0 2.1 1.9 1.7 1.7 18.2 22.0
+Interno 6/ 1.1 1.2 1.3 1.3 1.3 1.3 11.1 13.4
+Externo 0.9 0.8 0.8 0.7 0.4 0.4 7.1 8.6
+Activos Externos de la Banca Comercial 7/ 0.5 0.3 0.4 -0.1 -0.4 -0.3 1.4 1.7
+Otros Conceptos 8/ 0.3 -0.1 0.2 0.5 1.5 1.9 -3.8 -4.6
+Flujos Anuales Saldo 2012 I
+Fuente: Banco de México.
+Nota: La suma de las partes puede no coincidir con el total debido al redondeo. Cifras preliminares expresadas en por ciento del PIB promedio de los
+últimos cuatro trimestres. En la información de flujos (revalorizados) se elimina el efecto de las variaciones del tipo de cambio.
+1/ Incluye el agregado monetario M4 en poder de Residentes. Los flujos revalorizados anuales de las Fuentes Internas excluyen del M4 el efecto de la
+reforma a la Ley del ISSSTE. La información sobre el saldo de las Fuentes Internas incluye el efecto de esta reforma.
+2/ Incluye el agregado monetario M4 en poder de No Residentes, el endeudamiento externo del Gobierno Federal, de organismos y empresas públicas y
+PIDIREGAS externos, los pasivos externos de la banca comercial y el financiamiento al sector privado no financiero.
+3/ Requerimientos Financieros del Sector Público (RFSP) y su saldo histórico (SHRFSP), reportados por la SHCP. Las cifras de los flujos revalorizados
+excluyen el impacto de la reforma a la Ley del ISSSTE sobre los RFSP. La información del SHRFSP sí incluye el efecto de esta reforma sobre la deuda
+pública.
+4/ Según se define en la Ley del Banco de México.
+5/ Cartera total de los intermediarios financieros, del Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit) y del Fondo de la
+Vivienda del ISSSTE (Fovissste). Incluye programas de reestructura.
+6/ Cartera total de los intermediarios financieros. Incluye programas de reestructura.
+7/ Incluye las disponibilidades en el exterior y el financiamiento externo.
+8/ Incluye cuentas de capital y resultados y otros activos y pasivos de la banca comercial y de desarrollo, del Banco de México, de los intermediarios
+financieros no bancarios y del INFONAVIT, así como pasivos no monetarios del IPAB, entre otros conceptos.
+La información disponible al segundo trimestre de 2012 indica que las
+fuentes de recursos financieros continuaron incrementándose. En el periodo abriljunio
+de 2012, el saldo real del ahorro financiero de la economía, definido como el
+agregado monetario M4 menos el saldo de billetes y monedas en poder del
+público, mantuvo su tendencia de crecimiento. Esta expansión estuvo impulsada
+tanto por el ahorro financiero de no residentes, como por el ahorro financiero de
+residentes (Gráfica 26a).
+A pesar del deterioro que durante el segundo trimestre se registró en
+las condiciones en los mercados financieros internacionales, el saldo del ahorro
+financiero de no residentes se incrementó, gracias a que su tenencia de valores
+gubernamentales de mediano y largo plazos continuó creciendo. Estos
+movimientos reflejan la confianza de los inversionistas en la fortaleza del marco
+macroeconómico del país en relación con el de otras economías. En este sentido,
+el impacto del entorno internacional sobre el ahorro financiero de no residentes
+fue moderado en comparación con el observado en episodios anteriores de
+elevada volatilidad, como por ejemplo en septiembre de 2011 (Gráfica 26b).
+Por su parte, el ahorro financiero de residentes también continuó con su
+tendencia de crecimiento (Gráfica 26c). Por un lado, en el periodo abril-junio de
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+34
+2012, el aumento del ahorro financiero obligatorio estuvo apoyado por el
+incremento del empleo en el sector formal de la economía. Por otro lado, el
+crecimiento de la actividad económica ha permitido que el ahorro financiero
+voluntario continúe con una tendencia ascendente.
+Gráfica 26
+Ahorro Financiero
+a) Ahorro Financiero Total 1/ 2/
+Saldo Real, a. e.
+Billones de pesos de junio de 2012
+b) Ahorro Financiero y Tenencia de
+Valores Gubernamentales de
+No Residentes
+Variación mensual en miles
+de millones de pesos
+c) Ahorro Financiero Residentes 1/ 2/
+Saldo Real, a. e.
+Billones de pesos de junio de 2012
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+8.5
+9.0
+9.5
+J
+2008
+D J
+2009
+D J
+2010
+D J
+2011
+D J
+2012
+Total
+Residentes
+No Residentes
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+J
+2008
+D J
+2009
+D J
+2010
+D J
+2011
+D J
+2012
+Ahorro Financiero No Residentes
+Valores Gobierno Federal No Residentes 3/
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+J
+2008
+D J
+2009
+D J
+2010
+D J
+2011
+D J
+2012
+Millares
+Residentes
+Voluntario
+Obligatorio
+Fuente: Banco de México.
+a. e. / Cifras con ajuste estacional.
+1/ Se define como el agregado monetario M4 menos el saldo de billetes y monedas en poder del público.
+2/ Las cifras están ajustadas para excluir el impacto de la reforma a la Ley del ISSSTE.
+3/ La tenencia de valores gubernamentales está expresada a valor de mercado.
+Por el lado de la utilización de los recursos financieros, la acumulación
+de reservas internacionales presentó un flujo anual de 2.4 por ciento del PIB,
+mientras que en el trimestre anterior había sido de 2.5 por ciento del producto.
+Por su parte, el flujo anual del financiamiento al sector privado fue de 3.2 por
+ciento del producto, similar al registrado en el trimestre previo. A su vez, el flujo
+anual de los recursos canalizados al sector público fue de 3.4 por ciento del PIB,
+lo que representó un incremento respecto al 3.0 registrado en el cuarto trimestre
+de 2011 (Cuadro 2).15 Con relación a este último punto, la mayor utilización de
+recursos por parte del sector público al primer trimestre de 2012 reflejó un
+esfuerzo del gobierno federal para mejorar el ejercicio del gasto presupuestario
+respecto a la calendarización establecida.
+La información más oportuna indica que el financiamiento al sector
+privado no financiero prolongó su trayectoria de expansión en el segundo
+trimestre de 2012. El financiamiento interno a las empresas privadas no
+financieras continuó creciendo con un dinamismo similar al registrado en meses
+previos (Gráfica 27a). Ello fue resultado, principalmente, de la evolución positiva
+del crédito, particularmente el otorgado por la banca comercial. En efecto, el
+saldo del crédito vigente de la banca comercial a las empresas siguió
+aumentando en términos reales anuales a tasas de alrededor de 10 por ciento, de
+manera similar a como lo ha venido haciendo desde inicios de 2011 (Gráfica
+15 La información de flujos anuales de fuentes y usos de recursos financieros se encuentra disponible al
+primer trimestre de 2012.
+B A N C O D E MÉ X I C O
+35
+27b). De hecho, en el periodo que se reporta se observó una ligera aceleración
+en el ritmo de crecimiento de esta cartera. Cabe destacar que la expansión de
+este crédito no ha mostrado señales de sobrecalentamiento en el sector, toda vez
+que las tasas de interés del crédito de la banca comercial a las empresas se
+mantuvieron estables y la morosidad de esta cartera continuó en niveles
+reducidos y sin presentar cambios significativos (Gráfica 28a y Gráfica 28b).
+Gráfica 27
+Financiamiento Interno a las Empresas Privadas No Financieras
+a) Financiamiento Interno a las Empresas
+Privadas No Financieras
+Variación real anual en por ciento
+b) Crédito Vigente de la Banca Comercial a
+las Empresas Privadas No Financieras 2/ 4/
+Variación real anual en por ciento
+-15
+-5
+5
+15
+25
+35
+45
+J
+2008
+D J
+2009
+D J
+2010
+D J
+2011
+D J
+2012
+Total 1/ 2/
+Crédito 1/ 2/ 3/
+Emisión
+-10
+0
+10
+20
+30
+40
+J
+2008
+D J
+2009
+D J
+2010
+D J
+2011
+D J
+2012
+Fuente: Banco de México.
+1/ Estas cifras se ven afectadas por la desaparición de algunos intermediarios financieros no bancarios y su conversión a Sofom No
+Reguladas.
+2/ A partir de febrero 2009, los datos se ven afectados por la reclasificación de créditos a PyMES de la cartera de crédito al consumo a
+la cartera comercial.
+3/ Se refiere a la cartera vigente y vencida. Incluye el crédito de la banca comercial y de desarrollo, así como de otros intermediarios
+financieros no bancarios.
+4/ Entre enero y diciembre de 2007, las cifras se ajustan para no verse distorsionadas por la reclasificación de los créditos puente para
+la construcción de vivienda al sector empresas.
+El mercado de valores interno continuó funcionando con normalidad
+pese a la incertidumbre que persiste en el entorno financiero internacional. Al
+respecto, las empresas continuaron emitiendo deuda bajo condiciones favorables.
+Cabe señalar que la colocación neta de valores de mediano plazo muestra cierta
+volatilidad, debido a que el mercado de deuda privada se caracteriza por la
+participación de un número reducido de empresas. Así, si bien en abril la
+colocación de valores privados de mediano plazo fue menor a los vencimientos
+en 10.5 miles de millones de pesos, al excluir las amortizaciones anticipadas de
+deuda, la colocación fue inferior a los vencimientos en 3.9 miles de millones de
+pesos. Estos pagos anticipados pueden interpretarse como un signo de
+condiciones favorables en la estructura de financiamiento de aquellas empresas
+que los realizaron. Por su parte, en mayo y junio la colocación neta fue positiva
+en cada mes y acumuló 7.9 miles de millones de pesos (Gráfica 29a). A su vez, el
+plazo promedio de las nuevas colocaciones de mediano plazo en el trimestre
+continuó siendo elevado, situándose por encima de seis años. Un elemento
+adicional que apoya la percepción de que el mercado no se vio presionado es
+que las tasas de interés de las emisiones de mediano plazo registraron una
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+36
+reducción por cuarto mes consecutivo. Por su parte, el mercado de deuda privada
+de corto plazo no registró movimientos significativos en la colocación de deuda ni
+en las tasas de interés de colocación (Gráfica 29b). De esta forma, no parecen
+observarse señales de deterioro en los mercados de deuda privada de mediano y
+corto plazos.
+En lo que respecta al crédito a los hogares, éste continuó
+expandiéndose a un ritmo similar al observado en trimestres previos (Gráfica 30).
+Ello se explica, principalmente, por el crecimiento del crédito al consumo de 14.9
+por ciento en términos reales anuales registrado hasta el mes de junio de 2012, y,
+en segundo término, por la expansión de la cartera de crédito para la adquisición
+de vivienda de 3.4 por ciento observada hasta ese mismo mes.
+Gráfica 28
+Tasa de Interés e Índice de Morosidad del Crédito
+de la Banca Comercial a las Empresas Privadas No Financieras
+a) Tasa de Interés de los Nuevos Créditos de la
+Banca Comercial a las Empresas Privadas
+No Financieras 1/ 2/
+Por ciento
+4
+6
+8
+10
+12
+14
+16
+J
+2008
+D J
+2009
+D J
+2010
+D J
+2011
+D J
+2012 *
+b) Índice de Morosidad del Crédito de la Banca
+Comercial a las Empresas Privadas
+No Financieras 3/
+Por ciento
+0
+2
+4
+6
+8
+10
+12
+J
+2008
+D J
+2009
+D J
+2010
+D J
+2011
+D J
+2012
+Fuente: Banco de México.
+*/ Cifras a abril de 2012.
+1/ Se refiere a la tasa de interés de nuevos créditos de la banca comercial a las empresas privadas no financieras, ponderada por el
+saldo asociado de crédito vigente y para todos los plazos solicitados.
+2/ A partir de febrero 2009, los datos se ven afectados por la reclasificación de créditos a PyMES de la cartera de crédito al consumo a
+la cartera comercial.
+3/ El Índice de Morosidad (IMOR) se define como la cartera vencida entre la cartera total.
+B A N C O D E MÉ X I C O
+37
+Gráfica 29
+Valores de Empresas Privadas No Financieras
+a) Colocación Neta de Valores a Mediano Plazo
+de Empresas Privadas No Financieras 1/
+Miles de millones de pesos
+b) Tasas de Valores de Empresas Privadas
+No Financieras
+Por ciento anual
+-15
+-10
+-5
+0
+5
+10
+15
+J
+2008
+D J
+2009
+D J
+2010
+D J
+2011
+D J
+2012
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+J
+2008
+D J
+2009
+D J
+2010
+D J
+2011
+D J
+2012
+Mediano Plazo 2/
+Corto Plazo 3/
+Fuente: Banco de México, con información de Valmer e Indeval.
+1/ Colocaciones menos amortizaciones en el mes (vencimientos y prepagos).
+2/ Colocaciones con un plazo mayor a un año.
+3/ Colocaciones con un plazo de hasta un año.
+Gráfica 30
+Crédito a los Hogares
+Variación real anual en por ciento
+Fuente: Banco de México.
+1/ A partir de febrero 2009, los datos se ven afectados por la reclasificación de créditos a PyMES de la cartera de
+crédito al consumo a la cartera comercial.
+2/ Las cifras a partir de marzo de 2008 incluyen el monto de la cartera de crédito al consumo de las Sofomes
+reguladas subsidiarias de la banca comercial.
+3/ Entre enero y diciembre de 2007, las cifras se ajustan para no verse distorsionadas por la reclasificación de los
+créditos puente para la construcción de vivienda al sector empresas.
+4/ Las cifras se ajustan para no verse distorsionadas por la incorporación a la estadística del Fovissste en diciembre
+2007.
+5/ Se refiere a la cartera vigente y vencida. Incluye el crédito de la banca comercial y de desarrollo, así como de
+otros intermediarios financieros no bancarios.
+6/ Se refiere a la cartera vigente y vencida. Incluye el crédito de la banca comercial y de desarrollo, Infonavit,
+Fovissste, y otros intermediarios financieros no bancarios.
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+J
+2008
+D J
+2009
+D J
+2010
+D J
+2011
+D J
+2012
+Total 1/ 2/ 3/ 4/
+Consumo 1/ 2/ 5/
+Vivienda 3/ 4/ 6/
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+38
+Durante el segundo trimestre de 2012, la cartera de crédito al consumo
+siguió creciendo a un ritmo vigoroso. Ello fue resultado, principalmente, del
+dinamismo que continuaron mostrando los dos segmentos más importantes de
+esta cartera, el de tarjetas de crédito y el de nómina y otros. En particular, este
+último continuó aumentando a tasas significativamente más elevadas que otros
+componentes de la cartera de consumo, si bien en meses recientes se ha
+observado una moderación en su ritmo de expansión (Gráfica 31a). Por su parte,
+la calidad de esta cartera continúa sin mostrar señales de deterioro, como lo
+sugiere el correspondiente índice de morosidad que permanece en niveles bajos
+y sin manifestar cambios significativos (Gráfica 31b).
+Gráfica 31
+Crédito de la Banca Comercial al Consumo
+a) Crédito Vigente de la Banca Comercial
+al Consumo 1/
+Variación real anual en por ciento
+b) Índice de Morosidad del Crédito de
+la Banca Comercial al Consumo 6/
+Por ciento
+0
+2
+4
+6
+8
+10
+12
+J
+2008
+D J
+2009
+D J
+2010
+D J
+2011
+D J
+2012
+Fuente: Banco de México.
+1/ Incluye la cartera de crédito de las Sofomes reguladas de tarjetas de crédito: Tarjetas Banamex, Santander Consumo, Ixe Tarjetas y
+Sociedad Financiera Inbursa. A partir de febrero 2009, los datos se ven afectados por la reclasificación de créditos a PyMES de la cartera
+de crédito al consumo a la cartera comercial.
+2/ Entre junio de 2010 y mayo de 2011, las cifras se ajustan para no verse distorsionadas por la compra de cartera automotriz de una
+institución bancaria.
+3/ A partir de julio 2011, las cifras se ajustan para no verse distorsionadas por la reclasificación de ABCD a otros créditos al consumo por
+parte de una institución bancaria.
+4/ Incluye crédito para la adquisición de bienes muebles y crédito automotriz.
+5/ “Otros” se refiere a créditos personales, crédito para operaciones de arrendamiento capitalizable y otros créditos al consumo.
+6/ El índice de morosidad (IMOR) se define como la cartera vencida entre la cartera total.
+El crédito para la adquisición de vivienda continuó incrementándose
+como resultado de los mayores recursos otorgados tanto por el Infonavit como
+por la banca comercial (Gráfica 32a).16 Por un lado, el Infonavit expandió su
+cartera vigente a una tasa mensual promedio de 6.3 por ciento en términos reales
+anuales durante el periodo abril-junio de 2012. A su vez, la banca comercial
+incrementó el saldo del crédito vigente en 6.6 por ciento para el mismo periodo.
+Por su parte, las tasas de interés correspondientes que prevalecen en el mercado
+y los índices de morosidad del crédito a la vivienda continúan en niveles bajos y
+16 El Infonavit y la banca comercial son los principales oferentes de crédito para la adquisición de vivienda
+con participaciones correspondientes al mes de junio de 2012 de 56.7 y 29.9 por ciento de la cartera total
+de crédito a la vivienda. El resto de este tipo de préstamos lo otorga el Fovissste (9.9 por ciento) y los
+otros intermediarios financieros no bancarios (3.5 por ciento).
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+J
+2008
+D J
+2009
+D J
+2010
+D J
+2011
+D J
+2012
+Total 2/
+Tarjetas de Crédito
+ABCD 2/ 3/ 4/
+Nómina y Otros 3/ 5/
+B A N C O D E MÉ X I C O
+39
+estables. Así, en un contexto de crecimiento del crédito sostenido, los indicadores
+de costos del crédito hipotecario y de la calidad de la cartera no parecen sugerir
+un sobrecalentamiento del sector (Gráfica 32b y Gráfica 32c).
+Gráfica 32
+Crédito a la Vivienda
+a) Crédito Vigente a la Vivienda
+Variación real anual en por ciento
+b) Costos del Crédito de la Banca
+Comercial a la Vivienda
+Por ciento
+c) Índices de Morosidad del
+Crédito a la Vivienda 3/
+Por ciento
+0
+4
+8
+12
+16
+20
+24
+28
+32
+J
+2008
+D J
+2009
+D J
+2010
+D J
+2011
+D J
+2012
+Rango CAT max-min
+CAT promedio 2/
+0
+2
+4
+6
+8
+10
+12
+J
+2008
+D J
+2009
+D J
+2010
+D J
+2011
+D J
+2012
+Infonavit
+Banca Comercial
+Fuente: Banco de México.
+1/ Entre enero y diciembre de 2007, las cifras se ajustan para no verse distorsionadas por la reclasificación de los créditos puente para la construcción de
+vivienda al sector empresas. Asimismo, se ajustan para no verse distorsionadas por el efecto del traspaso de la cartera del fideicomiso UDIS al balance de la
+banca comercial y por la reclasificación de créditos en cartera directa a ADES.
+2/ Promedio simple del indicador que resume el costo anual total del crédito (CAT) para un producto hipotecario estándar. La información del CAT se obtiene del
+simulador del Banco de México.
+3/ El índice de morosidad (IMOR) se define como la cartera vencida entre la cartera total.
+De esta sección se deriva que el sistema financiero nacional continúa
+apoyando el crecimiento económico, pero gracias a su capitalización y fortaleza
+(reflejada entre otros factores en un bajo índice de morosidad), hay espacio para
+que siga creciendo sin repercusiones significativas sobre las tasas de interés.
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+J
+2008
+D J
+2009
+D J
+2010
+D J
+2011
+D J
+2012
+Infonavit
+Banca Comercial 1/
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+40
+4. Política Monetaria y Determinantes de la Inflación
+Durante el periodo que cubre este Informe la postura de política
+monetaria se mantuvo congruente con el proceso de convergencia de la inflación
+hacia el objetivo permanente de 3 por ciento, tomando en consideración el
+intervalo de variabilidad de más o menos un punto porcentual alrededor del
+referido objetivo. Así, la Junta de Gobierno del Banco de México decidió
+mantener su objetivo para la Tasa de Interés Interbancaria a un día en un nivel de
+4.5 por ciento durante el periodo que se reporta (Gráfica 33).
+Gráfica 33
+Tasa de Interés Interbancaria a 1 Día 1/
+Por ciento anual
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+D M J S D M J S D M J S D M J S D M J S D M J S D M J S D M J S D M J S D M J
+2004 2006 2008 2010 2012
+1/ A partir del 21 de enero de 2008 se muestra el objetivo para la Tasa de Interés Interbancaria a 1 día.
+Fuente: Banco de México.
+Entre los elementos que se tomaron en cuenta en la conducción de la
+política monetaria destacan:
+i. Que la actividad económica continúa mostrando una tendencia positiva
+a pesar de un entorno internacional adverso.
+ii. Que como se tenía previsto, se sigue observando un aumento en el
+precio relativo de las mercancías respecto al de los servicios, en
+congruencia con los ajustes cambiarios que han tenido lugar en
+respuesta al deterioro del entorno internacional. El impacto sobre la
+inflación de estos ajustes ha sido moderado y se prevé que sea
+temporal.
+iii. Que se anticipa que el repunte de la inflación no subyacente sea
+temporal. Dicho aumento, como se mencionó, ha estado asociado con
+el incremento en los precios de un grupo reducido de bienes
+agropecuarios (primordialmente hortalizas, como el jitomate y el tomate
+verde), debido a factores climáticos, y más recientemente con la
+B A N C O D E MÉ X I C O
+41
+detección de influenza aviar en granjas de Jalisco que limitará la
+producción de huevo.
+iv. Que se prevé que los ajustes en precios relativos antes referidos
+continúen sin generar efectos de segundo orden en el proceso de
+formación de precios de la economía, dado el bajo traspaso de la
+inflación no subyacente a la subyacente y de los movimientos
+cambiarios a los precios. En este contexto, cabe destacar que las
+expectativas de inflación de los analistas del sector privado permanecen
+ancladas dentro del intervalo de variabilidad de más o menos un punto
+porcentual alrededor de la meta permanente de 3 por ciento.
+De manera congruente con el comportamiento de la economía descrito
+en la sección previa, durante el segundo trimestre de 2012 la brecha del producto
+prácticamente se ha cerrado, situándose en niveles cercanos a cero (Gráfica 34).
+Aun así, la evolución de diversos indicadores relacionados con el uso de los
+recursos productivos sugiere que no hay presiones sobre los precios en los
+mercados de insumos, como el laboral y el crediticio, a la vez que no se aprecian
+presiones de demanda sobre las cuentas externas del país ni sobre los precios
+de la economía. En particular:
+Gráfica 34
+Estimación de la Brecha del Producto 1/
+Porcentaje del producto potencial, a. e.
+-12.0
+-10.0
+-8.0
+-6.0
+-4.0
+-2.0
+0.0
+2.0
+4.0
+6.0
+8.0
+E
+2004
+M S E
+2005
+M S E
+2006
+M S E
+2007
+M S E
+2008
+M S E
+2009
+M S E
+2010
+M S E
+2011
+M S E
+2012
+M
+Producto Interno Bruto
+IGAE
+Intervalo al 95%de Conf ianza
+2/
+2/
+3/
+1/ Estimadas con el filtro de Hodrick-Prescott con corrección de colas; véase Informe sobre la Inflación Abril-Junio
+2009, Banco de México, pág. 74.
+2/ Cifras del PIB al primer trimestre de 2012, cifras del IGAE a mayo de 2012.
+3/ Intervalo de confianza de la brecha del producto calculado con un método de componentes no observados.
+a. e. / Elaborada con cifras ajustadas por estacionalidad.
+Fuente: Elaborado por Banco de México con información del INEGI.
+a) En cuanto al mercado laboral, si bien el número de trabajadores
+asegurados en el IMSS continuó mostrando una tendencia positiva
+(Gráfica 35a), las tasas de desocupación, de ocupación en el sector
+informal y de subocupación permanecen en niveles superiores a los
+observados antes de la crisis y no muestran una tendencia clara a la
+baja (Gráfica 35b). Asimismo, a pesar de que los indicadores asociados
+a la destrucción de empleos, así como a la duración del desempleo, han
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+42
+registrado cierta mejoría, aún se mantienen en niveles elevados
+(Gráfica 35c y Gráfica 35d).
+b) Como se mencionó anteriormente, la masa salarial continuó viéndose
+afectada por las variaciones anuales negativas registradas por los
+ingresos reales percibidos por los trabajadores. En efecto, las
+variaciones reportadas por los principales indicadores salariales de la
+economía siguen siendo moderadas. Lo anterior, en adición a una
+creciente productividad media del trabajo, condujo a que los costos
+laborales unitarios continuaran presentando una tendencia decreciente
+en el trimestre que se reporta, lo cual ha implicado una ausencia de
+presiones inflacionarias provenientes del comportamiento de dichos
+costos (Gráfica 36).
+c) La evolución del financiamiento al sector privado no financiero sugiere
+que no hay señales de sobrecalentamiento que pudieran dar lugar a
+presiones sobre las tasas de interés en dicho mercado.
+d) Como ya se mencionó, se prevé que la cuenta corriente habrá
+presentado un déficit moderado que fue plenamente financiado en el
+segundo trimestre. Así, no se observaron presiones de demanda sobre
+las cuentas externas del país.
+Gráfica 35
+Indicadores del Mercado Laboral
+a) Trabajadores Asegurados en el IMSS1/
+Millones de personas
+b) Tasas de Desocupación y Subocupación y
+Tasa de Ocupación en el Sector Informal
+Por ciento, a. e.
+13.0
+13.5
+14.0
+14.5
+15.0
+15.5
+E
+2006
+A J O E
+2007
+A J O E
+2008
+A J O E
+2009
+A J O E
+2010
+A J O E
+2011
+A J O E
+2012
+A J
+Orig inal
+Desestacionalizada
+4.98 9.91 29.43
+3
+5
+7
+9
+11
+13
+15
+17
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+E
+2006
+M S E
+2007
+M S E
+2008
+M S E
+2009
+M S E
+2010
+M S E
+2011
+M S E
+2012
+MJ
+Tasa de Ocupación en el Sector Informal 1/
+Subocupación
+Tasa de Desocupación Nacional
+1/ Permanentes totales y eventuales urbanos.
+Fuente: IMSS. Desestacionalización efectuada por Banco de
+México.
+1/ Datos desestacionalizados por Banco de México.
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Encuesta Nacional de Ocupación y Empleo, INEGI.
+B A N C O D E MÉ X I C O
+43
+c) Porcentaje de Ocupados que Pasaron a
+Estar Desocupados al Siguiente Trimestre1/
+Por ciento
+d) Duración del Desempleo
+Semanas Promedio en Búsqueda de Trabajo
+1.4
+1.9
+2.4
+2.9
+II
+2005
+IV II
+2006
+IV II
+2007
+IV II
+2008
+IV II
+2009
+IV II
+2010
+IV II
+2011
+IV II
+2012
+6
+7
+8
+9
+10
+11
+I
+2005
+III I
+2006
+III I
+2007
+III I
+2008
+III I
+2009
+III I
+2010
+III I
+2011
+III I II
+2012
+1/ Sólo se consideran ocupados con entrevista válida al siguiente trimestre.
+Fuente: Cálculos elaborados por Banco de México con información de la Encuesta Nacional de Ocupación y Empleo, INEGI.
+Gráfica 36
+Productividad y Costo Unitario de la Mano de Obra en el Sector Manufacturero
+Índice 2008=100, a. e.
+88
+93
+98
+103
+108
+E
+2007
+M M J S N E
+2008
+M M J S N E
+2009
+M M J S N E
+2010
+M M J S N E
+2011
+M M J S N E
+2012
+M M
+Costo Unitario
+Productividad
+a. e. / Cifras con ajuste estacional y de tendencia.
+Fuente: Elaboración de Banco de México a partir de información desestacionalizada de la Encuesta Mensual de la
+Industria Manufacturera, INEGI.
+Por su parte, las expectativas de inflación han permanecido ancladas
+dentro del intervalo de variabilidad de más o menos un punto porcentual
+alrededor del objetivo permanente de 3 por ciento. No obstante, aquellas
+correspondientes a horizontes de corto plazo mostraron un repunte al final del
+periodo que se reporta, lo que estuvo asociado a los ajustes en precios relativos
+antes referidos, en particular de los precios de productos agropecuarios. Así, de
+acuerdo a la encuesta realizada por el Banco de México, el promedio de las
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+44
+expectativas de inflación general para el cierre de 2012 presentó un aumento,
+pasando de 3.68 por ciento en la encuesta de abril a 3.91 por ciento en la
+encuesta de julio de 2012 (Gráfica 37a).17 Lo anterior se debió, principalmente, al
+incremento de la expectativa implícita para el componente no subyacente, la cual
+pasó de 4.34 por ciento en abril a 5.07 por ciento en julio. Por su parte, el
+promedio de las expectativas del componente subyacente presentó un ajuste
+menor al pasar de 3.48 a 3.56 por ciento en el mismo periodo. Con base en la
+misma encuesta, el promedio de las expectativas de inflación general para el
+cierre de 2013 permaneció cercano a 3.65 por ciento durante el periodo de
+referencia.18 Por su parte, el promedio del componente subyacente permaneció
+alrededor de 3.45 por ciento, mientras que el correspondiente al componente no
+subyacente se mantuvo cerca de 4.40 por ciento (Gráfica 37b).
+Gráfica 37
+Expectativas de Inflación General, Subyacente y No Subyacente
+a) Cierre 2012
+Por ciento
+b) Cierre 2013
+Por ciento
+3.0
+3.2
+3.4
+3.6
+3.8
+4.0
+4.2
+4.4
+4.6
+4.8
+5.0
+5.2
+5.4
+5.6
+E M M J S N E M M J S N E M M J
+General
+Subyacente
+No Subyacente
+2010 2011 2012
+5.07
+3.91
+3.56
+3.0
+3.2
+3.4
+3.6
+3.8
+4.0
+4.2
+4.4
+4.6
+4.8
+5.0
+5.2
+5.4
+5.6
+E F M A M J J A S O N D E F M A M J J
+General
+Subyacente
+No Subyacente
+2011 2012
+4.40
+3.65
+3.42
+Fuente: Encuesta de Banco de México. Fuente: Encuesta de Banco de México.
+En cuanto a las expectativas de inflación a horizontes de mediano y
+largo plazo, éstas se han mantenido relativamente estables en los últimos meses.
+Así, de acuerdo con la encuesta que levanta el Banco de México, el promedio de
+las expectativas de inflación para los siguientes 4 años se mantuvo alrededor de
+3.6 por ciento entre abril y julio, mientras que el promedio de las expectativas
+correspondientes a los siguientes 5 a 8 años permaneció alrededor de 3.5 por
+ciento en el mismo periodo (Gráfica 38a).
+17 De acuerdo a la Encuesta de Expectativas de Analistas de Mercados Financieros de Banamex del 29 de
+marzo de 2012, el promedio de las expectativas para el cierre de 2012 se ubicó en 3.73 por ciento,
+mientras que en la encuesta del 6 de agosto de 2012 la media se situó en 3.99 por ciento. Las
+expectativas para el componente subyacente de la inflación se ubicaron en 3.56 por ciento en la
+encuesta del 29 de marzo de 2012, mientras que registraron una media de 3.63 por ciento en la
+encuesta del 6 de agosto de 2012. Por su parte, la expectativa implícita del componente no subyacente
+pasó de 4.29 por ciento a 5.18 por ciento en el periodo referido.
+18 De acuerdo a la Encuesta de Expectativas de Analistas de Mercados Financieros de Banamex del 6 de
+agosto de 2012, el promedio de las expectativas para la inflación general del año 2013 se ubicó en 3.69
+por ciento. Por su parte, la media para las expectativas del componente subyacente presentó un nivel de
+3.49 por ciento y el promedio de la expectativa implícita para el componente no subyacente se situó en
+4.35 por ciento.
+B A N C O D E MÉ X I C O
+45
+Como complemento a la información que se obtiene de las encuestas
+antes referidas, a partir de la evolución de las tasas de interés de largo plazo se
+puede calcular la compensación por inflación y riesgo inflacionario (diferencia
+entre el rendimiento nominal del bono a 10 años y el rendimiento real
+correspondiente a los instrumentos de deuda indizados a la inflación del mismo
+plazo). En un contexto de elevada volatilidad en los mercados financieros
+internacionales, en las últimas semanas este indicador revirtió parte del
+incremento que había presentado a principios del segundo trimestre del año, para
+ubicarse en niveles cercanos a 3.85 por ciento. Considerando que la prima por
+riesgo inflacionario tiene un valor positivo y está incluida en el indicador de
+compensación por inflación y riesgo inflacionario, se desprende que las
+expectativas de inflación implícitas en las tasas de interés de largo plazo son
+inferiores a dicho nivel (Gráfica 38b).
+Gráfica 38
+Expectativas de Inflación General Anual y Compensación por Inflación
+y Riesgo Inflacionario en Bonos de Largo Plazo
+a) Expectativas de Inflación
+General Anual 1/
+Por ciento
+b) Compensación por Inflación
+y Riesgo Inflacionario 2/
+Por ciento
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+E A J O E A J O E A J
+Siguientes 12 Meses
+Cierre 2013
+Siguientes 4 Años
+Siguientes 5-8 Años
+Intervalo de Variabil idad
+2010 2011 2012
+3.00
+3.25
+3.50
+3.75
+4.00
+4.25
+4.50
+4.75
+5.00
+5.25
+5.50
+D A A D A A D A A D A A D A A D A A D A A D A A
+Compensación Impl ícita en Bonos a 10
+Años
+Media Móvil 20 Días
+2005 2006 2007 2008 2009 2010 2011
+Dic 08 Dic 09 Dic 10 Dic 11
+2012
+1/ Último dato disponible: julio 2012.
+Fuente: Encuesta de Banco de México.
+2/ La compensación por inflación y riesgo inflacionario
+implícita en bonos a 10 años se calcula con base en los
+datos de tasas de interés nominal y real del mercado
+secundario.
+Fuente: Estimación de Banco de México con datos de
+Bloomberg.
+Como se señaló, ante la falta de soluciones definitivas a los problemas
+fiscales y financieros en la zona del euro, durante el segundo trimestre
+nuevamente se observó un incremento en la incertidumbre en los mercados
+financieros internacionales. En este contexto, se observó una reasignación
+masiva de inversiones hacia activos considerados como refugios de valor, lo que
+afectó a los mercados cambiarios y financieros domésticos de las economías
+emergentes.
+De manera similar a lo que sucedió con las monedas de otras
+economías emergentes, en el caso de México la moneda nacional experimentó
+una depreciación importante y una mayor volatilidad durante abril y mayo,
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+46
+alcanzando niveles mayores a los registrados en la segunda mitad de 2011
+(Gráfica 39a). Ante este entorno de elevada volatilidad cambiaria, conforme a los
+mecanismos autorizados por la Comisión de Cambios, durante el periodo de este
+Informe se realizaron asignaciones en las subastas de dólares con precio mínimo
+por un monto total de 646 millones de dólares.19,20 Al respecto, conviene señalar
+que el mercado cambiario ha presentado un funcionamiento ordenado. Así, a
+pesar del entorno de incertidumbre en la economía global, la volatilidad implícita
+en opciones sobre el tipo de cambio no alcanzó los niveles registrados a
+mediados de 2011 (Gráfica 39b).
+Gráfica 39
+Tipo de Cambio y Volatilidad Implícita en Opciones sobre Tipo de Cambio
+a) Tipo de Cambio
+Pesos por dólar
+b) Volatilidad Implícita en Opciones
+sobre Tipo de Cambio 1/
+Por ciento
+9
+10
+11
+12
+13
+14
+15
+16
+E M S E M S E M S E M S E M S E M S E M
+2006 2007 2008 2009 2010 2011 2012
+A
+0
+10
+20
+30
+40
+50
+60
+70
+80
+E M S E M S E M S E M S E M S E M S E M
+2006 2007 2008 2009 2010 2011 2012
+A
+Fuente: Banco de México. 1/ Se refiere a opciones a un mes.
+Fuente: Bloomberg.
+El ajuste en el tipo de cambio nominal, junto con la evolución de la
+inflación y sus expectativas, ha conducido a una depreciación del tipo de cambio
+real, que ha atenuado el impacto negativo de un entorno externo adverso sobre la
+economía de México. Así, el régimen de tipo de cambio flexible se ha constituido
+como un elemento importante dentro del marco para la conducción de la política
+macroeconómica en México, que permite absorber parcialmente los efectos de
+los choques externos que impactan a la economía doméstica.
+La fortaleza de los fundamentos económicos en México ha generado un
+entorno de confianza en los mercados financieros nacionales, que junto con la
+mejoría en las condiciones en los mercados financieros a raíz del anuncio de
+algunas medidas por parte de las autoridades europeas, contribuyó a que a partir
+de junio el peso registrara una tendencia hacia la apreciación, si bien con cierta
+volatilidad, revirtiendo con ello parte del ajuste que presentó a principios del
+segundo trimestre.
+19 Véase Comunicado de Prensa de la Comisión de Cambios del 29 de noviembre de 2011.
+20 Específicamente, las subastas se realizaron el 23 de mayo de 2012 (258 millones de dólares), el 31 de
+mayo de 2012 (107 millones de dólares), y el 23 de julio de 2012 (281 millones de dólares).
+B A N C O D E MÉ X I C O
+47
+Por lo que se refiere a las tasas de interés domésticas, durante el
+periodo que cubre este Informe, éstas mostraron un desempeño favorable. Por
+una parte, como reflejo de las decisiones de política monetaria, las tasas de
+interés de plazos cortos permanecieron estables alrededor de 4.5 por ciento
+(Gráfica 40a). Por otra, a pesar de la incertidumbre prevaleciente en los
+mercados financieros internacionales, las tasas de interés de mayor plazo
+continuaron presentando una tendencia a la baja, si bien con cierta volatilidad, lo
+que propició que la curva de rendimientos se aplanara durante el periodo de
+referencia (Gráfica 40b). En adición a lo anterior, aun cuando las tasas de interés
+de mayor plazo en México hayan presentado una disminución importante para
+situarse en niveles históricamente bajos, es importante mencionar que los
+diferenciales de tasas de interés de largo plazo entre México y Estados Unidos se
+mantuvieron en niveles mayores a los observados hasta antes de la segunda
+mitad de 2011 (Gráfica 40c).
+Gráfica 40
+Tasas de Interés en México
+a) Tasas de Interés de Valores
+Gubernamentales 1/
+Por ciento
+b) Curva de Rendimientos
+Por ciento
+c) Diferenciales de Tasas de Interés
+entre México y Estados Unidos 2/
+Por ciento
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+8.5
+9.0
+9.5
+10.0
+10.5
+11.0
+11.5
+12.0
+J S D M J S D M J S D M J S D M J S D M J
+1 Día
+3 Meses
+1 Año
+10 Años
+30 Años
+Dic 09 Dic 10 Dic 11
+2007 2008 2009 2010 2011 2012
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+8.5
+9.0
+1 1 3 6 1 2 5 10 20 30
+30-dic-11
+29-mar-12
+29-jun-12
+13-ago-12
+día meses años
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+E A J O E A J O E A J O E A J O E A J O E A J
+1 Día
+3 Meses
+1 Año
+10 Años
+30 Años
+2007 2008 2009 2010 2011 2012
+Dic 09 Dic 10 Dic 11
+1/ A partir del 21 de enero de 2008, la tasa de
+interés a 1 día corresponde al objetivo para la
+Tasa de Interés Interbancaria a 1 día.
+Fuente: Proveedor Integral de Precios (PiP).
+Fuente: Proveedor Integral de Precios (PiP). 2/ Para la tasa objetivo de Estados Unidos se
+considera el promedio del intervalo considerado
+por la Reserva Federal.
+Fuente: Proveedor Integral de Precios (PiP) y
+Departamento del Tesoro Norteamericano.
+En el periodo que se reporta se incrementó la tenencia de valores
+gubernamentales de mediano y largo plazos por parte de inversionistas no
+residentes (Gráfica 41). Esto reafirma la confianza en la economía de México y,
+por consiguiente, que los activos financieros antes referidos continúan siendo
+atractivos para los inversionistas extranjeros.
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+48
+Gráfica 41
+Tenencia de Valores Gubernamentales de Residentes en el Extranjero
+Miles de millones de pesos
+-
+100
+200
+300
+400
+500
+600
+700
+800
+900
+E F MM J J S ON E F MM J J S ON E F MM J J S ON E F MM J J S ON E F MM J J
+Bonos
+CETES
+2008 2009 2010 2011 2012
+0
+Fuente: Banco de México.
+A partir del análisis de los determinantes de la inflación, no parecen
+observarse presiones generalizadas sobre los precios en la economía. En
+particular, como se había previsto, el cambio en el precio relativo de las
+mercancías respecto a los servicios, que se ha venido observando, no ha
+afectado a los precios de los bienes y servicios que no están directamente
+relacionados con este proceso. Es decir, no ha contaminado el proceso de
+formación de precios y se anticipa que continúe sin hacerlo. Esta previsión se
+fundamenta, primordialmente, en los siguientes factores:
+i. La expectativa de los analistas de mercado respecto a que en lo que
+resta del año, el tipo de cambio nominal continúe revirtiendo parte de la
+depreciación que registró a principios del segundo trimestre (Gráfica
+42).
+ii. La ausencia de ajustes generalizados en precios por parte de las
+empresas en respuesta a las variaciones del tipo de cambio ya que, en
+opinión de directivos empresariales entrevistados por el Banco de
+México, actualmente éstas enfrentan condiciones de mayor
+competencia y pudieran perder participación en el mercado.
+iii. La evidencia empírica de un bajo traspaso de movimientos del tipo de
+cambio a la inflación en México, que los datos más recientes han
+confirmado.
+En suma, y en congruencia con las consideraciones anteriores, las
+expectativas de inflación de los analistas económicos del sector privado
+permanecen ancladas dentro del intervalo de variabilidad de más o menos un
+punto porcentual alrededor del objetivo de 3 por ciento.
+B A N C O D E MÉ X I C O
+49
+Gráfica 42
+Tipo de Cambio y Expectativas de Tipo de Cambio al Cierre de 2012 y 2013 1/
+Pesos por dólar
+11.0
+11.5
+12.0
+12.5
+13.0
+13.5
+14.0
+14.5
+N D E F M A M J J A S O N D E F M A M J J A
+Observado
+Cierre 2012
+Cierre 2013
+2010 2011 2012
+12.66
+12.93
+13.15
+1/ El tipo de cambio observado es el dato diario del tipo de cambio FIX. El último dato del tipo de cambio observado
+corresponde al 13 de agosto de 2012. Para el caso de las expectativas, el último dato corresponde al 6 de agosto
+de 2012.
+Fuente: Banco de México y Encuesta de Expectativas de Analistas de Mercados Financieros de Banamex.
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+50
+5. Previsiones para la Inflación y Balance de Riesgos
+En un entorno de mayor incertidumbre para la economía mundial, las expectativas sobre el crecimiento de Estados Unidos se revisaron a la baja respecto a lo previsto en el Informe anterior, reafirmándose así la percepción de que el crecimiento en ese país se ubicará por debajo de su tendencia histórica en los próximos años.21 En particular:
+a) Para 2012 se espera que el PIB estadounidense crezca a una tasa de 2.2 por ciento, cifra por debajo de la de 2.3 por ciento presentada en el Informe anterior. De igual forma, la expectativa correspondiente a 2013 pasó de 2.5 por ciento en el Informe previo, a 2.1 por ciento en el actual.
+b) El pronóstico de crecimiento para la producción industrial de 2012 en Estados Unidos se modificó de 4.2 por ciento en el Informe del primer trimestre del año, a 4.1 por ciento en el presente. Para 2013 la tasa de crecimiento esperada para este indicador se revisó a la baja de 3.3 por ciento en el Informe anterior, a 2.8 por ciento.
+Crecimiento de la Economía Nacional: Teniendo en consideración la evolución más reciente de los indicadores de la economía nacional descrita en este Informe, así como las expectativas sobre el crecimiento de la producción industrial en Estados Unidos, las previsiones sobre la tasa de crecimiento del PIB de México se mantienen sin cambio respecto a las reportadas en el Informe anterior, tanto para 2012, como para 2013. No obstante, como se verá más adelante, se considera que el balance de riesgos asociado a dicho escenario se ha deteriorado. Así, para 2012 se anticipa que la variación anual del PIB de México se encuentre entre 3.25 y 4.25 por ciento, mientras que para 2013 se prevé un crecimiento de la economía mexicana de entre 3.0 y 4.0 por ciento (Gráfica 43a).
+Empleo: Derivado de lo anterior, las expectativas sobre el incremento en el número de trabajadores asegurados en el IMSS en 2012 y 2013 también se mantienen sin cambio respecto al Informe anterior. En particular, para 2012 se anticipa un aumento de entre 540 y 640 mil personas, en tanto que para 2013 el incremento esperado de este indicador es de entre 500 y 600 mil personas.
+Cuenta Corriente: Para 2012 se estiman déficits de 3.1 miles de millones de dólares para la balanza comercial (0.3 por ciento del PIB) y de 10.5 miles de millones de dólares para la cuenta corriente (0.9 por ciento del PIB). El moderado déficit de la cuenta corriente esperado para 2012, junto con las acciones que ha tomado el Gobierno Federal para financiar sus obligaciones de deuda externa para ese año, sugiere que no existirán problemas para financiarlo y que no habrá por esta fuente presiones sobre el tipo de cambio durante el periodo de referencia. Para 2013 se esperan déficits en balanza comercial y cuenta corriente de 7.5 y 18.0 miles de millones de dólares, respectivamente. En
+21 Las expectativas para la economía de Estados Unidos se basan en el consenso de los analistas encuestados por Blue Chip en agosto de 2012.
+B A N C O D E MÉ X I C O
+51
+términos del PIB, estas cifras corresponden a 0.6 y 1.4 por ciento, en el mismo
+orden.
+Dado el moderado crecimiento que se espera para la economía
+mexicana, se anticipa que la brecha del producto permanezca en niveles
+cercanos a cero, si bien con una ligera tendencia al alza (Gráfica 43b). De este
+modo, no se prevén presiones sobre la inflación derivadas del comportamiento de
+la demanda agregada en el horizonte de pronóstico. En efecto, como se ha
+señalado en este Informe, no se perciben presiones sobre los precios en los
+mercados de insumos, como el laboral y el crediticio, ni sobre las cuentas
+externas.
+Gráfica 43
+Gráficas de Abanico: Crecimiento del PIB y Brecha del Producto
+a) Crecimiento del Producto, a. e.
+Por ciento anual
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4
+2013
+T4
+2011
+T4
+2012
+T4
+2008 2010 2012
+b) Brecha del Producto 1/
+Por ciento
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4
+2013
+T4
+2011
+T4
+2012
+T4
+2008 2010 2012
+a. e. / Cifras con ajuste estacional.
+Fuente: INEGI y Banco de México.
+1/ Elaborado con cifras desestacionalizadas.
+Fuente: Banco de México.
+Cabe resaltar que, si bien la economía mexicana se ha mantenido
+resistente ante el entorno internacional actual, las adversas condiciones
+económicas mundiales han conducido a que el balance de riesgos para el
+crecimiento de México se haya deteriorado en relación al Informe anterior. En
+particular, las dificultades para solucionar de manera definitiva los problemas en
+la zona del euro han incrementado la incertidumbre y volatilidad en los mercados
+financieros, prevalece la indefinición sobre el ajuste fiscal en Estados Unidos y la
+actividad económica en las principales economías emergentes se ha
+desacelerado. Como se señaló, esta situación ha llevado a un deterioro en las
+expectativas de crecimiento mundial. En este sentido, persisten los siguientes
+riesgos a la baja:
+i. Una evolución más débil de la economía estadounidense generaría un
+entorno menos favorable para el crecimiento económico de México. Un
+factor que podría influir en el crecimiento en el corto plazo es la
+posibilidad de que se observe una consolidación fiscal mayor a la
+anticipada por los analistas económicos en ese país. Cabe señalar que
+la incertidumbre en torno a esta materia podría, en general, afectar
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+52
+negativamente la confianza de los consumidores y de los productores de Estados Unidos, además de distorsionar las decisiones de inversión.
+ii. Asimismo, el crecimiento de Estados Unidos, al igual que el de otras economías del mundo, podría deteriorarse como consecuencia de un mayor incremento en la incertidumbre y la volatilidad financiera derivado de las dificultades fiscales y financieras en la zona del euro. Los posibles canales por los que la situación en Europa podría afectar a la economía estadounidense incluyen un contagio del sistema financiero de ese país, así como una disminución en la demanda global.
+iii. Adicionalmente, la situación en Europa podría incrementar la búsqueda de activos de refugio por parte de los inversionistas, ocasionando una reducción en la captación de recursos de economías como la mexicana.
+iv. La desaceleración de economías emergentes como las de China, India y Brasil, que hasta hace unos meses habían venido soportando parte del crecimiento económico mundial, podría intensificar el deterioro de la demanda global.
+v. Finalmente, en opinión de los especialistas en economía encuestados por el Banco de México, la inseguridad pública y la ausencia de cambios estructurales continúan siendo factores que, junto con los problemas en la economía mundial y la inestabilidad financiera internacional, podrían obstaculizar el crecimiento de nuestro país.
+Inflación: El pronóstico sobre la inflación para lo que resta de 2012 y 2013 es congruente con el proceso de convergencia hacia el objetivo permanente de 3 por ciento. En lo principal, ello es resultado de una política monetaria orientada a la consecución de dicho objetivo. Así, en el horizonte señalado lo más probable es que la inflación general anual se ubique en un intervalo comprendido entre 3 y 4 por ciento (Gráfica 44). No obstante, como consecuencia del comportamiento esperado del componente no subyacente, que se estima podría ser afectado por las cotizaciones de un grupo reducido de hortalizas, así como por la detección de influenza aviar en granjas de Jalisco que limitará la producción de huevo, el pronóstico antes descrito para la inflación general anual exceptúa al tercer trimestre de 2012 en el que es posible que esta variable rebase la cota superior del citado intervalo.
+En lo que corresponde a la inflación subyacente anual se anticipa que hacia finales de 2012 ésta sea cercana a 3 por ciento, y que en 2013 fluctúe alrededor de dicho nivel (Gráfica 45). Se estima que este indicador exhibirá un nivel promedio menor en 2013, ya que se prevé que en dicho año se desvanecerán los efectos asociados a los incrementos que se han presentado en los precios de algunos alimentos derivados de las alzas en los precios internacionales de los granos.
+El entorno de inflación baja que se tiene previsto será influido, en adición a la postura de política monetaria, por cuatro factores principales:
+I. Un crecimiento global relativamente débil, perspectiva que se ha venido acentuando en el curso de 2012.
+B A N C O D E MÉ X I C O
+53
+II. Si bien la holgura en el mercado laboral se ha estrechado
+gradualmente, no se anticipan presiones de demanda considerables en
+la economía nacional.
+III. Mayor intensidad en la competencia de algunos sectores, como el de la
+industria de las telecomunicaciones.
+IV. El desvanecimiento de las perturbaciones asociadas a las alzas que
+registraron los precios de las materias primas durante la primera parte
+de 2011.
+Gráfica 44
+Gráfica de Abanico: Inflación General Anual
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4
+Inflación Observada
+Objetivo de Inflación General
+Intervalo de Variabilidad
+2011 T4 2012 T4 2013 T4
+2006 2008 2010 2012
+Fuente: INEGI y Banco de México.
+Gráfica 45
+Gráfica de Abanico: Inflación Subyacente Anual
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4
+Inflación Observada
+Objetivo de Inflación General
+Intervalo de Variabilidad
+2011 T4 2012 T4 2013 T4
+2006 2008 2010 2012
+Fuente: INEGI y Banco de México.
+I N F O R M E S O B R E L A I N F L A C I Ó N A B R I L - J U N I O 2 0 1 2
+54
+Los riesgos asociados al pronóstico sobre la inflación se han modificado del trimestre anterior al actual. En lo que corresponde a los riesgos al alza destacan:
+ En el corto plazo, las condiciones climáticas que han sido desfavorables para la producción de algunas hortalizas, y el efecto que la influenza aviar podría tener sobre la producción pecuaria en el país. También es motivo de preocupación el deterioro en las perspectivas de la producción mundial del maíz y otros granos.
+ La posibilidad de mayor inestabilidad en los mercados financieros que podría inducir volatilidad cambiaria.
+Por su parte, en lo que corresponde a los riesgos a la baja:
+ En el mediano plazo, se ha intensificado el debilitamiento tanto de la demanda externa, como de la interna.
+ La reciente apreciación del tipo de cambio, podría contribuir a reducir las presiones sobre la inflación.
+En congruencia con lo expuesto en este Informe y tomando en consideración las previsiones para la inflación y el balance de riesgos, la Junta de Gobierno del Banco de México juzga que la postura actual de la política monetaria es congruente con el proceso de convergencia de la inflación hacia el objetivo permanente de 3 por ciento. Sin embargo, es importante enfatizar que la Junta de Gobierno se mantendrá muy atenta para actuar oportunamente, tanto para restringir, como para relajar la postura de política monetaria en caso de que las circunstancias así lo aconsejen. Si bien se prevé una inflación por arriba de 4 por ciento en el corto plazo, el que el Instituto Central no haya modificado la postura monetaria no debe interpretarse como una señal de complacencia ante el aumento en la inflación. El movimiento de ésta por arriba de 4 por ciento se debe a factores transitorios y reversibles, por lo que es de esperarse que en algunos meses regrese a niveles por debajo de 4 por ciento y así continúe su convergencia al objetivo permanente de 3 por ciento. De ahí que no se haya juzgado conveniente restringir la postura de política monetaria.
+Finalmente, es importante señalar que la estabilidad macroeconómica, que ha caracterizado a la economía mexicana, ha sido determinante para mantener un ritmo de crecimiento sostenible, incluso ante un entorno internacional adverso. En efecto, la referida estabilidad ha sido primordial para que la economía mexicana se haya mostrado resistente ante el entorno de volatilidad e incertidumbre en los mercados financieros internacionales.
+Sin embargo, como se ha enfatizado en Informes anteriores, los sólidos fundamentos macroeconómicos son una condición necesaria, mas no suficiente, para alcanzar el crecimiento requerido para lograr niveles de desarrollo superiores en nuestro país. Para impulsar mayores tasas de expansión, es esencial fortalecer las fuentes internas de crecimiento también desde una perspectiva microeconómica, lo cual se torna primordial en un ambiente externo especialmente desfavorable. Para ello, es necesario avanzar en el cambio estructural de la economía que flexibilice la asignación de recursos hacia sus
+B A N C O D E MÉ X I C O
+55
+usos más productivos, que incremente la competencia en los mercados y que asegure una estructura de incentivos conducente a incrementar la productividad.
+Entre otros aspectos, es importante mejorar el marco institucional a fin de brindar mayor seguridad y certidumbre jurídica a todos los agentes económicos, abatir los llamados costos de transacción y estimular una mayor inversión productiva. Igualmente, es necesario inducir una mayor competencia que disminuya los precios y mejore la provisión de insumos de uso generalizado en la economía. Asimismo, es imprescindible propiciar un mercado laboral más flexible que movilice el factor trabajo a sus usos más productivos, facilite la adaptación de empresas y trabajadores a nuevos ciclos productivos y favorezca la creación de empleo. Además, es indispensable promover reformas que incrementen el capital humano, favorezcan la capacitación y contribuyan a elevar la productividad de los trabajadores y la calidad del empleo.
+Estas reformas estructurales redundarían no sólo en un crecimiento más vigoroso de la economía, sino también favorecerían el mantenimiento de un ambiente de inflación baja y estable. En efecto, los menores precios que implicaría una mayor competencia de mercado conducirían a un incremento del bienestar de la población. Asimismo, aumentos en productividad permitirían satisfacer tasas de crecimiento más altas de la demanda agregada sin generar presiones sobre los precios.
+
+B A N C O D E MÉ X I C O
+Título del documento 1
+Agosto 2012

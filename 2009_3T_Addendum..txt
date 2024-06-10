@@ -1,0 +1,1675 @@
+Addendum al
+Informe sobre
+la Inflación
+Julio – Septiembre 2009
+DICIEMBRE, 2009
+
+JUNTA DE GOBIERNO
+Gobernador
+GUILLERMO ORTIZ MARTÍNEZ
+Subgobernadores
+ROBERTO DEL CUETO LEGASPI
+GUILLERMO GÜÉMEZ GARCÍA
+MANUEL SÁNCHEZ GONZÁLEZ
+JOSÉ JULIÁN SIDAOUI DIB
+
+ADVERTENCIA
+A menos que se especifique lo contrario, este documento está elaborado
+con información disponible al 1º de diciembre de 2009. Las cifras son de
+carácter preliminar y están sujetas a revisiones.
+
+CONTENIDO
+Addendum al Informe sobre la Inflación Julio – Septiembre 2009
+1. Introducción ........................................................................................................................ 1
+2. Evolución Reciente de la Inflación.................................................................................... 3
+3. Principales Determinantes de la Inflación........................................................................ 5
+3.1. Condiciones Externas................................................................................................... 5
+3.2. Evolución de la Economía Mexicana............................................................................ 7
+3.2.1. Actividad Económica......................................................................................... 7
+3.2.2. Ahorro Financiero y Financiamiento ................................................................. 9
+4. Previsiones para la Inflación y Balance de Riesgos ..................................................... 11
+Anexo Estimación del Efecto del Paquete Fiscal 2010 sobre el INPC y el PIB ...................... 20
+A.1. Modificaciones Tributarias para 2010......................................................................... 21
+A.2. Incidencia de los Impuestos: Marco de Referencia.................................................... 23
+A.3. Estimación del Efecto de los Cambios en Impuestos y Posibles Cambios
+en Precios y Tarifas Públicas sobre el INPC............................................................. 25
+A.3.1. Impuestos........................................................................................................ 25
+A.3.2. Precios, Tarifas y Derechos............................................................................ 26
+A.3.3. Impacto Total sobre el INPC........................................................................... 28
+A.4. Estimación del Efecto del Paquete Fiscal 2010 sobre el PIB..................................... 28
+
+A D D E N DUM A L I N F O RME S O B R E L A I N F L A C I Ó N J U L I O - S E P T I EMB R E 2 0 0 9
+1
+1. Introducción
+El Informe sobre la Inflación Julio – Septiembre 2009 se concretó a
+reportar sobre lo sucedido en la economía nacional durante ese periodo. Una vez
+que el pasado 17 de noviembre el H. Congreso de la Unión concluyó el proceso
+de aprobación del paquete fiscal correspondiente a 2010, compuesto por la Ley
+de Ingresos de la Federación (LIF-2010) y el Presupuesto de Egresos de la
+Federación (PEF-2010),1 en el presente addendum a dicho Informe el Banco de
+México da a conocer sus proyecciones macroeconómicas para los siguientes
+trimestres y presenta un análisis del balance de riesgos correspondiente.
+La información dada a conocer con posterioridad a la publicación del
+Informe sobre la Inflación referido muestra una situación económica mundial
+caracterizada por una expansión generalizada de la actividad económica en las
+distintas regiones, una baja tasa de inflación global y una mejora adicional de las
+condiciones en los mercados financieros. No obstante, persisten riesgos
+importantes. En particular, la recuperación de la actividad económica no ha sido
+homogénea y sigue dependiendo en gran medida de políticas de estímulo
+macroeconómico y de apoyo al sistema financiero, especialmente en las
+economías avanzadas. Además, la estrategia para el retiro de dicho estímulo
+continúa siendo un elemento de preocupación. Por un lado, existe el riesgo de
+que un retiro prematuro pueda frenar la recuperación. Por otro, uno tardío puede
+dar lugar a presiones inflacionarias y al surgimiento de burbujas en los precios de
+diversos activos. Finalmente, conviene señalar que se anticipa una recuperación
+moderada de la economía mundial en virtud del proceso de desapalancamiento
+orientado a restablecer la solidez de los sistemas financieros y ajustar los
+balances de hogares y empresas hacia posiciones sostenibles en el largo plazo,
+principalmente en la economía de Estados Unidos.
+Tal como se había previsto en el Informe sobre la Inflación Julio –
+Septiembre 2009, la actividad económica nacional registró un punto de inflexión a
+principios del tercer trimestre del año en curso y, en consecuencia, en dicho
+periodo se observó un incremento del PIB desestacionalizado de 2.9 por ciento,
+en comparación con lo registrado en el trimestre previo. La evolución más
+reciente de otros indicadores oportunos de producción y de los componentes de
+la demanda agregada, así como de varios indicadores prospectivos y
+adelantados, es congruente con este cambio de tendencia y sugiere que la
+trayectoria creciente de la actividad económica del país se mantendrá en el
+cuarto trimestre del año. A su vez, esta evolución, en el contexto de una
+recuperación de la economía mundial, sugiere que en 2010 y 2011 la actividad
+económica en México registrará una tendencia positiva. Debe reconocerse, sin
+embargo, que los niveles de actividad aún continúan siendo relativamente
+reducidos y que, posiblemente, una recuperación plena hacia los niveles
+observados antes de la crisis mundial tome cierto tiempo.
+Por su parte, la inflación general anual, entre septiembre y la primera
+quincena de noviembre de 2009, extendió la trayectoria descendente que ya
+venía exhibiendo desde el inicio del año. Dicha trayectoria es congruente con las
+previsiones dadas a conocer por el Banco de México en los Informes sobre la
+1 Ver comunicado de prensa de la SHCP del 19 de noviembre de 2009: “Aprobación del Programa
+Económico 2010”.
+B A N C O D E MÉ X I C O
+2
+Inflación correspondientes a los primeros dos trimestres del año y que
+originalmente fueron publicadas en el Informe sobre la Inflación Enero – Marzo
+2009. Asimismo, el proceso de desinflación siguió siendo de carácter general,
+presentándose en todos los subíndices que integran al INPC, así como en todas
+las regiones del país. Los factores que explican este comportamiento son los
+mismos que se refirieron en el Informe sobre la Inflación correspondiente al tercer
+trimestre del año: primero, el desvanecimiento de choques de oferta que se
+presentaron durante 2008 e incidieron sobre las cotizaciones de alimentos y
+transporte público; segundo, la política de precios administrados, que limitó el
+alza en los precios de los energéticos durante 2009; tercero, la lasitud de la
+economía; y, cuarto, la mayor estabilidad cambiaria y la absorción de la mayor
+parte del traspaso del tipo de cambio sobre los precios al consumidor. En las
+últimas semanas la baja de la inflación también es atribuible al desempeño de los
+precios del grupo de las frutas y verduras.
+En virtud del impacto previsto sobre los precios de las modificaciones
+tributarias aprobadas por el H. Congreso de la Unión, de los cambios esperados
+en los precios administrados y en las tarifas y derechos de los gobiernos locales
+(concertados), en este documento se presenta una revisión al alza en el
+pronóstico de la inflación general anual. Al respecto, se prevé que el efecto de los
+cambios tributarios sobre la inflación será relativamente reducido, siendo en
+contraste mayor el que se derive de los posibles cambios en la política de precios
+de los bienes y servicios administrados y de las actualizaciones anticipadas en
+las tarifas y derechos locales. En particular, se estima que la inflación general se
+ubique en promedio en un intervalo de entre 4.75 y 5.25 por ciento durante el
+cuarto trimestre de 2010, y se aproxime a la meta puntual de 3 por ciento en el
+último trimestre de 2011. Así, esta revisión considera un repunte de carácter
+temporal de la inflación general para el próximo año, que se estima se revertirá
+en el subsecuente. En lo fundamental, se espera que la inflación durante 2010
+responda a los siguientes elementos: primero, al impacto temporal que se estima
+tendrá el cambio en la estructura tributaria sobre la inflación anual; segundo, a la
+previsión de que durante el próximo año aumente el ritmo de crecimiento de los
+precios de los bienes y servicios administrados y concertados, entre otros, debido
+a la considerable brecha que registran actualmente los precios internos con
+respecto a sus referencias internacionales tanto de las gasolinas, como del gas
+licuado; y, tercero, a las condiciones de holgura en la economía que se espera
+persistirán el próximo año.
+En suma, durante 2009 la inflación ha venido mostrando una tendencia
+a la baja, la cual se ha acentuado en los últimos meses del año. Sin embargo, las
+modificaciones tributarias recientemente aprobadas por el H. Congreso de la
+Unión, junto con la trayectoria posible de los precios de los bienes y servicios
+administrados y concertados, tendrán efectos directos e indirectos sobre la
+inflación durante 2010, impactando el balance de riesgos. Aunque el aumento en
+precios sea de una sola vez, y la brecha del producto será holgada en 2010, el
+Banco estará atento a que no se contaminen otros precios y que las expectativas
+de inflación de mediano plazo continúen bien ancladas.
+Es este contexto, en noviembre la Junta de Gobierno del Banco de
+México mantuvo sin cambio en 4.5 por ciento el objetivo para la Tasa de Interés
+Interbancaria a un día y señaló que sus acciones futuras de política monetaria
+serán congruentes con el mencionado balance de riesgos. Ello con el propósito
+de alcanzar la meta de inflación del 3 por ciento anual.
+A D D E N DUM A L I N F O RME S O B R E L A I N F L A C I Ó N J U L I O - S E P T I EMB R E 2 0 0 9
+3
+2. Evolución Reciente de la Inflación
+La inflación general anual en la primera quincena de noviembre de 2009
+fue 3.92 por ciento. Ello significó una reducción de 0.97 puntos porcentuales con
+relación al dato que se observó en septiembre, que fue 4.89 por ciento (última
+cifra reportada en el Informe sobre la Inflación Julio – Septiembre 2009), y una
+reducción acumulada en lo que va del año de 2.61 puntos porcentuales ya que la
+inflación anual en diciembre de 2008 fue 6.53 por ciento (Gráfica 1). La reducción
+en el ritmo de crecimiento de los precios continuó siendo generalizada entre
+todos los subíndices que integran al INPC, así como en todas las regiones del
+país. De esta manera, la trayectoria que ha mostrado la inflación durante 2009 ha
+sido acorde con el pronóstico que Banco de México dio a conocer en los Informes
+sobre la Inflación correspondientes a los primeros tres trimestres del año y que
+originalmente se publicó en el Informe sobre la Inflación Enero – Marzo 2009.
+Gráfica 1
+Índice Nacional de Precios al Consumidor
+Variación anual en por ciento
+4.09
+4.05
+3.98
+4.11
+4.21
+3.99
+3.95
+3.98
+4.14
+4.03
+3.79
+3.74
+3.93
+3.76
+3.70
+3.72
+4.25
+4.55
+4.95
+5.26
+5.39
+5.57
+5.47
+5.78
+6.23
+6.53
+6.28
+6.20
+6.04
+6.17
+5.98
+5.74
+5.44
+5.08
+4.89
+4.50
+3.92
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+N
+2006
+D E F M A M J J A S O N
+2007
+D E F M A M J J A S O N
+2008
+D E F M A M J J A S O N*
+2009
+INPC
+Subyacente
+No Subyacente
+*/ Dato correspondiente a la primera quincena de noviembre de 2009.
+En el Informe sobre la Inflación Julio – Septiembre 2009 se indicó que
+la trayectoria descendente de la inflación registrada hasta entonces había sido
+resultado principalmente de la combinación de cuatro factores: i) la absorción de
+choques de oferta que tuvieron lugar en 2008 y que incidieron particularmente en
+los precios de los grupos de los alimentos procesados, productos pecuarios y
+transporte público; ii) la política de precios públicos asociada al congelamiento de
+los precios de las gasolinas en el interior del país, así como a la baja en las
+cotizaciones de otros energéticos durante 2009; iii) la holgura prevaleciente en la
+economía, cuya repercusión más notoria se ha evidenciado en el proceso de
+formación de precios en el sector de los servicios; y, iv) la mayor estabilidad
+cambiaria, la cual reforzó la tendencia a la baja que ha presentado la inflación del
+grupo de resto de mercancías.
+Estos factores continuaron influyendo en el proceso de desinflación
+entre septiembre y la primera quincena de noviembre de 2009, añadiéndose a
+B A N C O D E MÉ X I C O
+4
+éstos un elemento adicional. Éste consistió en una importante baja en la
+variación anual del índice de precios del grupo de las frutas y verduras, que pasó
+de 20.28 a 4.32 por ciento en ese lapso.
+La evolución reciente de diversos indicadores que ofrecen información
+acerca de la dinámica de la inflación muestra que durante el mes de octubre y la
+primera quincena de noviembre la reducción en la inflación continuó siendo un
+fenómeno generalizado. De hecho, los incrementos en precios de un número
+significativo de genéricos continuaron reduciéndose.
+Por lo que se refiere a los indicadores prospectivos de la inflación, el
+consenso de las expectativas de inflación recabadas por diversas encuestas
+entre analistas económicos del sector privado sugiere que la inflación continuará
+descendiendo en lo que resta del año.2
+Sin embargo, en el caso de las expectativas de inflación de los analistas
+económicos correspondientes al cierre de 2010, en fechas recientes se continuó
+observando una tendencia al alza. El consenso de los analistas de la encuesta
+recabada por el Banco de México aumentó de 4.28 por ciento en la encuesta de
+septiembre, a 4.86 por ciento en la de noviembre. Por su parte, el consenso de
+las expectativas de inflación subyacente aumentó de 4.09 a 4.51 por ciento,
+mientras que el correspondiente a las expectativas de inflación no subyacente
+aumentó de 4.85 a 5.90 por ciento.3 Por supuesto, y como se indicó en el Informe
+sobre la Inflación Julio – Septiembre 2009, el deterioro de las expectativas de
+inflación para 2010 es atribuible a los efectos que sobre la inflación se espera
+tengan las medidas tributarias aprobadas recientemente, así como los cambios
+esperados en las políticas de precios de los bienes y servicios administrados y
+concertados.
+Como se señala en este documento, se espera que una parte
+importante de dichas medidas tengan un efecto únicamente temporal sobre la
+inflación. Dicha percepción es congruente con la evolución reciente de las
+expectativas de inflación de los analistas económicos para horizontes de mediano
+plazo las cuales, en las últimas semanas, han mostrado cambios de menor
+magnitud con respecto a los observados en las expectativas de inflación para
+plazos menores. En el caso de las expectativas de inflación promedio para los
+siguientes 5 a 10 años se han mantenido alrededor de 3.5 por ciento.
+2 Las expectativas de los analistas económicos sobre la inflación general anual para el cierre de 2009,
+recabadas por el Banco de México, disminuyeron de 4.29 por ciento en la encuesta de septiembre a
+4.02 por ciento en la encuesta de noviembre. Por su parte, las recabadas por Infosel disminuyeron de
+4.17 por ciento en la encuesta del 23 de octubre a 3.87 por ciento en la encuesta del 27 de noviembre.
+3 En el caso de las expectativas de inflación para el cierre de 2010 recabadas por Infosel, el consenso de
+las correspondientes a la inflación general aumentó de 4.30 por ciento en la encuesta del 23 de octubre
+a 4.77 por ciento en la encuesta de 27 de noviembre. Por su parte, el consenso de las expectativas para
+la inflación subyacente aumentó de 4.03 a 4.50 por ciento, mientras que las referentes a la inflación no
+subyacente aumentaron de 5.10 a 5.57 por ciento.
+A D D E N DUM A L I N F O RME S O B R E L A I N F L A C I Ó N J U L I O - S E P T I EMB R E 2 0 0 9
+5
+3. Principales Determinantes de la Inflación
+3.1. Condiciones Externas
+Los indicadores más recientes confirman que la actividad económica
+mundial continuó fortaleciéndose en el tercer trimestre. El PIB creció tanto en las
+economías avanzadas como en las emergentes, si bien mostró mayor vigor en
+estas últimas.
+De acuerdo con el informe preliminar, en Estados Unidos el PIB creció a
+una tasa trimestral anualizada de 2.8 por ciento en el periodo julio-septiembre
+(-2.5 por ciento a tasa anual), después de haberse contraído por cuatro trimestres
+consecutivos. Tal evolución se vio influida por la recuperación del consumo
+privado –apoyado de manera importante por los programas de estímulo del
+gobierno–, el avance del sector residencial, el incremento del gasto público y la
+moderación en el ritmo de disminución de inventarios. En la zona del euro, el PIB
+aumentó 1.5 por ciento a tasa trimestral anualizada (-4.1 por ciento a tasa anual),
+dejando atrás cinco trimestres consecutivos de contracción. Por su parte, la
+actividad económica en Japón se fortaleció, al expandirse su PIB en 4.8 por
+ciento a tasa trimestral anualizada (-4.5 por ciento a tasa anual).
+En general, la actividad económica en las economías emergentes
+continuó mostrando una trayectoria más favorable que en las avanzadas,
+destacando el dinamismo de las de Asia. Después de la fuerte expansión que
+registró en el tercer trimestre (8.9 por ciento a tasa anual), la economía china ha
+continuado fortaleciéndose, como lo muestra el pronunciado aumento de su
+producción industrial en octubre. El PIB de la India se incrementó 7.9 por ciento a
+tasa anual en el periodo julio-septiembre, su mayor crecimiento desde el primer
+trimestre de 2008, en tanto que en Rusia la actividad económica continuó
+contrayéndose en ese lapso (-9.0 por ciento a tasa anual), aunque a un ritmo
+menor. Asimismo, las economías de América Latina habrían repuntado en el
+periodo julio – septiembre.
+Los precios de los productos primarios aumentaron en octubre, antes
+de estabilizarse nuevamente en noviembre. De esta forma, el 21 de octubre los
+precios del crudo alcanzaron su nivel más alto en más de un año (81 dólares por
+barril en el caso del crudo tipo WTI), para luego fluctuar en un rango
+relativamente estrecho de entre 75 y 80 dólares por barril.
+En este entorno, y ante la todavía sustancial capacidad ociosa, las
+presiones inflacionarias a nivel global se mantuvieron bajo control. La inflación
+general al consumidor en Estados Unidos fue negativa a tasa anual en octubre
+por noveno mes consecutivo (-0.2 por ciento), si bien la magnitud de la caída fue
+menor a la observada en meses anteriores. En la zona del euro, la inflación
+general al consumidor se estima en 0.6 por ciento a tasa anual en noviembre,
+después de cinco meses consecutivos de registrar cifras negativas. En Japón, los
+precios al consumidor continuaron descendiendo de manera importante,
+mostrando una caída récord de -2.5 por ciento a tasa anual en octubre. Por otra
+parte, en las economías emergentes las tasas de inflación se mantuvieron
+relativamente bajas, aunque con diferencias significativas entre países.
+B A N C O D E MÉ X I C O
+6
+La posición monetaria en las economías avanzadas y emergentes se
+mantuvo en octubre y noviembre en prácticamente todos los casos acomodaticia,
+y los bancos centrales de algunas de las últimas continuaron disminuyendo sus
+tasas de interés de referencia (por ejemplo, Colombia, Hungría y Turquía). No
+obstante, en diversos países se observó el inicio o la continuación del proceso de
+retiro del estimulo monetario. En particular, el Banco de Reserva de Australia
+incrementó en noviembre por tercera ocasión consecutiva su tasa de referencia,
+mientras que el Banco de Israel la aumentó en ese mes por segunda vez en los
+últimos cuatro meses. Asimismo, en octubre el banco central de Noruega
+incrementó su tasa de política, en tanto que en ese mismo mes el banco central
+de la India ajustó al alza sus requerimientos de liquidez. Por su parte, el Banco de
+la Reserva Federal mantuvo la tasa de interés de referencia en un rango de 0 a
+25 puntos porcentuales, y en noviembre indicó que dicha tasa permanecería baja
+por un periodo prolongado, en tanto la capacidad ociosa sea significativa y la
+inflación y las expectativas de inflación permanezcan bajo control. El Banco
+Central Europeo, el Banco de Inglaterra y el Banco de Japón dejaron inalterados
+los niveles de sus tasas de política en el lapso señalado.
+Las condiciones en los mercados financieros internacionales
+continuaron mejorando en octubre y noviembre, si bien en un entorno de
+volatilidad. Los diferenciales entre la tasa LIBOR en dólares y el OIS a tres
+meses (Overnight Index Swap, indicador del comportamiento futuro de la tasa de
+fondos federales) se mantuvieron alrededor de sus niveles más bajos desde el
+inicio de la crisis en 2007. La gran mayoría de las bolsas de valores siguió
+aumentando en octubre y noviembre, debido a la menor aversión al riesgo y la
+búsqueda de rendimiento. No obstante, a fines de noviembre se registró cierta
+turbulencia en los mercados financieros, a consecuencia del anuncio de la
+suspensión temporal de pagos de la deuda de la compañía gubernamental Dubai
+World y algunas empresas filiales. En general, durante octubre y noviembre se
+observó un incremento adicional de los flujos de capital a las economías
+emergentes (Gráfica 2), influido de manera importante por el deseo de muchos
+inversionistas de aprovechar las oportunidades de beneficio en el corto plazo que
+se derivan de endeudarse en monedas como el dólar (a tasas de interés muy
+bajas y con una tendencia a la depreciación) e invertir estos recursos en
+economías emergentes con tasas de interés relativamente elevadas. Esto ha
+despertado preocupación, tanto por el alza que se está observando en los
+precios de algunos activos y la apreciación de los tipos de cambio, como por los
+efectos que podría tener sobre dichos flujos el apretamiento de la política
+monetaria en las economías avanzadas, especialmente si éste es súbito (Gráfica
+2). Por su parte, el dólar siguió depreciándose con respecto a la mayoría de
+monedas importantes ante la menor aversión al riesgo y la perspectiva de bajas
+tasas de interés en Estados Unidos por un período prolongado.
+A D D E N DUM A L I N F O RME S O B R E L A I N F L A C I Ó N J U L I O - S E P T I EMB R E 2 0 0 9
+7
+Gráfica 2
+Condiciones en los Mercados Financieros Internacionales
+a) Flujo de Fondos Dedicados a
+Países Emergentes (Bonos y
+Acciones)
+Millones de dólares
+b) Márgenes de Riesgo Soberano
+(EMBI’s)
+Puntos base
+c) Tipo de Cambio Efectivo del Dólar
+Amplio y Principales Monedas
+Índice1/
+-80000
+-60000
+-40000
+-20000
+0
+20000
+40000
+60000
+80000
+E F M A M J J A S O N D
+2007
+2008
+2009
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+E
+2007
+A J O E
+2008
+A J O E
+2009
+A J O
+Global
+Asia
+Europa
+Latinoamérica
+Bancarrota de
+Lehman
+Brothers
+60
+70
+80
+90
+100
+110
+120
+130
+140
+Ene00 Ene03 Ene06 Ene09
+Amplio
+Principales Monedas
+Fuente: Emerging Portfolio Fund Research. Fuente: Bloomberg. Fuente: Federal Reserve.
+1/ Índice amplio enero 1997=100 y principales
+monedas marzo 1973=100. Un incremento del
+índice equivale a una apreciación del dólar.
+3.2. Evolución de la Economía Mexicana
+3.2.1. Actividad Económica
+De acuerdo a lo previsto en el Informe sobre la Inflación de Julio-
+Septiembre de 2009, la información más reciente indica que la actividad
+económica en México registró un punto de inflexión a principios del tercer
+trimestre del año y, en consecuencia, que en dicho periodo parecería haber
+iniciado una nueva etapa de expansión en los niveles de producción del país. En
+efecto, la variación trimestral del PIB desestacionalizado en dicho periodo fue de
+2.9 por ciento, lo cual contrasta con la tendencia negativa que dicho agregado
+había presentado desde el segundo trimestre de 2008 (Gráfica 3). En términos
+anuales, lo anterior implicó que el PIB exhibiera una contracción de 6.2 por
+ciento, cifra significativamente más moderada que la caída de 9.0 por ciento
+observada en el primer semestre del año.
+Tanto el sector industrial (secundario), como los servicios (terciario),
+registraron variaciones positivas con datos desestacionalizados durante el tercer
+trimestre del año. Estos sectores se expandieron en 2.1 y 4.0 por ciento,
+respectivamente, en comparación con los niveles registrados el trimestre previo
+(Gráfica 4). Así, los dos principales sectores de la economía parecerían haber
+cambiado de tendencia en dicho periodo. Es relevante mencionar también que
+algunos indicadores más recientes sugieren que, en el cuarto trimestre, la
+trayectoria positiva de la actividad productiva se mantendrá. Dentro de éstos
+destaca la favorable evolución de la industria automotriz terminal en octubre,
+cuando su producción y sus exportaciones mostraron importantes crecimientos
+mensuales con datos desestacionalizados (11.2 y 12.5 por ciento,
+respectivamente), manteniéndose así la trayectoria positiva que esta industria ha
+presentado desde julio de este año.
+B A N C O D E MÉ X I C O
+8
+Gráfica 3
+Producto Interno Bruto
+a) Variación trimestral en por ciento; datos
+desestacionalizados
+b) Variación anual en por ciento
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+I III I III I III I III I III I III
+2004 2005 2006 2007 2008 2009
+-12
+-8
+-4
+0
+4
+8
+I III I III I III I III I III I III
+Original
+Desestacionalizada
+2004 2005 2006 2007 2008 2009
+Fuente: INEGI.
+Gráfica 4
+PIB de los Sectores Primario, Secundario y Terciario
+Índice 2003=100; datos desestacionalizados
+94
+99
+104
+109
+114
+119
+124
+I II
+2003
+III IV I II
+2004
+III IV I II
+2005
+III IV I II
+2006
+III IV I II
+2007
+III IV I II
+2008
+III IV I II
+2009
+III
+Primario
+Secundario
+Terciario
+Fuente: INEGI.
+Por su parte, la evolución más reciente de los indicadores oportunos de
+la demanda agregada también es congruente con la reactivación de la actividad
+económica descrita anteriormente. Ello se ve reflejado tanto en los indicadores
+oportunos de consumo e inversión, que sugieren un mayor dinamismo del
+mercado doméstico a partir del tercer trimestre, como en los de comercio exterior
+(Gráfica 5). Las exportaciones de mercancías mostraron un cambio de tendencia
+con cifras desestacionalizadas en los últimos meses, lo cual refleja la gradual
+reactivación de la demanda externa que enfrenta el país. A su vez, las
+importaciones también han registrado una tendencia positiva en los últimos
+meses, lo cual parecería estar asociado a un mayor dinamismo del gasto
+doméstico y de la actividad productiva.
+A D D E N DUM A L I N F O RME S O B R E L A I N F L A C I Ó N J U L I O - S E P T I EMB R E 2 0 0 9
+9
+Gráfica 5
+Exportaciones e Importaciones de Mercancías
+Índice 2004=100; datos desestacionalizados
+a) Exportaciones b) Importaciones
+100
+110
+120
+130
+140
+150
+160
+170
+E A J
+2006
+O E A J
+2007
+O E A J
+2008
+O E A J
+2009
+O
+100
+120
+140
+160
+180
+200
+220
+240
+260
+280
+No Petroleras
+Petroleras
+100
+150
+200
+250
+300
+350
+400
+450
+E A J
+2006
+O E A J
+2007
+O E A J
+2008
+O E A J
+2009
+O
+100
+110
+120
+130
+140
+150
+160
+Petroleras 170
+No Petroleras
+Es importante mencionar que, si bien en parte el comportamiento de la
+actividad económica en el tercer trimestre del año reflejó el desvanecimiento de
+los efectos sobre la economía derivados del brote del virus de influenza A(H1N1)
+y el restablecimiento de las actividades de algunas empresas automotrices que
+habían efectuado paros técnicos en el segundo trimestre, la reactivación de la
+actividad productiva fue consecuencia, en gran medida, de la recuperación de la
+economía global. Esta recuperación, como ya se mencionó, se ha reflejado en un
+mayor dinamismo de la demanda externa que enfrenta México y, a su vez, se ha
+venido transmitiendo gradualmente al mercado interno. En este contexto, en la
+medida que continúe observándose un crecimiento de la economía mundial, es
+de esperarse que la economía nacional mantenga una tendencia positiva.
+3.2.2. Ahorro Financiero y Financiamiento
+A pesar de que los indicadores de actividad económica han mostrado
+signos de recuperación, las fuentes del ahorro financiero en instrumentos
+internos, definido como la diferencia entre el agregado monetario M4 y el saldo de
+billetes y monedas en poder del público, continúan mostrando tasas de
+crecimiento moderadas. En octubre de 2009, este ahorro se incrementó 8.3 por
+ciento real anual, cifra similar a la observada en meses anteriores (4.5 por ciento
+si se elimina el efecto de la entrada en vigor de la Ley del ISSSTE).
+Como se mencionó en el Informe sobre la Inflación de Julio –
+Septiembre de 2009, y como consecuencia del agravamiento de las condiciones
+de los mercados financieros, desde octubre de 2008 y hasta mediados de 2009
+se observaron importantes retiros del ahorro de no residentes. No obstante, en el
+tercer trimestre de 2009 la mejoría en las condiciones prevalecientes en los
+mercados y el mayor apetito por riesgo han implicado una recuperación de este
+ahorro. Así, mientras que entre el último trimestre de 2008 y los dos primeros de
+2009 se observó una contracción del saldo del ahorro financiero de los no
+residentes por 70.6 miles de millones de pesos, en julio-octubre de 2009 este
+saldo se incrementó en 56 miles de millones de pesos. Por su parte, en octubre
+de 2009 el ahorro financiero voluntario de los residentes mantuvo una trayectoria
+B A N C O D E MÉ X I C O
+10
+descendente en su crecimiento, resultado de la debilidad que continúa
+presentando el ahorro voluntario de los hogares.
+En lo referente al financiamiento a las empresas privadas no
+financieras, éste ha continuado mostrando un menor crecimiento. El
+financiamiento externo que recibe este sector presentó una contracción de 11.5
+por ciento anual en sus saldos expresados en dólares al cierre de septiembre de
+2009 (Gráfica 6a). Por su parte, también continuó desacelerándose el
+financiamiento interno a las empresas. En este periodo, el financiamiento interno
+creció 0.8 por ciento en términos reales anuales (Gráfica 6a). En octubre de 2009,
+el crédito vigente de la banca comercial a las empresas presentó una disminución
+real anual de 3.0 por ciento (Gráfica 6b). Por otra parte, la mejoría en las
+condiciones en el mercado interno de deuda privada, ha permitido una mayor
+utilización de este financiamiento por parte de las empresas. Así, en octubre de
+2009 el saldo de la emisión de deuda en el mercado interno presentó una
+variación real anual de 8.2 por ciento (2.3 por ciento en el tercer trimestre del año,
+Gráfica 6c).
+El financiamiento que los hogares reciben de la banca comercial
+continuó mostrando una contracción, en particular el crédito al consumo (Gráfica
+6b). En octubre de 2009, el crédito vigente al consumo presentó una variación
+real anual negativa de 21.2 por ciento (21.3 por ciento en el tercer trimestre de
+este año). Por su parte, el crédito vigente de la banca comercial para la
+adquisición de vivienda creció a una tasa de 2.9 por ciento real anual (3.6 por
+ciento en el tercer trimestre de 2009). Finalmente, en septiembre de 2009, los
+Índices de Morosidad Ajustados (IMORA) de las carteras de crédito a las
+empresas y a los hogares se mantuvieron relativamente estables. 4
+Gráfica 6
+Financiamiento Total a Empresas Privadas No Financieras, Crédito de la Banca Comercial al Sector
+Privado y Emisión de Valores Privados
+a) Financiamiento Total a
+Empresas Privadas no Financieras
+Variación anual en por ciento
+b) Crédito Vigente de la Banca
+Comercial
+Variación real anual
+c) Valores Privados de Empresas
+No Financieras
+Variación real anual en por ciento
+-15
+-10
+-5
+0
+5
+10
+15
+20
+25
+30
+35
+S
+2006
+D M J S
+2007
+D M J S
+2008
+D M J S
+2009
+Financiamiento Interno en Pesos
+Constantes
+Financiamiento Externo en Dólares
+-40
+-20
+0
+20
+40
+60
+80
+100
+O
+2005
+A O
+2006
+A O
+2007
+A O
+2008
+A O
+2009
+Total
+Consumo 1/
+Vivienda
+Empresas
+-20
+0
+20
+40
+60
+80
+O
+2006
+A O
+2007
+A O
+2008
+A O
+2009
+-75
+0
+75
+150
+225
+300
+Total
+Mediano Plazo
+Corto Plazo
+1/ A partir de marzo de 2008 incluyen el monto de la cartera de crédito al consumo de las Sofomes E.R. subsidiarias de la banca comercial.
+4 El IMORA se define como el cociente de la suma de la cartera de crédito directa vencida más los
+castigos o pérdidas reconocidas por los bancos en los doce meses previos, entre la suma de la cartera
+de crédito directa total más los castigos o pérdidas antes mencionados (Véase el Reporte sobre el
+Sistema Financiero 2007, página 51 y Recuadro 21 y el Informe sobre la Inflación de Julio-Septiembre
+de 2008).
+A D D E N DUM A L I N F O RME S O B R E L A I N F L A C I Ó N J U L I O - S E P T I EMB R E 2 0 0 9
+11
+4. Previsiones para la Inflación y Balance de Riesgos
+En esta sección se presenta el escenario macroeconómico base
+previsto por Banco de México y se analizan los principales riesgos asociados al
+mismo. En particular, se actualizan las proyecciones de inflación, crecimiento,
+empleo y de las cuentas externas considerando la información disponible, así
+como los posibles efectos que podrían tener el paquete fiscal aprobado
+recientemente junto con la trayectoria probable de los precios de los bienes y
+servicios administrados y concertados.
+Es pertinente señalar que el referido escenario se sustenta en las
+siguientes consideraciones:
+i) Se prevé que la actividad económica en Estados Unidos continúe
+expandiéndose en el cuarto trimestre de este año y durante 2010. No
+obstante, según el consenso de los analistas el PIB mostrará para todo
+2009 una contracción de 2.4 por ciento, y la producción industrial una
+caída de 10 por ciento. En general, se considera que la recuperación de
+la actividad económica se reflejará con mayor claridad en las cifras de
+producción el año entrante, anticipándose crecimientos de 2.7 y 3.9 por
+ciento para el PIB y la producción industrial, respectivamente. Este
+escenario está sujeto a riesgos. En particular, el repunte reciente de la
+actividad económica ha sido muy influido por factores de naturaleza
+temporal, tales como estímulos gubernamentales y contribuciones
+positivas de la variación de inventarios al crecimiento del PIB.
+Asimismo, la contracción del crédito bancario y la debilidad del mercado
+laboral, que aún persisten, pudieran afectar el ritmo de la recuperación.
+Por otra parte, el retiro de las medidas de estímulo fiscal y monetario
+que pusieron en marcha las autoridades para enfrentar la crisis,
+requiere una implementación cuidadosa a fin de no afectar
+adversamente el proceso de recuperación, ni propiciar un nuevo brote
+inflacionario.
+ii) Se espera que las medidas de apoyo llevadas a cabo por las
+autoridades de diversos países, así como la reactivación gradual de la
+actividad económica mundial, se reflejen en una mejora adicional de las
+condiciones en los mercados financieros internacionales en los
+siguientes meses. Sin embargo, una nueva etapa de incertidumbre en
+dichos mercados no puede descartarse. A este respecto, conviene
+mencionar que las autoridades de las principales economías
+desarrolladas han venido señalando la importancia de mantener dichas
+medidas de apoyo por un periodo extendido para atenuar los riesgos
+asociados con la sostenibilidad de la expansión cíclica de sus
+economías. Ello ha propiciado que el bajo costo de acarrear posiciones
+en los mercados financieros se haya reflejado en una apreciación de
+diversos activos y de los tipos de cambio, sobre todo en las economías
+emergentes. La probable reversión de los flujos de capital al retirarse el
+estímulo monetario en los países avanzados, podría tener un impacto
+adverso de consideración en las economías emergentes,
+particularmente si esto ocurre de manera no anticipada.
+B A N C O D E MÉ X I C O
+12
+Con base en el desempeño esperado de la economía internacional y la
+información más reciente acerca de la actividad productiva nacional, se prevé el
+siguiente escenario base para la economía de México para el cierre de 2010 y
+hasta 2011:
+Crecimiento: La información más reciente sugiere que en 2009 el PIB
+habrá registrado una contracción de alrededor de 7 por ciento anual. Esta cifra es
+congruente con el intervalo que se había planteado en el Informe sobre la
+Inflación de Abril – Junio de 2009 e implica que, en el cuarto trimestre del año, se
+mantendrá una trayectoria positiva en los niveles de actividad con respecto a los
+del tercero.
+Por su parte, el crecimiento de la economía en 2010 se verá influido por
+diversos factores, dentro de los cuales destacan la reactivación económica global
+(y, en particular, la mejoría que en el margen han mostrado las perspectivas de
+crecimiento industrial en Estados Unidos), así como los efectos del paquete
+económico para ese año sobre la producción y sobre los componentes privado y
+público de la demanda agregada. Como se describe en el Anexo de este
+documento, se estima que el efecto total de dicho paquete sobre el crecimiento
+del PIB en 2010 sea de magnitud relativamente reducida. Ello, aunado a la
+mencionada mejoría en las perspectivas de crecimiento industrial en los Estados
+Unidos, conduce a que no sea necesario modificar el escenario relativo al
+crecimiento de la economía en 2010 presentado en el Informe sobre la Inflación
+Abril – Junio, el cual sugería que la expansión de la economía en 2010 se situaría
+entre 2.5 y 3.5 por ciento anual. Finalmente, ejercicios preliminares de carácter
+inercial indican que la economía podría registrar un crecimiento anual de entre 3 y
+4 por ciento en 2011.
+Profundizando en la trayectoria de la economía implícita en la previsión
+anterior, debe mencionarse que, en el cuarto trimestre de 2009, todavía se podría
+presentar en la tasa trimestral del PIB con datos desestacionalizados cierto
+“rebote” respecto de los bajos niveles de actividad observados en algunos
+sectores de la economía en el trimestre previo, si bien dicha expansión se estima
+será menor a la registrada en el tercer trimestre del año. Este crecimiento
+trimestral, en combinación con una base de comparación más reducida,
+conducirá a que en el cuarto trimestre de 2009 se observe una contracción anual
+del PIB más moderada que lo observado en los tres primeros trimestres del año.
+Por su parte, para 2010 se prevé que la actividad productiva evolucione de
+manera congruente con una gradual recuperación de la economía mundial y del
+mercado interno. En este contexto, en ese año las variaciones trimestrales del
+PIB podrían tender a acelerarse gradualmente (Gráfica 7a). No obstante, dados
+los especialmente bajos niveles de actividad durante la primera mitad de 2009,
+en términos de su variación anual se calcula que el PIB registre tasas de
+crecimiento mayores en los primeros dos trimestres de 2010, en comparación
+con lo que se espera observar en la segunda mitad del año (Gráfica 7b).
+Las previsiones anteriores sugieren que, si bien la diferencia entre el
+producto observado y el potencial (es decir, la brecha del producto) tendería a
+irse desvaneciendo en los siguientes trimestres, como reflejo del crecimiento
+esperado en los próximos dos años, ésta posiblemente continuará en terreno
+negativo durante 2010 y 2011. Esto refleja el hecho de que la brecha del
+producto alcanzó niveles muy importantes en 2009, los cuales tomará tiempo
+corregir plenamente.
+A D D E N DUM A L I N F O RME S O B R E L A I N F L A C I Ó N J U L I O - S E P T I EMB R E 2 0 0 9
+13
+Gráfica 7
+Producto Interno Bruto
+Variación trimestral en por ciento
+a) Variación trimestral en por ciento; datos
+desestacionalizados
+b) Variación anual en por ciento
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+I III I III I III I III I III I e/ III
+2005 2006 2007 2008 2009 2010
+-12
+-8
+-4
+0
+4
+8
+I III I III I III I III I III I e/ III
+Original
+Desestacionalizada
+2005 2006 2007 2008 2009 2010
+Fuente: INEGI y desestacionalización al cuarto trimestre de 2010 por el Banco de México.
+e/ Estimado.
+En particular, las estimaciones de la brecha del producto tanto con el
+método Hodrick-Prescott con corrección de colas, como con un modelo de
+componentes no observados, coinciden en sugerir que, en los próximos dos
+años, el PIB observado se mantendrá por debajo de su potencial (Gráfica 8).5
+Todo lo anterior refleja la expectativa de que la recuperación de los niveles de
+actividad productiva sea gradual, no únicamente en México, sino en la economía
+global en su conjunto. A su vez, ello implica que en la economía mexicana
+continuará existiendo cierta holgura conducente no nada más a que no se
+generen presiones inflacionarias por el lado de la demanda, sino también a
+mitigar el impacto sobre la inflación del programa económico.
+5 Estos métodos se describen en el Informe sobre la Inflación correspondiente al segundo trimestre de
+2009; ver Banco de México (2009), “Informe sobre la Inflación, Abril – Junio 2009”, pág. 74.
+Brevemente, el filtro de Hodrick-Prescott con corrección de colas (Marcet, A.; M. O. Ravn; 2004, “The HP
+Filter in Cross Country Comparisons”, CEPR Discussion Paper 4244, y St-Amant, P.; S. van Norden;
+1997, “Measurement of the Output Gap: A Discussion of Recent Research at the Bank of Canada”,
+Technical report No. 79) es un método para estimar el producto potencial de una economía a partir de
+una serie de producto observado, corrigiendo la sensibilidad de los resultados en la parte final del
+periodo muestral. Esta sensibilidad es una de las principales limitaciones que tenía el método propuesto
+originalmente por R. J. Hodrick y E. C. Prescott (1997) “Postwar U. S. Business Cycles: An Empirical
+Investigation”, Journal of Money, Credit, and Banking, 29. El método de componentes no observados,
+por su parte, corresponde a un problema de extracción de señales en el cual se separa la serie
+observada del producto en un componente permanente referido al producto potencial, y otro
+componente estacionario asociado al ciclo (brecha del producto). En la Gráfica 8, se presenta el método
+particular descrito por Kim C. y Nelson, C. (1999) “State-Space Models with Regime Switching”, The MIT
+Press, cap. 1. Una ventaja importante de este método es que permite calcular intervalos de confianza
+alrededor de la estimación de la brecha del producto en cada momento del tiempo y, por ende, permite
+inferir si la brecha calculada es o no estadísticamente distinta de cero.
+B A N C O D E MÉ X I C O
+14
+Gráfica 8
+Estimaciones de la Brecha del Producto
+Por ciento
+-12
+-9
+-6
+-3
+0
+3
+6
+9
+2004 2005 2006 2007 2008 2009 2010 2011
+HP con Corrección de Colas
+Componentes no Observados
+Intervalo al 95 % de Confianza
+Empleo: Los datos más recientes del número de trabajadores
+asegurados en el IMSS indican que el nivel de empleo formal en la economía ha
+mostrado un cambio de tendencia, lo cual ha conducido a que su ritmo de
+contracción anual continúe moderándose. De esta manera, se prevé que para el
+cierre de 2009 se observe una pérdida acumulada de entre 325 mil y 425 mil
+trabajadores asegurados en el IMSS. Por otro lado, se espera que la
+recuperación de la economía prevista para 2010 se vea reflejada en un
+incremento de entre 300 mil y 400 mil empleos formales. Evidentemente,
+reflejando las perspectivas de crecimiento en 2011 mencionadas anteriormente,
+esta tendencia positiva continuaría en ese año.
+Cuenta Corriente: Para 2009 en su conjunto se estima que los déficit
+de la balanza comercial y de la cuenta corriente alcancen 0.9 y 0.8 por ciento del
+PIB, respectivamente (alrededor de 7.5 y 7 miles de millones de dólares, en el
+mismo orden). El hecho de que, a pesar del fuerte choque externo que sufrió la
+economía en 2009, dichos déficit habrán sido tan reducidos y, en particular,
+significativamente menores a los déficit observados en 2008, refleja el fuerte
+ajuste que exhibió el gasto doméstico y, con ello, las importaciones de bienes y
+servicios.
+A pesar de que para 2010 se espera una reactivación de la demanda
+externa, el mayor dinamismo de la demanda interna y su efecto sobre las
+importaciones tenderá a conducir a que el déficit de la balanza comercial se
+amplíe a un 1.3 por ciento del PIB en ese año (12.5 miles de millones de dólares).
+Asimismo, se espera que la cuenta corriente registre un déficit de 1.1 por ciento
+del PIB (10.7 miles de millones de dólares), lo cual también es mayor a lo
+estimado para el cierre de 2009. El hecho de que el déficit de la cuenta corriente
+se estima será menor al de la balanza comercial refleja la previsión de que el
+superávit de la balanza de transferencias, como resultado de cierta reactivación
+en las remesas familiares, supere a la suma de los déficit de la balanza de
+servicios factoriales y no factoriales.
+A D D E N DUM A L I N F O RME S O B R E L A I N F L A C I Ó N J U L I O - S E P T I EMB R E 2 0 0 9
+15
+Es importante hacer énfasis en que el déficit de la cuenta corriente
+proyectado para 2010 es de una magnitud relativamente reducida. En efecto, es
+posible esperar que el superávit de la cuenta de capital (a su vez reflejo, entre
+otros factores, de los flujos de inversión extranjera directa y de cartera esperados
+y del patrón y monto previsible de endeudamiento externo neto del sector
+público), supere dicho déficit. En este contexto, no se espera que existan
+problemas de financiamiento para la economía en 2010.
+Es relevante mencionar que el escenario para 2010-2011 descrito se
+fundamenta en la expectativa de una recuperación gradual de la economía global
+y, en particular, de la de Estados Unidos, lo cual reforzaría el cambio de
+tendencia de la demanda externa y contribuiría a sustentar un mercado
+doméstico más dinámico. Sin embargo, es pertinente mencionar que este
+pronóstico no está exento de riesgos, sobre todo, a la baja. Entre ellos destacan
+los siguientes:
+a) En primer lugar, como ya se mencionó, existe incertidumbre sobre la
+magnitud y rapidez de la recuperación de la actividad económica en
+Estados Unidos. En particular, no es posible descartar la posibilidad de
+que la recuperación de ese país sea más moderada que la anticipada
+por los analistas y, en consecuencia, que la demanda por diversos
+productos manufactureros se vea afectada negativamente. Lo anterior
+se reflejaría en un menor dinamismo de las exportaciones
+manufactureras de México. Este riesgo cobra especial relevancia si se
+toma en cuenta que el reciente repunte de la actividad económica en
+ese país ha sido muy influido por factores temporales, y el eventual
+retiro de las medidas de estímulo fiscal y monetario podría, en ciertos
+casos, llegar a influir adversamente en el proceso de recuperación.
+b) Dada la situación por la que atraviesan las principales empresas
+automotrices en Estados Unidos, el desempeño futuro de la producción
+automotriz en ese país es altamente incierto y, en consecuencia,
+también lo es en México.
+c) Finalmente, como ya se ha mencionado en diversas ocasiones, el bajo
+crecimiento potencial de la economía mexicana se constituye en una de
+las restricciones más importantes para lograr tasas de expansión
+elevadas de manera sostenida en nuestro país. El problema de la
+competitividad de la economía mexicana gana más relevancia en el
+contexto actual, si se toma en cuenta que una posible consecuencia de
+la crisis financiera global podría ser una reducción del crecimiento
+potencial de Estados Unidos.
+Inflación: La trayectoria prevista para la inflación general anual durante
+los siguientes dos años se revisó al alza. Esta revisión considera un repunte de
+carácter temporal de la inflación general en 2010, estimándose que alcance su
+nivel máximo hacia el cuarto trimestre de ese año, al ubicarse en promedio en un
+intervalo de entre 4.75 y 5.25 por ciento. A partir del primer trimestre de 2011
+empezaría a disminuir, para aproximarse a la meta de 3 por ciento en el último
+trimestre de 2011 (Cuadro 1 y Gráfica 9). Se anticipa que este desempeño de la
+inflación responderá, en lo principal, a los siguientes factores:
+B A N C O D E MÉ X I C O
+16
+1. Un impacto de una sola vez sobre los precios derivado de las
+modificaciones tributarias aprobadas en el paquete fiscal (ver Anexo). A
+este respecto, aún cuando la economía se encuentre en una situación
+de holgura, se espera que la mayor parte del impacto de los cambios en
+el sistema impositivo sobre los precios se concentre en el primer
+trimestre de 2010. Es pertinente recalcar que el efecto sobre la inflación
+sería temporal, revirtiéndose la mayor parte de éste en la primera parte
+de 2011.
+2. La expectativa de que durante el próximo año aumente la inflación de
+los precios de los bienes y servicios administrados. Ello, en virtud de la
+brecha que registran actualmente con respecto a sus referencias
+externas los precios tanto de las gasolinas, como del gas licuado.
+El pronóstico que se presenta en este documento considera que
+durante 2010 el grupo de los bienes y servicios administrados tendrá
+una incidencia creciente sobre la inflación. Ello debido a que, a
+diferencia de 2009 en que los precios administrados se han mantenido
+sin cambio, se asumió que para 2010 los precios de la gasolina Magna
+y Premium registren deslices mensuales de 6 y 4 centavos,
+respectivamente, a la vez que las tarifas de la electricidad acumulen un
+incremento de 6 por ciento y los precios del gas licuado de 5 por ciento.
+Estas cifras contrastan con los supuestos de aumentos nulos en los
+precios administrados para el próximo año, que se utilizaron para
+construir el pronóstico de inflación que se publicó en el Informe sobre la
+Inflación Octubre – Diciembre 2008, y que continuaban vigentes hasta
+la publicación de este addendum. Al respecto, en la página 102 de
+dicho informe se indicó que la trayectoria proyectada de la inflación se
+fundamentaba, entre otros factores, en lo siguiente:
+“...La decisión del Gobierno Federal de congelar los precios de las
+gasolinas, de reducir en 10 por ciento el precio del gas LP y en 9 por
+ciento las tarifas eléctricas de baja tensión... Para 2010 se supuso,
+dadas las cifras esperadas en los mercados a futuros, que estos precios
+no presenten incrementos.”
+Los aumentos que se proyectan para 2010 en los precios internos de
+los energéticos, en principio contribuirán a reducir la brecha con los
+correspondientes a sus referencias externas. Por tanto, se esperaría un
+menor ritmo de crecimiento de dichas cotizaciones durante 2011, lo que
+deberá contribuir al descenso de la inflación en ese año.
+3. Un probable incremento en la tasa de variación del índice de precios de
+los bienes y servicios concertados. En particular, se han presentado
+indicios de que pueden registrarse durante 2010 aumentos en los
+precios que se determinan a nivel local, tal como los propuestos en el
+Paquete Presupuestario 2010 del Distrito Federal para la tarifa del
+metro y el cobro por derecho de suministro de agua.6 El impacto de
+éstos sobre los precios tendería a ser de una sola vez, por lo que es de
+carácter similar al asociado con los cambios tributarios del paquete
+6 El 30 de noviembre de 2009 el Jefe de Gobierno del Distrito Federal presentó a la H. Asamblea
+Legislativa del Distrito Federal la Propuesta del Paquete Presupuestario 2010.
+A D D E N DUM A L I N F O RME S O B R E L A I N F L A C I Ó N J U L I O - S E P T I EMB R E 2 0 0 9
+17
+fiscal. Así, se espera también que los efectos sobre la inflación de este
+factor se desvanezcan durante los primeros meses de 2011.
+4. En contraste con lo anterior, la holgura que se espera prevalezca en la
+economía, sin duda, contribuirá a contrarrestar los efectos alcistas
+sobre la inflación de los tres factores señalados previamente.
+El factor dominante tanto en la revisión al alza del pronóstico de
+inflación, como en su trayectoria creciente a lo largo de 2010, corresponde al
+cambio esperado en la política de determinación de los precios y tarifas de los
+bienes y servicios administrados (ver Anexo). Por supuesto, ello se deriva de la
+combinación de una política que durante 2009 implicó el congelamiento de los
+precios de las gasolinas y una reducción en los precios del gas licuado, con una
+nueva política para 2010 de deslizar mensualmente en un cierto número de
+centavos los precios de ambos energéticos, conduciendo a que estos vayan
+mostrando tasas anuales de crecimiento cada vez mayores a lo largo del año.
+Ello, aunado al impacto que se espera provenga del grupo de los bienes y
+servicios concertados, implica una mayor contribución relativa a la inflación por
+parte del componente no subyacente durante el siguiente año.
+En el caso de la inflación subyacente, es previsible que los cambios
+tributarios incluidos en el paquete fiscal incidan sobre su evolución, si bien los
+menores niveles de las cotizaciones internacionales de las materias primas con
+respecto a los niveles máximos que alcanzaron, en un entorno de mayor
+estabilidad cambiaria, contribuirán a atenuar las presiones sobre aquélla.
+Cuadro 1
+Proyección Escenario Base de Inflación General Anual
+Promedio trimestral en por ciento
+2009-II 5.50 - 6.00
+2009-III 4.75 - 5.25 4.75 - 5.25
+2009-IV 4.00 - 4.50 4.00 - 4.50 3.75 - 4.25
+2010-I 3.75 - 4.25 3.75 - 4.25 4.25 - 4.75
+2010-II 3.25 - 3.75 3.25 - 3.75 4.50 - 5.00
+2010-III 3.25 - 3.75 3.25 - 3.75 4.75 - 5.25
+2010-IV 3.00 - 3.50 3.00 - 3.50 4.75 - 5.25
+2011-I 3.00 - 3.50 3.00 - 3.50 4.50 - 5.00
+2011-II 3.00 - 3.50 3.50 - 4.00
+2011-III 3.25 - 3.75
+2011-IV 2.75 - 3.25
+Proyección Proyección Addendum al
+Trimestre Informe Tercer Trimestre
+2009
+Proyección
+Informe Primer
+5.14 1/
+Informe Segundo
+Trimestre 2009
+5.96 1/ 5.96 1/
+------------
+------------
+Trimestre 2009
+------------
+------------
+------------
+1/ Dato observado.
+Como se ha señalado, la trayectoria prevista para la inflación se había
+mantenido sin cambio desde el Informe sobre la Inflación correspondiente al
+primer trimestre de 2009. Al respecto, cabe señalar que la tendencia a la baja que
+ha presentado la inflación se ha mantenido dentro de los intervalos proyectados.
+Inclusive, como se puede apreciar del ejercicio de pronóstico que se presenta en
+esta ocasión, se estima que el cierre para 2009 de la inflación será menor al
+pronóstico que hasta ahora se encontraba vigente, situándose esta variable con
+una elevada probabilidad en diciembre por debajo de 4 por ciento. Claramente,
+B A N C O D E MÉ X I C O
+18
+ello hace suponer que bajo un escenario inercial, en el que se mantuviesen sin
+cambio tanto la estructura impositiva, como la política actual de precios de bienes
+y servicios administrados y concertados, la inflación continuaría mostrando una
+tendencia a la baja durante el siguiente año.
+Gráfica 9
+Inflación General Anual y Proyección de Escenario Base
+Promedio trimestral en por ciento
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+T3 T4 T1 T2
+2006
+T3 T4 T1 T2
+2007
+T3 T4 T1 T2
+2008
+T3 T4 T1 T2
+2009
+T3 T4 T1 T2
+2010
+T3 T4 T1 T2
+2011
+T3 T4
+Inflación Observada
+Proyección Informe Primer Trimestre 2009
+Proyección Informe Segundo Trimestre 2009
+Proyección Addendum
+2009-T4 2010-T4
+La trayectoria prevista para la inflación enfrenta riesgos tanto al alza
+como a la baja, entre los que se encuentran:
+i) Una contaminación del proceso de formación de precios ante el repunte
+temporal de la inflación.
+ii) Un ritmo de ajuste distinto, ya sea mayor o menor, al que se anticipa en
+los precios de los bienes administrados.
+iii) Ajustes diferentes a los previstos en algunos precios y tarifas de bienes
+y servicios concertados.
+iv) Un traspaso distinto al que se estima podría tener la mayor carga
+tributaria sobre los precios al consumidor.
+v) Afectaciones climáticas que incidan en las condiciones de oferta de las
+frutas y verduras.
+vi) Mayor inflación a nivel global con relación a la que se prevé, fenómeno
+que incidiría particularmente en el proceso de desinflación que se
+anticipa para las mercancías.
+vii) Una recuperación de la actividad económica en México que resultase
+más lenta o de menor magnitud a la prevista, lo que podría conducir a
+una trayectoria de inflación menor a la proyectada.
+Es evidente que el paquete fiscal recientemente aprobado incluye
+medidas que contribuyen al fortalecimiento estructural de las finanzas públicas.
+A D D E N DUM A L I N F O RME S O B R E L A I N F L A C I Ó N J U L I O - S E P T I EMB R E 2 0 0 9
+19
+Lo mismo se puede decir de las modificaciones anticipadas en las políticas de
+precios y tarifas de los bienes y servicios administrados y concertados. Sin
+embargo, el que dichas medidas sean efectivas para elevar la recaudación,
+necesariamente implica que en su mayor parte también tengan un impacto sobre
+los precios al consumidor. En particular, se estima que tanto las modificaciones
+tributarias como los posibles ajustes a las políticas de precios y tarifas de los
+bienes y servicios concertados, impacten de una sola vez al Índice Nacional de
+Precios al Consumidor y que, por lo tanto, tengan un impacto transitorio sobre la
+inflación.
+Por su parte, el cambio previsto en la política de precios de bienes y
+servicios administrados, en un contexto en el que las referencias internacionales
+de dichos productos se encuentran en niveles más elevados, también apoyan el
+fortalecimiento estructural de las finanzas públicas. Ello, a través de un menor
+subsidio en los precios de ciertos bienes y servicios. Estos ajustes presentan el
+beneficio adicional de reducir ciertas distorsiones a nivel microeconómico que,
+por lo general, propician una asignación ineficiente de recursos. No obstante,
+como se explicó, también se prevé que estas medidas propicien un aumento en la
+inflación. En este caso se prevé que el impacto sobre los precios al consumidor
+se experimente a lo largo del año de utilizarse una política donde los precios de
+los energéticos van registrando incrementos en un cierto número de centavos al
+mes.
+Hasta ahora, en lo que va del año 2009, podría decirse que los
+elementos más importantes que han impactado a la inflación han sido, por un
+lado, los efectos de la depreciación cambiaria y, por el otro, las condiciones de
+lasitud que han prevalecido en la economía. En este contexto, el aumento
+previsto en la inflación, si bien transitorio, afecta el balance de riesgos que ésta
+enfrenta. En efecto, a pesar de que se espera que la holgura en la brecha de
+producto contribuya a atenuar el efecto sobre los precios al consumidor de las
+medidas tributarias y de los ajustes a los precios y tarifas públicos, para la
+autoridad monetaria será de fundamental importancia permanecer atenta a que
+no se contaminen otros precios. En este sentido, para que la inflación retome una
+tendencia a la baja conducente a la meta de inflación de 3 por ciento anual, es
+sumamente importante que las expectativas de inflación de mediano plazo estén
+bien ancladas en los siguientes trimestres. Ello permitirá que, una vez que el
+repunte previsto en la inflación se desvanezca, ésta muestre una fuerte
+disminución a principios de 2011, seguida de reducciones más moderadas en la
+segunda parte del año, hasta aproximarse a la meta de 3 por ciento anual hacia
+finales de ese año.
+B A N C O D E MÉ X I C O
+20
+Anexo Estimación del Efecto del Paquete Fiscal 2010 sobre
+el INPC y el PIB
+El H. Congreso de la Unión aprobó recientemente el paquete fiscal
+correspondiente a 2010, compuesto por la Ley de Ingresos de la Federación (LIF-
+2010) y el Presupuesto de Egresos de la Federación (PEF-2010).7 En este
+paquete se modificaron las tasas de algunos gravámenes existentes, se
+realizaron cambios al esquema de consolidación fiscal y se estableció un nuevo
+impuesto para algunos servicios de telecomunicaciones. Es previsible que la
+mayoría de estas modificaciones tributarias tengan un impacto sobre el INPC y,
+en alguna medida, también sobre el producto (aunque en este último caso, como
+se describe en la parte principal de este documento, el mayor gasto público que
+financiará el incremento en la recaudación, así como una mejora en las
+perspectivas de crecimiento industrial en los EE.UU., implican que no fuera
+necesario modificar el escenario relativo al crecimiento de la economía en 2010
+presentado en el Informe sobre la Inflación Abril – Junio, el cual sugiere un
+intervalo de 2.5 a 3.5 por ciento para el crecimiento del PIB en ese año).
+Por lo que respecta a la inflación, en general, un impuesto puede tener
+dos tipos de efectos sobre un índice de precios: a) un efecto directo, cuando el
+bien o servicio gravado es un componente de la canasta del índice de precios; y,
+b) un efecto indirecto, cuando los impuestos generan un aumento en los costos
+de las empresas, debido al incremento en el precio de los insumos que utilizan o
+de la mayor carga fiscal que enfrentan, y éstas transfieren parte de los costos
+adicionales a su precio final de venta.
+Por el lado del PIB, los impuestos pueden incidir sobre las cantidades
+comerciadas de bienes y servicios a través de dos canales: a) al incrementar el
+precio enfrentado por los consumidores y reducir el precio neto que perciben los
+productores, el impuesto reduce la cantidad comerciada del bien gravado; y, b)
+por el lado del consumo, si el impuesto disminuye el ingreso disponible de los
+hogares, éste tendrá un efecto negativo sobre la demanda agregada. Sin
+embargo, la disminución de la demanda agregada derivada de un menor gasto
+del sector privado como consecuencia de un impuesto tendería a verse
+compensada en la medida en que los recursos recaudados se dirijan a financiar
+un mayor gasto gubernamental.
+Asimismo, en adición a los cambios tributarios contenidos en el paquete
+fiscal para 2010, es posible que se modifiquen las políticas de precios y tarifas,
+tanto a nivel federal, como a nivel de algunas tarifas y derechos de los gobiernos
+locales. Si bien aún resta por conocer de manera precisa los ajustes que
+mostrarán estas políticas de precios y tarifas, en la medida en que las políticas de
+precios administrados y concertados para 2010 difieran de las observadas en
+2009, es previsible que ello tenga un efecto sobre la inflación, tanto directo, al
+formar parte de la canasta de los consumidores, como indirecto, al ser algunos de
+estos bienes y servicios insumos productivos.8 Por ello, con base en algunos
+7 Conforme al comunicado de prensa de la SHCP del 19 de noviembre de 2009 (Aprobación del
+Programa Económico 2010), la LIF-2010 se aprobó el 5 de noviembre, mientras que el PEF-2010 fue
+aprobado el 17 de noviembre.
+8 La determinación de los precios y tarifas públicos es una decisión del Ejecutivo. No obstante, en lo que
+respecta a los precios y tarifas federales, en los Criterios Generales de Política Económica 2010 se
+A D D E N DUM A L I N F O RME S O B R E L A I N F L A C I Ó N J U L I O - S E P T I EMB R E 2 0 0 9
+21
+supuestos sobre la probable evolución de estos precios, este Anexo también
+incluye una estimación de su posible impacto sobre el INPC.
+La primera sección de este Anexo describe las principales
+modificaciones tributarias contenidas en el paquete fiscal 2010, señalando los
+posibles tipos de incidencia sobre el INPC. En la segunda sección se presenta un
+esquema simple de oferta y demanda que permite ilustrar el efecto de un
+impuesto sobre el precio y la cantidad producida de un bien o servicio. Teniendo
+este esquema como marco de referencia, la tercera y cuarta secciones describen
+la estimación realizada para evaluar los efectos de los cambios en impuestos y de
+un posible cambio en los precios y tarifas de los bienes administrados y
+concertados sobre el INPC y sobre el producto.
+A.1. Modificaciones Tributarias para 2010
+Las modificaciones a los impuestos para 2010 que podrían tener un
+efecto transitorio sobre la inflación y sobre el producto son (Cuadro 2):
+i) Impuesto al Valor Agregado (IVA). Se incrementa la tasa general del
+IVA de 15 a 16 por ciento y la tasa en las ciudades de la franja
+fronteriza de 10 a 11 por ciento. Esta modificación tiene un efecto
+directo sobre el INPC, ya que una parte importante de la canasta de
+bienes y servicios del INPC está sujeta a este impuesto.9
+ii) Impuesto Especial sobre Producción y Servicios (IEPS). Se incrementa
+la carga tributaria por este impuesto a diversos bienes y servicios: para
+la cerveza la tasa aumenta de 25 a 26.5 por ciento; para las bebidas
+alcohólicas de más de 20° G.L. se incrementa de 50 a 53 por ciento; y,
+para el tabaco se establece una cuota fija, adicional al impuesto
+existente, de 4 centavos por cigarro o su equivalente en peso.10
+Adicionalmente, se establece un nuevo IEPS de 3 por ciento a los
+servicios de telecomunicaciones que se presten a través de una red
+pública (exceptuando Internet, telefonía pública y rural, así como el
+servicio de interconexión). Dado que estos bienes forman parte del
+INPC, se anticipa un efecto directo sobre éste.11
+iii) Impuesto Sobre la Renta (ISR). Se incrementa la tasa del ISR para las
+personas morales de 28 a 30 por ciento. Este cambio en la carga fiscal
+no tiene un efecto directo sobre el INPC. No obstante, es posible que
+las empresas intenten transferir parte de su carga fiscal adicional al
+________________________
+señala que su determinación se definirá tomando en cuenta criterios como la relación precio-costo, los
+precios de referencia nacional e internacional y la tasa de inflación. Además, para evitar impactos
+abruptos sobre los niveles de inflación, se menciona que los ajustes que se apliquen serán periódicos y
+graduales.
+9 Por la forma en como se acredita el IVA en las diversas etapas de la producción, este impuesto no
+presenta efectos indirectos sobre los precios.
+10 El aumento de la tasa del impuesto a la cerveza es temporal, ya que pasa de 25 a 26.5 por ciento en
+2010-2011, se reduce a 26 por ciento en 2012 y regresa a 25 por ciento en 2013. Por su parte, en el
+impuesto al tabaco se aprobaron modificaciones graduales en la cuota fija para 2011, 2012 y 2013 de 6,
+8 y 10 centavos, respectivamente.
+11 Se aprobó también un incremento en la tasa del IEPS para juegos y sorteos de 20 a 30 por ciento. No
+obstante, este concepto no forma parte de la canasta del INPC.
+B A N C O D E MÉ X I C O
+22
+consumidor, vía incrementos en los precios de los bienes o servicios
+que producen.12
+Asimismo, en el ISR para personas morales se modificó el régimen de
+consolidación fiscal, estableciendo límites al diferimiento de pagos de
+las empresas controladas. En el sexto y séptimo año, las empresas
+deberán enterar el 25 por ciento del impuesto diferido, 20 por ciento el
+octavo año y 15 por ciento los dos siguientes años, de manera que los
+créditos fiscales por este esquema se liquiden a más tardar en 10 años.
+Este cambio implica que para 2010 las empresas deberán enterar el 25
+por ciento del impuesto diferido en 2004 y años anteriores. Si bien es
+posible que las empresas podrían intentar transferir este incremento en
+su carga fiscal al consumidor vía precios, como se comentará, el efecto
+de esta medida sobre los precios es altamente incierto.
+También se incrementó la tasa marginal máxima del ISR para las
+personas físicas, de 28 a 30 por ciento. Esta medida incide en el
+ingreso disponible de los hogares y, por lo tanto, podría tener algún
+efecto sobre el consumo y sobre la demanda agregada. No obstante, se
+estima que el impacto en precios sea muy reducido.
+Cuadro 2
+Cambios en los Impuestos para 2010
+2009 2010
+Por ciento Por ciento
+IVA
+Tasa general 15.0 16.0 􀀹 Directo
+Tasa en Ias ciudades de la franja fronteriza 10.0 11.0 􀀹 Directo
+IEPS
+Cerveza 1/ 25.0 26.5 􀀹 Directo
+Bebidas alcohólicas de más de 20°G.L. 50.0 53.0 􀀹 Directo
+Cigarros y tabacos labrados 2/ 160.0
+160.0 más 4
+centavos por
+cigarro
+􀀹 Directo
+Juegos y Sorteos 20.0 30.0 - -
+Telecomunicaciones - 3.0 􀀹 Directo
+ISR
+Personas físcas (tasa marginal máxima) 3/ 28.0 30.0 - -
+Personas morales 3/ 28.0 30.0 􀀹 Indirecto
+Consolidación Fiscal 4/ -
+25% (años 6 y 7),
+20% (año 8)
+15% (años 9 y 10)
+Incierto Indirecto
+IETU 17.0 17.5 􀀹 Indirecto
+IDE 5/ 2.0 3.0 - -
+Tipo de
+Efecto
+Efecto en
+Concepto Precios
+Tasas
+1/ El aumento de la tasa del impuesto a la cerveza es temporal, ya que se reduce a 26 por ciento en 2012 y regresa a 25 por
+ciento en 2013.
+2/ También se aprobaron aumentos de 6, 8 y 10 centavos para 2011, 2012 y 2013, respectivamente.
+3/ El aumento de la tasa es temporal, ya que en 2013 disminuirá a 29 por ciento y en 2014 a 28 por ciento.
+4/ En 2010 será exigible enterar en 25 por ciento de los saldos actualizados de 2004 y años anteriores.
+5/ El monto exento acumulado se redujo de 25 a 15 mil pesos mensuales.
+Fuente: LIF-2010.
+12 El aumento de la tasa es temporal, ya que en 2013 disminuirá a 29 por ciento y en 2014 a 28 por ciento.
+A D D E N DUM A L I N F O RME S O B R E L A I N F L A C I Ó N J U L I O - S E P T I EMB R E 2 0 0 9
+23
+iv) Impuesto Empresarial a Tasa Única (IETU). En lo que respecta al IETU,
+en 2010 se incrementará su tasa de 17 a 17.5 por ciento. No obstante,
+este cambio fue establecido desde 2007, por lo que su impacto sobre el
+INPC estaba ya incorporado en las expectativas de inflación para 2010
+y no forma parte del paquete fiscal recientemente aprobado.13
+A.2. Incidencia de los Impuestos: Marco de Referencia14
+En primer lugar, cabe señalar que la carga que representa un impuesto
+puede no ser asumida por aquél que tiene la carga estatutaria. En efecto, los
+impuestos pueden ser transferidos a otros agentes. La capacidad que tiene un
+productor para transferir un impuesto, vía el precio (incidencia fiscal sobre el
+consumidor), depende de las condiciones del mercado del bien de que se trate,
+en particular, de las elasticidades de la oferta y la demanda.15
+A continuación se presenta un esquema simple de oferta y demanda de
+un producto, que permite ilustrar el efecto de un impuesto sobre su precio y la
+cantidad producida. Para ejemplificar este efecto se puede considerar el caso de
+un impuesto por unidad sobre los productores (Gráfica 10).16 Partiendo de una
+situación de equilibrio inicial en el mercado (punto a), la aplicación de un
+impuesto (t) puede ser interpretada como un desplazamiento vertical de la curva
+de oferta por el monto del impuesto (de O0 a O1). Consecuentemente, se reduce
+la cantidad producida (de X0 a X1) y se presenta un diferencial entre el precio que
+paga el consumidor (P1
+c) y el precio que recibe el productor (P1
+p). De esta
+manera, es posible que el incremento en el precio al consumidor (incidencia del
+impuesto) represente una fracción β del impuesto, y que el productor absorba una
+fracción (1-β) del mismo.
+La incidencia del impuesto recaerá más sobre el lado del mercado con
+menor elasticidad relativa. Así, si la elasticidad de la demanda es menor, el
+traspaso a precios será mayor; en caso contrario, el precio neto que recibe el
+productor se verá más afectado por el impuesto.17
+En la Gráfica 11 se ejemplifican los casos extremos de la elasticidad de
+la demanda (dada una curva de oferta). Cuando la curva de demanda es
+perfectamente elástica, no existe traspaso de precios al consumidor, y toda la
+carga recae sobre el precio que recibe el productor (β=0). Por el contrario,
+cuando la curva de demanda es perfectamente inelástica, la incidencia es
+unitaria, y la carga del impuesto se traslada al consumidor (β=1) en su totalidad.
+En general, los bienes para los cuales existen sustitutos más cercanos tienden a
+exhibir una demanda más elástica.
+13 Otro cambio en la LIF-2010 corresponde al aumento de la tasa del IDE (de 2 a 3 por ciento) y la
+disminución del monto mensual acumulado exento de este impuesto de 25 a 15 mil pesos. Este cambio
+no fue considerado en la estimación de precios, ya que al ser un impuesto acreditable contra el ISR, se
+considera que no genera un aumento en la carga fiscal de las empresas formales.
+14 Esta sección se basa en el Anexo 2 del Informe sobre la Inflación Julio – Septiembre 2007, publicado
+por el Banco de México.
+15 El análisis de la incidencia del impuesto presentado se restringe a un enfoque de equilibrio parcial, es
+decir, se considera únicamente el efecto del impuesto en el mercado del producto analizado y no los
+efectos que pudieran existir sobre los mercados de otros bienes y servicios relacionados y sobre los
+mercados de los factores de producción.
+16 Se emplea el impuesto por unidad debido a su facilidad de exposición. No obstante, el análisis es
+extensivo al de un impuesto ad valorem.
+17 Para mayor detalle, ver el Anexo 2 del Informe sobre la Inflación Julio – Septiembre 2007, del Banco de
+México.
+B A N C O D E MÉ X I C O
+24
+Gráfica 10
+La Incidencia de un Impuesto
+c
+a
+b
+O1=po(x)+t
+O0=po(x)
+D=pd(x)
+X1 X0 Cantidad
+t
+P
+(1-β)t
+P
+βt
+Pp1
+c
+1
+Precio
+* ΔP
+ΔX
+Gráfica 11
+La Incidencia de un Impuesto
+a) Demanda Perfectamente Elástica b) Demanda Perfectamente Inelástica
+Cantidad
+Precio
+a
+b
+c
+t
+p P 1
+O1=po(x)+t
+O0=po(x)
+D=pd(x)
+X1 X0
+P 0
+ΔP=0
+Cantidad
+Precio
+a
+Pc b
+1
+P 0
+D=pd(x) O1=po(x)+t
+O0=po(x)
+X1=X0
+ΔP=t
+ΔX=0
+De esta manera, a menos que la demanda del bien sea perfectamente
+inelástica, un impuesto tenderá a reducir la cantidad de equilibrio en el mercado
+(de X0 a X1). Así, un impuesto afecta la asignación de recursos de la economía y,
+en particular, conduce a una menor cantidad comerciada del bien gravado. Esto,
+a su vez, puede tener un efecto sobre el PIB del sector que contiene a la industria
+productora del bien gravado.
+El esquema de mercado presentado en la Gráfica 10 muestra de forma
+simplificada los elementos para la estimación del efecto en los precios y en la
+cantidad producida de un impuesto cuya base gravable son las ventas. En
+particular, como se observa, para estimar el efecto en el precio se requiere
+conocer la tasa del impuesto (t) y la incidencia al consumidor (β). A su vez, si se
+identifica el impacto esperado en precios y se cuenta con una estimación de la
+elasticidad de la demanda, es posible también calcular la reducción que podría
+A D D E N DUM A L I N F O RME S O B R E L A I N F L A C I Ó N J U L I O - S E P T I EMB R E 2 0 0 9
+25
+exhibir la cantidad producida y consumida de equilibrio como resultado del
+impuesto (es decir, es posible estimar la diferencia entre X0 y X1).
+A.3. Estimación del Efecto de los Cambios en Impuestos y Posibles
+Cambios en Precios y Tarifas Públicas sobre el INPC
+A.3.1. Impuestos
+Para realizar la estimación del impacto en precios de las medidas
+tributarias del paquete fiscal para 2010, el primer elemento a determinar es la
+incidencia fiscal (β) para los distintos bienes y servicios sujetos a cambios
+impositivos. Para ello se realizaron ejercicios de estimación de las incidencias
+basados en la metodología presentada en Aportela y Werner (2002) para el caso
+del episodio en que se ajustó al alza la tasa general del IVA en 1995. Este
+episodio es particularmente apropiado para estimar la incidencia de un impuesto
+sobre los precios al consumidor, debido a que se cuenta con dos trayectorias de
+precios, una correspondiente a las zonas fronterizas, donde la tasa general del
+impuesto no se modificó, y otra para el resto del país, donde se incrementó dicha
+tasa.18
+Cabe señalar que en las nuevas estimaciones se busca controlar por
+posibles efectos diferenciados sobre la inflación en las ciudades de la zona
+fronteriza y el interior del país, que no provengan del cambio en el régimen del
+IVA.19 Es altamente probable que el entorno macroeconómico del año utilizado
+para la estimación, en particular los efectos de la depreciación del tipo de cambio,
+haya impactado de forma diferenciada la dinámica de los precios en las ciudades
+de la frontera y en las del interior del país. En los ejercicios realizados, se busca
+controlar estos efectos utilizando la evolución de los precios en alimentos y
+medicinas, los cuales pudieron verse afectados por los efectos diferenciados del
+entorno existente, pero no por las modificaciones al régimen del IVA, ya que este
+grupo de bienes mantuvo la tasa cero en las dos regiones.
+Cabe señalar que las incidencias estimadas continúan estando sujetas
+a un alto grado de incertidumbre, debido principalmente a:
+• La incertidumbre estadística inherente a este tipo de estimaciones.
+• Las incidencias estimadas son condicionales a las estructuras de
+mercado que existían en 1995, las cuales pueden haber sufrido
+modificaciones.
+El segundo elemento para la estimación del impacto en precios, son las
+tasas impositivas (t). Para el caso del IVA y el IEPS, las tasas están dadas
+directamente por las modificaciones tributarias.
+18 Véase Aportela, F. y A. Werner (2002), “La reforma al impuesto al valor agregado de 1995: efecto
+inflacionario, incidencia y elasticidades relativas”, Documento de Investigación No. 2002-01, Banco de
+México.
+19 La estimación realizada por Aportela y Werner (2002) se basa en la metodología de diferencias en
+diferencias. Esta metodología puede presentar problemas si en el periodo anterior y posterior al
+“tratamiento” (incremento en la tasa del IVA en el interior) existen factores que afectan
+diferenciadamente la variable de interés (precios) entre el grupo bajo tratamiento (interior) y el grupo de
+control (frontera).
+B A N C O D E MÉ X I C O
+26
+Por su parte, el ISR empresarial y el IETU no gravan a la producción o a
+las ventas. No obstante, es posible que las empresas intenten transferir el
+incremento en su carga fiscal al consumidor vía el precio. La metodología descrita
+anteriormente puede aplicarse a la estimación del impacto en precios de estos
+impuestos, estimando una tasa equivalente (te) a un impuesto ad valorem, y
+expresando la carga fiscal adicional (ΔCF) como una proporción de las ventas
+totales (Y).20
+En el Cuadro 3 se presenta la estimación del impacto esperado sobre el
+INPC, medido en puntos base (pb), de los cambios en impuestos considerados
+en la LIF-2010. Se espera que el efecto del cambio en el IVA sobre el INPC sea
+de aproximadamente 35 pb, mientras que el proveniente de los cambios a los
+IEPS de bebidas alcohólicas y tabaco sea de 5 pb. Asimismo, se espera un
+impacto de 5 pb por la introducción del IEPS a las telecomunicaciones.
+La carga fiscal estatutaria del ISR de las personas morales no recae
+sobre los consumidores finales de los bienes y servicios producidos, por lo que no
+existe un efecto directo sobre los precios de estos bienes. Sin embargo, el
+incremento en la tasa del ISR implica un aumento en la carga fiscal de algunas
+empresas. Partiendo de las consideraciones presentadas anteriormente, el efecto
+indirecto de este impuesto sobre el INPC se estima sería de 5 pb.21
+Si bien el cambio en el esquema de la consolidación fiscal representa
+un incremento en la carga fiscal de algunas empresas que podrían intentar
+transferir al precio de sus productos, este efecto es incierto. La carga fiscal
+adicional es independiente del nivel de producción actual y, por lo tanto, no afecta
+su decisión marginal de precios. Debido a lo incierto del efecto sobre los precios
+del cambio en el esquema de consolidación fiscal, éste no se incluyó en la
+estimación del impacto del paquete fiscal sobre el INPC.
+A.3.2. Precios, Tarifas y Derechos
+En 2009 los precios y tarifas de los bienes administrados a nivel federal
+no se incrementaron. En la medida en que esta política de precios y tarifas en
+2010 difiera de la que se observó en 2009, se tendrán efectos sobre el INPC. A
+este respecto, se anticipan incrementos de los precios de las gasolinas de bajo y
+alto octanaje, del gas licuado y de las tarifas eléctricas. Por ser estos bienes y
+servicios tanto componentes del INPC, como insumos de producción
+generalizados por sector económico, se consideraron tanto efectos directos como
+indirectos sobre este índice de precios. El impacto directo está determinado por el
+20 En principio, la carga estatutaria del ISR empresarial o del IETU puede ser distribuida entre los factores
+de producción, los consumidores e, inclusive, otros mercados de bienes y servicios que no se vean
+afectados directamente por este impuesto. En el análisis de equilibrio parcial que aquí se elabora,
+implícitamente se asume que todo el efecto de este tipo de impuestos se absorbe dentro del mercado
+del bien o servicio en el que participa la empresa gravada, distribuyéndose la carga entre productores y
+consumidores. Por lo anterior, se asume que toda la carga fiscal se intenta transferir a precios.
+21 El aumento de la tasa del IETU para 2010 se estableció desde 2007, por lo que su impacto sobre el
+INPC ya estaba incorporado en las expectativas de inflación y en las trayectorias para 2010
+presentadas previamente en los informes de inflación. Por ello, no se consideró como parte del impacto
+en precios del paquete fiscal aprobado para 2010.
+Y
+te ΔCF
+=
+A D D E N DUM A L I N F O RME S O B R E L A I N F L A C I Ó N J U L I O - S E P T I EMB R E 2 0 0 9
+27
+incremento del precio, mientras que para el efecto indirecto puede estimarse
+utilizando la matriz de insumo-producto 2003, con el fin de evaluar el impacto de
+los energéticos en la estructura de costos de las empresas.
+Como se mencionó anteriormente, no existe a la fecha un anuncio
+oficial respecto a la política de precios y tarifas de los bienes administrados. Por
+ello, se realizaron algunos supuestos sobre la evolución de estos precios,
+considerando para las gasolinas Magna y Premium deslices mensuales de 6 y 4
+centavos, respectivamente, a la vez que las tarifas de la electricidad acumulen un
+incremento en 2010 de 6 por ciento y los precios del gas licuado de 5 por ciento.
+El impacto total sobre el INPC de estos incrementos supuestos (efectos directo e
+indirecto), sería de aproximadamente 76 pb (Cuadro 3).
+Por otro lado, se anticipa que durante 2010 se observen modificaciones
+en algunas tarifas y derechos de gobiernos locales tales como, por ejemplo, los
+incrementos propuestos por el Gobierno del Distrito Federal a la tarifa del metro y
+al cobro de los derechos por el suministro de agua. Por este motivo, para 2010 el
+cambio esperado en tarifas y derechos locales es congruente con un impacto
+adicional sobre el INPC de alrededor de 44 pb.
+Por último, es importante aclarar que, en el caso de que los precios y
+tarifas de bienes administrados y concertados que sean aprobados varíen de los
+que aquí se suponen, las estimaciones presentadas se verían afectadas.
+Cuadro 3
+Estimación del Efecto de Paquete Fiscal 2010 y las Modificaciones Supuestas
+a los Precios Administrados y Concertados sobre el INPC
+Puntos base
+1. Impuestos en la LIF-2010 (a+b+c+d) 50
+a. Aumento tasa del IVA 35
+b. IEPS de bebidas y tabaco 5
+Cerveza 2
+Bebidas Alcohólicas de más de 20°GL 1
+Tabaco (cigarrillos) 3
+c. IEPS Telecomunicaciones 5
+d. ISR personas morales 5
+2. Política de Precios y Tarifas (e+f) 76
+e. Efecto Directo 62
+Gasolina de Bajo Octanaje 29
+Gasolina de Alto Octanaje 3
+Gas Doméstico 12
+Electricidad 18
+f. Efecto Indirecto 14
+3. Derechos y Tarifas Locales 44
+Efecto Total (1+2+3) 169
+Conceptos Estimación
+Nota: La suma de las partes puede no coincidir con el total debido al redondeo.
+B A N C O D E MÉ X I C O
+28
+A.3.3. Impacto Total sobre el INPC
+Tomando en consideración los elementos anteriores, el impacto total de
+las medidas tributarias y de la política de precios y tarifas del sector público sería
+de 169 pb.
+Cabe señalar que las estimaciones anteriores sobre el INPC no
+consideran otros posibles efectos subsecuentes en los precios, en particular, una
+contaminación del proceso de formación de precios en la economía. De
+presentarse este tipo de efectos, podrían generarse cambios en las expectativas
+de inflación e incrementos adicionales de los precios en general. En este
+contexto, el balance de riesgos se ha visto impactado. Aunque el efecto estimado
+sobre el INPC es de una sola vez, y la brecha del producto será holgada en 2010,
+la Junta de Gobierno del Instituto Central estará atenta a que no se contaminen
+otros precios y a que las expectativas de inflación de mediano plazo continúen
+bien ancladas.
+A.4. Estimación del Efecto del Paquete Fiscal 2010 sobre el PIB
+Tomando como referencia el esquema de oferta y demanda que se
+presentó en la Gráfica 10, el efecto de los cambios impositivos derivados de la
+reforma fiscal sobre la actividad productiva se estimó utilizando el impacto en los
+precios al consumidor cuantificado anteriormente y un cálculo de la elasticidad de
+la demanda para cada sector de la economía. En particular, el efecto sobre cada
+sector se calculó como el producto del cambio en el precio relativo de cada sector
+esperado como consecuencia del paquete económico y la elasticidad de la
+demanda en dicho sector particular.
+Formalmente, para identificar las elasticidades de demanda citadas
+anteriormente, se utilizaron ecuaciones para el PIB de cada sector estimadas
+econométricamente a partir de modelos que incorporan un mecanismo de
+corrección de error. Las variables que se incorporaron en cada ecuación permiten
+aproximar la demanda de largo plazo relevante en cada sector de la economía.
+En particular, se incluyen como variables explicativas el precio relativo de cada
+sector, la demanda agregada proveniente del sector privado, el gasto público y
+otros factores que desplazan la demanda de cada sector particular.22 Con las
+elasticidades de demanda de cada sector y el incremento esperado en los precios
+al consumidor, se estimó una cuantificación de la reducción del PIB de dicho
+sector atribuible al impuesto. Finalmente, se sumaron los impactos en cada sector
+para calcular el efecto de estos cambios impositivos sobre el PIB total.
+Al impacto descrito en el párrafo anterior se añadió una estimación del
+efecto que podría tener el incremento en la tasa del ISR para las personas físicas
+sobre el consumo privado (y, por ende, sobre la demanda agregada). Este
+impacto corresponde al efecto de la disminución del ingreso disponible derivada
+del aumento en el ISR sobre el consumo privado, lo cual se proyectó utilizando
+una ecuación econométrica que aproxima la función consumo del país.
+22 En virtud de que el precio y la cantidad de equilibrio se determinan en forma simultánea, es necesario
+recurrir al método de variables instrumentales para estimar consistentemente las ecuaciones de
+demanda. En este contexto, se utilizó el salario relativo de cada sector como instrumento para los
+respectivos precios relativos. A partir de estos ejercicios, se obtuvieron las elasticidades-precio de la
+demanda de largo plazo, las cuales fueron luego utilizadas para cuantificar el impacto del paquete
+económico.
+A D D E N DUM A L I N F O RME S O B R E L A I N F L A C I Ó N J U L I O - S E P T I EMB R E 2 0 0 9
+29
+En el caso actual, la mayor recaudación obtenida por el gobierno al
+aumentar los impuestos será reincorporada a la demanda agregada a través del
+gasto público. Así, el efecto de los impuestos sobre el PIB descrito anteriormente
+se anticipa será contrarrestado por un mayor gasto público. Al considerar este
+efecto indirecto sobre el PIB, la estimación del impacto total del paquete
+económico sobre el crecimiento de la economía resultó ser de una magnitud muy
+reducida. Ello, aunado a una mejoría en las perspectivas de crecimiento industrial
+en los Estados Unidos (que repercute de manera importante en las perspectivas
+de crecimiento en México), condujo a que no fuera necesario modificar el
+escenario relativo al crecimiento de la economía en 2010 presentado en el
+Informe sobre la Inflación Abril – Junio, el cual implica un intervalo de 2.5 a 3.5
+por ciento para el crecimiento del PIB en este año.

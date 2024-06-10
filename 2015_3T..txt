@@ -1,0 +1,3788 @@
+P
+Informe Trimestral
+Julio – Septiembre 2015
+
+JUNTA DE GOBIERNO
+Gobernador
+AGUSTÍN GUILLERMO CARSTENS CARSTENS
+Subgobernadores
+ROBERTO DEL CUETO LEGASPI
+JAVIER EDUARDO GUZMÁN CALAFELL
+MANUEL RAMOS FRANCIA
+MANUEL SÁNCHEZ GONZÁLEZ
+
+INFORME TRIMESTRAL
+En este informe se analiza la inflación, la actividad económica, el comportamiento de otros indicadores económicos del país, así como la ejecución de la política monetaria del trimestre julio – septiembre de 2015 y diversas actividades del Banco durante dicho periodo, en el contexto de la situación económica nacional e internacional, para dar cumplimiento a lo dispuesto en el artículo 51, fracción II, de la Ley del Banco de México.
+ADVERTENCIA
+A menos que se especifique lo contrario, este documento está elaborado con información disponible al 3 de noviembre de 2015. Las cifras son de carácter preliminar y están sujetas a revisiones.
+CONTENIDO
+1. Introducción .................................................................................................................. 1
+2. Evolución Reciente de la Inflación ................................................................................ 4
+2.1. La Inflación en el Tercer Trimestre de 2015 ...................................................... 4
+2.2. Índice Nacional de Precios al Productor ......................................................... 10
+3. Entorno Económico y Financiero Prevaleciente en el Tercer Trimestre de 2015 ...... 11
+3.1. Condiciones Externas ...................................................................................... 11
+3.1.1. Actividad Económica Mundial ............................................................ 11
+3.1.2. Precios de las Materias Primas .......................................................... 15
+3.1.3. Tendencias de la Inflación en el Exterior ........................................... 16
+3.1.4. Política Monetaria y Mercados Financieros Internacionales ............. 20
+3.2. Evolución de la Economía Mexicana .............................................................. 25
+3.2.1. Actividad Económica .......................................................................... 25
+3.2.2. Mercado Laboral ................................................................................ 32
+3.2.3. Ahorro Financiero y Financiamiento en el País ................................. 35
+4. Política Monetaria y Determinantes de la Inflación .................................................... 43
+5. Previsiones para la Inflación y Balance de Riesgos ................................................... 52
+Anexo 1: Gráficas Complementarias de la Evolución Reciente de la Inflación .............. 57
+RECUADROS
+1. Traspaso de Variaciones en el Tipo de Cambio a Precios en Economías de Latinoamérica ............................................................................................................. 18
+
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 1
+1. Introducción
+En cumplimiento de su mandato constitucional, al conducir la política monetaria el Banco de México procura la estabilidad del poder adquisitivo de la moneda nacional. Asimismo, este Instituto Central busca lograr dicho mandato al menor costo posible para la sociedad en términos de actividad económica. En los últimos años se ha progresado significativamente en la creación de un entorno de inflación baja y estable en México. Así, después de haber convergido a la meta permanente de 3 por ciento e incluso ubicarse por debajo de la misma desde mayo del presente año, la inflación general experimentó descensos adicionales y registró nuevos mínimos históricos en el trimestre objeto de este Informe. A este comportamiento de la inflación contribuyeron la postura de la política monetaria, un crecimiento económico que ha sido menor al que se tenía previsto y los efectos directos e indirectos que sobre la misma han tenido las reducciones en los precios de los insumos de uso generalizado, tales como los energéticos, las materias primas y los servicios de telecomunicación. Varias de esas reducciones han resultado de la implementación de las reformas estructurales. Hacia adelante, se prevé que la inflación continúe ubicándose por debajo de 3 por ciento en lo que resta de 2015.
+La evolución favorable de la inflación se ha dado en una coyuntura económica difícil. En el ámbito interno, la actividad económica continuó presentando un ritmo de crecimiento moderado, por lo que prevaleció un entorno de holgura en la economía y, en consecuencia, no se presentaron presiones sobre los precios por el lado de la demanda agregada. Por su parte, el ajuste en precios relativos asociado a la depreciación que ha experimentado la moneda nacional en respuesta a choques externos significativos, se ha reflejado principalmente en los precios de los bienes durables. En el ámbito externo, sigue la incertidumbre respecto al proceso de normalización de la política monetaria en Estados Unidos. Además, el crecimiento mundial permanece en niveles bajos y existe mayor preocupación respecto a la profundidad de la desaceleración de China, todo lo cual ha continuado afectando negativamente los precios de las mercancías básicas. Esto contribuyó a que la volatilidad en los mercados financieros internacionales continuara siendo elevada y la aversión al riesgo de los inversionistas se incrementara durante el trimestre de referencia. Lo anterior se reflejó en caídas en los precios de los activos financieros a nivel global, en especial de las divisas de economías emergentes y en los índices accionarios en todo el mundo. En nuestro caso, la cotización del peso frente al dólar absorbió la mayor parte del ajuste, al registrar una elevada volatilidad con una tendencia hacia la depreciación en el tercer trimestre, aun cuando en octubre esta se revirtió parcialmente. Ante todo ello, las expectativas de inflación continuaron bien ancladas, y el traspaso de la depreciación cambiaria a precios fue muy reducido. Teniendo en cuenta estos elementos, en el periodo que cubre este Informe la Junta de Gobierno mantuvo en 3 por ciento el objetivo para la Tasa de Interés Interbancaria a un día en virtud de que consideró que la postura de política monetaria era conducente a afianzar la convergencia de la inflación a la meta permanente de 3 por ciento.
+Durante el tercer trimestre de 2015, la economía mexicana continuó creciendo, pero a un ritmo moderado. En particular, la demanda externa mantuvo un débil desempeño. En cuanto al gasto interno, la inversión mostró al inicio de este periodo un menor dinamismo que en el segundo trimestre. Sin embargo, los indicadores
+Banco de México
+2 Informe Trimestral Julio - Septiembre 2015
+del consumo privado exhibieron una tasa de expansión mayor que en el trimestre anterior. En este contexto, persistieron condiciones de holgura en la economía, por lo que no se percibieron presiones sobre los precios en los principales mercados de insumos, ni sobre las cuentas externas.
+La actividad económica global ha continuado debilitándose. La modesta recuperación de las economías avanzadas y la persistente desaceleración en las emergentes, se ha visto retroalimentada a través del menor dinamismo del comercio internacional y de los mercados financieros. Ante ello, se ha observado una reducción en las perspectivas de crecimiento y una intensificación de los riesgos a la baja. Entre estos riesgos, destaca la posibilidad de que un ajuste desordenado en la economía de China pueda tener mayores efectos sobre la economía global. También ha sido motivo de preocupación la recesión en Brasil con tasas de inflación extremadamente altas en medio de una crisis política, y los problemas por los que atraviesa Turquía. Es pertinente señalar que la desaceleración de las economías emergentes no responde únicamente a factores idiosincrásicos, sino que también refleja el daño de un periodo tan largo con un crecimiento por debajo de su potencial en la mayoría de las economías avanzadas.
+En este entorno, se observó una elevada volatilidad en los mercados financieros internacionales. El posible impacto de un menor crecimiento global, en particular de las economías emergentes, sobre las perspectivas de crecimiento e inflación de las economías avanzadas, generó una mayor incertidumbre sobre el rumbo de sus posibles acciones de política económica. En particular, resalta que los participantes en los mercados anticipan un retraso en el proceso de normalización de la política monetaria en Estados Unidos y un mayor relajamiento en otras economías avanzadas. Por su parte, la latente preocupación sobre las perspectivas de crecimiento de la economía China y las dudas sobre los efectos de su política económica también contribuyeron a este ambiente de elevada inestabilidad, que afectó negativamente los precios de las mercancías básicas. En respuesta, durante el trimestre que se reporta se observaron caídas en los precios de los activos financieros a nivel global, en especial de las divisas de economías emergentes y de algunas economías avanzadas exportadoras de materias primas, así como en los índices accionarios de la mayoría de los países. Inclusive, los bancos centrales de algunas economías emergentes elevaron su tasa de interés de referencia debido a un repunte en la inflación explicado en algunos casos por la depreciación de sus monedas en un contexto de vulnerabilidad macroeconómica. Sin embargo, se espera que las condiciones monetarias a nivel global permanezcan extraordinariamente acomodaticias en el futuro previsible.
+Ante el complicado panorama global, los mercados financieros nacionales se vieron afectados. Así, el peso se depreció frente al dólar, mientras que las tasas de interés de los bonos gubernamentales mostraron disminuciones en sus diferentes plazos, si bien también con cierta volatilidad. En este sentido y dado que no se pueden descartar episodios adicionales de turbulencia en los mercados internacionales, es fundamental conservar un marco macroeconómico sólido en nuestro país para mantener la confianza en la economía de México, de tal forma que el componente de riesgo país en las tasas de interés permanezca en niveles bajos, lo cual será crucial ante un entorno externo con condiciones financieras más astringentes.
+Se prevé que en lo que resta de 2015 la economía mexicana continúe mostrando un dinamismo moderado, dadas las expectativas de un bajo crecimiento de la
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 3
+actividad industrial de Estados Unidos, una modesta expansión de la demanda interna y que los efectos de las reformas estructurales se reflejarán en una mayor competitividad sólo de manera gradual. En específico, se anticipa que el PIB de México en 2015 crezca entre 1.9 y 2.4 por ciento, intervalo que se acota respecto al de 1.7 a 2.5 por ciento en el Informe previo, reflejando la mayor información con la que se cuenta respecto al desempeño de la economía en el presente año. Para 2016, se continúa anticipando una recuperación de la actividad económica ante la mejoría prevista de la producción industrial estadounidense para ese año de manera que el intervalo de pronóstico para la tasa de crecimiento del PIB de México se mantiene sin cambio respecto al Informe anterior entre 2.5 y 3.5 por ciento. Para 2017, se anticipa una mejoría más notoria en el sector industrial de Estados Unidos y un mayor impulso a la actividad económica derivado de la implementación de las reformas estructurales en el país. De esta manera, se prevé una expansión del PIB de entre 3.0 y 4.0 por ciento. A la luz de lo anterior, se espera que prevalezcan condiciones de holgura en la economía en los años venideros, si bien disminuyendo paulatinamente.
+Por lo que se refiere a la inflación, se espera que la holgura que presenta la economía y la ausencia de presiones sobre los precios por el lado de la demanda agregada continúen siendo factores que contribuyan a su buen desempeño. En particular, se prevé que las inflaciones general y subyacente anuales se ubiquen por debajo de 3 por ciento en lo que resta de 2015. Para 2016 se anticipa que ambas observarán un incremento, ubicándose en niveles cercanos a 3 por ciento, como reflejo del desvanecimiento del efecto de choques de oferta favorables que tuvieron lugar en 2015 y del impacto de la depreciación del tipo de cambio en los precios de algunos bienes, mas no de un deterioro generalizado de la dinámica de formación de precios. No obstante, para 2017, se anticipa que se desvanezcan estos efectos y que las inflaciones general y subyacente registren una moderada tendencia a la baja, ubicándose más cerca de 3 por ciento a finales del año.
+La Junta de Gobierno se mantendrá atenta a la evolución de todos los determinantes de la inflación y sus expectativas para horizontes de mediano y largo plazo, en particular a la postura monetaria relativa entre México y Estados Unidos, al traspaso de movimientos del tipo de cambio a los precios del consumidor, así como a la evolución del grado de holgura en la economía. Esto con el fin de estar en posibilidad de tomar las medidas necesarias con toda flexibilidad y en el momento en que las condiciones lo requieran, para consolidar la convergencia de la inflación al objetivo de 3 por ciento.
+Banco de México
+4 Informe Trimestral Julio - Septiembre 2015
+2. Evolución Reciente de la Inflación
+2.1. La Inflación en el Tercer Trimestre de 2015
+En el tercer trimestre de 2015, la inflación general anual exhibió descensos
+adicionales a los observados en el trimestre previo, ubicándose por debajo del
+objetivo de 3 por ciento y alcanzando nuevos mínimos históricos. Al
+comportamiento favorable de la inflación han contribuido la postura de política
+monetaria, que ha sido conducente a lograr el objetivo de 3 por ciento de manera
+eficiente, la holgura prevaleciente en la economía y las reducciones en los precios
+de insumos de uso generalizado, tales como los energéticos, algunas materias
+primas y los servicios de telecomunicación. La caída en algunos precios de
+servicios de telecomunicación y de energía, están asociados a las reformas
+estructurales. Estas reducciones han influido directamente en la evolución reciente
+de la inflación vía menores incrementos en los precios al consumidor, e
+indirectamente, al contribuir a menores costos para las empresas. En este
+contexto, el efecto de la depreciación cambiaria sobre los precios ha sido limitado,
+reflejándose principalmente en las mercancías durables, las cuales han continuado
+aumentando pausadamente, sin que hasta el momento exista evidencia de efectos
+de segundo orden en el proceso de formación de precios de la economía. A la
+fecha, el cambio de precios relativos producto de la depreciación del tipo de cambio
+real ha ocurrido de manera ordenada y gradual (Cuadro 1 y Gráfica 1).
+Cuadro 1
+Índice Nacional de Precios al Consumidor, Principales Componentes e Indicadores de Media Truncada
+Variación anual en por ciento
+I II III IV I II III 1q Octubre
+INPC 4.16 3.59 4.15 4.18 3.07 2.94 2.61 2.47
+Subyacente 3.03 3.07 3.32 3.30 2.39 2.32 2.33 2.46
+Mercancías 2.91 3.10 3.46 3.57 2.56 2.52 2.46 2.71
+Alimentos, Bebidas y Tabaco 4.65 4.81 5.32 5.35 3.15 2.56 2.20 2.32
+Mercancías No Alimenticias 1.51 1.72 1.96 2.13 2.07 2.49 2.67 3.04
+Servicios 3.14 3.04 3.21 3.08 2.26 2.15 2.22 2.24
+Vivienda 2.24 2.20 2.11 2.14 2.10 2.09 2.06 1.98
+Educación (Colegiaturas) 4.36 4.42 4.29 4.30 4.36 4.35 4.37 4.28
+Otros Servicios 3.73 3.54 4.06 3.72 1.80 1.57 1.75 1.90
+No Subyacente 7.79 5.29 6.89 6.99 5.17 4.92 3.53 2.52
+Agropecuarios 4.33 0.94 6.53 8.04 8.39 8.34 5.33 3.83
+Frutas y Verduras 4.54 -6.86 1.48 -0.73 -1.39 7.43 7.91 6.78
+Pecuarios 4.12 5.49 9.33 13.43 14.15 8.81 4.00 2.30
+Energéticos y Tarifas Aut. por Gobierno 9.99 8.09 7.11 6.35 3.30 2.87 2.42 1.72
+Energéticos 9.87 8.92 7.92 7.12 3.82 3.21 2.43 1.07
+Tarifas Autorizadas por Gobierno 10.23 6.64 5.71 4.93 2.32 2.26 2.39 2.91
+Indicador de Media Truncada 1/
+INPC 3.64 3.63 3.75 3.83 3.13 2.86 2.67 2.51
+Subyacente 2.92 3.05 3.15 3.21 2.83 2.76 2.73 2.76
+2014 2015
+1/ Elaboración propia con información del INEGI.
+Fuente: Banco de México e INEGI.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 5
+Gráfica 1
+Índice Nacional de Precios al Consumidor
+Variación anual en por ciento
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+2008 2009 2010 2011 2012 2013 2014 2015
+INPC
+Subyacente
+No Subyacente
+Objetivo de Inflación General
+1q Octubre
+Fuente: Banco de México e INEGI.
+Entre el segundo y el tercer trimestre de 2015 la inflación general anual disminuyó
+de un promedio de 2.94 a 2.61 por ciento, alcanzando 2.47 por ciento en la primera
+quincena de octubre. Por su parte, la inflación subyacente anual promedio se
+mantuvo estable en los trimestres mencionados al registrar niveles de 2.32 y 2.33
+por ciento, respectivamente mientras que en la primera quincena de octubre se
+situó en 2.46 por ciento. En los trimestres señalados, la tasa de variación anual
+promedio del componente no subyacente disminuyó de 4.92 a 3.53 por ciento,
+ubicándose en 2.52 por ciento en la primera quincena de octubre. Cabe destacar
+que desde septiembre tanto la inflación general, como la subyacente y no
+subyacente se ubicaron por primera vez por debajo de 3 por ciento.
+La trayectoria a la baja de la inflación general anual no se debe sólo a menores
+incrementos de precios en un número pequeño de bienes y servicios, sino a la
+evolución favorable que ha seguido la gran mayoría de ellos. Así lo evidencia la
+estabilidad de distintas medidas de tendencia de estos indicadores. Un primer
+indicador se obtiene de calcular la proporción de la canasta del Índice Nacional de
+Precios al Consumidor (INPC) que presenta variaciones anuales de precios dentro
+de ciertos intervalos. Para ello, cada mes se conforman grupos de genéricos que
+componen la canasta tanto del índice general como del subyacente en tres
+categorías conforme a la variación anual de sus precios. Específicamente, se
+definen tres grupos: i) genéricos con variación anual en sus precios menor a 2 por
+ciento; ii) entre 2 y 4 por ciento; y iii) mayor a 4 por ciento. Al llevar a cabo el cálculo
+del porcentaje de cada canasta en los intervalos referidos, se encuentra que un
+alto porcentaje muestra aumentos de precio menores a 4 por ciento (áreas azul y
+verde, Gráfica 2). En particular, la proporción de la canasta de bienes y servicios
+del INPC con incrementos de precios menores a 4 por ciento fue en promedio
+cercana a 70 por ciento en el tercer trimestre de 2015, cifra comparable a la del
+trimestre previo (Gráfica 2a). En cuanto al componente subyacente, la proporción
+con incrementos menores al 4 por ciento fue de alrededor de 75 por ciento en
+ambos trimestres (Gráfica 2b).
+Banco de México
+6 Informe Trimestral Julio - Septiembre 2015
+Gráfica 2
+Porcentaje de la Canasta del INPC según Intervalos de Incremento Anual
+Cifras en por ciento
+a) General
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2008 2009 2010 2011 2012 2013 2014 2015
+Menor a 2 %
+Entre 2 y 4 %
+Mayor a 4 %
+1q Octubre
+b) Subyacente
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2008 2009 2010 2011 2012 2013 2014 2015
+Menor a 2 %
+Entre 2 y 4 %
+Mayor a 4 %
+1q Octubre
+Fuente: Banco de México e INEGI.
+Una de las medidas que se ha utilizado en Informes previos para analizar la
+trayectoria de la inflación en el mediano plazo es el Indicador de Media Truncada.
+Este indicador proporciona información de la evolución de la inflación general y
+subyacente en la baja frecuencia, sin tomar en cuenta las variaciones extremas en
+los precios, tanto al alza como a la baja, en cada periodo. Por esta razón, este
+indicador no suele verse afectado por cambios en precios relativos que tienen un
+efecto transitorio sobre la inflación. La evolución reciente de este indicador, tanto
+para la inflación general como para la subyacente, muestra que la menor inflación
+observada en el trimestre de referencia ha sido resultado de una disminución
+generalizada en el ritmo de crecimiento de los precios (Gráfica 3 y Cuadro 1). En
+particular, en la primera quincena de octubre de 2015, estos indicadores se
+ubicaron en 2.51 y 2.76 por ciento, respectivamente.
+Otro indicador que ofrece información sobre la dinámica de precios es la inflación
+mensual (ajustada por estacionalidad) anualizada. Este indicador, estimado tanto
+para la inflación general como para la subyacente, se mantiene en niveles bajos,
+alrededor de 3 por ciento. Sin embargo, hacia el final del periodo que cubre este
+Informe ambas mediciones muestran un aumento (Gráfica 4). En el caso de la
+inflación general, este incremento se explica parcialmente por una mayor inflación
+no subyacente mensual (ajustada por estacionalidad), debido a incrementos
+observados recientemente en los precios del transporte público en algunas
+ciudades. Al respecto, conviene señalar que el componente no subyacente suele
+mostrar una elevada volatilidad y hasta el momento no presenta una tendencia
+creciente. En el caso de la inflación subyacente, el incremento en el indicador
+referido ha sido más moderado, si bien con una ligera tendencia al alza como reflejo
+del cambio en los precios relativos de las mercancías frente a los de los servicios,
+inducido principalmente por la depreciación cambiaria.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 7
+Gráfica 3
+Índices de Precios e Indicadores de Media Truncada 1/
+Variación anual en por ciento
+a) INPC b) Subyacente
+2.47
+2.51
+0
+1
+2
+3
+4
+5
+6
+7
+2008 2009 2010 2011 2012 2013 2014 2015
+Inflació n Anual
+Indicador de Media Truncada
+Objetivo de Inflación General
+1q Octubre
+2.46
+2.76
+0
+1
+2
+3
+4
+5
+6
+7
+2008 2009 2010 2011 2012 2013 2014 2015
+Inflació n Anual
+Indicador de Media Truncada
+Objetivo de Inflación General
+1q Octubre
+1/ El Indicador de Media Truncada elimina la contribución de las variaciones extremas en los precios de algunos genéricos a la
+inflación de un índice de precios. Para eliminar el efecto de estas variaciones se realiza lo siguiente: i) las variaciones
+mensuales desestacionalizadas de los genéricos del índice de precios se ordenan de menor a mayor; ii) se excluyen los
+genéricos con mayor y menor variación, considerando en cada cola de la distribución hasta el 10 por ciento de la canasta del
+índice de precios, respectivamente; y iii) con los genéricos restantes, que por construcción se ubican en el centro de la
+distribución, se calcula el Indicador de Media Truncada.
+Fuente: Elaboración propia con información de Banco de México e INEGI.
+Gráfica 4
+Variación Anual y Variación Mensual Desestacionalizada Anualizada
+Cifras en por ciento
+a) INPC b) Subyacente c) No Subyacente
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+2008 2009 2010 2011 2012 2013 2014 2015
+Variación Anual
+Variación Mensual Anualizada (a. e.)
+Objetivo de Inf lación General
+1q Octubre
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+2008 2009 2010 2011 2012 2013 2014 2015
+Variación Anual
+Variación Mensual Anualizada (a. e.)
+Objetivo de Inf lación General
+1q Octubre
+-24
+-21
+-18
+-15
+-12
+-9
+-6
+-3
+0
+3
+6
+9
+12
+15
+18
+21
+24
+2008 2009 2010 2011 2012 2013 2014 2015
+Variación Anual
+Variación Mensual Anualizada (a. e.)
+Objetivo de Inf lación General
+1q Octubre
+a. e. / Cifras ajustadas estacionalmente.
+Fuente: Desestacionalización propia con información de Banco de México e INEGI.
+El referido ajuste en precios relativos ha implicado aumentos en la tasa de
+crecimiento anual de los precios de las mercancías, principalmente en aquellos de
+las durables, mientras que los precios de los servicios se han caracterizado por
+registrar tasas de variación anual bajas y estables (Gráfica 5 y Cuadro 1).
+Banco de México
+8 Informe Trimestral Julio - Septiembre 2015
+ El subíndice de precios de las mercancías disminuyó su variación anual
+promedio de 2.52 por ciento en el segundo trimestre de 2015 a 2.46 por
+ciento en el trimestre de referencia, situándose en 2.71 por ciento en la
+primera quincena de octubre. Por una parte, las variaciones anuales
+promedio de los precios del grupo de las mercancías no alimenticias se
+incrementaron de 2.49 a 2.67 por ciento entre los trimestres referidos y
+en 3.04 por ciento en la primera quincena de octubre. En particular, la
+variación anual promedio de los precios de los bienes durables,
+subconjunto de las mercancías no alimenticias, pasó de 2.36 a 2.81 por
+ciento del segundo al tercer trimestre del año y se ubicó en 3.11 por ciento
+en la primera quincena de octubre (Gráfica 5b). Por consiguiente, si bien
+dichas variaciones se siguen ubicando en niveles bajos, ha sido
+principalmente en este rubro donde se han manifestado los efectos de la
+depreciación de la moneda nacional. Por otra parte, luego de haber
+desacelerado su ritmo de crecimiento al registrar variaciones anuales
+promedio en sus precios de 2.56 y 2.20 por ciento en los trimestres
+referidos, algunas mercancías alimenticias también presentaron ligeros
+incrementos en las tasas de variación anual de sus precios hacia finales
+del trimestre y en octubre, con lo que su tasa de crecimiento anual se
+ubicó en 2.32 por ciento en la primera quincena de octubre (Gráfica 5).
+ Las variaciones anuales promedio del subíndice de precios de los
+servicios siguen estables en niveles bajos, reportando lecturas de 2.15
+por ciento en el segundo trimestre de 2015 y 2.22 por ciento en el
+trimestre siguiente. En la primera quincena de octubre, la variación anual
+de los precios de los servicios fue 2.24 por ciento. Las reducciones en los
+precios de los servicios de telecomunicación, así como incrementos
+moderados en los precios de la mayoría de los servicios han contribuido
+a mantener esta dinámica de precios moderada (Gráfica 5a y Cuadro 1).
+Gráfica 5
+Índice de Precios Subyacente
+Variación anual en por ciento
+a) Mercancías y Servicios
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+2008 2009 2010 2011 2012 2013 2014 2015
+Mercancías
+Servicios
+1q Octubre
+b) Mercancías
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+2008 2009 2010 2011 2012 2013 2014 2015
+Mercancías No Durables
+Mercancías Durables
+1q Octubre
+Fuente: Banco de México e INEGI.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 9
+El índice de precios no subyacente continuó desacelerando su tasa de crecimiento
+anual promedio (Gráfica 6 y Cuadro 1).
+ Los precios de los productos agropecuarios redujeron su crecimiento
+anual promedio entre el segundo y el tercer trimestre de 2015 al pasar de
+8.34 a 5.33 por ciento y posteriormente situarse en 3.83 por ciento en la
+primera quincena de octubre. Este resultado se debió principalmente a la
+menor tasa de crecimiento anual promedio de los precios de los
+productos pecuarios, la cual disminuyó de 8.81 a 4 por ciento entre dichos
+trimestres (2.30 por ciento en la primera quincena de octubre), en tanto
+que la tasa de variación anual promedio del subíndice de precios de las
+frutas y verduras aumentó de 7.43 a 7.91 por ciento en el mismo periodo
+para luego disminuir a 6.78 por ciento en la primera quincena de octubre.
+Gráfica 6
+Índice Nacional de Precios al Consumidor
+Incidencias anuales en puntos porcentuales 1/
+0.67
+0.92
+0.98
+0.99
+0.99
+1.04
+0.99
+0.93
+1.01
+1.05
+1.25
+1.45
+1.42
+1.26
+1.21
+1.34
+1.23
+1.24
+1.32
+1.35
+1.36
+1.31
+1.27
+1.25
+0.93
+0.91
+0.96
+0.84
+0.93
+0.91
+0.91
+0.93
+0.93
+0.93
+1.52
+1.35
+1.34
+1.28
+1.23
+1.11
+0.93
+0.88
+0.91
+0.84
+0.69
+0.66
+1.02
+1.01
+1.00
+1.04
+1.08
+1.14
+1.18
+1.24
+1.21
+1.23
+1.27
+1.21
+0.84
+0.91
+0.90
+0.92
+0.85
+0.87
+0.86
+0.82
+0.88
+0.94
+1.06
+1.28
+1.93
+2.38
+2.41
+1.94
+1.55
+1.65
+1.47
+1.47
+1.68
+1.86
+2.04
+1.96
+1.55
+1.12
+1.20
+1.37
+1.57
+1.56
+1.65
+1.76
+1.63
+1.62
+1.30
+1.18
+1.28
+1.30
+1.10
+1.09
+0.97
+0.84
+0.71
+0.60
+3.25
+3.55
+4.25
+4.65
+4.63
+4.09
+3.47
+3.46
+3.39
+3.36
+3.62
+3.97
+4.48
+4.23
+3.76
+3.50
+3.51
+3.75
+4.07
+4.15
+4.22
+4.30
+4.17
+4.08
+3.07
+3.00
+3.14
+3.06
+2.88
+2.87
+2.74
+2.59
+2.52
+2.47
+0
+1
+2
+3
+4
+5
+6
+7
+8
+2013 2014 2015
+1q Octubre
+INPC
+Servicios
+Mercancías
+No Subyacente
+1/ En ciertos casos la suma de los componentes respectivos puede tener alguna discrepancia por efectos de
+redondeo.
+Fuente: Elaboración propia con información del INEGI.
+ Las variaciones anuales promedio del subíndice de precios de
+energéticos y tarifas autorizadas por distintos niveles de gobierno
+disminuyeron de 2.87 por ciento en el segundo trimestre de 2015 a 2.42
+por ciento en el tercer trimestre y se situaron en 1.72 por ciento en la
+primera quincena de octubre. El grupo de los energéticos redujo el
+crecimiento anual promedio de sus precios de 3.21 a 2.43 por ciento en
+los trimestres mencionados y posteriormente alcanzó un nivel de 1.07 por
+ciento en la primera quincena de octubre, destacando las bajas en las
+tarifas de electricidad, las cuales pasaron de -2.09 a -3.08 por ciento entre
+el segundo y el tercer trimestre de 2015. Cabe destacar que los avances
+en la implementación de la reforma energética han contribuido
+favorablemente a la dinámica de estas tarifas al promover la adopción de
+tecnologías que usan combustibles más baratos y menos contaminantes.
+Adicionalmente, la tasa de variación anual promedio de los precios de las
+Banco de México
+10 Informe Trimestral Julio - Septiembre 2015
+gasolinas disminuyó de 5.09 a 3.98 por ciento en los trimestres referidos,
+mientras que la del gas doméstico pasó de 3.51 a 3.33 por ciento. Por su
+parte, el grupo de las tarifas autorizadas por distintos niveles de gobierno
+registró variaciones anuales promedio de 2.26 y 2.39 por ciento en las
+fechas señaladas y 2.91 por ciento en la primera quincena de octubre,
+este último incremento es atribuible al aumento en las tarifas del
+transporte público en algunas ciudades.
+2.2. Índice Nacional de Precios al Productor
+El Índice Nacional de Precios al Productor (INPP) de producción total, excluyendo
+petróleo, registró una tasa de variación anual promedio de 3.34 por ciento en el
+tercer trimestre de 2015, mientras que en el trimestre previo fue 2.76 por ciento. En
+septiembre, la tasa de variación anual de este índice se ubicó en 3.47 por ciento
+(Gráfica 7). Este incremento fue producto, principalmente, del aumento de los
+precios expresados en pesos de algunas mercancías de exportación, entre las que
+se encuentran computadoras, aparatos electrónicos, camiones y automóviles, lo
+cual se reflejó en el índice de mercancías y servicios finales. Por su parte, los
+bienes y servicios de uso intermedio registraron tasas de variación anual en sus
+precios inferiores a las de los precios de las mercancías y servicios finales,
+sobresaliendo las de las tarifas de electricidad industriales y comerciales, y las de
+los productos derivados de petróleo.
+Gráfica 7
+Índice Nacional de Precios al Productor 1/
+Variación anual en por ciento
+6.71
+5.95
+5.57
+5.16
+5.55
+5.66
+4.73
+4.38
+4.13
+3.35
+2.84
+1.84
+1.63
+2.06
+2.02
+1.70
+1.24
+1.12
+0.97
+0.92
+1.00
+1.04
+1.09
+1.63
+2.04
+2.37
+2.20
+2.50
+2.84
+2.03
+2.82
+3.30
+2.99
+2.89
+2.71
+3.34
+2.56
+1.93
+2.64
+2.76
+2.34
+3.17
+3.31
+3.25
+3.47
+0
+1
+2
+3
+4
+5
+6
+7
+8
+2012 2013 2014 2015
+Septiembre
+1/ Índice Nacional de Precios al Productor Total, excluyendo petróleo.
+Fuente: Banco de México e INEGI.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 11
+3. Entorno Económico y Financiero Prevaleciente en el Tercer
+Trimestre de 2015
+3.1. Condiciones Externas
+El entorno internacional se ha caracterizado por una continua debilidad en la
+actividad económica, lo que se ha reflejado en una disminución del volumen de
+comercio internacional (Gráfica 8). La gradual recuperación de las economías
+avanzadas fue menor a la esperada, a la vez que se intensificó la desaceleración
+de las economías emergentes. Destaca el caso de China que, además de tener
+importantes vulnerabilidades en su sistema financiero, enfrenta retos significativos
+para rebalancear y hacer más sostenibles sus fuentes de crecimiento. Además, los
+precios de las mercancías básicas siguen en niveles extremadamente bajos. De
+esta forma, los riesgos a la baja para las perspectivas del crecimiento global han
+aumentado. Todo lo anterior ha contribuido a una mayor volatilidad en los
+mercados financieros internacionales, en particular en los tipos de cambio frente al
+dólar de divisas de países exportadores de materias primas, a lo cual se le ha
+sumado la incertidumbre sobre la normalización de la política monetaria en Estados
+Unidos. Así, el escenario externo se ha complicado sustancialmente.
+Gráfica 8
+Actividad Económica Mundial
+a) Pronóstico de Crecimiento del PIB Mundial
+Variación anual en por ciento
+b) Volumen de Comercio Mundial
+Variación anual en por ciento, a. e.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+2010 2011 2012 2013 2014 2015 2016
+Mundial Oct. 2015
+Mundial Abr. 2015
+Avanzadas Oct. 2015
+Avanzadas Abr. 2015
+Emergentes Oct. 2015
+Emergentes Abr. 2015
+Pronóstico
+-25
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+25
+2000 2002 2004 2006 2008 2010 2013 2015
+Agosto
+Fuente: Fondo Monetario Internacional, World Economic Outlook
+Abril y Octubre 2015.
+a. e. / Cifras con ajuste estacional.
+Fuente: CPB Netherlands.
+3.1.1. Actividad Económica Mundial
+En Estados Unidos, la economía tuvo un crecimiento moderado durante el tercer
+trimestre. El PIB creció 1.5 por ciento a una tasa trimestral anualizada, comparada
+con 3.9 por ciento en el trimestre previo.1 A esto contribuyó principalmente una
+continua solidez de la demanda interna, la cual contrarrestó la fuerte
+desacumulación de inventarios, los cuales tuvieron una contribución negativa al
+1 De acuerdo a la estimación de avance de la Oficina de Análisis Económico (BEA, por sus siglas en
+inglés) del gobierno de Estados Unidos.
+Banco de México
+12 Informe Trimestral Julio - Septiembre 2015
+producto de 1.4 puntos porcentuales (Gráfica 9a). En particular, el consumo privado mantuvo una expansión sólida, a una tasa trimestral anualizada de 3.2 por ciento, apoyado por la elevada confianza del consumidor, un mayor aumento del ingreso personal disponible y un nivel extremadamente bajo de tasas de interés que ha estimulado el gasto de las familias y la inversión residencial. Adicionalmente, el desempeño favorable de los inicios de casas y la recuperación del gasto empresarial en equipo se reflejaron en un aumento modesto de la inversión fija. Por último, las exportaciones netas tuvieron una ligera contribución negativa a la expansión del producto.
+Por otro lado, la producción industrial siguió exhibiendo un crecimiento débil, reflejando los efectos de la apreciación generalizada del dólar y una menor demanda global, la caída en la exploración y producción petrolera, y el elevado nivel de inventarios. En efecto, después de una contracción de 2.4 por ciento a tasa trimestral anualizada en el segundo trimestre, la producción industrial aumentó sólo 1.8 por ciento en el tercero. Dicha cifra reflejó, en parte, una recuperación moderada de las manufacturas, explicada, a su vez, por un mayor dinamismo del sector automotriz (Gráfica 9b).
+En este contexto, el mercado laboral continuó mejorando durante el tercer trimestre, aunque a un ritmo más moderado que en el trimestre previo. Así, la nómina no agrícola se expandió en promedio 167 mil plazas al mes, por debajo de las 231 mil del trimestre anterior. Al mismo tiempo, la tasa de desempleo descendió de 5.3 por ciento en junio a 5.1 por ciento en septiembre, nivel cercano al considerado de largo plazo por la Reserva Federal. No obstante, otros indicadores del mercado laboral, tales como la tasa de participación laboral y el porcentaje de empleados de tiempo parcial por razones económicas, continúan sugiriendo cierta holgura en dicho mercado. A esto se añade la ausencia de presiones salariales significativas, lo que ha intensificado el debate en torno a la fortaleza del vínculo entre la tasa de desempleo y la inflación, y ha complicado la interpretación de las señales que se desprenden de los diferentes indicadores del mercado laboral respecto a la evolución futura de la inflación (Gráfica 9c).
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 13
+Gráfica 9
+Actividad Económica en Estados Unidos
+a) PIB Real y Componentes
+Variación trimestral anualizada en
+por ciento y contribuciones en puntos
+porcentuales, a. e.
+b) Producción Industrial y
+Manufacturera
+Variación trimestral anualizada
+en por ciento, a. e.
+c) Indicadores Salariales
+Variación anual en por ciento
+-4
+-2
+0
+2
+4
+6
+8
+2010 2011 2012 2013 2014 2015
+Gasto Público
+Exportaciones Netas
+Inventarios
+Inversión Fija
+Consumo Privado
+Total
+III Trim.
+-4
+-2
+0
+2
+4
+6
+8
+10
+12
+2010 2011 2012 2013 2014 2015
+Producción Industrial
+Producción Manufacturera
+III Trim.
+0
+1
+2
+3
+4
+5
+2000 2003 2006 2009 2012 2015
+Índice de Costo del Empleo
+Remuneraciones por Hora
+III Trim.
+a. e. / Cifras con ajuste estacional.
+Fuente: BEA.
+a. e. / Cifras con ajuste estacional.
+Fuente: Reserva Federal.
+Fuente: BLS, Haver Analytics.
+En la zona del euro, la recuperación económica ha continuado débil y a un ritmo
+menor al esperado, con mucha heterogeneidad entre sus países miembros. El
+consumo se mantiene como la principal fuente de expansión, apoyado por factores
+como la mejoría gradual en las condiciones del mercado laboral, en la confianza
+del consumidor y los bajos costos del financiamiento (Gráfica 10a). No obstante, la
+producción industrial se debilitó de julio a agosto (Gráfica 10b). Al respecto, la
+reciente apreciación del euro y la menor demanda externa proveniente de
+economías emergentes, en particular de China, están teniendo un impacto
+negativo sobre las exportaciones de la región (Gráfica 10c), por lo que el Banco
+Central Europeo (BCE) ha revisado a la baja sus proyecciones para el crecimiento
+del PIB para los próximos años.
+Gráfica 10
+Actividad Económica en la Zona del Euro
+a) Sentimiento Económico y
+Confianza del Consumidor
+Cifras estandarizadas respecto al
+periodo 2000-2007
+b) Producción Industrial 1/
+Índice diciembre 2007=100, a. e.
+c) Tipo de Cambio y Exportaciones
+de Bienes
+Variación anual del promedio móvil
+de tres meses en por ciento
+-3.0
+-2.5
+-2.0
+-1.5
+-1.0
+-0.5
+0.0
+0.5
+1.0
+1.5
+2010 2011 2012 2013 2014 2015
+Sentimiento Económico 1/
+Confianza del Consumidor
+Octubre
+60
+65
+70
+75
+80
+85
+90
+95
+100
+105
+110
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Zona del Euro
+Italia
+España
+Alemania
+Francia Agosto
+-30
+-25
+-20
+-15
+-10
+-5
+0
+5
+10
+-20 15
+-10
+0
+10
+20
+30
+40
+2010 2011 2012 2013 2014 2015
+Exportaciones de Bienes
+Tipo de Cambio Nominal Efectivo
+Septiembre
+Depreciación
+1/ Indicador compuesto, que resume cinco
+indicadores sectoriales de confianza: industria,
+servicios, ventas al menudeo, construcción y
+consumo.
+Fuente: Haver Analytics.
+a. e. / Cifras con ajuste estacional.
+1/ Excluye la industria de la construcción.
+Fuente: Eurostat.
+Fuente: Haver Analytics, BIS.
+Banco de México
+14 Informe Trimestral Julio - Septiembre 2015
+En Japón, la economía siguió mostrando debilidad en el tercer trimestre del año, después de una contracción de 1.2 por ciento a tasa trimestral anualizada en el segundo. En particular, el crecimiento del ingreso de los hogares y las elevadas ganancias corporativas no se han traducido en un mayor gasto del sector privado, sugiriendo cautela de los consumidores y las empresas. Por su parte, los pedidos de bienes de capital y las encuestas de negocios apuntan a que la inversión perdió dinamismo durante el trimestre. Finalmente, la menor demanda proveniente de China se reflejó en una disminución adicional de la producción industrial en el periodo que cubre este Informe.
+La actividad en las economías emergentes ha continuado desacelerándose, como lo refleja el bajo crecimiento de su producción industrial y de sus exportaciones (Gráfica 11a y Gráfica 11b). Asimismo, las vulnerabilidades macroeconómicas de algunos países se han acentuado, particularmente en aquellas economías que no hicieron los ajustes de política económica necesarios durante los primeros años de esta década, ante la importante entrada de capitales derivada de las bajas tasas de interés a nivel global y los elevados precios de las materias primas. Esto exacerbó los desbalances internos y externos. Así, por un lado, la caída en los términos de intercambio de los exportadores de materias primas ha contribuido a un deterioro de sus balances externos y fiscales. Por otro lado, el apretamiento en las condiciones financieras ha provocado un empeoramiento en los balances de las empresas ante la acumulación significativa de deuda corporativa de los últimos años (Gráfica 11c). Entre los países más afectados por estos fenómenos se pueden mencionar Rusia, Brasil, Turquía e Indonesia. Adicionalmente, los riesgos a la baja para este grupo de economías se han intensificado, entre otras razones, debido a los retos que China enfrenta en su transformación hacia una economía basada principalmente en el consumo, en un contexto de elevados niveles de endeudamiento y exceso de capacidad en algunas industrias.
+Profundizando en la evolución de China, el ritmo de expansión de su economía siguió moderándose a 6.9 por ciento en el tercer trimestre (Gráfica 11d). Si bien el sector de servicios y el consumo mantuvieron un crecimiento relativamente sólido, la inversión y la industria han continuado desacelerándose. Los estímulos fiscales y monetarios del gobierno, incluyendo incentivos para el gasto en infraestructura, han sido insuficientes para compensar el menor dinamismo de la construcción residencial y de la inversión del sector manufacturero. Esta mayor debilidad de la actividad industrial se reflejó en una reducción significativa en la demanda de productos primarios tales como el petróleo y los metales. Finalmente, la reforma al mecanismo de fijación del tipo de cambio ha generado incertidumbre sobre los efectos de los ajustes en la política económica de este país sobre la economía global.2
+2 El banco central de China anunció el 11 de agosto una modificación al mecanismo de determinación de su tipo de cambio de apertura sobre el cual se fija la banda de variación de 2 por ciento cada día. A partir de esa fecha, el tipo de cambio de apertura se refiere a la cotización de cierre en el mercado interbancario del día previo. En contraste, anteriormente dicho nivel era determinado por las autoridades. De acuerdo al banco central, esta modificación tiene el objetivo de acercarse cada vez más a un mecanismo de determinación del tipo de cambio basado en el mercado.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 15
+Gráfica 11
+Indicadores Económicos de Economías Emergentes
+Variación anual del promedio móvil de tres meses en por ciento
+a) Producción Industrial b) Exportaciones
+-15
+-10
+-5
+0
+5
+10
+15
+20
+25
+30
+35
+2010 2011 2012 2013 2014 2015
+Brasil
+Chile
+China
+Colombia
+India
+México
+Perú
+Rusia
+Septiembre
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+80
+2010 2011 2012 2013 2014 2015
+Brasil
+Chile
+China
+Colombia
+India
+México
+Perú
+Rusia
+Septiembre
+Fuente: Haver Analytics.
+c) Deuda Corporativa
+En por ciento del PIB
+d) China: PIB por Sectores
+Variación anual en por ciento y en por ciento del
+PIB
+40
+45
+50
+55
+60
+65
+70
+75
+80
+2003 2005 2007 2009 2011 2013
+Nota: La deuda incluye créditos bancarios y emisión de bonos.
+Fuente: Fondo Monetario Internacional, Global Financial Stability
+Report Octubre 2015.
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+36
+38
+40
+42
+44
+46
+48
+50
+52
+54
+56
+2006 2007 2009 2010 2012 2013 2015
+PIB
+Industria
+Servicios
+III Trim.
+Fuente: Haver Analytics.
+3.1.2. Precios de las Materias Primas
+Los precios de las materias primas disminuyeron durante la mayor parte del tercer
+trimestre del año, debido principalmente a un exceso de oferta y a una menor
+demanda global, si bien mostraron cierta recuperación en octubre. Los precios del
+petróleo cayeron ante los elevados niveles de producción e inventarios, la
+Banco de México
+16 Informe Trimestral Julio - Septiembre 2015
+expectativa de un incremento en las exportaciones de Irán, Libia e Iraq, y
+preocupaciones en torno al debilitamiento de la demanda mundial. No obstante, los
+precios del crudo registraron un ligero repunte a principios de octubre ante
+crecientes tensiones en Medio Oriente (Gráfica 12a). Por otro lado, los precios de
+los granos se redujeron debido a las perspectivas favorables de producción para
+Estados Unidos y la expectativa de una menor demanda mundial (Gráfica 12b).
+Finalmente, los precios de los metales mantuvieron su tendencia a la baja, como
+resultado de aumentos sustanciales en la oferta de la mayoría de los metales y,
+como se señaló, de la desaceleración en la demanda proveniente de China (Gráfica
+12c).
+Gráfica 12
+Precios Internacionales de las Materias Primas 1/
+a) Petróleo Crudo
+Dólares por barril
+b) Maíz y Trigo
+Dólares por bushel
+c) Hierro y Cobre
+Dólares por tonelada métrica
+35
+45
+55
+65
+75
+85
+95
+105
+115
+125
+135
+2010 2011 2012 2013 2014 2015
+Brent
+WTI
+Mezcla Mexicana
+2
+3
+4
+5
+6
+7
+8
+9
+10
+2010 2011 2012 2013 2014 2015
+Maíz
+Trigo
+0
+2,000
+4,000
+6,000
+8,000
+10,000
+12,000
+0
+50
+100
+150
+200
+250
+2010 2011 2012 2013 2014 2015
+Hierro
+Cobre
+1/ Mercado Spot.
+Fuente: Bloomberg.
+3.1.3. Tendencias de la Inflación en el Exterior
+La inflación en las principales economías avanzadas se redujo durante el periodo
+que cubre este Informe debido, principalmente, a una caída adicional de los precios
+del petróleo y, en algunos casos, a la apreciación de sus monedas (Gráfica 13a).
+Al mismo tiempo, la convergencia más lenta de lo previsto de la inflación hacia las
+metas de mediano plazo se ha reflejado en una disminución en las expectativas de
+inflación, particularmente las derivadas de instrumentos financieros. Estos factores,
+en conjunto con una revisión a la baja en las perspectivas de crecimiento, pudieran
+contribuir a que los niveles de inflación se mantengan bajos por un periodo
+prolongado.
+En Estados Unidos, la variación anual del deflactor del consumo se ha mantenido
+persistentemente en niveles cercanos a cero, ubicándose en 0.2 por ciento en
+septiembre, muy por debajo de la meta de inflación del 2.0 por ciento. La debilidad
+en este indicador se atribuye de manera importante a los bajos precios de la
+energía y a la apreciación generalizada del dólar. De hecho, la variación de su
+componente subyacente permaneció baja, en 1.3 por ciento a tasa anual en
+septiembre, precisamente por el efecto de la apreciación del dólar sobre los precios
+de las importaciones no energéticas.
+En la zona del euro, la inflación general regresó a terreno negativo al cierre del
+trimestre, principalmente por los bajos precios de la energía. Así, esta descendió
+de 0.2 por ciento en junio a -0.1 por ciento en septiembre. Por su parte, en el mismo
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 17
+lapso el indicador subyacente aumentó ligeramente de 0.8 a 0.9 por ciento. En este
+entorno, el BCE continúa previendo que la inflación permanecerá baja en los
+próximos meses y que iniciará un aumento gradual a finales del año, atribuido al
+traspaso a precios de la depreciación pasada del euro y a la recuperación de la
+demanda interna. Sin embargo, el BCE estima que este repunte será más lento de
+lo previsto anteriormente, debido a la caída en los precios de los productos
+primarios, la reciente apreciación del euro, y a la revisión a la baja en las
+perspectivas de crecimiento de la zona.
+La inflación en Japón también disminuyó durante el trimestre, al pasar de 0.4 por
+ciento en junio a 0.0 por ciento en septiembre. Ello como resultado de que la caída
+en los precios de la energía ha compensado el incremento en los precios,
+particularmente de los alimentos, derivado de la depreciación del yen.
+Las economías emergentes continúan con un panorama inflacionario diferenciado,
+con la mayoría de los países registrando inflaciones bajas en un entorno de
+demandas interna y externa débiles. En contraste, en algunos países, como Brasil,
+Chile, Colombia y Perú, se han presentado inflaciones por encima del objetivo de
+sus respectivos bancos centrales, reflejando en parte la fuerte depreciación de sus
+monedas, en combinación con algunos desbalances macroeconómicos (Gráfica
+13b). Adicionalmente, también se observó un incremento en las expectativas de
+inflación, lo que ha reducido los grados de libertad de la política monetaria en estos
+países. Por su parte, en el caso de México, a pesar de la depreciación del peso,
+no se ha registrado un incremento en la inflación y en sus expectativas (ver
+Recuadro 1).
+Gráfica 13
+Inflación General Anual en Economías Avanzadas y Emergentes
+En por ciento
+a) Economías Avanzadas b) Economías Emergentes
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+2010 2011 2012 2013 2014 2015
+Estados Unidos
+Zona del Euro
+Japón 1/
+Reino Unido
+Septiembre
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+2010 2011 2012 2013 2014 2015
+Brasil
+Chile
+China
+Colombia
+India
+México
+Perú
+Rusia
+Turquía
+Septiembre
+1/ Excluye el efecto directo del incremento del impuesto al
+consumo.
+Fuente: BLS, Eurostat y Oficina de Estadísticas de Japón.
+Fuente: Oficinas Nacionales de Estadística y Bancos Centrales.
+Banco de México
+18 Informe Trimestral Julio - Septiembre 2015
+Recuadro 1
+Traspaso de Variaciones en el Tipo de Cambio a Precios en Economías de Latinoamérica
+1. Introducción
+La incertidumbre sobre el inicio de la normalización de la
+política monetaria en Estados Unidos, junto con los
+problemas en los mercados financieros en China, la
+disminución en los precios de las materias primas a nivel
+mundial, en particular del petróleo, y su retroalimentación
+con un entorno global de bajo crecimiento han contribuido
+a elevar la volatilidad en los mercados financieros
+internacionales, presionando principalmente los tipos de
+cambio en economías emergentes. En efecto, las divisas
+de las principales economías emergentes han registrado
+una depreciación generalizada respecto al dólar
+estadounidense de 25 por ciento en promedio desde
+octubre de 2014.1 En Latinoamérica dicha depreciación
+ha sido en promedio de alrededor de 30 por ciento.
+En este contexto, a pesar de las importantes
+disminuciones observadas en los precios de las materias
+primas y del debilitamiento de la actividad económica,
+tanto la inflación general como la subyacente han venido
+aumentando en países como Brasil, Chile, Colombia y
+Perú. En la mayoría de estos países dichos indicadores
+se encuentran incluso por arriba de la cota superior de los
+intervalos de variabilidad definidos alrededor de sus
+respectivos objetivos de inflación. Al respecto, al menos
+parte del incremento en la inflación se ha atribuido al
+efecto de la depreciación cambiaria sobre los precios.
+En este Recuadro se estima una medida de traspaso de
+variaciones en el tipo de cambio sobre los precios al
+consumidor para las principales economías de
+Latinoamérica con regímenes de objetivos de inflación:
+Brasil, Chile, Colombia, México y Perú. Se encuentra que
+para la economía mexicana el traspaso es bajo en
+comparación con el estimado para otros países.
+2. Depreciación e inflación en la región
+La depreciación observada en las divisas de las
+principales economías de Latinoamérica de octubre de
+2014 a la fecha ha sido considerable, aunque no
+homogénea. En Brasil, dicha depreciación ha sido de 55
+por ciento, en Chile de 15 por ciento, en Colombia de 44
+por ciento y en Perú de 14 por ciento, mientras que en
+México de 24 por ciento (Gráfica 1).
+__________
+1 Los países considerados son: Brasil, Chile, Colombia, Corea, India,
+Hungría, México, Perú, Polonia, República Checa, Rusia, Tailandia, y
+Turquía.
+Ante la depreciación observada, en la mayoría de los
+casos, la inflación general y la subyacente han venido
+aumentando, incluso ubicándose, como se señaló, por
+arriba de las cotas máximas de los intervalos de
+variabilidad en torno a las metas de inflación
+correspondientes (Gráfica 2). Además del aumento
+observado en la inflación, cabe señalar que incluso las
+expectativas de inflación para el cierre de 2015 han
+aumentado en la mayoría de las economías analizadas.
+Gráfica 1
+Depreciación del Tipo de Cambio en Economías de
+Latinoamérica
+Por ciento
+0
+10
+20
+30
+40
+50
+60
+Brasil Colombia México Chile Perú
+Cambio de oct-2014 a oct-2015
+Cambio de ene-2015 a oct-2015
+Fuente: Bloomberg.
+Gráfica 2
+Metas de Inflación e Inflación Observada y Esperada
+Por ciento
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Brasil Chile Colombia México Perú
+Intervalo de Variabiliadad Alrededor de la Meta
+Inflación General (sep 2015)
+Inflación Subyacente (sep 2015)
+Inflación Esperada (cierre 2015)
+Nota: Datos al mes de septiembre de 2015.
+Fuente: Banco central de cada país, INEGI y Haver Analytics.
+De lo anterior es claro que, si bien la depreciación de las
+monedas ha sido generalizada en la región, el
+comportamiento de la inflación ha sido diferenciado. En el
+caso de México, la inflación ha mostrado una trayectoria
+descendente e incluso se ha ubicado en niveles mínimos
+históricos. Ello, a pesar de que la depreciación del peso
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 19
+mexicano ha sido incluso mayor que la registrada en otros
+países de la región.
+Lo anterior sugiere que el comportamiento heterogéneo
+de la inflación en Latinoamérica no puede atribuirse
+exclusivamente a diferencias en la magnitud del ajuste en
+el tipo de cambio observado en cada país, sino a otros
+factores, siendo uno de ellos el grado de traspaso del tipo
+de cambio a los precios. Tomando en consideración lo
+anterior, a continuación se presenta un ejercicio
+econométrico a partir del cual se estima una medida de
+traspaso de la depreciación cambiaria sobre los precios
+en cada país.
+3. Estimación del traspaso de la depreciación
+cambiaria a precios
+Siguiendo la metodología de Albagli et al. (2015), en esta
+sección se presenta una estimación del traspaso de los
+movimientos del tipo de cambio a los precios para Brasil,
+Chile, Colombia, México y Perú. Para ello, se estimó un
+modelo VAR para cada país. La periodicidad de los datos
+es mensual y la muestra comprende de enero de 2000 a
+junio de 2015. Las variables incluidas en el modelo son
+las que comúnmente se utilizan para analizar economías
+pequeñas y abiertas.2 En el vector de variables
+endógenas se incluyen: un indicador de actividad
+económica, el tipo de cambio nominal respecto al dólar, el
+índice de precios al consumidor y la tasa de política
+monetaria. Se usa el orden de exogeneidad anterior para
+la descomposición de Choleski. Como variables
+exógenas se incluyen los primeros dos componentes
+principales de las siguientes variables: un índice de
+producción industrial mundial y uno de Estados Unidos, la
+tasa de fondos federales de los Estados Unidos, el precio
+del petróleo, los precios internacionales de los alimentos,
+y un índice de precios de exportaciones específico para
+cada país.
+Como medida de traspaso se considera la respuesta
+acumulada en los primeros doce meses del índice de
+precios al consumidor ante un choque del 1 por ciento en
+el tipo de cambio nominal. Así, en el Cuadro 1 se presenta
+el impacto sobre la inflación anual medido en puntos base
+ante una depreciación del 1 por ciento de la moneda de
+cada uno los países analizados frente al dólar.
+__________
+2 Todas las variables se expresan en diferencias logarítmicas excepto
+las tasas de política monetaria que se incorporan como la diferencia
+en puntos porcentuales.
+Cuadro 1
+Efecto Acumulado en 12 Meses de una Depreciación de
+1 por ciento Sobre la Inflación
+Puntos base
+País Efecto
+Brasil 26.8
+Chile 17.5
+Perú 9.4
+Colombia 4.6
+México 3.8
+Fuente: Estimaciones elaboradas por Banco de
+México.
+Como se puede observar, el nivel del traspaso de las
+variaciones de tipo de cambio a los precios es más alto
+en Brasil y considerablemente más bajo en México, lo que
+ayuda a explicar por qué la inflación se ha ubicado en
+niveles mínimos históricos en México en los últimos
+meses, a pesar de la depreciación significativa del tipo de
+cambio.3 Así, los resultados muestran que ante la
+magnitud de las depreciaciones que han sufrido estas
+monedas, los países con un mayor coeficiente de
+traspaso son los que han presentado mayores niveles de
+inflación recientemente.
+4. Consideraciones Finales
+La información presentada en este Recuadro muestra que
+en varios países de Latinoamérica, la depreciación
+cambiaria ha tenido un impacto significativo sobre la
+inflación. Adicionalmente, también se ha observado un
+incremento en las expectativas de inflación para el cierre
+de 2015 en algunos de estos países. Ante ello, los bancos
+centrales de varias de estas economías han llevado a
+cabo ajustes al alza en sus tasas de política monetaria.
+En este contexto destaca el caso de México, cuya
+inflación ha permanecido por debajo del objetivo de 3 por
+ciento a pesar de la depreciación del tipo de cambio. Este
+comportamiento favorable de la inflación puede atribuirse,
+principalmente, al fortalecimiento del marco
+macroeconómico en la última década. Una política
+monetaria enfocada a la estabilidad de precios, junto con
+la disciplina fiscal, han contribuido a controlar el fenómeno
+inflacionario y crear un entorno de inflación baja y estable.
+Entre los logros estructurales que sobre el control de la
+inflación se han alcanzado y que el Instituto
+__________
+3 Estos resultados van en línea con estimaciones previas del traspaso
+de las variaciones en el tipo de cambio sobre los precios. En el Capítulo
+Técnico del Informe sobre la Inflación Enero - Marzo 2011, se encontró
+que para el periodo de junio 2001 - diciembre 2010 la elasticidad de
+traspaso del tipo de cambio a precios era de 0.02 puntos porcentuales
+a un año del choque. Al actualizar dicho ejercicio en el Recuadro
+“Estimación del Efecto del Ajuste del Tipo de Cambio sobre la
+Inflación”, publicado en el Informe sobre la Inflación Julio - Septiembre
+2012, con información hasta agosto de 2012, se estimó una elasticidad
+de traspaso de 0.03 puntos porcentuales doce meses después del
+choque.
+Banco de México
+20 Informe Trimestral Julio - Septiembre 2015
+Central ha documentado en los últimos años destacan:
+i. La reducción en el nivel, volatilidad y persistencia de la inflación (Banco de México, 2010);
+ii. Un proceso de formación de precios que se asemeja a la manera en que se determinan los precios en economías con un largo historial de estabilidad de precios (Banco de México, 2011b, 2013b);
+iii. Un mayor anclaje de las expectativas de inflación (Banco de México, 2011c y 2013a); y,
+iv. Una reducción gradual en la compensación por inflación y prima por riesgo inflacionario (Banco de México, 2013c).
+Todo lo anterior ha contribuido a la disminución del traspaso de fluctuaciones cambiarias a los precios, que a su vez ha permitido una evolución favorable de la inflación en los últimos meses a pesar de la depreciación observada. En adición a lo anterior, como se señala en este Informe, las condiciones de holgura prevalecientes en la economía y las reducciones en los precios de insumos de uso generalizado también han ayudado al desempeño favorable de la inflación en el presente año.
+Referencias
+Albagli E., A. Naudon y R. Vergara, (2015). “Inflation Dynamics in LATAM: A Comparison with Global Trends and Implications for Monetary Policy”, Banco Central de Chile, Documentos de Política Económica Nº 58.
+Banco de México (2010), Capítulo Técnico “Cambio en el Sistema Nominal de la Economía a Principios de la Década de los 2000”, Informe sobre la Inflación Octubre - Diciembre 2010.
+Banco de México (2011a), Capítulo Técnico “Traspaso a Precios de Perturbaciones al Tipo de Cambio”, Informe sobre la Inflación Enero - Marzo 2011.
+Banco de México (2011b), Capítulo Técnico “Características del Proceso de Formación de Precios en México: Evidencia de Micro-Datos del INPC”, Informe sobre la Inflación Octubre - Diciembre 2011.
+Banco de México (2011c) Capítulo Técnico “Evolución de las Expectativas de Inflación en México”, Informe sobre la Inflación Julio - Septiembre 2011.
+Banco de México (2012) Recuadro 1 “Estimación del Efecto del Ajuste del Tipo de Cambio sobre la Inflación”, Informe sobre la Inflación Julio - Septiembre 2012.
+Banco de México (2013a) Recuadro 3 “Anclaje de las Expectativas de Inflación de Mediano y Largo Plazo ante Choques de Oferta Adversos”, Informe sobre la Inflación Enero - Marzo 2013.
+Banco de México (2013b) Recuadro 1 “Cambios en Precios Relativos y Convergencia de la Inflación al Objetivo de 3 Por Ciento”, Informe sobre la Inflación Abril - Junio 2013.
+Banco de México (2013c) Recuadro 1 “Descomposición de la Inflación y Riesgo Inflacionario”, Informe Trimestral Octubre - Diciembre 2013.
+3.1.4. Política Monetaria y Mercados Financieros Internacionales
+En este entorno de bajo crecimiento y de menor inflación en las principales economías avanzadas, se anticipa que las condiciones monetarias altamente acomodaticias continúen por más tiempo y que incluso en algunos casos se amplíe el estímulo monetario (Gráfica 14a). Por su parte, algunas economías emergentes, que se han caracterizado por un mayor traspaso del tipo cambio a la inflación posiblemente debido a vulnerabilidades macroeconómicas, aumentaron sus tasas de interés de referencia a pesar del menor dinamismo económico (Gráfica 14b).
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 21
+Gráfica 14
+Tasas de Política Monetaria en Economías Avanzadas y Emergentes
+En por ciento
+a) Economías Avanzadas b) Economías Emergentes
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Australia
+Reino Unido
+Canadá
+Estados
+Unidos
+Zona del Euro
+Japón
+Suecia
+Suiza
+Rango Enero 2006 - Octubre 2015
+Cifr a más Reciente
+Junio 2015
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Brasil
+Rusia
+India
+Sudáfr ica
+Colombia
+China
+Perú
+Chile
+México
+Rango Enero 2006 - Octubre 2015
+Cifr a más Reciente
+Junio 2015
+Fuente: Haver Analytics.
+En su reunión de octubre, la Reserva Federal mantuvo sin cambio su tasa de
+referencia, pero señaló explícitamente que determinará en su próxima reunión si
+es o no apropiado aumentar el rango objetivo de la tasa de fondos federales. Dicha
+decisión dependerá de la evolución de la actividad económica, del mercado laboral
+y de la inflación, reafirmando que espera que el ritmo de normalización de su
+política monetaria será gradual. En su comunicado evaluó de una manera más
+favorable la fortaleza de la demanda interna y señaló que el mercado laboral ha
+continuado mejorando. Esto último a pesar de la disminución en el ritmo de
+crecimiento del empleo y la reciente estabilidad de la tasa de desempleo.
+Asimismo, reiteró su expectativa de que la inflación aumentará gradualmente hacia
+el objetivo de mediano plazo, en la medida que continúe la mejoría del mercado
+laboral y se disipen los efectos transitorios sobre la inflación de la caída en los
+precios de la energía y de las importaciones. Finalmente, la Reserva Federal afirmó
+que está monitoreando los eventos económicos y financieros globales, si bien
+eliminó las referencias del comunicado pasado sobre los posibles efectos
+negativos del incierto panorama internacional en el crecimiento y la inflación de
+Estados Unidos.
+Por su parte, el Banco de Inglaterra en su reunión de octubre decidió mantener sin
+cambio su tasa de referencia en 0.5 por ciento, así como el saldo de su programa
+de compra de valores en 375 mil millones de libras esterlinas. En su comunicado,
+si bien notó un deterioro en el entorno global, señaló que la demanda interna se ha
+mantenido sólida y que hay evidencia de presiones sobre la capacidad de algunos
+sectores de la economía, aunque los avances en la productividad han contribuido
+a limitar su efecto sobre la inflación. Al mismo tiempo, reiteró su expectativa de que
+una vez que se determine la primera alza en su tasa de referencia, el ritmo de
+incrementos subsecuentes será gradual.
+En su reunión de octubre, el BCE decidió mantener sin cambio sus tasas de interés
+de política monetaria y reiteró su intención de continuar implementando su
+programa de compra de valores por 60 mil millones de euros mensuales al menos
+hasta septiembre de 2016 y, en todo caso, hasta que se perciba un cambio en la
+Banco de México
+22 Informe Trimestral Julio - Septiembre 2015
+trayectoria de inflación consistente con el logro de su meta de mediano plazo. El BCE destacó que se han acentuado los riesgos a la baja para las perspectivas de crecimiento e inflación de la zona del euro, ante los temores acerca de las perspectivas de crecimiento de las economías emergentes y las posibles repercusiones para la región, derivados de los recientes acontecimientos en los mercados financieros y de las materias primas. En este contexto, señaló que el grado de relajamiento de la política monetaria deberá ser revisado en su próxima reunión de diciembre, una vez que se disponga de las nuevas proyecciones macroeconómicas, y reiteró su disposición a actuar, de ser necesario, utilizando todos los instrumentos disponibles dentro de su mandato para mantener un grado apropiado de relajamiento monetario.
+En su reunión de octubre, el Banco de Japón ratificó que continuará con su programa monetario laxo con el fin de alcanzar su meta de inflación del 2 por ciento, al considerar que las medidas de estímulo cuantitativo y cualitativo implementadas están teniendo los efectos esperados. De esta forma, mantuvo el objetivo de incrementar la base monetaria a un ritmo anual de cerca de 80 billones de yenes, y su decisión de seguir comprando bonos del gobierno y otros instrumentos. Además, señaló que si bien las expectativas de inflación de largo plazo han continuado recuperándose, la inflación anual probablemente permanecerá por algunos meses alrededor de 0 por ciento, debido al impacto de la caída en los precios de la energía, al tiempo que anticipa que la economía japonesa continúe creciendo a una tasa pausada.
+Como se mencionó, la volatilidad de los mercados financieros internacionales siguió siendo elevada en el periodo que cubre este Informe. Ello como resultado de la incertidumbre en torno al proceso de normalización de la política monetaria en Estados Unidos, las preocupaciones respecto a las perspectivas de crecimiento de China y sus posibles repercusiones sobre la situación financiera y económica global, así como por la percepción de mayor vulnerabilidad de las economías emergentes. Así, en las economías avanzadas se registró cierto apretamiento en las condiciones financieras ante el retroceso en sus mercados accionarios y un aumento en las tasas de interés reales debido a las menores expectativas de inflación (Gráfica 15).
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 23
+Gráfica 15
+Indicadores Financieros en Economías Avanzadas Seleccionadas
+a) Rendimiento de los Bonos a 10 Años
+En por ciento
+b) Mercados Accionarios
+Índice 01/01/2014=100
+0
+1
+2
+3
+4
+E
+2014
+M M J S N E
+2015
+A J A O
+Estados Unidos
+Zona del Euro
+Japón
+Reino Unido
+80
+90
+100
+110
+120
+130
+140
+E
+2014
+M M J S N E
+2015
+A J A O
+S&P 500
+Europe 600
+Nikkei
+FTSE
+Fuente: Bloomberg.
+La percepción de una mayor divergencia en la posición cíclica entre las economías
+emergentes y la economía de Estados Unidos, aunada a la caída en los términos
+de intercambio, provocó una recomposición de portafolios hacia activos de menor
+riesgo. Esto se reflejó en una reducción en los flujos de capital hacia las economías
+emergentes, dando lugar a una disminución en los precios de sus activos
+financieros y a una mayor depreciación de sus monedas (Gráfica 16). Por su parte,
+los indicadores de primas por riesgo soberano mostraron incrementos,
+principalmente en aquellas economías con mayores retos macroeconómicos.
+Finalmente, el incierto entorno global exacerba los riesgos de que algunas
+economías emergentes con fundamentos más débiles, como Brasil y Turquía,
+enfrenten un proceso desordenado de ajuste económico y financiero. Esto a su
+vez, apunta a riesgos potenciales de contagio a otras economías.
+Banco de México
+24 Informe Trimestral Julio - Septiembre 2015
+Gráfica 16
+Indicadores Financieros de Economías Emergentes
+a) Flujos Acumulados de Fondos Dedicados a
+Economías Emergentes
+(Deuda y Acciones) 1/
+b) Tipo de Cambio
+Índice 01/01/2014=100
+-80
+-60
+-40
+-20
+0
+20
+40
+60
+80
+100
+120
+140
+1 5 9 13 17 21 25 29 33 37 41 45 49
+Semanas
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+28-Oct.
+90
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+200
+210
+220
+230
+240
+250
+E
+2014
+M M J S N E
+2015
+A J A O
+Real Brasileño
+Corona Checa
+Peso Chileno
+Peso Colombiano
+Won Coreano
+Peso Mexicano
+Sol Peruano
+Zloty Polaco
+Rublo Ruso
+Lira Turca
+Depreciación
+f rente al dólar
+1/ La muestra cubre fondos utilizados para la compra-venta de
+acciones y bonos de países emergentes, registrados en
+países avanzados. Los flujos excluyen el desempeño de la
+cartera y variaciones en el tipo de cambio.
+Fuente: Emerging Portfolio Fund Research.
+Fuente: Bloomberg.
+c) Indicadores de Mercado que Miden el Riesgo
+de Crédito Soberano (CDS)
+En puntos base
+d) Mercados Accionarios
+Índice 01/01/2014=100
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+550
+600
+650
+700
+750
+800
+E
+2014
+M M J S N E
+2015
+A J A O
+México Brasil
+Turquía Colombia
+Chile Perú
+Indonesia Sudáfr ica
+Polo nia China
+Rusia
+25
+50
+75
+100
+125
+150
+175
+200
+225
+250
+275
+300
+E
+2014
+M M J S N E
+2015
+A J A O
+Brasil
+Chile
+China
+Colombia
+India
+México
+Rusia
+Fuente: Bloomberg.
+A partir de octubre, la volatilidad en los mercados financieros internacionales
+comenzó a mostrar cierta disminución debido, en buena medida, al mayor apetito
+por riesgo por parte de inversionistas institucionales. Ello, ante la expectativa que
+prevalecía de un posible retraso en el inicio del proceso de normalización de la
+política monetaria de Estados Unidos y las medidas adoptadas por las autoridades
+chinas para estabilizar su mercado financiero y apoyar el crecimiento. Lo anterior,
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 25
+se reflejó en una mejoría de los mercados accionarios globales, en una ligera apreciación de los tipos de cambio de economías emergentes y en cierta disminución en los indicadores de riesgo soberano de estos países. Adicionalmente, las tasas de interés de largo plazo experimentaron una reducción a finales del trimestre reflejando mayormente la decisión de la Reserva Federal de no incrementar su tasa de referencia en su reunión de septiembre, así como mayores expectativas de que la debilidad en las economías emergentes, en especial China, pudieran llevar a que la política monetaria en países avanzados se mantenga acomodaticia por un periodo más prolongado.
+Sin embargo, no se puede descartar un nuevo repunte en la volatilidad en los mercados financieros internacionales, en particular en caso de que el primer aumento de la tasa de fondos federales sea inesperado para la mayoría del mercado, que la expectativa de la trayectoria subsecuente de alzas sea más pronunciada de lo previsto, o bien ante noticias negativas sobre la evolución económica y financiera de China. En este contexto, cabe destacar la posición de mayor vulnerabilidad de algunas economías emergentes, ante el significativo deterioro en su situación macroeconómica en general, la cual requiere de importantes ajustes de política.
+3.2. Evolución de la Economía Mexicana
+3.2.1. Actividad Económica
+En el tercer trimestre del año en curso, la actividad económica en México mantuvo el moderado ritmo de crecimiento que registró desde inicios de 2015. En particular, las exportaciones netas continuaron presentando un bajo dinamismo, al tiempo que algunos componentes de la demanda interna mostraron cierta mejoría.
+En cuanto al sector externo, las exportaciones manufactureras siguieron exhibiendo un relativo estancamiento en el periodo julio - septiembre de 2015, a pesar de la significativa depreciación del tipo de cambio real del peso frente al dólar (Gráfica 17a). Sin embargo, la producción industrial de Estados Unidos creció únicamente 1.8 por ciento a tasa trimestral anualizada con datos desestacionalizados, después de haberse contraído 0.3 y 2.4 por ciento en los primeros dos trimestres del año. En la medida en que el efecto ingreso de una demanda externa débil dominó el efecto precio favorable derivado de la depreciación del tipo de cambio real, tanto las exportaciones automotrices, como las no automotrices dirigidas a nuestro vecino país del norte registraron un bajo crecimiento. Adicionalmente, en congruencia con la debilidad que la demanda proveniente de países distintos de Estados Unidos ha venido presentando desde hace varios trimestres, en el periodo julio - septiembre de 2015 las exportaciones canalizadas a esos países continuaron exhibiendo una tendencia negativa, en particular las dirigidas a Asia y a Europa (Gráfica 17b y Gráfica 17c). Por su parte, las exportaciones petroleras mantuvieron el desempeño desfavorable que han venido mostrando desde inicios de 2012 (Gráfica 17d). En particular, en el periodo de referencia la contracción en las exportaciones petroleras reflejó una nueva disminución en el precio del petróleo, ya que la plataforma de exportación presentó incluso un ligero incremento.
+Banco de México
+26 Informe Trimestral Julio - Septiembre 2015
+Gráfica 17
+Indicadores de las Exportaciones
+Índice 2008=100, a. e.
+a) Exportaciones Manufactureras
+Totales
+b) Exportaciones Manufactureras
+Automotrices
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Total
+Estados Unidos
+Resto
+Septiembre
+30
+50
+70
+90
+110
+130
+150
+170
+190
+210
+230
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Total
+Estados Unidos
+Resto
+Septiembre
+a. e. / Serie con ajuste estacional y serie de tendencia. La primera se representa con la línea sólida y la segunda con la punteada.
+Fuente: Banco de México con base en SAT, SE, Banco de México, INEGI. Balanza Comercial de Mercancías de México. SNIEG.
+Información de Interés Nacional.
+c) Exportaciones Manufactureras
+No Automotrices
+d) Exportaciones Petroleras y Plataforma de
+Exportación de Petróleo Crudo
+70
+80
+90
+100
+110
+120
+130
+140
+150
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Total
+Estados Unidos
+Resto
+Septiembre
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Exportaciones Petroleras
+Plataforma de Exportación de
+Petróle o Crudo 1/
+Septiembre
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda con
+la punteada.
+Fuente: Banco de México con base en SAT, SE, Banco de
+México, INEGI. Balanza Comercial de Mercancías de
+México. SNIEG. Información de Interés Nacional.
+a. e. / Serie con ajuste estacional.
+1/ Promedio móvil de tres meses de barriles diarios.
+Fuente: SAT, SE, Banco de México, INEGI. Balanza Comercial
+de Mercancías de México. SNIEG. Información de
+Interés Nacional, y Banco de México con base en PMI
+Comercio Internacional, S.A. de C.V.
+En cuanto al gasto interno, algunos de los indicadores del consumo privado
+registraron tasas de crecimiento mayores a las del trimestre anterior, apoyados por
+la evolución del mercado laboral, la baja inflación y el repunte en el ingreso por
+remesas familiares.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 27
+i. En el periodo que se reporta, las ventas internas de vehículos ligeros y los ingresos de empresas comerciales al por menor presentaron un mayor crecimiento que el observado en el trimestre previo, al tiempo que las ventas de la ANTAD se expandieron a un ritmo similar, con lo que continuaron exhibiendo un elevado dinamismo (Gráfica 18a y Gráfica 18b). Por su parte, el indicador mensual del consumo privado en el mercado interior, el cual es una medida más amplia del consumo privado, mantuvo un ritmo de crecimiento moderado al inicio del trimestre (Gráfica 18c).
+ii. En este contexto, algunos de los determinantes del consumo han mostrado gradualmente una mejoría. En particular, en el primer semestre de 2015 la masa salarial de los trabajadores exhibió un incremento, si bien a partir de niveles bajos (Gráfica 19a). El ingreso por remesas tanto en dólares como en pesos constantes, registró en el periodo julio – septiembre de 2015 un crecimiento respecto al segundo trimestre (Gráfica 19b). Por su parte, en el tercer trimestre del año en curso el crédito bancario al consumo presentó un aumento en su ritmo de expansión con relación al observado el trimestre previo (ver Sección 3.2.3). En contraste, el índice de confianza del consumidor mantuvo cierta trayectoria decreciente en el trimestre que se reporta, aunque destaca que el componente que mide la percepción sobre la posibilidad de compra de bienes duraderos continuó recuperándose (Gráfica 19c).
+Según la información más oportuna, la inversión fija bruta siguió mostrando un moderado dinamismo en el inicio del trimestre objeto de este Informe (Gráfica 20a). En particular, el crecimiento que se observó en el rubro de maquinaria y equipo dado un mayor dinamismo de las importaciones de bienes de capital (Gráfica 20b) fue parcialmente contrarrestado por la debilidad que continuó presentando el gasto en inversión del sector de la construcción, especialmente la no residencial (Gráfica 20c). En este contexto, las importaciones de bienes de capital se han visto impulsadas por perspectivas favorables en los sectores automotriz, de telecomunicaciones y energético en lo que se refiere a la producción y distribución de electricidad.
+Banco de México
+28 Informe Trimestral Julio - Septiembre 2015
+Gráfica 18
+Indicadores de Consumo
+a) Ventas Internas de Vehículos
+Ligeros al Menudeo
+Miles de unidades anualizadas, a. e.
+b) Ingresos en Empresas
+Comerciales al por Menor y Ventas
+a Tiendas Totales de la ANTAD
+Índice 2008=100, a. e.
+c) Indicador Mensual del Consumo
+Privado en el Mercado Interior
+Índice 2008=100, a. e.
+600
+700
+800
+900
+1,000
+1,100
+1,200
+1,300
+1,400
+1,500
+2008 2009 2010 2011 2012 2013 2014 2015
+Septiembre
+90
+100
+110
+120
+130
+140
+2008 2009 2010 2011 2012 2013 2014 2015
+Ingresos al por Menor
+Ventas Totales ANTAD
+Agosto
+Septiembre
+90
+100
+110
+120
+2008 2009 2010 2011 2012 2013 2014 2015
+Julio
+a. e. / Serie con ajuste estacional y serie de
+tendencia. La primera se representa con la
+línea sólida y la segunda con la punteada.
+Fuente: Elaboración de Banco de México con
+información de la Asociación Mexicana de
+la Industria Automotriz (AMIA).
+a. e. / Serie con ajuste estacional y serie de
+tendencia. La primera se representa con la
+línea sólida y la segunda con la punteada.
+Fuente: Encuesta Mensual sobre Empresas
+Comerciales, INEGI; y elaboración de
+Banco de México con información de la
+ANTAD.
+a. e. / Serie con ajuste estacional y serie de
+tendencia. La primera se representa con la
+línea sólida y la segunda con la punteada.
+Fuente: INEGI.
+Gráfica 19
+Determinantes del Consumo
+a) Masa Salarial Real Total
+Índice I-2008=100, a. e.
+b) Remesas Familiares
+Miles de millones de dólares y de
+pesos constantes,1/ a. e.
+c) Confianza del Consumidor
+Índice enero 2003=100, a. e.
+80
+85
+90
+95
+100
+105
+110
+115
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Población Ocupada Remunerada
+Ingreso Promedio Real
+Masa Salarial Real
+II Trim.
+12.0
+17.0
+22.0
+27.0
+32.0
+37.0
+42.0
+1.6
+1.8
+2.0
+2.2
+2.4
+2.6
+2.8
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Dólares
+Pesos
+Septiembre
+50
+60
+70
+80
+90
+100
+110
+120
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Índice de Conf ianza del Consumidor
+Posibilidad de Compra de Bienes
+Duraderos
+Septiembre
+a. e. / Series con ajuste estacional.
+Fuente: Elaboración de Banco de México con
+información de la Encuesta Nacional de
+Ocupación y Empleo (ENOE), INEGI.
+a. e. / Serie con ajuste estacional y serie de
+tendencia. La primera se representa con la
+línea sólida y la segunda con la punteada.
+1/ A precios de la segunda quincena de diciembre
+de 2010.
+Fuente: Banco de México.
+a. e. / Serie con ajuste estacional y serie de
+tendencia. La primera se representa con la
+línea sólida y la segunda con la punteada.
+Fuente: Encuesta Nacional sobre la Confianza del
+Consumidor (ENCO), INEGI y Banco de
+México.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 29
+Gráfica 20
+Indicadores de Inversión
+Índice 2008=100, a. e.
+a) Inversión y sus Componentes
+b) Importaciones de Bienes de
+Capital
+c) Inversión en Construcción
+Residencial y No Residencial
+60
+80
+100
+120
+140
+160
+180
+200
+220
+70
+75
+80
+85
+90
+95
+100
+105
+110
+115
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Total
+Construcción
+Maquinaria y Equipo Nacional
+Maquinaria y Equipo Importado
+Julio
+70
+75
+80
+85
+90
+95
+100
+105
+110
+115
+120
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Septiembre
+80
+85
+90
+95
+100
+105
+110
+2008 2009 2010 2011 2012 2013 2014 2015
+Residencial
+No Residencial
+Julio
+a. e. / Serie con ajuste estacional y serie de
+tendencia. La primera se representa con la
+línea sólida y la segunda con la punteada.
+Fuente: Sistema de Cuentas Nacionales de México,
+INEGI.
+a. e. / Serie con ajuste estacional y serie de
+tendencia. La primera se representa con la
+línea sólida y la segunda con la punteada.
+Fuente: SAT, SE, Banco de México, INEGI.
+Balanza Comercial de Mercancías de
+México. SNIEG. Información de Interés
+Nacional.
+a. e. / Serie con ajuste estacional y serie de
+tendencia. La primera se representa con la
+línea sólida y la segunda con la punteada.
+Fuente: Sistema de Cuentas Nacionales de
+México, INEGI.
+En cuanto a la actividad económica por el lado de la producción, en los primeros
+dos meses del tercer trimestre el sector industrial mostró un bajo ritmo de
+crecimiento, mientras que los servicios exhibieron una tendencia positiva (Gráfica
+21a).
+i. Al interior de la producción industrial, en el bimestre julio - agosto del año
+en curso, el sector manufacturero siguió presentando una trayectoria
+positiva, si bien ha perdido cierto dinamismo. En contraste, el sector de
+la construcción mantuvo un débil desempeño (Gráfica 21b) y el de la
+minería continuó registrando una tendencia negativa como reflejo,
+principalmente, del bajo nivel de producción petrolera y del
+comportamiento desfavorable de los servicios asociados a este sector
+(Gráfica 21c).
+ii. Por su parte, los servicios siguieron mostrando una evolución favorable
+(Gráfica 21d). En el bimestre julio – agosto, los principales sectores que
+sustentaron esta trayectoria creciente fueron el comercio, los servicios de
+transporte y de información en medios masivos así como de alojamiento
+temporal y de preparación de alimentos y bebidas. El desempeño positivo
+de estos agregados parecería haber sido resultado del dinamismo que
+se ha observado en el consumo, del impacto del proceso electoral, de
+una mejoría en el sector de telecomunicaciones, y por el impulso
+proveniente de las actividades turísticas. En contraste, algunos sectores
+de las actividades terciarias mostraron una evolución menos favorable,
+destacando el caso de los servicios financieros y de seguros, los servicios
+corporativos y los servicios educativos.
+iii. Al inicio del tercer trimestre del año en curso, las actividades primarias
+presentaron un avance, derivado de un incremento en las siembras del
+Banco de México
+30 Informe Trimestral Julio - Septiembre 2015
+ciclo primavera ‐ verano y de una mayor cosecha del ciclo otoño –
+invierno y de algunos cultivos perennes.
+Gráfica 21
+Indicadores de Producción
+Índice 2008=100, a. e.
+a) Indicador Global de la Actividad Económica b) Actividad Industrial
+80
+90
+100
+110
+120
+130
+140
+150
+160
+84
+88
+92
+96
+100
+104
+108
+112
+116
+120
+124
+2008 2009 2010 2011 2012 2013 2014 2015
+Total
+Industr ial
+Servicios
+Agropecuario
+Agosto
+85
+95
+105
+115
+125
+2008 2009 2010 2011 2012 2013 2014 2015
+Manufacturas
+Construcción
+Electricidad
+Minería
+Agosto
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda con
+la punteada.
+Fuente: Sistema de Cuentas Nacionales de México, INEGI.
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda
+con la punteada.
+Fuente: Indicador Mensual de la Actividad Industrial, Sistema de
+Cuentas Nacionales de México, INEGI.
+c) Sector de la Minería d) IGAE del Sector Servicios
+30
+50
+70
+90
+110
+130
+150
+170
+80
+85
+90
+95
+100
+105
+110
+2008 2009 2010 2011 2012 2013 2014 2015
+Minería Petrolera
+Servicios Relacionados con la Minería
+Minería de Minerales Metálicos y No
+Metálicos
+Agosto
+70
+80
+90
+100
+110
+120
+130
+140
+2008 2009 2010 2011 2012 2013 2014 2015
+Comercio
+Transportes e Información
+Alojamiento Temp. y Prep. Alimentos
+Resto 1/
+Agosto
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda con
+la punteada.
+Fuente: Indicador Mensual de la Actividad Industrial, Sistema de
+Cuentas Nacionales de México, INEGI.
+a. e. / Series con ajuste estacional.
+1/ Incluye el resto de los sectores del agregado de servicios.
+Fuente: Elaboración de Banco de México con información del
+Sistema de Cuentas Nacionales de México, INEGI.
+En este contexto, en el tercer trimestre de 2015 según la estimación oportuna del
+PIB trimestral publicada por el INEGI, la actividad económica mostró un crecimiento
+trimestral desestacionalizado de 0.6 por ciento, cifra que se compara con la tasa
+de expansión de 0.5 por ciento observada en el trimestre previo (Gráfica 22a). A
+tasa anual con datos ajustados por estacionalidad, de acuerdo al PIB oportuno la
+economía mexicana presentó un incremento anual de 2.3 por ciento en el trimestre
+de referencia, el cual se compara con el de 2.2 por ciento registrado en el trimestre
+anterior. Con cifras sin desestacionalizar, la variación anual según el PIB oportuno
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 31
+fue de 2.4 por ciento en el tercer trimestre del año en curso, que se compara con
+la de 2.2 por ciento reportada para el segundo trimestre (Gráfica 22b).
+Gráfica 22
+Producto Interno Bruto
+a) Variaciones Trimestrales
+Por ciento, a. e.
+b) Variaciones Anuales
+Por ciento
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+III Trim. 1/
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Original
+Desestacionalizada
+III Trim. 1/
+a. e. / Cifras con ajuste estacional.
+1/ La cifra correspondiente al tercer trimestre de 2015 se refiere a la estimación oportuna del PIB trimestral publicada por el INEGI.
+Fuente: Sistema de Cuentas Nacionales de México, INEGI.
+Finalmente, en el tercer trimestre de 2015 la balanza comercial de México mostró
+un déficit de 6,469 millones de dólares, el cual estuvo compuesto por déficits de
+2,783 millones de dólares en la balanza comercial no petrolera y de 3,686 millones
+de dólares en la petrolera (Gráfica 23a). Así, el saldo de la balanza comercial
+petrolera continuó deteriorándose y fue deficitario por cuarto trimestre consecutivo,
+después de haber presentado superávits desde 2009. Por su parte, las cifras más
+oportunas sugieren que la cuenta corriente habrá registrado un déficit moderado
+en el tercer trimestre de 2015 y que se continuaron captando recursos a través de
+la cuenta financiera que permitieron el financiamiento de dicho déficit (Gráfica 23b).
+En particular, se prevé que como reflejo de las perspectivas favorables ante las
+nuevas posibilidades de inversión que han abierto las reformas estructurales, se
+haya continuado captando recursos en las cuentas de inversión directa y de
+cartera. Respecto a esta última, en el tercer trimestre se observó una ligera entrada
+de recursos de inversionistas no residentes al mercado accionario y al de valores
+gubernamentales (ver Sección 3.2.3).
+Banco de México
+32 Informe Trimestral Julio - Septiembre 2015
+Gráfica 23
+Balanza Comercial y Cuenta Corriente
+Millones de dólares
+a) Balanza Comercial b) Cuenta Corriente
+-10,000
+-8,000
+-6,000
+-4,000
+-2,000
+0
+2,000
+4,000
+6,000
+8,000
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Total
+Petrolera
+No Petrolera
+III Trim.
+-12,000
+-10,000
+-8,000
+-6,000
+-4,000
+-2,000
+0
+2,000
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+III Trim. e/
+Fuente: SAT, SE, Banco de México, INEGI. Balanza Comercial
+de Mercancías de México. SNIEG. Información de
+Interés Nacional.
+e/ Estimación de Banco de México.
+Fuente: Banco de México.
+3.2.2. Mercado Laboral
+Ante el moderado crecimiento económico, en el tercer trimestre de 2015
+persistieron condiciones de holgura en el mercado laboral.
+i. En efecto, en el tercer trimestre de 2015 las tasas de desocupación
+nacional y urbana se ubicaron en niveles semejantes a los registrados en
+el trimestre anterior y continuaron siendo mayores que las observadas
+antes de la crisis (Gráfica 24a). En particular, en julio – septiembre del
+año en curso la tasa de desempleo nacional presentó un nivel promedio
+de 4.3 por ciento en términos desestacionalizados, cifra similar a la
+reportada en el segundo trimestre de 4.4 por ciento, mientras que la
+urbana se mantuvo en 5.2 por ciento.
+ii. La tasa de participación laboral exhibió un incremento respecto al
+promedio del segundo trimestre (Gráfica 24b).
+iii. De manera congruente, el número de puestos de trabajo afiliados al IMSS
+siguió mostrando un crecimiento favorable (Gráfica 24c).
+iv. No obstante, el ritmo de crecimiento de la ocupación en el sector informal
+superó al de los empleos formales, de modo que los indicadores de
+informalidad continuaron sin presentar una mejoría (Gráfica 24d).
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 33
+Gráfica 24
+Indicadores del Mercado Laboral
+a) Tasas de Desocupación Nacional y
+Urbana
+Por ciento, a. e.
+b) Tasa de Participación Laboral Nacional 1/
+Por ciento, a. e.
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+3
+4
+5
+6
+7
+8 Tasa de Desocupación Urbana
+Tasa de Desocupación Nacional
+Septiembre
+58.0
+58.5
+59.0
+59.5
+60.0
+60.5
+61.0
+61.5
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Septiembre
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda con
+la punteada.
+Fuente: Encuesta Nacional de Ocupación y Empleo (ENOE),
+INEGI.
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda con
+la punteada.
+1/ Porcentaje de la Población Económicamente Activa (PEA)
+respecto de la de 15 y más años de edad.
+Fuente: Encuesta Nacional de Ocupación y Empleo (ENOE),
+INEGI.
+c) Puestos de Trabajo Afiliados al IMSS,
+IGAE Total y Población Ocupada
+Índice 2012=100, a. e.
+d) Ocupación en el Sector Informal 1/
+e Informalidad Laboral 2/
+Por ciento, a. e.
+85
+90
+95
+100
+105
+110
+115
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Puestos de Trabajo Afiliados al IMSS 1/
+IGAE Total
+Población Ocupada
+II Trim.
+Agosto
+Septiembre
+55
+56
+57
+58
+59
+60
+61
+62
+26
+27
+28
+29
+30
+31
+32
+33
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Tasa de Ocupación en el Sector Informal
+Tasa de Informalidad Laboral
+Septiembre
+a. e. / Series con ajuste estacional.
+1/ Permanentes y eventuales urbanos. Desestacionalización de
+Banco de México.
+Fuente: Elaboración de Banco de México con información del
+IMSS e INEGI (SCNM y ENOE).
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda con
+la punteada.
+1/ Se refiere a las personas que trabajan para unidades
+económicas no agropecuarias operadas sin registros
+contables y que funcionan a través de los recursos del hogar.
+2/ Incluye a los trabajadores que, además de los que se
+emplean en el sector informal, laboran sin la protección de la
+seguridad social y cuyos servicios son utilizados por unidades
+económicas registradas y a los ocupados por cuenta propia
+en la agricultura de subsistencia.
+Fuente: Encuesta Nacional de Ocupación y Empleo (ENOE),
+INEGI.
+Banco de México
+34 Informe Trimestral Julio - Septiembre 2015
+En este contexto de holgura en el mercado laboral, las tasas de crecimiento de los principales indicadores salariales de la economía que se observaron en el tercer trimestre del año en curso continuaron siendo moderadas. En particular, no se presentaron cambios significativos con relación a las variaciones reportadas en trimestres previos.
+i. En el tercer trimestre de 2015, el salario base de cotización asociado a los puestos de trabajo afiliados al IMSS aumentó 4.3 por ciento anual, misma cifra que la registrada en los dos trimestres anteriores (Gráfica 25a).
+ii. Por su parte, en el periodo julio – septiembre del año en curso los salarios contractuales negociados por empresas de jurisdicción federal presentaron una tasa de crecimiento de 4.3 por ciento, cifra que se compara con la tasa de 4.2 por ciento observada en el mismo trimestre de 2014 (Gráfica 25b). Este resultado reflejó el hecho de que tanto las negociaciones de las empresas privadas, como de las públicas resultaron en un promedio de aumentos cercanos a los del tercer trimestre de 2014. En particular, las negociaciones de las empresas públicas en el tercer trimestre de 2015 derivaron en un promedio de incrementos de 4.0 por ciento, cifra similar al promedio de 3.9 por ciento del mismo periodo del año anterior, mientras que las negociaciones de las empresas privadas resultaron en un promedio de aumentos salariales de 4.6 por ciento, nivel comparable al de 4.5 por ciento registrado en el tercer trimestre de 2014.
+iii. En el segundo trimestre de 2015, la tasa de crecimiento del salario promedio del total de trabajadores asalariados en la economía (de 2.5 por ciento) se mantuvo en niveles similares a los del trimestre anterior y se ubicó por debajo de los niveles reportados en 2012 (Gráfica 25c).
+iv. A partir del 1 de octubre de 2015, el Consejo de Representantes de la Comisión Nacional de Salarios Mínimos (CONASAMI) determinó homologar el salario mínimo vigente en la zona económica ‘B’ con el de la zona económica ‘A’. Lo anterior condujo a que el salario mínimo general promedio se incrementara de 69.26 pesos diarios a 70.10 pesos por día.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 35
+Gráfica 25
+Indicadores Salariales
+Variación anual en por ciento
+a) Salario Base de Cotización al
+IMSS 1/
+b) Salario Contractual 2/ c) Salario Promedio de Asalariados
+según la ENOE 3/
+4.3
+2
+3
+4
+5
+6
+7
+8
+2008 2009 2010 2011 2012 2013 2014 2015
+III Trim.
+4.2 4.3
+3.9
+4.0
+4.5 4.6
+2
+3
+4
+5
+6
+7
+8
+2008 2009 2010 2011 2012 2013 2014 2015
+Total
+Empresas Públicas
+Empresas Privadas
+III Trim.
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+2008 2009 2010 2011 2012 2013 2014 2015
+II Trim.
+1/ Durante el tercer trimestre de 2015 se registraron en promedio 18.0 millones de cotizantes al IMSS.
+2/ El incremento salarial contractual es un promedio ponderado por el número de trabajadores involucrados. El número de trabajadores de empresas de jurisdicción
+federal que anualmente reportan sus incrementos salariales a la STPS equivale aproximadamente a 2 millones.
+3/ Para calcular los salarios nominales promedio se truncó el 1 por ciento más bajo y el 1 por ciento más elevado de la distribución de los salarios. Se excluyen
+personas con ingreso cero o que no lo reportaron.
+Fuente: Cálculos elaborados por el Banco de México con información de IMSS, STPS e INEGI (ENOE).
+3.2.3. Ahorro Financiero y Financiamiento en el País
+En el tercer trimestre de 2015, las fuentes de recursos financieros de la economía
+tuvieron un menor ritmo de expansión que en el trimestre previo. Ello fue resultado
+de una moderación en el crecimiento tanto de las fuentes de recursos internas
+como de las externas, esto último en un contexto que se ha caracterizado por una
+reducción de los flujos de capital a las economías emergentes.
+Con respecto a las fuentes internas de recursos financieros, el saldo del ahorro
+financiero interno –definido como el saldo del agregado monetario M4 en poder de
+residentes menos el saldo de billetes y monedas en poder del público– presentó
+un crecimiento menor al del trimestre previo (Gráfica 26a). Este comportamiento
+estuvo explicado principalmente por una moderación en el crecimiento del saldo
+del ahorro financiero voluntario, puesto que el saldo del ahorro financiero
+obligatorio registró una variación real anual similar a la observada en el trimestre
+anterior (Gráfica 26b). Por su parte, si bien la tasa de expansión de la base
+monetaria fue similar a la del trimestre previo, continúa en niveles elevados. Ello
+obedece en buena medida al efecto temporal que la celebración de elecciones en
+nuestro país tiene sobre la demanda de dinero, así como a algunos efectos
+remanentes de la Reforma Hacendaria y otros cambios en el uso de medios de
+pago, cuyos impactos en las tasas de crecimiento anual se deberían ir diluyendo a
+lo largo del tiempo.
+Banco de México
+36 Informe Trimestral Julio - Septiembre 2015
+Gráfica 26
+Indicadores de Ahorro Financiero
+a) Ahorro Financiero Total 1/
+Variación real anual promedio del
+trimestre en por ciento
+b) Ahorro Financiero de Residentes
+Variación real anual promedio del
+trimestre en por ciento
+c) Ahorro Financiero de no Residentes
+Saldo al cierre del trimestre en
+billones de pesos de septiembre de
+2015
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+2011 2012 2013 2014 2015
+Total
+Residentes
+No Residentes
+III Trim.
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+2011 2012 2013 2014 2015
+Total
+Obligatorio
+Voluntario
+III Trim.
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+2011 2012 2013 2014 2015
+Total
+Captación Bancaria
+Total Valores Públicos
+Mediano y Largo Plazo
+Cetes
+III Trim.
+1/ Se define como el agregado monetario M4 menos el saldo de billetes y monedas en poder del público.
+Fuente: Banco de México.
+En lo que se refiere a las fuentes externas de recursos, el saldo del ahorro
+financiero de no residentes en el tercer trimestre desaceleró su ritmo de crecimiento
+respecto del trimestre previo. Lo anterior, como resultado de una moderación en la
+tasa de expansión de la tenencia de valores públicos de corto plazo por parte de
+no residentes (Gráfica 26c). Por su parte, los recursos externos canalizados a
+financiar a las empresas privadas no financieras continuaron moderando su ritmo
+de crecimiento, en un entorno caracterizado por una menor liquidez en los
+mercados financieros internacionales.
+En congruencia con lo anterior, el ritmo de expansión de la utilización de recursos
+financieros en la economía se redujo con respecto al trimestre previo. La
+desacumulación de reservas internacionales, como resultado de las medidas
+adoptadas por la Comisión de Cambios para coadyuvar al buen funcionamiento del
+mercado cambiario, en un contexto de una moderación en el ritmo de crecimiento
+de las fuentes, permitió liberar recursos para el financiamiento al sector privado
+(ver Sección 4). Por su parte, los Requerimientos Financieros del Sector Público
+(RFSP) fueron menores a los observados en el trimestre pasado, mientras que el
+flujo de financiamiento a los estados y municipios fue similar al registrado en el
+segundo trimestre de 2015. Finalmente, el flujo de financiamiento al sector privado
+no financiero se mantuvo sin cambio con respecto al registrado en el trimestre
+previo.
+Profundizando en lo anterior, el financiamiento total a las empresas privadas no
+financieras durante el tercer trimestre del año mantuvo un ritmo de expansión
+semejante al del trimestre pasado, lo que derivó de un mayor crecimiento del
+financiamiento interno que contrarrestó la desaceleración del externo (Gráfica 27).
+Respecto de este último punto, como se ha destacado en informes anteriores, en
+los mercados internacionales se ha venido observando un bajo ritmo de colocación
+de deuda privada, al tiempo que el crédito del exterior también ha venido mostrando
+un menor dinamismo. En contraste, en el mercado interno, el crédito otorgado por
+la banca comercial a las empresas privadas no financieras continuó incrementando
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 37
+su tasa de crecimiento, registrando una variación real anual promedio de 11.4 por
+ciento en el tercer trimestre, superior al 9.2 por ciento del trimestre anterior (Gráfica
+28a). Cabe destacar que parte de este aumento obedece al efecto de la
+depreciación de la moneda nacional, debido a que una proporción relativamente
+pequeña del saldo de la cartera de crédito corresponde a créditos otorgados en
+dólares, los cuales se registran a valor de mercado en pesos. También algunas
+empresas han decidido reducir su deuda externa en dólares y sustituirla por
+financiamiento interno en pesos, a la luz de la incertidumbre prevaleciente en los
+mercados financieros internacionales (Gráfica 27). De igual manera, el crédito
+directo otorgado por la banca de desarrollo continuó acelerando su ritmo de
+expansión. Todo lo anterior, en un contexto en el que las tasas de interés y los
+índices de morosidad, en general, se mantuvieron en niveles relativamente bajos,
+si bien en el trimestre de referencia se aprecia un ligero incremento en las tasas de
+interés de los préstamos otorgados por la banca comercial, así como cierta mejoría
+en la calidad de su cartera de crédito (Gráfica 28b y Gráfica 28c).
+Gráfica 27
+Financiamiento al Sector Privado No Financiero
+a) Financiamiento Total al Sector Privado No
+Financiero 1/
+Variación real anual en por ciento
+b) Financiamiento Interno a las Empresas
+Privadas No Financieras
+Variación real anual promedio del trimestre en
+por ciento
+-8
+-4
+0
+4
+8
+12
+16
+20
+24
+2011 2012 2013 2014 2015
+Total
+Externo 2/
+Interno 3/
+III Trim.
+-8
+-4
+0
+4
+8
+12
+16
+20
+24
+2011 2012 2013 2014 2015
+Total 3/
+Crédito 3/ 4/
+Emisión
+III Trim.
+1/ Cifras ajustadas por efecto cambiario.
+2/ Los datos del financiamiento externo correspondientes al tercer trimestre de 2015 son preliminares.
+3/ Estas cifras se ven afectadas por la desaparición de algunos intermediarios financieros no bancarios y su conversión a sofomes no
+reguladas.
+4/ Se refiere a la cartera vigente y vencida. Incluye el crédito de la banca comercial y de desarrollo, así como de otros intermediarios
+financieros no bancarios.
+Fuente: Banco de México.
+En el mercado de deuda interna, la colocación de valores por parte de las empresas
+privadas no financieras continuó mostrando un elevado dinamismo en el tercer
+trimestre de este año. En particular, la colocación neta de instrumentos de deuda
+de mediano y largo plazo fue de 20.7 miles de millones de pesos (mmp), lo que
+constituye el monto trimestral más elevado del que se tiene registro (Gráfica 29a).
+Lo anterior fue resultado de colocaciones brutas por 25.8 mmp, mientras que las
+amortizaciones brutas –vencimientos programados y prepagos– fueron de 5.2
+mmp. Por su parte, tanto la tasa de interés promedio de colocación de valores de
+Banco de México
+38 Informe Trimestral Julio - Septiembre 2015
+corto plazo, como la correspondiente a valores de mediano y largo plazo, se
+incrementaron con respecto al trimestre previo (Gráfica 29b).
+Gráfica 28
+Crédito de la Banca a las Empresas Privadas No Financieras
+a) Crédito Vigente
+Variación real anual promedio del
+trimestre en por ciento
+b) Tasas de Interés Anual de Nuevos
+Créditos 2/
+Promedio del trimestre en por ciento
+c) Índices de Morosidad 3/
+Promedio del trimestre en por ciento
+-10
+0
+10
+20
+30
+40
+50
+60
+2011 2012 2013 2014 2015
+Banca Comercial 1/
+Banca de Desarrollo
+III Trim.
+0
+2
+4
+6
+8
+10
+12
+2011 2012 2013 2014 2015
+Banca Comercial
+Banca de Desarrollo
+III Trim.
+0
+2
+4
+6
+8
+2011 2012 2013 2014 2015
+Banca Comercial 1/
+Banca de Desarrollo
+III Trim.
+1/ Incluye a las sofomes ER subsidiarias de instituciones bancarias y grupos financieros.
+2/ Se refiere a la tasa de interés de nuevos créditos de la banca a las empresas privadas no financieras, ponderada por el saldo asociado de crédito vigente y
+para todos los plazos solicitados.
+3/ El índice de morosidad (IMOR) se define como el saldo de la cartera vencida entre el saldo de la cartera total.
+Fuente: Banco de México.
+Gráfica 29
+Valores de Empresas Privadas No Financieras en el Mercado Interno
+a) Colocación Neta de Valores de Mediano
+Plazo 1/
+Miles de millones de pesos
+b) Tasas de Interés Anual
+Promedio del trimestre en por ciento
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+25
+III Trim.
+2011 2012 2013 2014 2015
+0
+1
+2
+3
+4
+5
+6
+7
+8
+2011 2012 2013 2014 2015
+Mediano Plazo 2/
+Corto Plazo 3/
+III Trim.
+1/ Colocaciones menos amortizaciones (vencimientos y prepagos) en el trimestre.
+2/ Colocaciones con un plazo mayor a un año.
+3/ Colocaciones con un plazo de hasta un año.
+Fuente: Banco de México, con información de Valmer e Indeval.
+En lo que toca al crédito a los hogares, durante el tercer trimestre de 2015 su
+expansión fue mayor que la observada en el segundo trimestre. Ello se explica en
+buena medida por el dinamismo que sigue mostrando el crédito hipotecario. En
+efecto, la cartera de crédito de la banca comercial a la vivienda se amplió en el
+tercer trimestre a una tasa real anual promedio de 8.1 por ciento, ritmo superior al
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 39
+6.5 por ciento registrado el periodo anterior.3 De igual manera, el crédito del
+Infonavit aumentó su tasa de crecimiento, al pasar de 5.5 por ciento en el segundo
+trimestre de 2015 a 6.0 por ciento, en el tercer trimestre del año (Gráfica 30a). En
+este entorno, las tasas de interés permanecieron estables, al tiempo que la
+morosidad del crédito hipotecario de la banca comercial se redujo. Por su parte, si
+bien el índice de morosidad de la cartera de crédito del Infonavit no observó
+variaciones significativas en el periodo que cubre este Informe, permanece en
+niveles relativamente elevados (Gráfica 30b).
+Gráfica 30
+Crédito a la Vivienda
+a) Crédito Vigente
+Variación real anual promedio del trimestre en
+por ciento
+0
+2
+4
+6
+8
+10
+12
+14
+16
+2011 2012 2013 2014 2015
+Infonavit
+Banca Comercial 1/ 2/ 3/
+III Trim.
+b) Índices de Morosidad 4/
+Promedio del trimestre en por ciento
+0
+2
+4
+6
+8
+10
+12
+2011 2012 2013 2014 2015
+Infonavit
+Banca Comercial 2/
+III Trim.
+1/ Las cifras se ajustan para no ser distorsionadas por el efecto del traspaso de la cartera del fideicomiso UDIS al balance de la banca
+comercial y por la reclasificación de créditos en cartera directa a ADES.
+2/ Se incluyen a las sofomes de la banca comercial.
+3/ Las cifras se ajustan para no verse afectadas por la incorporación de algunas sofomes reguladas a la estadística de crédito bancario.
+4/ El índice de morosidad (IMOR) se define como el saldo de la cartera vencida entre el saldo de la cartera total.
+Fuente: Banco de México.
+El crédito al consumo otorgado por la banca comercial observó un incremento en
+su ritmo de expansión en el tercer trimestre de 2015 respecto del trimestre previo.
+La tasa de crecimiento real anual promedio del crédito al consumo fue de 5.1 por
+ciento en el periodo, lo que se compara con el 3.8 por ciento registrado el trimestre
+anterior (Gráfica 31a). Ello obedeció al dinamismo que se ha continuado
+observando en el segmento de crédito de nómina y a un aumento en la tasa de
+crecimiento del crédito para la adquisición de bienes de consumo duradero. En
+contraste, los créditos personales y de tarjetas continúan mostrando un crecimiento
+prácticamente nulo. Por su parte, las tasas de interés se mantuvieron sin cambios
+con relación al trimestre pasado, mientras que la calidad de la cartera ha mejorado,
+particularmente en el segmento de créditos personales. Esto último se reflejó en la
+3 El crédito de la banca comercial a la vivienda incluye aquel para la adquisición de vivienda nueva y usada,
+remodelaciones, pago de pasivos hipotecarios, crédito para liquidez, adquisición de terreno y construcción
+de vivienda propia.
+Banco de México
+40 Informe Trimestral Julio - Septiembre 2015
+evolución de los índices de morosidad que, si bien siguen en niveles elevados,
+registraron una disminución en el periodo de referencia (Gráfica 31b).
+Gráfica 31
+Crédito de la Banca Comercial al Consumo
+a) Crédito Vigente 1/
+Variación real anual promedio del trimestre en
+por ciento
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+2011 2012 2013 2014 2015
+Total
+Tarjetas de Crédito
+ABCD 2/ 3/ 4/
+Personales
+Nómina
+III Trim.
+b) Índices de Morosidad 1/ 5/
+Promedio del trimestre en por ciento
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+2011 2012 2013 2014 2015
+IMORA Total 6/
+IMOR Total
+IMOR Tarjetas de Crédi to
+IMOR ABCD 4/
+IMOR Nómina
+IMOR Personales
+III Trim.
+1/ Incluye a las sofomes ER subsidiarias de instituciones bancarias y grupos financieros.
+2/ Entre junio de 2010 y mayo de 2011, las cifras se ajustan para no verse distorsionadas por la compra de cartera automotriz de una
+institución bancaria.
+3/ A partir de julio de 2011 las cifras se ajustan para no verse distorsionadas por la reclasificación de ABCD a otros créditos al consumo
+por parte de una institución bancaria.
+4/ Incluye crédito para la adquisición de bienes muebles y crédito automotriz.
+5/ El índice de morosidad (IMOR) se define como el saldo de la cartera vencida entre el saldo de la cartera total.
+6/ El índice de morosidad ajustado (IMORA) se define como el saldo de la cartera vencida más castigos acumulados en los últimos 12
+meses entre el saldo de la cartera total más castigos acumulados en los últimos 12 meses.
+Fuente: Banco de México.
+En suma, el financiamiento al sector privado no financiero ha evolucionado en
+congruencia con el desempeño de la actividad económica. Hacia adelante, en la
+medida en que se consolide la recuperación de la actividad productiva, se esperaría
+un aumento gradual de la demanda de recursos financieros por parte del sector
+privado. En este contexto, resulta relevante elaborar un ejercicio prospectivo de
+fuentes y usos de recursos financieros de la economía que ilustre los factores que
+podrían apoyar o limitar el financiamiento al sector privado hacia el cierre de 2015
+y de 2016 (Cuadro 2). En particular:
+i. Tomando en consideración la evolución observada de las fuentes de
+recursos financieros hasta el tercer trimestre del año, para el cierre de
+2015 se estima que estas sean equivalentes a 7.0 por ciento del PIB, cifra
+inferior al 10.2 por ciento observado en 2014. Ello, resultado
+principalmente de una desaceleración de las fuentes externas, como
+reflejo de los menores recursos del exterior canalizados a las economías
+emergentes. En lo que se refiere a la utilización de los recursos
+financieros, se proyecta que el flujo anual de financiamiento al sector
+privado sea de 2.6 por ciento del PIB, ligeramente superior al de 2.4 por
+ciento registrado en 2014. Lo anterior, debido a que, no obstante la
+mencionada desaceleración en las fuentes, la desacumulación esperada
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 41
+de reservas internacionales habrá liberado recursos para el sector privado, a lo que también contribuiría el menor uso de recursos por parte del sector público. Al respecto, se prevé que los recursos destinados al sector público –la suma de los RFSP y el financiamiento a los estados y municipios– registren una disminución respecto del cierre de 2014, pasando de 4.8 a 4.4 por ciento del PIB en 2015.
+ii. Para 2016, se anticipan mayores fuentes de recursos financieros respecto del cierre de 2015, incrementándose su flujo anual a 8.1 por ciento del PIB. Ello reflejaría un aumento de las fuentes internas, toda vez que las externas continuarían presentando un flujo reducido. Esto último, en congruencia con la incertidumbre que se espera prevalezca en los mercados financieros internacionales dado el entorno descrito en este Informe. En relación con el uso de recursos financieros, a partir de las previsiones que la Secretaría de Hacienda y Crédito Público presentó en los Criterios Generales de Política Económica 2016, se anticipa que el financiamiento al sector público disminuya de 4.4 a 3.8 por ciento del PIB, lo que permitiría una canalización de recursos financieros al sector privado equivalente a 2.8 por ciento del producto, ligeramente por arriba del flujo de 2.6 por ciento que se anticipa para 2015. Esto, aun considerando una ligera acumulación de reservas internacionales.
+Los resultados del ejercicio anterior muestran que, en un contexto de condiciones financieras más astringentes –particularmente de los mercados financieros externos–, es de fundamental importancia para el país continuar con el proceso de consolidación fiscal. Ello, además de garantizar la sostenibilidad de la deuda pública, evitará presionar a los mercados de fondos prestables en México. En particular, el fortalecimiento de las finanzas públicas contribuiría a la reducción de las primas de riesgo, lo que atenuaría en parte el incremento de las tasas de interés que pudiera observarse derivado de un entorno internacional en el que prevalezca una elevada incertidumbre y políticas monetarias más restrictivas por parte de algunos países avanzados, como Estados Unidos y el Reino Unido.
+Banco de México
+42 Informe Trimestral Julio - Septiembre 2015
+Cuadro 2
+Fuentes y Usos de Recursos Financieros de la Economía
+Porcentaje del PIB
+2010 2011 2012 2013 2014 2015 e/ 2016 e/
+Total de Recursos 9.4 10.1 9.8 8.5 10.2 7.0 8.1
+Fuentes Internas 4.1 5.7 4.4 4.7 5.8 5.3 6.1
+M4 Voluntario 2.6 4.2 3.0 4.1 4.2 3.9 4.7
+M4 Obligatorio 1.5 1.5 1.4 0.7 1.7 1.4 1.4
+Fuentes Externas 5.3 4.4 5.5 3.7 4.3 1.7 2.0
+M4 no Residentes 2.9 3.0 4.5 1.3 2.3 0.1 0.3
+Valores y Crédito del Exterior 1/ 2.4 1.4 1.0 2.4 2.0 1.6 1.7
+Total de Usos 9.4 10.1 9.8 8.5 10.2 7.0 8.1
+Reserva Internacional 2/ 2.2 2.4 1.8 1.0 1.3 -1.4 0.5
+Financiamiento al Sector Público 4.3 3.7 4.2 4.1 4.8 4.4 3.8
+Requerimientos Financieros del Sector Público (RFSP) 3/ 3.9 3.4 3.8 3.7 4.6 4.1 3.5
+Estados y Municipios 0.4 0.3 0.5 0.4 0.2 0.3 0.3
+Financiamiento al Sector Privado 2.7 3.6 3.0 3.9 2.4 2.6 2.8
+Externo 0.7 0.8 0.6 1.5 0.7 0.2 0.3
+Interno 4/ 2.0 2.8 2.4 2.4 1.7 2.4 2.5
+Otros Conceptos 5/ 0.3 0.4 0.8 -0.6 1.7 1.5 1.0
+Flujos anuales
+Nota: La suma de las partes puede no coincidir con el total debido al redondeo. Cifras expresadas en por ciento del PIB nominal promedio anual. En la información
+de flujos (revalorizados) se elimina el efecto de las variaciones del tipo de cambio.
+e/ Cifras estimadas. Se expresan en por ciento del PIB nominal promedio anual estimado por el Banco de México.
+1/ Incluye el endeudamiento externo del Gobierno Federal, de organismos y empresas públicas y PIDIREGAS externos, los pasivos externos de la banca comercial
+y el financiamiento al sector privado no financiero.
+2/ Según se define en la Ley del Banco de México.
+3/ De 2010 a 2014, los Requerimientos Financieros del Sector Público (RFSP) corresponden a los datos reportados por la SHCP. Los datos de 2015 y 2016
+corresponden a los publicados en los Criterios Generales de Política Económica 2016.
+4/ Cartera total de los intermediarios financieros, del Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit) y del Fondo de la Vivienda del
+ISSSTE (Fovissste), así como la emisión de deuda interna.
+5/ Incluye cuentas de capital y resultados y otros activos y pasivos de la banca comercial y de desarrollo, del Banco de México, de los intermediarios financieros
+no bancarios y del Infonavit, pasivos no monetarios del IPAB, así como el efecto del cambio en la valuación de los instrumentos de deuda pública, entre otros
+conceptos.
+Fuente: Banco de México.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 43
+4. Política Monetaria y Determinantes de la Inflación
+Durante el periodo que cubre este Informe, la Junta de Gobierno decidió mantener
+en 3 por ciento el objetivo para la Tasa de Interés Interbancaria a un día, en virtud
+de que estimó que la postura monetaria vigente es conducente a consolidar la
+convergencia de la inflación al objetivo de 3 por ciento (Gráfica 32). Al respecto
+conviene señalar que, ante una coyuntura económica sumamente difícil, la
+conducción de la política monetaria en México requirió que el Instituto Central
+ponderara factores encontrados internos y externos para definir la postura
+apropiada.
+Gráfica 32
+Objetivo de la Tasa de Interés Interbancaria a 1 Día 1/
+Por ciento anual
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
+1/ Hasta el 20 de enero de 2008 se muestra la Tasa de Interés Interbancaria a 1 día.
+Fuente: Banco de México.
+Entre los elementos que se tomaron en consideración para fundamentar las
+decisiones de política monetaria destacan los siguientes. En cuanto a los factores
+internos:
+a) Estando la inflación ya por debajo de 3 por ciento experimentó descensos
+adicionales y continuó registrando nuevos mínimos históricos,
+anticipándose que siga por debajo de 3 por ciento durante el resto de
+2015 y cerca de ese nivel en 2016 y 2017.
+b) Dado que la actividad económica en México ha continuado presentando
+un ritmo de crecimiento moderado, perduran condiciones de holgura en
+el mercado laboral y en la economía en su conjunto, por lo que no se
+anticipan presiones generalizadas sobre los precios provenientes de la
+demanda agregada ni de los mercados de insumos.
+c) Hasta ahora, el traspaso de la depreciación del tipo de cambio se ha visto
+reflejado, principalmente, en un aumento en los precios de los bienes
+durables, sin que ello haya dado lugar a efectos de segundo orden en el
+proceso de formación de precios en la economía.
+Banco de México
+44 Informe Trimestral Julio - Septiembre 2015
+d) Las expectativas de inflación para el cierre de este año continúan
+disminuyendo, ubicándose su media por debajo de 3 por ciento, mientras
+que las correspondientes al cierre de 2016 y a mayores plazos siguen
+ancladas.
+En cuanto a los factores externos:
+e) El peso, al igual que otras monedas de economías emergentes, registró
+una depreciación adicional ante la posible subida de tasas de interés por
+parte de la Reserva Federal. Ello significaba un riesgo por el efecto que
+pudiese haber tenido sobre los precios y las expectativas de inflación,
+por lo que el Banco de México se mantuvo atento a que ello no sucediera.
+f) Elevada volatilidad en el precio del petróleo, con potencial de afectar el
+balance externo, las finanzas públicas y el tipo de cambio.
+Profundizando en cuanto a los determinantes de la inflación, la actividad
+económica ha continuado registrando condiciones de holgura. En particular:
+i. La brecha del producto continúa en niveles negativos y se espera que
+siga así en el futuro previsible (Gráfica 33 y Gráfica 41b).
+ii. En el mercado laboral persisten condiciones de holgura de manera que
+los incrementos moderados que se presentaron en los principales
+indicadores salariales durante el periodo que cubre este Informe, junto
+con la tendencia creciente que ha exhibido la productividad laboral,
+contribuyeron a que los costos unitarios de la mano de obra para la
+economía en su conjunto hayan permanecido en niveles bajos (Gráfica
+34).
+Gráfica 33
+Estimación de la Brecha del Producto 1/
+Porcentaje del producto potencial, a. e.
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
+Producto Interno Bruto 2/
+IGAE 2/
+Intervalo al 95%de Conf ianza 3/
+a. e. / Elaborada con cifras ajustadas por estacionalidad.
+1/ Estimadas con el filtro de Hodrick-Prescott con corrección de colas; véase Informe sobre la Inflación
+Abril - Junio 2009, Banco de México, pág. 74.
+2/ El dato del PIB del tercer trimestre de 2015 corresponde a la estimación oportuna publicada por el INEGI. Cifras del
+IGAE a agosto de 2015.
+3/ Intervalo de confianza de la brecha del producto calculado con un método de componentes no observados.
+Fuente: Elaborado por Banco de México con información del INEGI.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 45
+Gráfica 34
+Productividad y Costo Unitario de la Mano de Obra
+Índice 2008=100, a. e.
+a) Total de la Economía b) Manufacturas
+80
+85
+90
+95
+100
+105
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Costos Unitar ios
+Productividad
+II Trim.
+87
+92
+97
+102
+107
+112
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+Costos Unitarios
+Productividad
+Agosto
+a. e. / Serie con ajuste estacional y serie de tendencia. La primera
+se representa con la línea sólida y la segunda con la
+punteada. Tendencias estimadas por Banco de México.
+Fuente: Costo Unitario elaborado por el Banco de México con
+cifras del INEGI. Índice Global de la Productividad
+Laboral en la Economía (IGPLE) publicado por INEGI.
+a. e. / Serie con ajuste estacional y serie de tendencia. La
+primera se representa con la línea sólida y la segunda con
+la punteada.
+Fuente: Elaboración de Banco de México a partir de información
+desestacionalizada de la Encuesta Mensual de la
+Industria Manufacturera y del Indicador Mensual de la
+Actividad Industrial del Sistema de Cuentas Nacionales
+de México, INEGI.
+En lo referente al comportamiento de las expectativas de inflación provenientes de
+la encuesta que levanta el Banco de México entre especialistas del sector privado,
+la mediana de aquellas para el cierre de 2015 continuó disminuyendo, al pasar de
+3.0 a 2.7 por ciento entre las encuestas de mayo y octubre de 2015.4 Al interior de
+esta previsión destaca que tanto la mediana de las expectativas de inflación
+subyacente como la correspondiente a la inflación no subyacente implícita en
+dichas medianas, se redujeron de 2.7 a 2.6 por ciento y de 4.1 a 2.8 por ciento,
+respectivamente (Gráfica 35a). Por su parte, la mediana de las expectativas de la
+inflación general para el cierre de 2016 se mantuvo alrededor de 3.4 por ciento en
+el mismo periodo.5 En particular, la mediana de aquellas para el componente
+subyacente continuó en 3.1 por ciento, mientras que las expectativas implícitas
+para el componente no subyacente se redujeron ligeramente de 4.7 a 4.6 por ciento
+(Gráfica 35b). Por último, las correspondientes a mayores plazos disminuyeron de
+3.5 a 3.4 por ciento en las referidas encuestas (Gráfica 35c).6
+4 La mediana de la expectativa de inflación general para el cierre de 2015 con base en la Encuesta de
+Expectativas de Analistas de Mercados Financieros de Banamex registró un comportamiento similar al
+disminuir de 3.0 a 2.7 por ciento entre las encuestas del 20 de mayo y del 20 de octubre de 2015.
+5 De igual manera, la mediana de la expectativa de inflación general para el cierre de 2016 de la Encuesta
+de Banamex se mantuvo alrededor de 3.4 por ciento entre las encuestas del 20 de mayo y del 20 de
+octubre de 2015.
+6 Por lo que respecta a la mediana de las expectativas de inflación de largo plazo de la Encuesta de
+Banamex (correspondientes al periodo 2017 - 2021), esta se ha mantenido, en promedio, alrededor de 3.5
+por ciento entre las encuestas del 20 de mayo y del 20 de octubre de 2015.
+Banco de México
+46 Informe Trimestral Julio - Septiembre 2015
+Gráfica 35
+Expectativas de Inflación
+Por ciento
+a) Medianas de Expectativas de
+Inflación General, Subyacente y No
+Subyacente al Cierre de 2015
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5 General
+Subyacente
+No Subyacente
+2.83
+2.66
+2.61
+Octubre
+2014 2015
+b) Medianas de Expectativas de
+Inflación General, Subyacente y No
+Subyacente al Cierre de 2016
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5 General
+Subyacente
+No Subyacente
+4.64
+3.45
+3.10
+2015
+Octubre
+2014
+c) Medianas de Expectativas de
+Inflación General a Distintos Plazos
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+2010 2011 2012 2013 2014 2015
+Siguientes 4 Años
+Siguientes 5 - 8 Años
+Objetivo de Inf lación
+Límite Superior de Intervalo de
+Variabilidad
+Octubre
+Fuente: Encuesta de Banco de México.
+Respecto a la evolución de las expectativas de inflación implícitas en las
+cotizaciones de instrumentos de mercado a 10 años, esta siguió ubicándose
+alrededor de 3.2 por ciento entre mayo y septiembre de 2015, mientras que la prima
+por riesgo inflacionario se ajustó, de -20 a -15 puntos base aproximadamente
+(Gráfica 36a).7 De esta forma, aunque la compensación por inflación y riesgo
+inflacionario (diferencia entre las tasas de interés nominales y reales de largo plazo)
+se incrementó en aproximadamente 5 puntos base durante el periodo de
+referencia, aún permanece en niveles bajos, cercanos a su mínimo histórico
+(Gráfica 36b), lo que refleja que los tenedores de instrumentos con tasas de interés
+nominales siguen demandando una compensación por inflación y riesgo
+inflacionario relativamente baja en los bonos del gobierno mexicano.
+7 Para una descripción de la estimación de las expectativas de inflación de largo plazo ver el Recuadro
+“Descomposición de la Compensación por Inflación y Riesgo Inflacionario” en el Informe Trimestral Octubre
+- Diciembre 2013.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 47
+Gráfica 36
+Expectativas de Inflación
+Por ciento
+a) Descomposición de la Compensación por
+Inflación y Riesgo Inflacionario
+b) Compensación Implícita en Bonos a 10 Años
+-0.5
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+2005 2008 2011 2015
+Prima por Riesgo Inflacionario
+Expectativa de Inflación de Largo Plazo
+Compensación Impl ícita en Bonos a 10 Años
+-0.14
+3.22
+3.08
+Septiembre
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+2005 2007 2009 2011 2013 2015
+Compensación Impl ícita en Bonos a 10
+Años
+Media Móvil 20 Días
+Dic 05 Dic 06 Dic 07 Dic 08 Dic 09 Dic 10 Dic 11 Dic 12 Dic 13 Dic 14
+Fuente: Estimación de Banco de México. Fuente: Estimación de Banco de México con datos de Valmer y
+Bloomberg.
+Como resultado de los elevados niveles de volatilidad registrados en los mercados
+financieros internacionales, durante el tercer trimestre del año se observó una
+apreciación generalizada del dólar estadounidense frente a la mayoría de las
+divisas, así como reducciones importantes en los precios de las materias primas y
+pérdidas en los mercados accionarios en prácticamente todo el mundo. Sin
+embargo, en octubre se revirtió parte de dichos ajustes. En este entorno, si bien
+los mercados nacionales se vieron afectados, continuaron funcionando de manera
+ordenada.
+El peso mexicano, al igual que otras monedas de economías emergentes, registró
+en el tercer trimestre una depreciación adicional frente al dólar estadounidense
+alcanzando niveles por arriba de 17 pesos por dólar. Posteriormente, en octubre
+revirtió parte de dicha depreciación para ubicarse alrededor de 16.50 pesos por
+dólar, aunque con cierta volatilidad. Así, entre finales de junio y principios de
+noviembre de 2015, la moneda nacional registró una depreciación de 5.8 por ciento
+al pasar de niveles de alrededor de 15.6 a 16.5 pesos por dólar (Gráfica 37a).
+Banco de México
+48 Informe Trimestral Julio - Septiembre 2015
+Gráfica 37
+Tipo de Cambio, Volatilidad Implícita del Tipo de Cambio
+y Volumen de Operación del Mercado Cambiario
+a) Tipo de Cambio Nominal y
+Expectativas del Tipo de Cambio al
+Cierre de 2015 y 2016 1/
+Pesos por dólar
+11.5
+12.5
+13.5
+14.5
+15.5
+16.5
+17.5
+2012 2013 2014 2015
+16.42
+b) Volatilidad Implícita en Opciones
+de Tipo de Cambio 1/
+Por ciento
+4
+6
+8
+10
+12
+14
+16
+18
+2012 2013 2014 2015
+c) Volumen Operado en el Mercado
+Cambiario
+Índice 02-jul-08=100,
+Media móvil de 20 días
+40
+60
+80
+100
+120
+140
+160
+180
+2012 2013 2014 2015
+1/ El tipo de cambio observado es el dato diario del
+tipo de cambio FIX. El último dato corresponde al
+s3 de noviembre de 2015.
+Fuente: Banco de México.
+1/ La volatilidad implícita en opciones del tipo de cambio
+se refiere a opciones a un mes.
+Nota: La línea negra corresponde al anuncio de la
+Comisión de Cambios del 30-jul-15.
+Fuente: Bloomberg.
+Nota: La línea negra corresponde al anuncio de la
+Comisión de Cambios del 30-jul-15.
+Fuente: Banco de México y Reuters.
+En este contexto, y pese a la volatilidad registrada en los mercados financieros, la
+tenencia de valores gubernamentales de no residentes se mantuvo relativamente
+estable y no se observó una reducción neta de posiciones en títulos del Gobierno
+Federal por parte de inversionistas institucionales. Al respecto, conviene señalar
+que la tenencia de instrumentos de corto plazo por parte de estos inversionistas se
+redujo, mientras que la de aquellos de mediano y largo plazo continuó
+incrementándose (Gráfica 38). No obstante, el ajuste en la exposición de riesgos
+del portafolio de los inversionistas y de las empresas mexicanas dio lugar a una
+mayor demanda por coberturas cambiarias, lo cual contribuyó a la depreciación de
+la moneda nacional.
+En virtud de la volatilidad observada en los mercados financieros internacionales,
+el 30 de julio la Comisión de Cambios decidió reforzar los mecanismos para proveer
+de liquidez al mercado cambiario nacional para reducir la probabilidad de que
+presiones adicionales pudiesen perturbar su funcionamiento ordenado.8
+Específicamente, incrementó de 52 a 200 millones de dólares el monto a ofrecer
+en las subastas de dólares sin precio mínimo y disminuyó el precio mínimo de las
+subastas de dólares correspondientes (de uno equivalente a un tipo de cambio 1.5
+por ciento mayor al tipo de cambio FIX determinado el día hábil anterior a otro
+equivalente a un tipo de cambio 1 por ciento mayor a dicho tipo de cambio). El 28
+de septiembre, extendió la vigencia de dichas subastas hasta el 30 de noviembre
+de este año y expresó que continuará evaluando las condiciones de operación del
+mercado cambiario para ajustar los mecanismos citados en caso de que resultara
+conveniente. Al respecto, cabe señalar que, desde su inicio el 9 de diciembre de
+2014, el mecanismo de subasta de dólares con precio mínimo se ha activado en
+8 Véanse los comunicados de prensa de la Comisión de Cambios del 30 de julio y del 28 de septiembre de
+2015.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 49
+quince ocasiones, lo que ha implicado un monto asignado por un total de 2,709
+millones de dólares. Por su parte, el monto asignado a través de la subasta de
+dólares sin precio mínimo asciende a 18,296 millones de dólares (del 11 de marzo
+del presente año a la fecha). Estos mecanismos han contribuido a estabilizar las
+condiciones en el mercado cambiario nacional. Esto, en combinación con otros
+factores, contribuyó a un mejor desempeño de los indicadores de volatilidad, que
+han dejado de incrementarse, y a que el volumen de operación haya dejado de
+disminuir (Gráfica 37b y Gráfica 37c), además de que se cortó la tendencia hacia
+la depreciación de la moneda nacional.
+Gráfica 38
+Tenencia de Valores Gubernamentales de Residentes en el Extranjero
+y Tipo de Cambio
+Miles de millones de pesos y pesos por dólar
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+0
+500
+1,000
+1,500
+2,000
+2,500
+2008 2009 2010 2011 2012 2013 2014 2015
+Bonos
+CETES
+Total
+Tipo de Cambio
+Fuente: Banco de México.
+Las tasas de interés en México mostraron disminuciones, si bien con cierta
+volatilidad. Por un lado, aquellas para horizontes de corto y mediano plazo
+registraron durante la primera parte del tercer trimestre incrementos generalizados
+y posteriormente disminuciones hasta niveles iguales o incluso menores a los
+observados al inicio del periodo que cubre este Informe. Estas variaciones
+estuvieron asociadas a cambios en las perspectivas de los agentes económicos
+respecto a posibles ajustes en la postura de política monetaria en México y en los
+Estados Unidos. Así, después de aumentar alrededor de 40 puntos base durante
+el periodo de referencia, la tasa de los bonos soberanos con vencimiento a 3 meses
+aumentó de 3.1 a 3.5 por ciento entre junio y septiembre para luego regresar a 3.1
+por ciento a principios de noviembre. Por su parte, las tasas para horizontes de
+más largo plazo mostraron mayor estabilidad e incluso disminuyeron ligeramente
+durante el mismo periodo. Específicamente, la tasa de interés de los bonos con
+vencimiento a 10 años se redujo cerca de 10 puntos base al pasar de 6.2 a 6.1 por
+ciento de finales de junio a principios de noviembre de este año (Gráfica 39a). De
+este modo, la pendiente de la curva de rendimientos (que se aproxima con la
+diferencia entre la tasa a 10 años y la tasa a 3 meses) registró una disminución de
+aproximadamente 10 puntos base al pasar de 310 a 300 puntos base en el mismo
+periodo (Gráfica 39b).
+Banco de México
+50 Informe Trimestral Julio - Septiembre 2015
+Gráfica 39
+Tasas de Interés en México
+Por ciento
+a) Tasas de Interés de Valores
+Gubernamentales 1/
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+11.0
+12.0
+2007 2008 2009 2010 2011 2012 2013 2014 2015
+1 Día
+3 Meses
+6 Meses
+1 Año
+10 Años
+30 Años
+D 07 D 08 D 09 D 10 D 11 D 12 D 13 D 14
+b) Curva de Rendimientos
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+1 1 3 6 1 2 5 10 20 30
+31-dic-14
+30-jun-15
+30-sep-15
+03-nov-15
+Día Meses Años
+1/ A partir del 21 de enero de 2008, la tasa de interés a 1 día corresponde al objetivo para la Tasa de Interés Interbancaria a 1 día.
+Fuente: Proveedor Integral de Precios (PiP).
+Los diferenciales de tasas de interés entre México y Estados Unidos registraron
+comportamientos diferenciados. En particular, mientras los correspondientes a
+corto y mediano plazo regresaron a niveles similares a los observados al inicio del
+periodo de referencia o incluso disminuyeron después de haberse incrementado
+de manera importante, aquellos para horizontes de largo plazo presentaron un
+incremento dado que la disminución en las tasas de interés en Estados Unidos fue
+mayor. De este modo, el diferencial de tasas de interés a 10 años se incrementó
+de alrededor de 375 a 395 puntos base en el periodo que cubre este Informe
+(Gráfica 40).
+Gráfica 40
+Diferenciales de Tasas de Interés entre México y Estados Unidos 1/
+Puntos porcentuales
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
+1 Día
+3 Meses
+6 Meses
+1 Año
+10 Años
+30 Años
+Dic 06 Dic 07 Dic 08 Dic 09 Dic10 Dic 11 Dic 12 Dic 13 Dic 14
+1/ Para la tasa objetivo de Estados Unidos se considera el promedio del intervalo considerado por la Reserva Federal.
+Fuente: Proveedor Integral de Precios (PiP) y Departamento del Tesoro Norteamericano.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 51
+Hacia adelante, es posible que la volatilidad en los mercados internacionales continúe. Por consiguiente, es fundamental mantener un marco macroeconómico sólido en nuestro país, para lo cual será necesario concretar los esfuerzos recientemente planteados en el ámbito fiscal, ajustar la postura de política monetaria de ser necesario y continuar implementando adecuada y oportunamente las reformas estructurales. Ello contribuirá a mantener la confianza en la economía de México, distinguiéndola de otras economías emergentes, de tal forma que el componente de riesgo país en las tasas de interés permanezca en general en niveles bajos, lo cual será crucial ante un entorno externo en el que las condiciones financieras serán más astringentes.
+Banco de México
+52 Informe Trimestral Julio - Septiembre 2015
+5. Previsiones para la Inflación y Balance de Riesgos
+A continuación se presenta el escenario macroeconómico previsto para la economía mexicana, para el resto de 2015, 2016 y 2017 el cual se sustenta en el análisis expuesto en este Informe para el entorno externo y la evolución de la actividad económica nacional.
+Crecimiento de la Economía Nacional: Para 2015, considerando que se cuenta con mayor información respecto a la evolución de la economía en el año, se reduce la amplitud del intervalo de pronóstico para el crecimiento del PIB de México de entre 1.7 y 2.5 por ciento en el Informe precedente a uno de 1.9 a 2.4 por ciento en el actual. Para 2016, se anticipa que la expansión del PIB se ubique entre 2.5 y 3.5 por ciento, mismo intervalo que en el Informe previo. Para 2017, se estima que la tasa de crecimiento se encuentre entre 3.0 y 4.0 por ciento (Gráfica 41a).
+Estas previsiones toman en cuenta que en 2015 el crecimiento de la actividad económica en México ha sido bajo, y que continúe expandiéndose a un ritmo moderado en lo que resta del año. En particular, se anticipa que la evolución de la demanda externa sea modesta debido a un bajo dinamismo esperado para la producción industrial de Estados Unidos.9 Adicionalmente, se espera que la demanda interna mantenga una expansión moderada.
+Para 2016, se sigue anticipando que la actividad industrial de Estados Unidos registre un mayor crecimiento que en el presente año y, consecuentemente, que sea un impulso para las exportaciones manufactureras de México. Dicha recuperación en la producción industrial estadounidense se espera esté impulsada por el desvanecimiento del efecto de la apreciación reciente del dólar estadounidense y por el hecho de que no sería de esperarse una contracción como la que tuvo lugar al inicio de 2015 en el sector energético a raíz de la disminución en el precio del petróleo. Además, se continúa previendo que la recuperación del sector externo apoye la expansión de la demanda interna en México, a lo cual también podría contribuir un efecto positivo de las reformas estructurales. Cabe señalar también que este pronóstico considera que la plataforma de producción petrolera se mantendrá prácticamente sin cambio respecto al presente año.10
+Para 2017, se prevé que una mejoría más notoria en la actividad industrial de Estados Unidos y que avances subsecuentes en la implementación de las reformas estructurales se vean reflejados en un mayor impulso para la actividad económica en México.
+Empleo: Para 2015, se prevé un aumento de entre 640 y 710 mil puestos de trabajo afiliados al IMSS, en comparación con la expectativa de un alza de entre 560 y 660 mil puestos en el Informe anterior, dado el comportamiento mejor al
+9 Las expectativas para la economía de Estados Unidos se basan en el consenso de los analistas encuestados por Blue Chip en octubre de 2015. Para la producción industrial en 2015, estas se revisan de un crecimiento anual de 1.9 por ciento en el Informe anterior a 1.6 por ciento en el Informe actual. Para 2016, el crecimiento de este indicador se ajusta de 2.7 por ciento reportado en el Informe precedente a 2.3 por ciento en el presente Informe. Para 2017, se prevé un crecimiento de 2.8 por ciento para dicho indicador.
+10 Esta previsión sobre la plataforma de producción petrolera se basa en los Criterios Generales de Política Económica (CGPE 2016), según los cuales se anticipa que esta alcance 2,262 miles de barriles diarios en 2015, 2,247 miles de barriles diarios en 2016 y 2,250 miles de barriles diarios en 2017.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 53
+previsto en lo que va del año y que la recuperación en este indicador ha sido más
+vigorosa que la de la actividad económica. Para 2016, también considerando este
+dinamismo mayor al de la economía, se revisa al alza el incremento esperado en
+el número de puestos afiliados al IMSS a entre 630 y 730 mil, respecto al previsto
+en el Informe anterior de entre 600 y 700 mil. Para 2017, se anticipa un aumento
+de entre 660 y 760 mil puestos de trabajo.
+Cuenta Corriente: En lo que respecta a las cuentas externas, para 2015 se prevén
+déficits en la balanza comercial y en la cuenta corriente de 9.4 y de 30.3 miles de
+millones de dólares, respectivamente (0.8 y 2.6 por ciento del PIB, en el mismo
+orden). Para 2016, se esperan déficits en la balanza comercial y en la cuenta
+corriente de 6.6 y de 29.8 miles de millones de dólares, respectivamente (0.6 y 2.5
+por ciento del PIB, en ese orden). Por su parte, para 2017 se esperan déficits en la
+balanza comercial y en la cuenta corriente de 9.4 y 34.9 miles de millones de
+dólares, respectivamente (0.7 y 2.7 por ciento del PIB, en el mismo orden).
+En un contexto de crecimiento moderado, no se anticipan presiones sobre la
+inflación ni sobre las cuentas externas provenientes del comportamiento de la
+demanda agregada. En particular, se anticipa que la brecha del producto se
+mantenga en terreno negativo en el horizonte de pronóstico, si bien cerrándose
+gradualmente (Gráfica 41b).
+Gráfica 41
+Gráficas de Abanico: Crecimiento del PIB y Brecha del Producto
+a) Crecimiento del Producto, a. e.
+Por ciento anual
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+T2T4T2T4T2T4T2T4T2T4T2T4T2T4T2T4T2T4T2T4
+2015
+T4
+2009 2011 2013 2015 2017
+2016
+T4
+2017
+T4
+b) Estimación de la Brecha del Producto, a. e.
+Porcentaje del producto potencial
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+T2T4T2T4T2T4T2T4T2T4T2T4T2T4T2T4T2T4T2T4
+2015
+T4
+2016
+T4
+2017
+T4
+2009 2011 2013 2015 2017
+a. e. / Cifras con ajuste estacional.
+Fuente: INEGI y Banco de México.
+a. e. / Elaborado con cifras desestacionalizadas.
+Fuente: Banco de México.
+El escenario de crecimiento para el PIB de México presentado en este Informe está
+sujeto a diversos riesgos. Entre aquellos a la baja se encuentran los siguientes:
+i. Un retraso en la recuperación del sector industrial en Estados Unidos,
+bien sea por un menor dinamismo de la economía mundial, o por una
+apreciación adicional del dólar.
+Banco de México
+54 Informe Trimestral Julio - Septiembre 2015
+ii. Una nueva caída en la producción petrolera de México y/o en su precio.
+iii. Un deterioro de las condiciones en los mercados financieros internacionales que propicie un incremento en el costo financiero de las empresas, que a su vez afecte su balance.
+iv. Un deterioro adicional de la confianza de los agentes económicos ante la persistencia de una economía débil y/o falta de avances en el fortalecimiento del estado de derecho.
+v. Un menor dinamismo del sector automotriz a raíz de los problemas que algunos participantes del sector han experimentado a nivel global.
+Entre los riesgos al alza para el crecimiento destacan:
+i. Que los avances en la implementación de las reformas estructurales tengan un efecto favorable sobre las expectativas de los inversionistas más rápido que lo previsto.
+ii. Una recuperación más acelerada que la esperada en Estados Unidos.
+Inflación: Considerando la holgura que presenta la economía y la ausencia de presiones sobre los precios por el lado de la demanda, se anticipa que tanto la inflación general, como la subyacente, se mantengan por debajo de 3 por ciento en lo que resta de 2015. Para 2016, se contempla que ambos indicadores observen un incremento, ubicándose en niveles cercanos a 3 por ciento. Lo anterior reflejaría el desvanecimiento del efecto de choques de oferta favorables que tuvieron lugar en 2015 y el impacto de la depreciación del tipo de cambio en los precios de algunos bienes, mas no un deterioro generalizado de la dinámica de formación de precios. Para 2017, se anticipa que se desvanezcan estos efectos y se espera una moderada tendencia a la baja, ubicándose la inflación general y subyacente a finales del año más cerca de 3 por ciento (Gráfica 42 y Gráfica 43).
+La previsión para la trayectoria de la inflación podría verse afectada por algunos riesgos, entre los que destacan los siguientes:
+Al alza:
+i. Que ante un nuevo deterioro de las condiciones en los mercados financieros internacionales, el peso retome una tendencia hacia la depreciación que propicie aumentos de precios en un conjunto amplio de bienes y servicios derivado de una contaminación de las expectativas de inflación. Cabe señalar que, tal y como ha sucedido en el pasado, el Banco de México estará atento a que esto no ocurra.
+A la baja:
+i. Un dinamismo de la actividad económica menor al esperado.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 55
+ii. Que algunos insumos de uso generalizado sigan exhibiendo reducciones
+en sus precios, en algunos casos como resultado a la implementación de
+las reformas estructurales.
+iii. Que la cotización de la moneda nacional revierta parte de la depreciación
+que acumuló en los meses previos.
+Gráfica 42
+Gráfica de Abanico: Inflación General Anual 1/
+Por ciento
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4
+Inflación Observada
+Objetivo de Inflación General
+Intervalo de Variabilidad
+2016
+T4
+2007 2009 2011 2013 2015 2017
+2015
+T4
+2017
+T4
+1/ Promedio trimestral de la inflación general anual.
+Fuente: Banco de México e INEGI.
+Gráfica 43
+Gráfica de Abanico: Inflación Subyacente Anual 1/
+Por ciento
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4 T2 T4
+Inflación Observada
+Objetivo de Inflación General
+Intervalo de Variabilidad
+2015
+T4
+2016
+T4
+2017
+T4
+2007 2009 2011 2013 2015 2017
+1/ Promedio trimestral de la inflación subyacente anual.
+Fuente: Banco de México e INEGI.
+Banco de México
+56 Informe Trimestral Julio - Septiembre 2015
+Considerando lo expuesto en el presente Informe, la Junta de Gobierno del Banco de México permanecerá atenta al comportamiento de todos los determinantes de la inflación y de sus expectativas para horizontes de mediano y largo plazo, en particular a la postura monetaria relativa entre México y Estados Unidos, al traspaso de movimientos del tipo de cambio a los precios del consumidor, así como a la evolución del grado de holgura en la economía. Todo ello con la finalidad de estar en posibilidad de tomar las medidas necesarias con toda flexibilidad y en el momento en que las condiciones lo requieran, para consolidar la convergencia de la inflación al objetivo permanente de 3 por ciento.
+Tomando en consideración el complejo entorno internacional y las perspectivas de que este prevalezca en el futuro, es crucial mantener un marco macroeconómico sólido en México. Para ello es indispensable, además de ajustar la postura de política monetaria de ser necesario, concretar los esfuerzos recientemente planteados en el ámbito fiscal, así como continuar implementando adecuada y oportunamente las reformas estructurales. Lo anterior contribuirá a preservar un ambiente de confianza en torno a la economía mexicana, distinguiéndola de otras economías emergentes, de tal manera que el componente de riesgo país en las tasas de interés permanezca en niveles bajos. Ello será fundamental ante un entorno externo en el que las condiciones financieras serán más astringentes. Así, será posible seguir avanzando en la consolidación de una economía más sólida y resistente.
+El panorama descrito en este Informe destaca la importancia que para México tiene el concentrarse en la generación de fuentes internas de crecimiento. En este sentido, la aprobación de las reformas estructurales fue un paso en la dirección correcta. En el corto plazo, dichas reformas pueden tener un efecto significativo en la inversión, como ya se ha comenzado a observar, y se prevé que ello continúe en los siguientes años. Sin embargo, su mayor contribución se espera sea en el largo plazo. Una adecuada instrumentación implicaría un cambio en el funcionamiento profundo de la economía, al modificar los incentivos de los agentes económicos y propiciar un ambiente de mayor competencia que nivele las oportunidades de participación en los mercados. Además, dichas reformas correctamente implementadas podrían lograr un aumento en el capital humano y facilitarían la adopción de nuevas tecnologías. Lo anterior, en conjunto con la mejor asignación de recursos que también se esperaría, permitiría alcanzar una mayor tasa de crecimiento de la productividad. No obstante, este proceso puede tomar tiempo, por lo que a pesar de que no sean evidentes de manera inmediata sus efectos benéficos, es necesario persistir en su adecuada implementación y estar vigilantes a que continúe el proceso de cambio.
+Finalmente, como se ha señalado en ocasiones anteriores, también es preciso el fortalecimiento de las instituciones y del estado de derecho, lo cual implica claramente un marco jurídico apropiado, pero sobre todo, su aplicación y cabal cumplimiento. Cabe resaltar que este fortalecimiento requiere también de un esfuerzo constante de la sociedad para que sus resultados se vean reflejados en un mayor crecimiento económico que redunde en un mayor bienestar para toda la población.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 57
+Anexo 1: Gráficas Complementarias de la Evolución Reciente de la Inflación
+Gráfica A1
+Índice de Precios Subyacente
+Variación anual en por ciento
+1
+2
+3
+4
+5
+6
+7
+8
+2008 2009 2010 2011 2012 2013 2014 2015
+Subyacente
+Mercancías
+Servicios
+1q Octubre
+Fuente: Banco de México e INEGI.
+Gráfica A2
+Índice de Precios Subyacente: Mercancías y Servicios
+Variación anual en por ciento
+a) Mercancías b) Servicios
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+2008 2009 2010 2011 2012 2013 2014 2015
+Mercancías
+Alimentos, Bebidas y Tabaco
+Mercancías Distintas a los
+Alimentos, Bebidas y Tabaco
+1q Octubre
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+2008 2009 2010 2011 2012 2013 2014 2015
+Servicios
+Vivienda
+Educación (Colegiaturas)
+Otros Servicios
+1q Octubre
+Fuente: Banco de México e INEGI.
+Banco de México
+58 Informe Trimestral Julio - Septiembre 2015
+Gráfica A3
+Índice de Precios No Subyacente
+Variación anual en por ciento
+-3
+0
+3
+6
+9
+12
+15
+18
+21
+2008 2009 2010 2011 2012 2013 2014 2015
+No Subyacente
+Agropecuarios
+Energéticos y Tarifas Autorizadas por el Gobierno
+1q Octubre
+Fuente: Banco de México e INEGI.
+Gráfica A4
+Índice de Precios No Subyacente
+Variación anual en por ciento
+a) Agropecuarios b) Energéticos y Tarifas Autorizadas por el
+Gobierno
+-18
+-15
+-12
+-9
+-6
+-3
+0
+3
+6
+9
+12
+15
+18
+21
+24
+27
+30
+2008 2009 2010 2011 2012 2013 2014 2015
+Agropecuarios
+Frutas y Verduras
+Pecuarios
+1q Octubre
+-3
+0
+3
+6
+9
+12
+15
+2008 2009 2010 2011 2012 2013 2014 2015
+Energéticos y Tarifas Aut. por el Gob.
+Energéticos
+Tarifas Autorizadas por el Gobierno
+1q Octubre
+Fuente: Banco de México e INEGI.
+Banco de México
+Informe Trimestral Julio - Septiembre 2015 59
+Gráfica A5
+Índice de Precios Agropecuarios
+Variación anual en por ciento
+a) Frutas y Verduras b) Pecuarios
+-100
+-50
+0
+50
+100
+150
+200
+250
+-20
+-10
+0
+10
+20
+30
+40
+50
+2008 2009 2010 2011 2012 2013 2014 2015
+Frutas y Verduras
+Cebolla
+Limón
+Jitomate
+1q Octubre
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+-8
+-4
+0
+4
+8
+12
+16
+20
+24
+2008 2009 2010 2011 2012 2013 2014 2015
+Pecuarios
+Res
+Huevo
+Pollo
+Cerdo
+1q Octubre
+Fuente: Banco de México e INEGI.
+Gráfica A6
+Índice de Precios de Energéticos y Tarifas Autorizadas por el Gobierno
+Variación anual en por ciento
+a) Energéticos b) Tarifas Autorizadas por el Gobierno
+-9
+-6
+-3
+0
+3
+6
+9
+12
+15
+18
+2008 2009 2010 2011 2012 2013 2014 2015
+Energéticos
+Gasolina
+Electricidad
+Gas Doméstico
+1q Octubre
+-3
+0
+3
+6
+9
+12
+15
+2008 2009 2010 2011 2012 2013 2014 2015
+Tarifas Autorizadas por el
+Gobierno
+Transporte Público Urbano
+1q Octubre
+Fuente: Banco de México e INEGI.
+
+Informe sobre la Inflación Enero – Marzo 2012 1
+Agosto 2012
+Noviembre 2015

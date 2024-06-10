@@ -1,0 +1,3952 @@
+Informe sobre la
+Inflación
+Octubre – Diciembre 2000
+y
+Programa Monetario
+para 2001
+ENERO, 2001
+
+JUNTA DE GOBIERNO
+Gobernador
+GUILLERMO ORTIZ MARTÍNEZ
+Subgobernadores
+EVERARDO ELIZONDO ALMAGUER
+GUILLERMO GÜEMEZ GARCÍA
+JESÚS MARCOS YACAMÁN
+JOSÉ JULIÁN SIDAOUI DIB
+
+El Artículo 51 de la Ley del Banco de México contiene provisiones para
+conciliar la autonomía del Instituto Central con la necesaria rendición de cuentas
+sobre su gestión. La fórmula que el Legislativo consideró más apropiada a ese fin es
+la presentación por parte del Banco Central de informes periódicos sobre sus
+políticas y actividades. El artículo citado señala en su fracción I, que en enero de
+cada año el Instituto Central enviará al Ejecutivo Federal y al Congreso de la Unión,
+y en los recesos de este último a su Comisión Permanente, una exposición sobre la
+política monetaria a seguir por la Institución en el ejercicio respectivo.
+A partir de la promulgación de su actual Ley, el Banco de México ha
+instrumentado la política monetaria con el objetivo prioritario de abatir la inflación
+de manera perdurable. Un elemento fundamental de la estrategia ha sido el
+fortalecimiento de la credibilidad en el Instituto Central con respecto al logro de su
+objetivo. Para ello, el Banco de México ha hecho un esfuerzo sin precedentes a fin
+de dar a conocer su interpretación de los acontecimientos que afectan a la economía
+del país y las acciones y políticas adoptadas para propiciar su mejor desempeño. Lo
+anterior se ha traducido en una mayor transparencia de la política monetaria, al
+aumentar tanto el volumen como la oportunidad de la información que el Banco
+provee a la ciudadanía.
+En congruencia con lo anterior, la Junta de Gobierno del Banco de México
+acordó publicar a partir de abril de 2000 Informes Trimestrales sobre la Inflación en
+los meses de enero, abril, julio y octubre. Los referidos Informes contienen una
+descripción detallada de la evolución de la inflación y de los principales factores que
+la afectaron, así como la evaluación del entorno económico que ha servido de
+fundamento para las acciones de política monetaria requeridas para cumplir con el
+mandato Constitucional de procurar la estabilidad del poder adquisitivo de la
+moneda nacional. Los Informes sobre la Inflación correspondientes al primero,
+segundo y tercer trimestres de 2000 fueron enviados oportunamente al Ejecutivo
+Federal y al Congreso de la Unión.
+El presente documento incluye tanto el “Informe sobre la Inflación: Octubre–
+Diciembre 2000” como el “Programa Monetario para 2001”. En este último
+apartado, en cumplimiento de lo dispuesto por el citado Artículo 51, fracción I de la
+Ley del Banco de México, se presenta la exposición sobre la política monetaria
+correspondiente al ejercicio comprendido del 1º de enero al 31 de diciembre de
+2001.
+
+ADVERTENCIA
+A menos que se especifique lo contrario, este documento está elaborado con
+información disponible al 25 de enero de 2001. Algunas cifras son de carácter
+preliminar y están sujetas a revisiones.
+
+INDICE
+I. Introducción 1
+II. Informe sobre la Inflación: Octubre–Diciembre 2000 3
+II.1. Evolución Reciente de la Inflación 3
+II.2. Comportamiento de los Distintos Indicadores de Inflación 4
+II.2.1. Indice Nacional de Precios al Consumidor 4
+II.2.2. Inflación Subyacente 6
+II.2.3. Indice Nacional de Precios Productor (INPP) 10
+II.2.4. Resumen 10
+II.3. Principales Determinantes de la Inflación 11
+II.3.1. Entorno Externo y Tipo de Cambio 11
+II.3.2. Precio del Petróleo 11
+II.3.3. Evolución de la Economía de los
+Estados Unidos 13
+II.3.4. Evolución de la Economía en el Resto
+del Mundo 16
+II.3.5. Impacto del Entorno Externo sobre la
+Economía Nacional 17
+II.3.6. Remuneraciones, Salarios y Empleo 19
+II.3.7. Oferta y Demanda Agregadas 24
+II.3.8. Precios Administrados y Concertados 31
+II.3.9. Finanzas Públicas 32
+II.3.10. Fenómenos Transitorios que Afectaron
+a la Inflación 33
+II.4. La Política Monetaria durante el Cuarto
+Trimestre de 2000 34
+II.4.1. Acciones de Política Monetaria 34
+II.4.2. Evolución de los Agregados Monetarios 39
+III. Panorama General de la Economía en 2000 y
+Perspectivas del Sector Privado para 2001 49
+III.1. Aspectos Sobresalientes de la Evolución de
+la Economía y de la Aplicación de la Política
+Monetaria en 2000 49
+III.2. Perspectivas del Sector Privado para 2001 52
+III.2.1. Pronóstico sobre los Principales Determinantes
+de la Inflación 52
+III.2.2. Expectativas de Inflación del Sector Privado 56
+IV. Programa Monetario para 2001 59
+IV.1. Evolución Reciente del Esquema de Política
+Monetaria: La Convergencia a Objetivos
+de Inflación 59
+IV.2. Elementos del Programa Monetario 68
+IV.2.1. Objetivos del Programa 68
+IV.2.2. Instrumentación de la Política Monetaria 72
+IV.2.3. Análisis de las Presiones Inflacionarias y
+Política de Comunicación 75
+IV.3. Perspectivas para el año 2001 y Balance de Riesgos 77
+IV.3.1. Entorno Externo 78
+IV.3.2. Evolución Prevista para las Principales
+Variables Macroeconómicas en 2001 80
+IV.3.3. Balance de Riesgos 84
+V. Consideraciones Finales 88
+VI. Apéndice: Pronóstico de la Demanda de Base
+Monetaria en 2001 91
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+1
+I. Introducción
+El desempeño de la economía de México en 2000 resultó
+sustancialmente mejor que el anticipado al inicio de ese año. La inflación
+anual se redujo de 12.32 por ciento en diciembre de 1999 a 8.96 por
+ciento en diciembre de 2000. De esta manera se cumplió con un amplio
+margen la meta de alcanzar una inflación que no excediera de 10 por
+ciento. Asimismo, se estima que el incremento real del PIB durante el
+año pasado haya sido superior a 7 por ciento. Con este resultado, el
+crecimiento promedio de la economía mexicana en los últimos cinco años
+ha sido mayor que 5.3 por ciento. Además, en este período la inflación
+se redujo 43 puntos porcentuales, confirmándose de esta manera que el
+abatimiento de la inflación es una condición necesaria para el crecimiento
+y el desarrollo económico.
+En 2000 se rompió con el ciclo de crisis sexenales que había
+aquejado a México por más de dos décadas. Esto fue consecuencia,
+entre otros factores, de la aplicación prudente de las políticas
+macroeconómicas en los últimos años, de los esfuerzos para disminuir la
+vulnerabilidad de la economía nacional ante cambios bruscos en la
+disponibilidad de financiamiento externo y de un proceso electoral
+ordenado.
+Si bien los avances que se han logrado en la reducción de la
+inflación han sido considerables, el ritmo de crecimiento de los precios en
+México es todavía elevado, por lo que sigue constituyendo un obstáculo
+para un proceso de desarrollo económico armónico y sostenido. Por ello,
+la Junta de Gobierno del Banco de México ha establecido como meta de
+mediano plazo la convergencia a una inflación de 3 por ciento para el año
+2003. Asimismo, con el fin de establecer una meta de corto plazo, en
+octubre de 2000 el Banco de México anunció que el objetivo de la
+política monetaria en 2001 sería alcanzar una inflación que no exceda de
+6.5 por ciento.
+En los últimos años, la estrategia de política monetaria se ha
+ido modificando con el fin de incrementar su efectividad y transparencia
+ante los cambios que ha venido experimentando la economía de México.
+Esta evolución ha tenido como resultado una convergencia gradual hacia
+un esquema de objetivos de inflación. Este esquema de política monetaria
+B A N C O D E M É X I C O
+2
+ha sido utilizado exitosamente por un número importante de bancos
+centrales, tanto en economías desarrolladas como emergentes. En el
+presente documento se explican los aspectos principales de dicho
+esquema.
+Los esfuerzos de reducción de la inflación en 2001 se llevarán
+a cabo sin el beneficio de un contexto internacional tan favorable como el
+observado en los dos últimos años. En particular, la desaceleración
+esperada de la economía de los Estados Unidos y la caída de los precios
+del petróleo, son perturbaciones externas que podrían ocasionar
+mayores presiones inflacionarias. Asimismo, la rigidez de las expectativas
+de inflación, relativamente estancada en niveles incompatibles con el
+objetivo y la vigorosa expansión de la demanda interna también podrían
+hacer mas costosa la lucha contra la inflación. Por ello, la Junta de
+Gobierno del Banco de México ha estado intensificando la restricción
+monetaria en los últimos meses. Durante 2000, el Banco de México
+declaró en repetidas ocasiones que en estas circunstancias también
+resultaba indispensable un ajuste fiscal. Si bien el Presupuesto de
+Egresos de la Federación y la Ley de Ingresos para 2001, son pasos en
+la dirección correcta, las finanzas públicas aún presentan síntomas de
+vulnerabilidad, los cuales tendrán que ser atendidos vía la instrumentación
+de una reforma fiscal integral.
+La aplicación de políticas monetaria y fiscal restrictivas
+propiciará la continuación del descenso de la inflación, pese al entorno
+menos favorable, e inducirá un acomodo ordenado de la economía al
+cambio que se ha suscitado en el contexto internacional.
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+3
+II. Informe sobre la Inflación: Octubre–Diciembre
+2000
+II.1. Evolución Reciente de la Inflación
+La evolución de los precios durante el cuarto trimestre de 2000
+permitió que, por segundo año consecutivo, se cumpliera
+satisfactoriamente con la meta de inflación. Así, el objetivo de alcanzar en
+el año una inflación anual que no excediese de 10 por ciento se obtuvo
+con holgura, ya que ésta resultó de 8.96 por ciento. Sin embargo, la
+tendencia decreciente mostrada por la inflación general desde febrero de
+1999 se detuvo durante el trimestre que se reporta. Al respecto cabe
+destacar que en el periodo octubre–diciembre:
+(a) la inflación anual del Indice Nacional de Precios al Consumidor
+(INPC) se incrementó;
+(b) la inflación anual subyacente continuó disminuyendo; y
+(c) la inflación mensual superó las expectativas correspondientes
+del sector privado.
+Lo anterior discrepa con lo establecido en el escenario base
+que se planteó en el Informe sobre la Inflación correspondiente al
+trimestre anterior. La principal diferencia es que en ese documento la
+previsión era que la tendencia descendente de la inflación general
+continuaría. Entre las causas a las que puede atribuirse el relativo
+estancamiento del proceso de desinflación, cabe mencionar las siguientes:
+(a) El aumento de la tasa de crecimiento anual de todos los
+subíndices de precios que se excluyen del cálculo de la
+inflación subyacente. Estos se refieren a los de los bienes
+administrados (particularmente del gas para uso doméstico) y
+concertados, los de servicios educativos y los de productos
+agropecuarios.
+(b) La persistencia que presentó la inflación del Indice Nacional de
+Precios al Productor sin petróleo y sin servicios, después de su
+repunte en el tercer trimestre. Esta influencia desfavorable se
+ha debido, en buena parte, al significativo incremento de los
+B A N C O D E M É X I C O
+4
+precios del gas natural y, por consiguiente, de la electricidad
+para uso industrial.
+(c) El agotamiento del efecto favorable que se derivó de la
+corrección de los incrementos nominales a los salarios
+contractuales que tuvo lugar al inicio del año.
+II.2. Comportamiento de los Distintos Indicadores de
+Inflación
+A continuación se analiza la evolución que tuvieron los distintos
+índices de precios durante el trimestre octubre–diciembre de 2000.
+II.2.1. Indice Nacional de Precios al Consumidor
+En el cuarto trimestre de 2000, la inflación anual medida por el
+INPC se incrementó. Además, debido principalmente a efectos
+estacionales, la inflación acumulada durante este trimestre fue mayor que
+la del anterior.
+La inflación anual terminó el año en 8.96 por ciento. Ello
+significó un aumento de 0.11 puntos porcentuales con respecto al nivel
+del cierre del trimestre anterior (Gráfica 1). Este resultado contrasta
+desfavorablemente con las disminuciones que registró este indicador en
+los primeros tres trimestres del año y que fueron, respectivamente, de
+2.21, 0.70 y 0.56 puntos porcentuales.
+El crecimiento a tasa mensual del INPC en octubre, noviembre
+y diciembre resultó mayor que el esperado por los analistas del sector
+privado al cierre del trimestre previo1 (Cuadro 1). Lo anterior difiere del
+desempeño de esta variable en los tres trimestres anteriores ya que, con
+excepción del dato correspondiente a agosto, la inflación había sido
+inferior a las expectativas de los analistas en todos los meses del periodo.
+1 Estos pronósticos se reportaron en el Informe sobre la Inflación: Julio-Septiembre 2000
+en el Cuadro 9, p. 60.
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+5
+Gráfica 1 Indice Nacional de Precios al Consumidor
+Variación anual en por ciento
+15.72
+15.27
+15.35
+15.27
+15.10
+14.97
+15.31
+15.41
+15.50
+15.92
+16.65
+17.41
+18.61
+19.02
+18.54
+18.26
+18.23
+18.01
+17.39
+17.04
+16.58
+15.83
+14.91
+13.92
+12.32
+11.02
+10.52
+10.11
+9.73
+9.48
+9.41
+9.12
+9.10
+8.85
+8.91
+8.87
+8.96
+8
+10
+12
+14
+16
+18
+20
+D A A D A A D A A D
+1997 1998 1999 2000
+Cuadro 1 Inflación Observada y Esperada durante el Trimestre Octubre–
+Diciembre
+Por ciento
+Octubre 0.69 0.60 0.63 0.82
+Noviembre 0.86 0.77 0.89 1.04
+Diciembre 1.08 1.05 1.00 1.53
+Inflación Mensual Inflación Mensual
+Esperada 1/
+2000 1999
+Observada Observada Esperada 1/
+1/ Inflación esperada al cierre del trimestre previo según la Encuesta sobre las Expectativas de los
+Especialistas en Economía del Sector Privado que recaba el Banco de México.
+En octubre, noviembre y diciembre la inflación mensual fue,
+respectivamente, de 0.69, 0.86 y 1.08 por ciento. Estas tasas mensuales
+fueron superiores a las correspondientes al trimestre precedente, debido
+sobre todo a la influencia de fenómenos estacionales. Además, la
+inflación mensual de octubre y diciembre resultó mayor que la de los
+mismos meses de 1999 y la de noviembre presentó una reducción muy
+pequeña con respecto a la de igual mes de 1999. En virtud de lo anterior,
+B A N C O D E M É X I C O
+6
+no resulta sorprendente que la serie de tendencia2 de dicha variable
+muestre una ligera reversión (Gráfica 2).
+Gráfica 2 Indice Nacional de Precios al Consumidor
+Variación mensual en por ciento
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+D A A D A A D A A D
+INPC Tendencia
+1997 1998 1999 2000
+II.2.2. Inflación Subyacente
+En el cuarto trimestre de 2000, al igual que ocurrió en el
+tercero, la inflación subyacente anual se situó por debajo de la inflación
+general. En diciembre la brecha entre la inflación anual del INPC y la del
+índice subyacente, equivalente a 1.44 puntos porcentuales, fue la más
+amplia observada en los últimos siete meses. A diferencia de lo que
+ocurrió con la inflación del INPC, la subyacente continuó disminuyendo
+(Gráfica 3). Así, al cierre de 2000, la tasa anual de crecimiento del índice
+de precios subyacente resultó de 7.52 por ciento, mientras que en
+septiembre había sido de 8.26 por ciento. Esta reducción de 0.74 puntos
+porcentuales fue inferior al descenso de 1.03 puntos porcentuales
+registrado en el trimestre anterior.
+2 Calculada mediante el proceso estadístico denominado X12 ARIMA. Este método suaviza
+la serie original mediante la utilización de promedios móviles.
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+7
+Gráfica 3 Indice Nacional de Precios al Consumidor e Indice de Precios
+Subyacente
+Variación anual en por ciento
+7
+9
+11
+13
+15
+17
+19
+D A A D A A D A A D
+Subyacente INPC
+1997 1998 1999 2000
+La evolución durante el trimestre del índice de precios
+subyacente sugiere que los aumentos anuales registrados por los
+subíndices de precios de los servicios educativos, de los bienes
+administrados y concertados y de los productos agropecuarios no ha
+interrumpido el proceso general de desinflación (Cuadro 2). Sin
+embargo, de continuar las presiones sobre los precios mencionados, es
+indudable que podría contaminarse dicho proceso. Una primera señal
+digna de advertirse al respecto es la ligera desaceleración que
+experimentó en los últimos meses de 2000 el índice subyacente.
+Diciembre fue el séptimo mes consecutivo en que la inflación
+anual subyacente resultó menor que el crecimiento del INPC. Ello indica
+que los fenómenos transitorios que en los primeros meses del año
+contribuyeron al abatimiento de la inflación anual, dejaron de ejercer
+influencia en el segundo semestre. Al cierre de 2000 todos los subíndices
+de precios excluidos del cálculo de la inflación subyacente exhibieron
+tasas anuales de incremento superiores a las del INPC.
+B A N C O D E M É X I C O
+8
+Cuadro 2 Indices de Precios: INPC, Subyacente, Productos Agropecuarios,
+Educación y Administrados y Concertados
+Variación en por ciento
+Dic 2000/ Sep 2000/ Dic 2000/ Sep 2000/
+Dic 1999 Sep 1999 Sep 2000 Jun 2000
+INPC 8.96 8.85 12.32 2.65 1.68 2.55
+Subyacente 7.52 8.26 14.24 1.60 1.14 2.31
+Mercancías 6.68 7.64 14.13 1.42 0.95 2.33
+Servicios 8.77 9.19 14.40 1.87 1.41 2.27
+Agropecuarios 10.07 5.42 0.25 5.31 0.77 0.86
+Educación 15.16 15.08 18.10 0.09 12.20 0.02
+Administrados y
+Concertados 12.58 12.41 13.36 5.31 2.51 5.15
+Dic 1999/
+Dic 1998
+Dic 1999/
+Sep 1999
+Variaciones Anuales Variaciones Trimestrales
+A lo largo del periodo octubre–diciembre de 2000, la inflación
+subyacente anual de las mercancías y de los servicios continuó
+reduciéndose. Sin embargo, el ritmo de descenso de la de los servicios se
+moderó3 (Gráfica 4). El incremento anual del subíndice de precios
+subyacente de las mercancías pasó de 7.64 por ciento al cierre del
+trimestre anterior a 6.68 por ciento en diciembre. En contraste, la
+inflación anual del subíndice de precios subyacente de los servicios
+descendió solamente de 9.19 por ciento en septiembre a 8.77 por ciento
+en el mismo periodo.
+En congruencia con el comportamiento estacional observado
+en otros años, la inflación subyacente acumulada en el cuarto trimestre,
+tanto de las mercancías como de los servicios, resultó mayor que en el
+trimestre precedente. Lo anterior en virtud de que durante esta época del
+año se actualizan muchos precios. Así, a diciembre la variación trimestral
+de los índices referidos fue, respectivamente, de 1.42 y 1.87 por ciento.
+Cabe señalar que en el cuarto trimestre el crecimiento mensual de las
+series de tendencia de ambos índices mostró estabilidad con respecto a
+los datos del trimestre anterior (Gráfica 5).
+3 El precio de las mercancías es muy sensible a los movimientos del tipo de cambio, ya
+que, por lo general, éstas se comercian internacionalmente. Por otra parte, el precio de
+los servicios responde principalmente a las expectativas de inflación y a los salarios,
+dado que en lo fundamental son no comerciables.
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+9
+Gráfica 4 Indices Subyacentes de Mercancías y de Servicios
+Variación anual en por ciento
+6
+8
+10
+12
+14
+16
+18
+20
+D A A D A A D A A D
+Subyacente de Mercancías
+Subyacente de Servicios
+1997 1998 1999 2000
+Gráfica 5 Indices Subyacentes de Mercancías y de Servicios
+Variación mensual en por ciento
+0.2
+0.7
+1.2
+1.7
+2.2
+2.7
+D A A D A A D A A D
+Subyacente de Mercancias
+Tendencia
+1997 1998 1999 2000
+0.2
+0.7
+1.2
+1.7
+2.2
+2.7
+D A A D A A D A A D
+Subyacente de Servicios
+Tendencia
+1997 1998 1999 2000
+B A N C O D E M É X I C O
+10
+II.2.3. Indice Nacional de Precios Productor (INPP)
+En el trimestre que se reporta, la inflación anual medida por el
+INPP sin petróleo y sin servicios resultó ligeramente inferior a la del
+cierre del trimestre anterior. Así, su tasa de crecimiento anual fue en
+diciembre de 7.38 por ciento, mientras que en septiembre había sido de
+7.68 por ciento (Gráfica 6). El estancamiento de la inflación del INPP se
+explica en buena parte por las elevaciones de 11.6 y 20.9 por ciento que
+experimentaron, respectivamente, durante el trimestre los precios del gas
+natural y de la electricidad para uso industrial.
+Gráfica 6 Indice Nacional de Precios al Consumidor e Indice de Precios
+Productor sin Petróleo y sin Servicios
+Variación anual en por ciento
+6
+10
+14
+18
+22
+D A A D A A D A A D
+INPC INPP sin petróleo y sin servicios
+1997 1998 1999 2000
+II.2.4. Resumen
+Al finalizar el cuarto trimestre de 2000, la inflación anual
+medida por el INPC se ubicó en un nivel inferior a 10 por ciento,
+cumpliéndose con holgura la meta para el año. Sin embargo, resulta
+preocupante que la inflación general expresada a tasa anual haya exhibido
+un ligero incremento en el trimestre. Aunque este fenómeno se explica
+principalmente por factores transitorios, también es una advertencia sobre
+el riesgo de que el proceso de formación de las expectativas de inflación
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+11
+se vea contaminado por la resistencia a la baja de la inflación del INPC,
+la cual ha estado influida de manera significativa por el comportamiento
+de los precios en algunos sectores específicos.
+II.3. Principales Determinantes de la Inflación
+II.3.1. Entorno Externo y Tipo de Cambio
+Durante el trimestre octubre–diciembre de 2000 la evolución
+de las variables externas que influyen sobre el comportamiento de la
+economía mexicana fue menos favorable que la que se observó en el
+trimestre anterior. A lo largo de octubre, la incertidumbre que
+despertaron los problemas financieros experimentados por Argentina
+afectó a las variables financieras de México, lo cual se reflejó en el
+comportamiento del tipo de cambio. Sin embargo, la repercusión de esta
+perturbación sobre los mercados internos resultó transitoria ya que en
+noviembre los mercados nacionales volvieron a estabilizarse.
+Por otro lado, el elevado precio del petróleo prevaleciente
+durante los primeros once meses del año no parece haber incidido
+significativamente sobre el comportamiento de la inflación subyacente en
+los países industrializados importadores del energético. En consecuencia,
+durante los primeros dos meses del cuarto trimestre dicho efecto no
+derivó en presiones adicionales sobre los mercados financieros
+internacionales. Obviamente, su favorable influencia sobre las cuentas
+externas de México persistió en el transcurso de octubre y noviembre, al
+representar una fuente adicional de ingresos para el país. Durante
+diciembre el precio del energético sufrió una disminución importante. A
+pesar de lo anterior, el balance de las fluctuaciones del precio del
+energético resultó positivo. Finalmente, en el transcurso del cuarto
+trimestre se observaron señales de una desaceleración más pronunciada
+que la esperada de la economía de los Estados Unidos. Sin embargo,
+ello no se reflejó en el comportamiento de las cuentas externas de
+México, lo que contribuyó a una relativa estabilidad en el mercado
+cambiario.
+II.3.2. Precio del Petróleo
+En el cuarto trimestre de 2000 el precio internacional del
+petróleo sufrió altibajos, habiéndose mantenido en promedio en un nivel
+B A N C O D E M É X I C O
+12
+similar al observado a largo del año. A partir de su máximo histórico
+alcanzado en la primera mitad de septiembre, dicho precio disminuyó
+significativamente una vez que el mercado absorbió los efectos del
+aumento de la oferta de los países no miembros de la OPEP y de la
+liberación de la reserva estratégica de los Estados Unidos. A mediados
+de octubre la cotización del crudo repuntó a raíz de la incertidumbre que
+despertaron las hostilidades entre israelíes y palestinos, regresando a su
+nivel promedio hacia fines de mes. En la víspera de la reunión de la
+OPEP celebrada el 13 de noviembre, y ante la amenaza de reducción de
+las exportaciones de Iraq, el precio internacional volvió a aumentar. Sin
+embargo, la resolución de la ONU en favor del restablecimiento de las
+exportaciones de Iraq, el elevado nivel de los inventarios acumulados por
+los países industrializados y el cambio en las perspectivas de crecimiento
+de la economía de los Estados Unidos provocaron que el precio del
+petróleo disminuyera significativamente durante diciembre.
+El comportamiento del precio internacional del petróleo dio lugar
+a que el de la mezcla mexicana de exportación exhibiera alta volatilidad.
+Durante octubre su promedio mensual fue mayor que el precio implícito
+en la cotización del futuro prevaleciente a principios del trimestre. Sin
+embargo, la caída del precio internacional en noviembre y diciembre
+causó que el precio de la mezcla mexicana se viera superado por la
+referida cotización del futuro (Gráfica 7).
+El elevado precio internacional del petróleo prevaleciente en
+octubre y noviembre de 2000 indujo incrementos en el precio de los
+energéticos en los países industrializados que son importadores del
+hidrocarburo. Aunque este factor contribuyó a que en la zona del euro la
+inflación general continuase excediendo la meta de 2 por ciento anual, no
+se presentaron indicios de que haya afectado al comportamiento de la
+inflación subyacente ni en Europa ni en los Estados Unidos. Lo anterior
+evitó la repetición de un episodio semejante al ocurrido en septiembre
+cuando el incremento del precio del petróleo alteró la expectativa de
+inflación futura y causó volatilidad en los mercados internacionales de
+capital. Dado lo anterior, las fluctuaciones del precio del petróleo en esos
+meses no dieron lugar a reacciones restrictivas por parte de los bancos
+centrales de los países industrializados, lo cual fue un elemento que
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+13
+influyó favorablemente sobre los flujos de capitales que se dirigieron a las
+economías emergentes4.
+Gráfica 7 Precio de la Mezcla Mexicana de Petróleo de Exportación en 2000
+Dólares por barril
+26.67
+24.90
+18.69
+25.58 25.58 25.45
+15
+17
+19
+21
+23
+25
+27
+29
+octubre noviembre diciembre
+Promedio del mes
+Pronóstico del precio promedio realizado al principio del trimestre
+Fuente: Pemex para el precio observado. El pronóstico del precio del petróleo se elabora con base en el precio del futuro del WTI y su
+diferencia con el de la mezcla mexicana de exportación.
+II.3.3. Evolución de la Economía de los Estados Unidos
+La economía de los Estados Unidos se desaceleró durante el
+tercero y cuarto trimestres de 2000. El crecimiento real anual registrado
+por ese país en el tercer trimestre resultó de 2.2 por ciento, tasa
+considerablemente menor que las de 4.8 y 5.6 por ciento observadas
+durante el primero y segundo trimestres del año. Al momento de publicar
+el presente Informe, el consenso de los analistas es que el crecimiento del
+cuarto trimestre y del año 2000 en su conjunto cerró en 2.3 y 5.1 por
+ciento, respectivamente.
+Durante octubre–diciembre de 2000 se experimentó un giro
+brusco en la percepción acerca del comportamiento futuro de la actividad
+económica en los Estados Unidos. Como se mencionó, durante el tercer
+4 Tanto el Banco Central Europeo como la Reserva Federal de los Estados Unidos
+mantuvieron sin modificación durante el trimestre octubre-diciembre su objetivo de tasas
+de interés de corto plazo.
+B A N C O D E M É X I C O
+14
+trimestre el crecimiento mostró una reducción significativa y, aunque parte
+de ésta fue explicable por una contracción de una sola vez del gasto del
+gobierno, tanto la inversión privada como el consumo alcanzaron un
+incremento menor que el obtenido en los dos trimestres anteriores.
+Además, algunos indicadores del sector manufacturero dados a conocer
+en octubre apuntaron en la dirección de una desaceleración de la
+actividad industrial, corroborando lo observado durante el tercer
+trimestre. Los demás indicadores señalaban aún una desaceleración
+gradual, sugiriendo una reducción del crecimiento hacia un nivel
+sostenible en el mediano plazo5. No fue sino hasta noviembre que el
+Indice de la Encuesta de la Asociación Nacional de Gerentes de
+Compras (NAPM), un indicador adelantado de la producción industrial,
+señaló claramente la posibilidad de una expansión del sector industrial
+mucho más lenta que la esperada. Durante el mismo mes se reportaron
+más de 350,000 solicitudes de seguro de desempleo, el mayor nivel en
+más de dos años. Asimismo, el índice de confianza del consumidor se
+mantenía deprimido, y el crecimiento de los inventarios indicaba una
+posible contracción de la producción futura (Gráfica 8).
+La probabilidad de que la mencionada desaceleración se
+convierta en un debilitamiento general de la actividad económica en los
+Estados Unidos ha dado lugar, durante los pasados dos meses, a
+correcciones sucesivas en la estimación del crecimiento para el primer
+semestre de 2001, manteniéndose inalterado el pronóstico para el año
+2000 en su conjunto. Actualmente, la expectativa de los analistas es que
+la economía de los Estados Unidos casi no crezca en el primer semestre
+de 2001 y que lo haga a una tasa de aproximadamente 1.8 por ciento en
+todo el año.
+5 En octubre se informó que el índice de la producción industrial creció en el tercer
+trimestre a una tasa anual de 2.8 por ciento, aumento considerablemente menor que el de
+8.2 por ciento registrado el trimestre anterior. Este anuncio precedió al del crecimiento del
+PIB para el tercer trimestre, el cual mostró una desaceleración mayor que la esperada.
+Sin embargo, indicadores del ingreso personal y del gasto presentaron incrementos que
+superaron las expectativas. El incremento del ingreso personal de 1.1 por ciento durante
+septiembre fue el mayor aumento mensual observado desde octubre de 1999. Al mismo
+tiempo el indicador de ahorro para agosto fue revisado a la baja, resultando ser la menor
+tasa desde 1959. Finalmente, los pedidos de bienes durables durante septiembre
+crecieron a una tasa anual de 1.8 por ciento, el doble que la esperada por los analistas.
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+15
+Gráfica 8 Indicadores Económicos de los Estados Unidos
+Producción Industrial y NAPM
+0
+1
+2
+3
+4
+5
+6
+7
+8
+E J E J E J E J E J E J
+Por ciento
+40
+42
+44
+46
+48
+50
+52
+54
+56
+58
+60
+Indice
+Indice de Producción Industrial (crecimiento anual)
+Indice NAPM
+1995 1996 1997 1998 1999 2000
+Solicitudes de Seguro de Desempleo
+250
+270
+290
+310
+330
+350
+370
+390
+410
+430
+E J E J E J E J E J E J
+1995 1996 1997 1998 1999 2000 2000
+Miles
+Indice de Confianza del Consumidor de la
+Universidad de Michigan
+85
+90
+95
+100
+105
+110
+115
+E J E J E J E J E J E J
+1995 1996 1997 1998 1999 2000 2000
+Inventarios
+Crecimiento Anual
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+E J E J E J E J E J E J
+P o r c i e n t o
+1995 1996 1997 1998 1999 2000 2000
+Fuente: National Association of Purchasing Managers, Bureau of the Census, Federal Reserve Board, Survey Research Center of the
+University of Michigan y Bloomberg.
+La evidencia de una desaceleración económica mayor que la
+esperada en los Estados Unidos ha debilitado la percepción de que
+pudieran surgir presiones inflacionarias en el futuro. Ello dio lugar a que la
+Reserva Federal mantuviera sin cambio durante el cuarto trimestre de
+2000 su objetivo para la tasa de fondos federales y a que redujera dicha
+tasa en 50 puntos base el 3 de enero de 2001. Este cambio en las
+expectativas de inflación se ha reflejado también en una disminución de
+las tasas de interés de corto, mediano y largo plazos en ese país (Gráfica
+9). Sin embargo, lo anterior no evitó manifestaciones de volatilidad en los
+mercados internacionales de capital. La perspectiva de un menor
+crecimiento y la reducción de las ganancias corporativas provocaron un
+aumento en la aversión al riesgo por parte de los inversionistas.
+Asimismo, propició que se redujese la oferta de fondos para los
+proyectos de mayor riesgo y una baja sustancial en los mercados de
+B A N C O D E M É X I C O
+16
+valores de los Estados Unidos. Este último factor contribuyó a que se
+contrajeran los flujos de capital a las economías emergentes.
+Gráfica 9 Rendimiento de los Bonos del Tesoro de los Estados Unidos a 2, 10 y
+30 años
+Por ciento
+5.0
+5.5
+6.0
+6.5
+7.0
+A b r M a y Jun J u l A g o Sep O c t N o v Dic
+Rendimiento Bono
+a 2 años
+Rendimiento Bono
+a 10 años
+Rendimiento Bono
+a 30 años
+2000
+II.3.4. Evolución de la Economía en el Resto del Mundo
+La evolución de las economías del resto del mundo durante el
+trimestre octubre–diciembre de 2000 resultó en general favorable. En la
+zona del euro, se registraron signos de que se ha alcanzado el punto
+máximo de su ciclo expansivo. Para 2000 se espera un crecimiento de
+3.5 por ciento, mayor que el de 2.9 por ciento del año anterior y que el
+de 2.4 por ciento anticipado para 2001. En vista de la desaceleración
+inminente, y aunque persisten presiones inflacionarias causadas por el
+elevado precio de los energéticos y por la debilidad del euro, el Banco
+Central Europeo mantuvo sin modificación su objetivo para la tasa de
+corto plazo desde principios de octubre. En noviembre dicho banco
+central intervino en el mercado cambiario para sostener al euro, factor
+que, aunado a las noticias sobre la desaceleración de la economía de los
+Estados Unidos, contribuyó a que dicha moneda se recuperara durante la
+segunda mitad del trimestre.
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+17
+En Japón los factores externos han causado que la recuperación
+observada durante los primeros tres trimestres se debilitase en el cuarto.
+Si bien dicha recuperación ha estado impulsada por el sector industrial, la
+reacción del gasto de consumo interno es aún incipiente. Dicho
+escenario mantiene abierta la posibilidad de que la economía japonesa
+caiga en un nuevo episodio de estancamiento. En las economías
+recientemente industrializadas de Asia, en virtud de la importante
+influencia del comportamiento de las exportaciones, el panorama se ha
+deteriorado considerablemente al generalizarse la percepción de un
+menor crecimiento de la economía de los Estados Unidos.
+Finalmente, respecto a Latinoamérica, la recuperación del
+crecimiento en algunos países y una expansión mayor que la esperada en
+Brasil y México, hicieron que la evolución de la economía de la región
+resultara satisfactoria durante el trimestre. Sin embargo, tanto la reciente
+volatilidad financiera como la desaceleración de la economía de los
+Estados Unidos son factores adversos que han aminorado la perspectiva
+de expansión futura. Asimismo, la situación política y económica de
+Argentina dio lugar a un aumento de la incertidumbre respecto de la
+capacidad de ese país para refinanciar sus obligaciones de deuda externa
+en el futuro cercano. A la luz de los lazos económicos que existen entre
+Argentina y Brasil, esta incertidumbre se reflejó en un mayor rendimiento
+neto de los bonos colocados por ambos países en los mercados
+internacionales.
+II.3.5. Impacto del Entorno Externo sobre la Economía
+Nacional
+Los problemas económicos sufridos por Argentina afectaron
+negativamente durante octubre el comportamiento de las variables
+financieras de México. Ello se hizo evidente cuando el rendimiento
+correspondiente al bono mexicano UMS26 se incrementó 42 puntos
+base y el tipo de cambio se depreció 1.3 por ciento. Sin embargo, el
+contagio causado por la situación de Argentina resultó transitorio ya que
+hacia finales del mes se revirtieron los aumentos mencionados tanto del
+rendimiento del UMS26 como del tipo de cambio.
+A partir de octubre se constató en los mercados financieros
+internacionales un incremento en el diferencial de los rendimientos
+asociados a los bonos corporativos calificados como más riesgosos. Lo
+anterior, a consecuencia del aumento de la aversión al riesgo en los
+países desarrollados. Este fenómeno parece estar acentuándose a
+B A N C O D E M É X I C O
+18
+medida que se acumula información sobre una desaceleración de la
+economía de los Estados Unidos más intensa que la esperada. Además,
+dicha influencia ha tenido un ligero efecto adverso sobre el flujo de
+capitales a las economías emergentes. Finalmente, en noviembre la
+calificadora Standard & Poor’s dio a conocer una mejoría de sus
+perspectivas económicas para México, sugiriendo que esta empresa
+podría otorgar en breve la calificación de grado de inversión a la deuda
+pública externa del país. Esta acción provocó una disminución de 23
+puntos base en el rendimiento neto del bono UMS26. De cualquier
+manera, la suma del impacto de todos estos fenómenos sobre dicho bono
+fue negativa, ya que durante el trimestre su rendimiento neto aumentó
+45.1 puntos base (Gráfica 10).6
+Gráfica 10 Indicadores del Riesgo País y Tipo de Cambio
+Rendimiento Neto de la Deuda Pública Externa a
+Diferentes Plazos
+290
+366
+382
+328
+320
+344
+325 321
+275
+263
+282
+220
+150
+200
+250
+300
+350
+Mex 05 Mex 07 Mex 08 Mex 09 Mex 16 Mex 26
+Puntos base
+29 de diciembre de 2000
+29 de septiembre de 2000
+285
+305
+325
+345
+365
+385
+A M J J A S O N D
+9.10
+9.20
+9.30
+9.40
+9.50
+9.60
+9.70
+9.80
+9.90
+10.00
+10.10
+Rendimiento Neto
+UMS26
+Tipo de cambio
+Rendimiento Neto del Bono UMS26 y
+Tipo de Cambio
+Puntos base Pesos por dólar
+2000
+FUENTE: Bloomberg y Banco de México.
+Nota: El rendimiento neto del bono UMS26 es la diferencia de su rendimiento bruto con el de un bono del gobierno de los Estados Unidos de
+vencimiento similar.
+En el transcurso del último trimestre de 2000 el tipo de cambio
+se mantuvo en un nivel promedio cercano a 9.50 pesos por dólar.
+Durante octubre el aumento de la incertidumbre causada por la situación
+en Argentina, influyó en el comportamiento del tipo de cambio. En dicho
+lapso éste se depreció, situándose durante la mayor parte del mes por
+arriba de la expectativa que mantenían a principios del periodo los
+analistas del sector privado (Gráfica 11). Sin embargo, en noviembre el
+tipo de cambio se apreció para situarse por debajo de esta expectativa y
+del nivel promedio prevaleciente a lo largo del año. Finalmente, durante
+6 Cabe aclarar que este deterioro de la percepción del riesgo país se tradujo en un menor
+incremento del rendimiento bruto, debido a la importante caída de las tasas de largo plazo
+en los Estados Unidos.
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+19
+diciembre la significativa caída experimentada por el precio del petróleo,
+a través de su efecto sobre el comportamiento esperado de las cuentas
+externas del país y sobre las finanzas públicas, provocó una depreciación
+del tipo de cambio. Con ello, éste se situó otra vez ligeramente por
+encima del promedio anual, pero aún por debajo del nivel esperado al
+inicio del trimestre.
+Gráfica 11 Tipo de Cambio Observado y Esperado en Octubre-Diciembre de 2000
+Pesos por dólar
+9.25
+9.45
+9.65
+9.85
+02-Oct
+09-Oct
+16-Oct
+23-Oct
+30-Oct
+06-Nov
+13-Nov
+20-Nov
+27-Nov
+04-Dic
+11-Dic
+18-Dic
+25-Dic
+Tipo de Cambio
+48 horas
+V a l o r p r o m e d i o
+e s p e r a d o p a r a o c t u b r e :
+9.53
+V a l o r p r o m e d i o e s p e r a d o
+p a r a n o v i e m b r e :
+9.66
+V a l o r p r o m e d i o e s p e r a d o
+p a r a d i c i e m b r e :
+9.73
+II.3.6. Remuneraciones, Salarios y Empleo
+Los salarios y el empleo son dos de los principales factores que
+inciden sobre el comportamiento de la inflación. A continuación se
+presenta un análisis de la evolución de dichas variables durante el
+trimestre a que se refiere este documento.
+II.3.6.1. Remuneraciones
+En octubre de 2000, las remuneraciones nominales por
+trabajador en los sectores para los cuales se cuenta con información
+aumentaron a tasas anuales que se encuentran en un intervalo entre 13.5
+por ciento y 18.2 por ciento. Con la excepción de la industria de la
+construcción, para la cual sólo se dispone de información hasta agosto, el
+B A N C O D E M É X I C O
+20
+crecimiento de las remuneraciones reales por trabajador en los diferentes
+sectores resultó superior a 4 por ciento (Cuadro 3).
+Cuadro 3 Remuneraciones por Trabajador
+Variación anual en por ciento
+A b r M a y J u n J u l A g o S e p O c t A b r M a y J u n J u l A g o S e p O c t
+I n d u s t r i a
+M a n u f a c t u r e r a
+16.6 16.1 16.8 14.9 21.4 15.1 15.0 6.3 6.0 6.8 5.3 11.3 5.7 5.6
+I n d u s t r i a
+M a q u i l a d o r a
+12.2 20.5 17.7 16.9 21.7 14.5 17.1 2.3 10.1 7.5 7.1 11.5 5.2 7.5
+I n d u s t r i a d e l a
+C o n s t r u c c i ó n
+5.3 4.6 3.6 5.7 12.5 n . d . n . d . -4.0 -4.4 -5.3 -3.2 3.1 n . d . n . d .
+S e c t o r C o m e r c i o
+a l M a y o r e o
+18.3 17.3 19.6 12.7 18.5 17.6 13.5 7.8 7.2 9.3 3.3 8.7 8.0 4.3
+S e c t o r C o m e r c i o
+a l M e n u d e o
+16.3 15.2 19.9 14.1 20.5 15.4 18.2 6.0 5.2 9.5 4.6 10.4 6.1 8.6
+V a r i a c i ó n N o m i n a l
+2 0 0 0
+V a r i a c i ó n R e a l
+2 0 0 0
+Durante el tercer trimestre del año, los costos unitarios de la
+mano de obra aumentaron en la mayoría de los sectores de la
+producción. Cabe destacar que en la industria maquiladora los costos
+unitarios registraron tasas de crecimiento positivas durante todos los
+meses del año para los que se tiene información (Cuadro 4).
+Los incrementos de los salarios reales repercuten en aumentos
+de los costos unitarios de la mano de obra cuando el crecimiento de la
+productividad no es suficiente para compensarlos. Durante el tercer
+trimestre de 2000, se observaron tasas de crecimiento negativas del
+producto por trabajador tanto en la industria maquiladora como en la de
+la construcción. En contraste, en el mismo periodo, el producto por
+trabajador en la industria manufacturera presentó tasas de crecimiento
+promedio superiores a 4.5 por ciento.
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+21
+Cuadro 4 Costos Unitarios de la Mano de Obra y Producto por Trabajador
+Variación anual en por ciento
+A b r M a y J u n J u l A g o S e p O c t A b r M a y J u n J u l A g o S e p O c t
+I n d u s t r i a
+M a n u f a c t u r e r a
+4.3 -1.4 1.8 0.7 3.9 0.6 -2.2 1.9 7.5 4.9 4.5 7.1 5.1 8.0
+I n d u s t r i a
+M a q u i l a d o r a
+0.8 7.1 7.6 7.6 5.1 5.0 5.4 1.5 2.8 -0.1 -0.4 6.1 0.1 2.0
+I n d u s t r i a d e l a
+C o n s t r u c c i ó n
+12.2 6.2 -6.2 0.6 -3.2 n . d . n . d . -14.4 -10.0 0.9 -3.8 6.5 n . d . n . d .
+S e c t o r C o m e r c i o
+a l M a y o r e o
+9.0 -1.9 5.1 1.5 3.0 4.9 -0.4 -1.1 9.3 4.0 1.7 5.5 2.9 4.7
+S e c t o r C o m e r c i o
+a l M e n u d e o
+-2.2 -4.1 7.8 -1.2 0.9 -1.1 3.2 8.4 9.7 1.6 5.9 9.4 7.2 5.2
+2 0 0 0
+C o s t o s U n i t a r i o s d e l a M a n o d e O b r a P r o d u c t o p o r T r a b a j a d o r
+2 0 0 0
+FUENTE: Elaborado con información del INEGI.
+Desde 1999 las revisiones salariales se han venido apoyando
+en expectativas de inflación que han resultado superiores a la inflación
+observada. Esa es la razón por la cual los incrementos salariales
+nominales han dado lugar a aumentos de las percepciones reales mayores
+que los esperados. Hasta el momento estos incrementos se han visto
+compensados por ganancias importantes de la productividad de la mano
+de obra. Sin embargo, es muy probable que la desaceleración que
+experimentará la economía mexicana en 2001 vendrá acompañada de
+una reducción de la tasa de crecimiento de la productividad. Por ello, de
+mantenerse la tendencia observada en el comportamiento del salario real,
+los costos unitarios de la mano de obra aumentarían, lo cual podría
+repercutir eventualmente en presiones sobre la inflación.
+II.3.6.2. Salarios Contractuales
+En octubre–diciembre de 2000, la tasa de crecimiento nominal
+de los salarios contractuales registró una reducción. Dicha tasa pasó de
+un nivel promedio de 12.8 por ciento en el tercer trimestre a 11.4 por
+ciento en el cuarto. Sin embargo, debido a que en el cuarto trimestre la
+inflación promedio esperada para los siguientes 12 meses resultó de 7.72
+por ciento, el crecimiento esperado para el salario real es todavía
+elevado en relación con las ganancias de productividad que se consideran
+sostenibles.
+B A N C O D E M É X I C O
+22
+Gráfica 12 Salarios Contractuales e Inflación Esperada para los Siguientes 12
+Meses
+Variación anual en por ciento
+7
+9
+11
+13
+15
+17
+19
+E F M A M J J A S O N D E F M A M J J A S O N D
+Expectativas de Inflación para los Siguientes 12 meses Salarios Contractuales*
+1999 2000
+FUENTE: Encuesta sobre las Expectativas de los Especialistas en Economía del Sector Privado, Banco de México y Secretaría del Trabajo
+y Previsión Social.
+* Información preliminar para diciembre de 2000.
+Al examinar el crecimiento de los salarios contractuales por
+sectores se observa que los aumentos salariales en las manufacturas
+(compuestas principalmente por bienes comerciables internacionalmente)
+se moderaron sólo ligeramente, ya que el incremento pasó de 12.8 en el
+tercer trimestre a 12.6 en el cuarto. Sin embargo, en otros sectores el
+aumento promedio se redujo en el mismo lapso 1.6 puntos porcentuales,
+al pasar de 12.8 a 11.2 por ciento (Cuadro 5).
+La resistencia a la baja que exhibió el crecimiento nominal de
+los salarios contractuales durante 2000 y los aumentos observados al
+cierre de ese año son ciertamente causa de preocupación. El incremento
+real esperado para los salarios contractuales muy probablemente se
+encuentra por encima del nivel sostenible de crecimiento de la
+productividad de la mano de obra. De hecho, la variación real que han
+tenido las percepciones por arriba de los avances de la productividad se
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+23
+está reflejando ya en algunos sectores en un movimiento alcista de los
+costos unitarios de la mano de obra.7
+Cuadro 5 Salarios Contractuales por Sectores
+Variación anual en por ciento
+Abr May Jun Jul Ago Sep Oct Nov Dic*
+Manufacturas 13.9 13.8 13.9 12.5 13.8 13.1 12.7 13.3 11.1
+Otros Sectores 12.3 12.1 12.5 13.8 12.1 12.9 11.2 11.4 11.5
+2000
+FUENTE: Elaborados por el Banco de México con datos de la Secretaría del Trabajo y Previsión Social.
+*Información preliminar.
+II.3.6.3. Empleo
+En el cuarto trimestre de 2000, el número de trabajadores
+asegurados en el IMSS (permanentes y eventuales urbanos) se
+incrementó en 4.9 por ciento con relación al mismo periodo del año
+previo (Gráfica 13a). Así, para todo el año el aumento en el número de
+trabajadores asegurados ascendió a 529,348 personas. Por su parte, en
+diciembre la tasa de desempleo abierto se situó en 1.9 por ciento. Cabe
+notar que si bien en octubre y noviembre se registraron tasas de
+desempleo muy bajas, las series de tendencia tanto de la tasa de
+desempleo abierto como la de ocupación parcial y desocupación se
+mantuvieron relativamente estables en la segunda mitad del año (Gráfica
+13b y Gráfica 13c).
+7 Por tres trimestres consecutivos los incrementos de los salarios contractuales nominales
+han sido mayores que los esperados por los analistas del sector privado, según la
+Encuesta sobre las Expectativas de los Especialistas en Economía del Sector Privado
+levantada por el Banco de México.
+B A N C O D E M É X I C O
+24
+Gráfica 13 Indicadores de Empleo y Desempleo
+Series de Tendencia
+(a) (b) (c)
+Total de Asegurados en el IMSS
+10.5
+11.0
+11.5
+12.0
+12.5
+13.0
+N M N M N M N
+Millones de
+asegurados
+Observado
+Tendencia
+1997 1998 1999 2000
+Tasa de Desempleo Abierto en Areas Urbanas
+1.8
+2.1
+2.4
+2.7
+3.0
+3.3
+3.6
+D J D J D J D
+Por ciento
+Observado
+Tendencia
+1997 1998 1999 2000
+Tasa de Ocupación Parcial y Desocupación
+14
+16
+18
+20
+22
+24
+26
+D J D J D J D
+Por ciento
+Observado
+Tendencia
+1997 1998 1999 2000
+FUENTE: IMSS e INEGI.
+II.3.7. Oferta y Demanda Agregadas
+La información, publicada por el INEGI, sobre el
+comportamiento de la oferta y de la demanda agregadas durante el tercer
+trimestre de 2000, indica que en dicho periodo la evolución de los
+principales componentes de ambas variables continuaba siendo vigorosa.
+Sin embargo, en los datos desestacionalizados es posible observar una
+clara desaceleración de la oferta interna mientras que la demanda interna
+ha mantenido su fortaleza.
+En el tercer trimestre, la demanda agregada creció a una tasa
+anual de 11.4 por ciento, ligeramente mayor que la registrada en el
+segundo. Salvo la inversión pública, las tasas de crecimiento anual de
+todos los componentes de la demanda agregada registraron alzas. Cabe
+destacar que el consumo privado fue el único rubro de la demanda
+agregada cuya tasa de expansión anual se incrementó de manera continua
+durante los primeros tres trimestres del año. El consumo ha respondido al
+incremento del empleo y de las remuneraciones reales, toda vez que la
+masa salarial real de la industria manufacturera registró a septiembre una
+tasa de crecimiento anual de 6.15 por ciento. El consumo de bienes
+duraderos es el componente del consumo total que ha presentado el
+mayor aumento. La expansión de este componente del consumo se ha
+visto influida por las siguientes causas: por la recomposición del acervo
+de este tipo de bienes, por la caída de su precio relativo asociada a la
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+25
+apreciación del tipo de cambio real y por el incremento del crédito no
+bancario concedido al sector privado.
+Por otra parte, el aumento de la inversión medido a tasa anual
+fue consecuencia de que la recuperación de la expansión de la inversión
+privada durante el tercer trimestre más que compensó la reducción de la
+tasa de crecimiento anual de la inversión pública.
+A diferencia de lo ocurrido con la demanda interna, la tasa de
+crecimiento real anual del PIB experimentó una ligera disminución. Como
+resultado de lo anterior, las importaciones de bienes y servicios
+exhibieron una tasa de crecimiento creciente y superior a la de las
+exportaciones totales.
+Cuadro 6 Demanda y Oferta Agregadas en 1999 y 2000
+Variación real anual en por ciento
+Oferta Agregada 7.2 8.3 5.8 11.9 11.2 11.4 11.0
+PIB 4.3 5.2 3.7 7.9 7.6 7.0 7.1
+Importaciones 16.6 17.9 12.8 25.6 22.5 24.0 22.8
+Demanda Agregada 7.2 8.3 5.8 11.9 11.2 11.4 11.0
+Consumo Total 3.4 6.7 3.9 8.7 9.0 9.8 9.1
+Privado 4.0 7.6 4.3 9.2 9.7 10.2 9.7
+Público -1.3 1.4 1.0 5.0 4.9 6.0 5.0
+Inversión Total 5.2 8.1 5.8 11.6 10.5 11.1 10.7
+Privada 9.3 13.2 9.0 12.8 9.5 11.1 11.0
+Pública -22.9 -12.5 -15.3 -2.0 23.6 11.3 7.8
+Exportaciones 18.8 14.6 13.9 17.0 15.9 17.2 16.4
+2000
+Anual/e
+1999
+III Trim. IV Trim. Anual I Trim. II Trim. III Trim.
+e/ Estimado.
+Para evaluar si la economía se está desacelerando resulta
+apropiado analizar la evolución de las tasas de crecimiento trimestral de
+los componentes de la oferta y demanda agregada, ajustados por
+estacionalidad. Al procederse de esta manera, se confirma que el
+crecimiento del PIB se desaceleró durante el tercer trimestre y que
+apenas se aminoró el ritmo de incremento de los principales rubros del
+gasto interno, por lo que éste todavía se mantiene en niveles muy
+elevados (Gráfica 14).
+B A N C O D E M É X I C O
+26
+Gráfica 14 PIB, Consumo Privado, Inversión Privada y Gasto de Gobierno:
+Series Desestacionalizadas
+Variación trimestral en por ciento
+Producto Interno Bruto
+-1.0
+-0.5
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+1996 1997 1998 1999 2000
+Consumo Privado
+-1.0
+-0.5
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+1996 1997 1998 1999 2000
+Inversión Privada
+-5
+5
+15
+25
+1996 1997 1998 1999 2000
+Consumo de Gobierno
+-6
+-4
+-2
+0
+2
+4
+1996 1997 1998 1999 2000
+La información citada es indicativa de que el gasto interno sigue
+creciendo a tasas superiores a las experimentadas por la producción.
+Al momento de publicar el presente Informe, los indicadores
+sobre el comportamiento en el cuarto trimestre de la oferta y de la
+demanda agregadas son relativamente escasos y de carácter preliminar.
+Por tanto, las conclusiones que de ellos se derivan están sujetas a un
+cierto grado de incertidumbre. Dicha información sugiere, sin embargo,
+que en el cuarto trimestre de 2000 se intensificó la desaceleración de la
+producción, medida tanto por sus tasas anuales de crecimiento como por
+sus tasas trimestrales desestacionalizadas. Por su parte, no hay indicios
+de que durante dicho trimestre la demanda interna haya registrado una
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+27
+desaceleración significativa. Como resultado de ello, la brecha entre el
+crecimiento de la demanda y de la producción internas se amplió.
+En cuanto al comportamiento de la demanda privada, las cifras
+disponibles indican que en el cuarto trimestre el consumo y la inversión
+del sector privado mantuvieron una expansión importante, aunque
+ligeramente menos vigorosa que la del trimestre precedente. Esta
+evaluación se sustenta en los siguientes hechos:
+(a) Con respecto a la evolución del consumo privado, el
+crecimiento mensual de la serie de tendencia de las ventas
+totales de la Asociación Nacional de Tiendas de Autoservicio y
+Departamentales (ANTAD) repuntó en los últimos tres meses
+del año (Gráfica 15). Por otra parte, la tasa anual sólo se
+redujo de 10.7 por ciento en el tercer trimestre a 9.7 en el
+cuarto. Un panorama similar se desprende de la información
+de las ventas al mayoreo y menudeo de los establecimientos
+comerciales reportada por INEGI, ya que el crecimiento anual
+de las ventas al mayoreo y al menudeo pasó de 5.1 y 12.4 por
+ciento en el tercer trimestre a 4 y 9.3 por ciento,
+respectivamente, en el bimestre octubre–noviembre.
+Finalmente, la evolución de las importaciones de bienes de
+consumo también sugiere que el gasto en consumo ha
+mantenido su fortaleza (Gráfica 16).
+(b) En octubre la inversión fija bruta registró un crecimiento anual
+de 9.6 por ciento. De haberse mantenido una tasa similar en el
+resto del cuarto trimestre, se habría materializado un aumento
+de la tasa trimestral desestacionalizada a la que crece dicho
+agregado.
+Con base en la información anterior el Banco de México estima
+que en el cuarto trimestre los crecimientos anuales del consumo privado,
+de la inversión total y de la demanda agregada fueron superiores a 9 por
+ciento.
+B A N C O D E M É X I C O
+28
+Gráfica 15 Indice de Ventas del Sector Comercio
+Variación mensual en por ciento
+Socios de la ANTAD: Tendencia
+-2
+-1
+0
+1
+2
+3
+E A J O E A J O E A J O E A J O E A J O
+Autoservicio
+Total
+Departamentales
+Especializadas
+1996 1997 1998 1999 2000
+Establecimientos Comerciales Ventas: Tendencia
+-2
+-1
+1
+2
+3
+E A J O E A J O E A J O E A J O E A J O
+Mayoreo
+Menudeo
+1996 1997 1998 1999 2000
+FUENTE: ANTAD e INEGI para los datos de establecimientos comerciales.
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+29
+Gráfica 16 Importaciones de Mercancías: Series de Tendencia
+Variación mensual en por ciento
+-1
+0
+1
+2
+E J E J E J
+Totales
+1998 1999 2000
+-1
+0
+1
+2
+E J E J E J
+Bienes Intermedios
+1998 1999 2000
+-2
+-1
+0
+1
+2
+3
+E J E J E J
+Bienes de Consumo
+1998 1999 2000
+-2
+-1
+0
+1
+2
+3
+4
+E J E J E J
+Bienes de Capital
+1998 1999 2000
+La información del IGAE (Indicador Global de la Actividad
+Económica) a octubre y la de la producción industrial a noviembre
+sugieren que la desaceleración de la producción en el cuarto trimestre de
+2000 fue notoria. En octubre de 2000 el IGAE presentó un incremento
+anual de 6.5 por ciento, en comparación con los que registró el PIB de
+7.9, 7.6 y 7 por ciento en el primero, segundo y tercer trimestres de ese
+año. Con cifras desestacionalizadas el IGAE tuvo en octubre un aumento
+mensual de sólo 0.2 por ciento. En el caso de la producción industrial, en
+noviembre ésta registró un incremento anual de 4.6 por ciento, el menor
+de los primeros once meses de ese año. Con datos desestacionalizados
+su nivel cayó con respecto al de octubre, luego de que ya había
+disminuido el mes precedente. A partir de esta información, el Banco de
+México estima que el crecimiento anual del PIB en el cuarto trimestre
+haya sido de aproximadamente 5.9 por ciento y de 7.1 por ciento para
+todo el año.
+B A N C O D E M É X I C O
+30
+La ampliación del déficit comercial confirma la presunción de
+que durante el último trimestre de 2000 la demanda interna continuó
+expandiéndose a un ritmo más rápido que el de la producción. En 2000
+el déficit comercial acumulado fue de 8,022 millones de dólares, 43.7 por
+ciento superior al observado en 1999. Este deterioro resulta aún mayor
+al excluirse de las cuentas externas las exportaciones petroleras y las
+importaciones de gasolina y de gas butano y propano. El déficit comercial
+no petrolero en 2000 fue 56.6 por ciento superior al del año anterior. Al
+analizar la serie de tendencia del déficit comercial total mensual se detecta
+que éste continuó ampliándose durante el trimestre (Gráfica 17).
+Gráfica 17 Déficit de la Balanza Comercial, Total y sin Petróleo
+Millones de dólares
+Enero–Diciembre Tendencia
+7,914
+5,584
+8,022
+14,423
+22,580
+13,969
+0
+5,000
+10,000
+15,000
+20,000
+25,000
+1998 1999 2000
+Déficit Comercial Total
+Déficit Comercial sin Petróleo*
+300
+500
+700
+900
+1,100
+1,300
+1,500
+1,700
+1,900
+2,100
+E M M J S N E M M J S N E M M J S N
+Déficit Comercial
+Déficit Comercial sin Petróleo*
+1998 1999 2000
+* Excluye importaciones de gasolina, gas butano y gas propano.
+El mayor déficit de la balanza comercial se tradujo al cierre de
+2000 en un aumento estimado de aproximadamente 29.3 por ciento del
+déficit de la cuenta corriente. Este resultado no ha generado presiones
+cambiarias, debido a la importante entrada de recursos externos de largo
+plazo que ha tenido lugar. En particular, cabe destacar que al cierre del
+tercer trimestre la inversión extranjera directa (IED) ascendió a 9,781
+millones de dólares y el endeudamiento del sector privado no bancario
+sumó 6,075 millones de dólares, mientras que en ese periodo la inversión
+de cartera fue de tan sólo 1,072 millones. Al cierre del tercer trimestre la
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+31
+IED acumulada financió más de 80 por ciento del déficit de la cuenta
+corriente acumulado a esa fecha.
+En el ámbito interno, la elevada tasa de crecimiento
+experimentada por la demanda agregada podría contarse entre las causas
+del debilitamiento del ritmo de descenso de la inflación subyacente de
+servicios y de la rigidez a la baja que mostraron los incrementos salariales
+contractuales.
+II.3.8. Precios Administrados y Concertados
+En octubre, noviembre y diciembre las variaciones mensuales
+del subíndice de precios de los bienes administrados y concertados
+fueron, respectivamente, de 1.71, 2.51 y 1 por ciento; mientras que en
+los mismos meses el crecimiento del INPC fue de 0.69, 0.86 y 1.08 por
+ciento (Gráfica 18). El incremento de dicho subíndice durante el periodo
+es reflejo de los aumentos que tuvieron los precios de los siguientes
+bienes y servicios: gasolina, gas doméstico, electricidad residencial,
+servicio telefónico local y autobús foráneo. Los precios correspondientes
+crecieron en el trimestre a tasas de 2.31, 11.64, 20.93, 5.78 y 5.99 por
+ciento. En cuanto a la evolución del precio del gas doméstico, éste
+registró un incremento acumulado durante el segundo semestre de 24.01
+por ciento y un aumento de 42.96 por ciento en todo el año.
+En el periodo que cubre este documento, el incremento anual
+del subíndice de los precios administrados y concertados estuvo muy por
+encima del crecimiento del INPC. Por ende, la evolución de estos
+precios representó en 2000 un importante factor de presión inflacionaria,
+contribuyendo con 2.22 puntos porcentuales al incremento anual del
+INPC. Asimismo, la inflexibilidad a la baja mostrada por el crecimiento
+anualizado de dicho subíndice constituye un elemento de preocupación.
+Ello, toda vez que podría contaminar el proceso de formación de las
+expectativas de inflación.
+B A N C O D E M É X I C O
+32
+Gráfica 18 Indice de Precios de Bienes Administrados y Concertados e INPC
+Variación mensual en por ciento
+-1.3
+-0.3
+0.7
+1.7
+2.7
+3.7
+D A A D A A D A A D
+Administrados y
+Concertados
+INPC
+1997 1998 1999 2000
+II.3.9. Finanzas Públicas
+Al tercer trimestre de 2000, el sector público registró un
+superávit de 11,127 millones de pesos, en contraste con el déficit de
+3,909 millones observado en el mismo periodo de 1999. Asimismo, en
+igual lapso, el superávit primario del sector público sumó 162,223
+millones de pesos, monto 13 por ciento superior en términos reales al
+obtenido en el año anterior. Este resultado fue consecuencia de un
+crecimiento real de los ingresos públicos de 15.6 por ciento, derivado de
+un aumento de los ingresos petroleros de 27.7 por ciento y de 10 por
+ciento en el caso de los no petroleros.
+Si bien la evolución de los ingresos públicos resultó favorable,
+el gasto también experimentó un incremento significativo. En el periodo
+enero–septiembre, el gasto público aumentó 13.6 por ciento en términos
+reales con respecto a su nivel del mismo lapso del año anterior.
+Prácticamente todos los rubros registraron aumentos: el corriente
+programable, 13.1 por ciento; el de capital, 12.5 por ciento; y el no
+programable, 14.6 por ciento. Esto sugiere que al cierre de 2000, el
+gasto público fue superior al programado originalmente. Así, se estima
+que el gasto con impacto sobre la demanda agregada se incrementó 19.4
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+33
+por ciento en términos reales en los primeros nueve meses del año, tasa
+superior a la de 10.7 por ciento registrada por el ingreso que el sector
+público capta de consumidores y empresas residentes en el país.
+II.3.10. Fenómenos Transitorios que Afectaron a la Inflación
+Al cierre del cuarto trimestre de 2000 la inflación anual de los
+precios de los productos agropecuarios resultó de 10.07 por ciento, o
+sea, superior a la del INPC. El crecimiento acumulado durante el cuarto
+trimestre por este subíndice de precios también fue significativamente
+mayor que el del INPC. En octubre y diciembre los precios de la cebolla,
+limón, jitomate, y chiles poblano y serrano registraron un incremento
+sustancial. En noviembre la inflación mensual de los productos
+agropecuarios fue menor que la del INPC (Gráfica 19). Cabe destacar
+que el incremento registrado en octubre por el jitomate quedó totalmente
+revertido en noviembre. Esta evolución de la inflación mensual del
+subíndice de precios de los productos agropecuarios ejemplifica de
+manera muy clara, la alta volatilidad que presentan los precios de este
+grupo de bienes.
+Gráfica 19 Indice de Precios de Productos Agropecuarios
+Variación mensual en por ciento
+2.33
+2.72
+0.93
+1.40
+0.48
+1.62
+1.74
+2.31
+0.89
+0.79
+1.51
+2.69
+4.94
+3.95
+-1.52
+-2.73
+-0.23
+0.65
+0.07
+0.53
+-0.60
+-0.60
+-0.70
+-0.03
+1.61
+0.95
+-1.17
+-0.62
+0.92
+1.49
+2.13
+0.28
+0.56
+-0.08
+0.79
+0.03
+4.46
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+D A A D A A D A A D
+1997 1998 1999 2000
+B A N C O D E M É X I C O
+34
+II.4. La Política Monetaria durante el Cuarto Trimestre
+de 2000
+En esta sección se analizan las razones que llevaron al Banco
+de México a modificar la postura de su política monetaria durante el
+trimestre octubre–diciembre.
+Toda vez que la evolución de la inflación era ya congruente con
+la meta establecida para 2000, las medidas tomadas se enfocaron a
+generar las condiciones propicias para alcanzar la meta de inflación para
+2001: una tasa que no exceda de 6.5 por ciento a fin del año. La
+necesidad de reaccionar con anticipación se debe a que las acciones de
+la política monetaria inciden sobre el aumento de los precios con un
+rezago considerable. Por ello, cuando la autoridad monetaria detecta
+factores que podrían inducir a futuro un comportamiento de los precios
+incompatible con los objetivos, debe reaccionar para propiciar una
+corrección de dichos factores y evitar que se materialicen las presiones
+inflacionarias identificadas.
+A continuación se presenta una evaluación del efecto que han
+surtido las medidas de política monetaria adoptadas sobre las
+expectativas de inflación, así como sobre las tasas de interés nominales y
+reales. Por último, se analiza la trayectoria de la base monetaria y de
+otros agregados monetarios, cuyo estudio complementa la valoración
+realizada de las presiones inflacionarias y de la conducción de la política
+monetaria.
+II.4.1. Acciones de Política Monetaria
+Durante el cuarto trimestre de 2000, el Banco de México reforzó
+la postura restrictiva de la política monetaria en dos ocasiones. La
+primera al incrementar el “corto” de 280 a 310 millones de pesos el 17
+de octubre y la segunda al aumentarlo a 350 millones de pesos el 10 de
+noviembre. El “corto” se mantuvo en ese nivel durante el resto del
+trimestre. Dichas acciones estuvieron motivadas por el objetivo de crear
+las condiciones adecuadas para alcanzar una inflación que no exceda de
+6.5 por ciento en 2001.
+En el último trimestre de 2000 se intensificaron algunos de los
+factores de riesgo, internos y externos, que fueron identificados en los
+pasados Informes sobre la Inflación. Esto se ha reflejado en expectativas
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+35
+de inflación incongruentes con las metas para 2001 y el mediano plazo.
+Por ello, en su momento se consideró necesario restringir la postura de la
+política monetaria de forma preventiva, dado el rezago con el que las
+acciones monetarias inciden sobre la evolución de los precios.
+Ambas ampliaciones del “corto” fueron acordadas en respuesta a
+fenómenos tanto de índole interna como externa. Por el lado interno, la
+evolución de diversos indicadores económicos señalaba que la demanda
+agregada, aunque presentaba signos de desaceleración, mantenía un
+ritmo de crecimiento incompatible con el abatimiento sostenido de las
+presiones inflacionarias. Entre los indicadores disponibles al momento de
+realizar dichos ajustes se tomaron en cuenta por su especial relevancia los
+siguientes:
+(a) En el primer semestre del año, el crecimiento anual de la
+demanda agregada excedió en casi cuatro puntos porcentuales
+al aumento del PIB real.
+(b) Las expectativas de inflación del público para 2001 se
+mantenían en un nivel todavía muy superior a la meta. Esta
+discrepancia se plasmó en toda clase de contratos económicos,
+incluyendo los salariales.
+(c) Las ventas reportadas por la ANTAD aumentaron en
+septiembre 13.3 por ciento en términos reales, mientras que en
+agosto esta cifra había sido de sólo 5.5 por ciento. Para todo
+el tercer trimestre, el crecimiento anual de este indicador resultó
+superior a 10 por ciento.
+(d) El IGAE presentó en agosto una variación anual de 8.1 por
+ciento, incremento considerablemente superior al de 6.5 por
+ciento registrado en julio. Este hecho permitía suponer que el
+crecimiento real del PIB durante el tercer trimestre sería de
+aproximadamente 7 por ciento, mayor que el anticipado por el
+sector privado y estimulado, en gran medida, por el gasto
+privado en consumo.
+(e) Las importaciones totales de mercancías se incrementaron en el
+periodo enero–septiembre a una tasa anual de 24.1 por ciento.
+En el mismo lapso, las compras al exterior de bienes de
+consumo aumentaron 38.7 por ciento. Estos resultados dieron
+lugar en los primeros 9 meses del año a una ampliación del
+B A N C O D E M É X I C O
+36
+déficit comercial acumulado, total y no petrolero, con
+incrementos de 42.3 y 75 por ciento, respectivamente.
+(f) La inflación en octubre superó a la pronosticada por el
+mercado. Además, en dicho mes la inflación anual resultó
+mayor que la de septiembre. Aunque algunos de los factores
+causales de dicha situación no eran repetitivos, la incidencia de
+otros, como la tendencia alcista sostenida de los precios de los
+servicios de educación, sugería la presencia de fuertes
+presiones de demanda.
+Los datos publicados posteriormente confirmaron la
+materialización de los factores de riesgo mencionados. Por ejemplo, en
+el período octubre–diciembre la inflación anual se incrementó
+ligeramente.
+Por su parte, los fenómenos de índole externa que dieron lugar a
+la modificación de la postura de la política monetaria fueron los
+siguientes:
+(a) señales más claras que apuntaban hacia una desaceleración de
+la economía de los Estados Unidos en el año 2001;
+(b) el incremento de la aversión al riesgo por parte de los
+inversionistas en los mercados internacionales de capital; y
+(c) los episodios de turbulencia financiera en algunos países de
+América Latina que se presentaron durante el periodo.
+Después de las dos ocasiones en que se modificó el “corto”, la
+evidencia de una desaceleración en los Estados Unidos se ha vuelto cada
+vez más clara, llevando inclusive a la percepción de un cambio de
+dirección de la postura de la política monetaria de la Reserva Federal en
+2001. Lo anterior se vio confirmado por la decisión acordada por dicho
+banco central el 3 de enero pasado respecto a disminuir en 50 puntos
+base la tasa de fondos federales. A pesar de ello, la aversión al riesgo no
+se ha reducido de forma continua a partir de los niveles máximos
+alcanzados en septiembre. La turbulencia en otros países de América
+Latina ha sido parcialmente contenida por la aprobación de los
+programas de apoyo respectivos otorgados por los organismos
+financieros internacionales. Los elementos señalados confirman la
+apreciación de que en 2001 el entorno internacional será menos
+favorable para el abatimiento de la inflación.
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+37
+La evidencia anterior sugiere que el diagnóstico sobre los factores
+de riesgo en que se fundaron los dos incrementos al “corto” fue
+adecuado. Los ajustes de política mencionados fueron convenientes a fin
+de que la tasa de crecimiento de los precios recuperara la tendencia
+descendente. De forma complementaria, la ampliación del déficit
+comercial, total y no petrolero, confirma la importancia de una aplicación
+coordinada de las políticas fiscal y monetaria para limitar la posibilidad de
+una mayor vulnerabilidad de las cuentas externas. La necesidad de un
+ajuste fiscal se ha vuelto más patente a la luz de la conveniencia de
+sincronizar la desaceleración de la economía de México con la de la
+economía de los Estados Unidos. Al respecto, el programa de finanzas
+públicas establece una disminución del déficit público de
+aproximadamente 1 por ciento del PIB en 2000 a 0.65 por ciento en
+2001. Esta reducción implica una moderación de la contribución del
+gasto público al crecimiento de la demanda agregada. Sin embargo,
+sería deseable, sobre todo en un entorno de tasas de interés elevadas,
+que este ajuste se viera reforzado por la aprobación de una reforma fiscal
+en el transcurso del presente año.
+El comportamiento de las expectativas de inflación es un
+elemento muy importante para la evaluación de los resultados de la
+política monetaria y para la identificación de presiones inflacionarias. Al
+respecto, destaca el incremento que se dio en los pronósticos de inflación
+para 2000 de los analistas del sector privado, así como la rigidez
+exhibida durante octubre y noviembre por sus expectativas de inflación
+(Gráfica 20). Ello se explica por el ligero incremento que resintió la
+inflación en octubre, así como por la percepción de la posible
+materialización de algunos de los riesgos ya mencionados. La naturaleza
+transitoria de los factores negativos que afectaron la evolución de la
+inflación en el último trimestre del año, explican el aumento inicial y la
+posterior estabilidad de las expectativas de inflación para el cierre de
+2000. La interpretación de que estos fenómenos eran transitorios y una
+aplicación oportuna de la política monetaria permitieron que durante
+diciembre tuviera lugar un ligero descenso de las expectativas de inflación
+para 2001.
+B A N C O D E M É X I C O
+38
+Gráfica 20 Expectativas de Inflación y Objetivo de Saldos Acumulados (“Corto”)
+7.5
+8.0
+8.5
+9.0
+9.5
+10.0
+10.5
+11.0
+11.5
+Abr May Jun Jul Ago Sep Oct Nov Dic
+Por ciento
+Expectativas de
+Inflación para los
+siguientes 12
+meses
+Expectativas de
+Inflación para el
+cierre de 2000
+Expectativas de
+Inflación para el
+cierre de 2001
+-200
+millones
+de pesos
+-230
+millones
+de pesos
+2000
+-280
+millones
+de pesos
+-310
+millones
+de pesos
+-350
+millones
+de pesos
+FUENTE: Encuesta sobre las Expectativas de los Especialistas en Economía del Sector Privado, Banco de México.
+La evolución de las tasas de interés, nominales y reales, durante
+el trimestre objeto de este Informe se caracterizó por una tendencia
+general al alza (Gráfica 21). Como reacción a la ampliación del “corto”
+del 17 de octubre, entre el cierre del día anterior y el cierre del día
+posterior, las tasas de interés de los Cetes a 28 y 91 días se
+incrementaron en 132 y 110 puntos base, respectivamente. En el caso de
+la ampliación del “corto” realizada el 10 de noviembre, el aumento
+inmediato de las tasas de interés fue menor. Así, esta medida limitó el
+efecto que podría haber tenido sobre las tasas internas la significativa
+reducción de las tasas de interés externas que tuvo lugar durante la misma
+semana. En concreto, en el transcurso de la semana que terminó el 10 de
+noviembre el rendimiento total del bono mexicano UMS26 se redujo 37
+puntos base, al tiempo que la tasa de Cetes a 28 días llegó a
+incrementarse hasta 30 puntos base, y la tasa a 91 días disminuyó 55
+puntos base.
+Las variaciones de las tasas de interés externas y la percepción
+del riesgo país influyen sobre el comportamiento de las tasas de interés
+internas. Sin embargo, la relación entre éstas puede modificarse por el
+efecto de la política monetaria. En particular, las acciones restrictivas de
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+39
+política monetaria han inducido una ampliación del diferencial entre las
+tasas de interés internas y las externas (Gráfica 21).
+Gráfica 21 Tasas de Interés Nominales, Tasas de Interés Reales y Riesgo País
+Por ciento
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+D E F M A M J J A S O N D
+Tasas de interés
+nominales
+8.5
+8.7
+8.9
+9.1
+9.3
+9.5
+9.7
+9.9
+10.1
+10.3
+10.5
+Rendimiento total
+del UMS26
+Tasa nominal CETES 28 días
+Tasa nominal CETES 91 días
+Rendimiento total bono UMS26
+1999 2000
+3
+4
+5
+6
+7
+8
+9
+10
+11
+D E F M A M J J A S O N D
+Tasas de interés
+reales
+8.5
+8.7
+8.9
+9.1
+9.3
+9.5
+9.7
+9.9
+10.1
+10.3
+10.5
+Rendimiento total
+del UMS26
+Tasa real CETES 28 días
+Tasa real CETES 91 días
+Rendimiento total bono UMS26
+1999 2000
+En conclusión, en el transcurso del trimestre analizado las
+ampliaciones del “corto” ejercieron una influencia alcista sobre las tasas
+de interés internas. Ello, al complementar durante octubre el incremento
+de las tasas externas, y en noviembre al limitar la caída asociada a la baja
+de dichas tasas. De esta forma, los incrementos del “corto” indujeron una
+brecha considerable y creciente entre las tasas internas y las externas. Lo
+anterior con el fin de aminorar el efecto de los elementos de riesgo que se
+han comenzado a materializar, y también con la mira de sentar las
+condiciones para que pueda cumplirse con los objetivos de inflación
+establecidos para 2001 y para el periodo 2002-2003.
+II.4.2. Evolución de los Agregados Monetarios
+Como se asentó en el Programa de Política Monetaria para el
+año 2000 y en los anteriores Informes sobre la Inflación, la relación entre
+el crecimiento de los agregados monetarios y los precios se vuelve más
+incierta en el corto plazo en la medida en que la inflación disminuye. Por
+ello, en los últimos años el Banco de México ha recurrido al análisis de
+los agregados monetarios tan sólo como una referencia complementaria
+al examen del resto de las variables que influyen sobre la inflación.
+B A N C O D E M É X I C O
+40
+II.4.2.1. Base Monetaria, Crédito Interno Neto y Activos
+Internacionales Netos
+El saldo de la base monetaria ascendió al cierre del año a
+208.9 miles de millones de pesos, monto muy similar al pronosticado en
+el programa monetario de 205.9 miles de millones de pesos (Gráfica
+22a). Lo anterior implica una desviación de 1.5 por ciento con respecto a
+la trayectoria anticipada. Así, la desviación se ubicó dentro del intervalo
+de confianza especificado para el pronóstico de la base monetaria al 31
+de diciembre de 2000 (+/- 3.07 por ciento). Durante el cuarto trimestre
+la desviación más importante de la base monetaria respecto de la
+trayectoria anunciada se registró entre el 19 y el 26 de diciembre. Esto
+se debió a un incremento estacional de la demanda de base monetaria
+superior al esperado, el cual se redujo sustancialmente en la última
+semana del año (Gráfica 22b).
+Gráfica 22 Base Monetaria
+a) Trayectoria Observada y Anticipada en 2000
+Saldos diarios
+b) Desviación con respecto al Pronóstico
+incorporado en el Programa Monetario de
+2000
+140
+160
+180
+200
+220
+1-Ene
+21-Ene
+10-Feb
+1-Mar
+21-Mar
+10-Abr
+30-Abr
+20-May
+9-Jun
+29-Jun
+19-Jul
+8-Ago
+28-Ago
+17-Sep
+7-Oct
+27-Oct
+16-Nov
+6-Dic
+26-Dic
+31 de diciembre de 2000
+208.9
+Miles de
+millones de
+pesos
+Anticipada Observada
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+1-Ene
+15-Ene
+29-Ene
+12-Feb
+26-Feb
+11-Mar
+25-Mar
+8-Abr
+22-Abr
+6-May
+20-May
+3-Jun
+17-Jun
+1-Jul
+15-Jul
+29-Jul
+12-Ago
+26-Ago
+9-Sep
+23-Sep
+7-Oct
+21-Oct
+4-Nov
+18-Nov
+2-Dic
+16-Dic
+30-Dic
+31 de diciembre de 2000
+1.5 %
+Por ciento
+Margen
+superior
+Margen
+inferior
++3.07 %
+-3.07 %
+El pronóstico para la trayectoria diaria de la demanda de base
+monetaria publicado en el Programa Monetario para 2000 resultaba
+congruente con un crecimiento económico de 4.5 por ciento, una
+inflación anual no mayor que 10 por ciento y una remonetización8 de 4.9
+8 El concepto de remonetización se refiere al crecimiento de la base monetaria por encima
+de la inflación y del incremento del PIB real (la remonetización reportada no considera el
+efecto sobre la base monetaria del problema informático del año 2000, cuya magnitud fue
+cercana a 18 miles de millones de pesos; véase el anexo del documento Política
+Monetaria Programa para 2000 del Banco de México).
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+41
+por ciento. A pesar de que no se materializaron estos supuestos, durante
+2000 se compensó la mayor demanda de base monetaria derivada de un
+crecimiento real del producto superior al esperado con el efecto sobre
+dicho agregado de una menor inflación. Lo anterior puede constatarse ya
+que la remonetización en el año será muy similar a la contemplada en la
+trayectoria anunciada en el programa monetario (4.9 por ciento) 9.
+Adicionalmente, la tendencia del cociente del saldo promedio trimestral
+de la base monetaria al producto se ha mantenido relativamente estable
+en los últimos trimestres, lo que sugiere que durante el segundo semestre
+de 2000 tuvo lugar un debilitamiento de la remonetización (Gráfica 23).
+Gráfica 23 Saldo Promedio Trimestral de la Base Monetaria
+Por ciento del PIB*
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3.0
+II III IV I II III IV I II III IV I II III IV
+Serie de Tendencia
+1997 1998 1999 2000
+* Estimado para el cuarto trimestre de 2000.
+En el año 2000 se cumplió holgadamente con los compromisos
+del programa monetario en cuanto a no desacumular activos
+internacionales netos y con los límites establecidos para la variación del
+crédito interno neto10. Así, al cierre del año el crédito interno neto se
+9 Cifra estimada con el crecimiento real esperado del producto para 2000 (7.1 por ciento).
+10 El crédito interno neto se obtiene de restar de los flujos acumulados de la base monetaria
+las variaciones acumuladas de los activos internacionales netos expresados en pesos y
+valuados al tipo de cambio de cada operación.
+B A N C O D E M É X I C O
+42
+contrajo 57,152 millones de pesos, mientras que el límite máximo
+establecido en el programa monetario para 2000 permitía un incremento
+de hasta 17,144 millones de pesos. Este comportamiento respondió, en
+lo fundamental, a la acumulación de activos internacionales netos por
+8,249 millones de dólares en el año. El Banco de México puede
+acumular activos internacionales principalmente por dos vías: como
+resultado de las operaciones cambiarias que lleva a cabo con el Gobierno
+Federal y con Pemex y a través del esquema de subastas de opciones de
+venta de dólares al propio Banco Central. Durante 2000, destacan las
+cuantiosas ventas de dólares realizadas por Pemex al Instituto Central,
+explicadas fundamentalmente por los mayores ingresos petroleros, así
+como las compras de dólares por parte del Gobierno Federal, cuya
+finalidad principal fue la de atender el servicio de la deuda externa
+(Gráfica 24).
+Gráfica 24 Variación de las Activos Internacionales Netos (AIN) en 2000
+Flujos acumulados en millones de dólares
+-8,000
+-6,000
+-4,000
+-2,000
+0
+2,000
+4,000
+6,000
+8,000
+10,000
+12,000
+7-Ene
+4-Feb
+3-Mar
+31-Mar
+28-Abr
+26-May
+23-Jun
+21-Jul
+18-Ago
+15-Sep
+13-Oct
+10-Nov
+8-Dic
+Variación acumulada de AIN
+Pemex
+Gobierno Federal
+Otros 1/
+1/ Incluye operaciones llevadas a cabo con instituciones de crédito, resultado tanto del mecanismo de subasta de opciones de venta al Banco
+Central como del esquema automático de venta de dólares, y los intereses de los activos internacionales.
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+43
+II.4.2.2. Evolución de los Agregados Monetarios M1 y
+M411
+El medio circulante (M1) se compone de las cuentas de
+cheques y de los billetes y monedas en poder del público12. Este
+agregado representa la demanda de liquidez por parte del público, la cual
+refleja en gran medida las necesidades de los agentes económicos para
+realizar diversas transacciones. Por ello, M1 guarda una estrecha relación
+con el consumo (Gráfica 25).
+Gráfica 25 Tendencia del Agregado Monetario M1 y de las Ventas de la ANTAD
+Variación real anual en por ciento
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+E M M J S N E M M J S N E M M J S N E M M J S N E M M J S N E M M J S N
+Agregado Monetario M1 Ventas de la ANTAD
+1995 1996 1997 1998 1999 2000
+Cabe destacar que en el transcurso de la segunda mitad de
+2000 se redujo el ritmo de crecimiento de M1, pasando de una tasa real
+anual de 13.5 por ciento en el segundo trimestre a 8 por ciento en el
+cuarto (Cuadro 7). Sin embargo, desde diciembre de 1999 el medio
+circulante se ha venido expandiendo a tasas superiores a las del agregado
+11 A partir del presente Informe se reportan los agregados M1 y M4 en lugar de M1a y M4a.
+Ello, en virtud de que la estadística bancaria ahora permite conocer oportunamente los
+primeros.
+12 El saldo de los billetes y monedas en poder del público se obtiene de restar del total de
+los billetes y monedas en circulación el monto en caja de los bancos.
+B A N C O D E M É X I C O
+44
+monetario amplio (M4), lo que refleja la preferencia del público por
+activos financieros más líquidos.
+Durante el cuarto trimestre M4 aumentó a una tasa real anual
+promedio de 5.8 por ciento. Al respecto, debe señalarse que esto
+implica un crecimiento inferior al del producto y menor que el registrado
+en el primer semestre del año.
+Adicionalmente, durante 2000 destaca el comportamiento
+asimétrico de los principales componentes de M4. Por una parte, la
+captación bancaria ha disminuido de forma importante, registrando en el
+último trimestre del año una contracción anual en términos reales de 12
+por ciento. En contraste, en dicho trimestre la tenencia de valores
+públicos y privados creció en términos reales a tasas anuales superiores a
+30 por ciento (Cuadro 7). Esto se debe principalmente a que la banca
+comercial ha dejado de captar recursos a través de sus propios
+instrumentos y ha incrementado las operaciones de intermediación que
+realiza a través de la venta de valores gubernamentales en reporto. Así,
+de diciembre de 1999 a noviembre de 2000 dicho rubro se incrementó
+73 por ciento en términos reales.
+Cuadro 7 Agregados Monetarios1/
+Variación real anual en por ciento
+M1 11.17 13.54 12.25 8.02
+Billetes y Monedas en Poder del Público 15.19 20.49 16.21 8.66
+Cuentas de Cheques 2/ 9.44 10.66 10.64 7.73
+M4 7.86 8.07 6.91 5.82
+Captación Bancaria -3.76 -4.22 -9.64 -12.00
+Valores Públicos 3/ 4/ 42.24 34.25 41.59 40.98
+Valores Privados 4/ -0.01 16.98 33.01 31.15
+Fondos de Ahorro para el Retiro (sin Siefores) 5/ 14.32 15.44 17.23 17.23
+2000
+I II III IV
+1/ Saldo promedio del trimestre.
+2/ Incluye depósitos en cuenta corriente.
+3/ Incluye valores del Gobierno Federal, BPAS y BREMS.
+4/ Incluye la tenencia de Siefores.
+5/ Incluye los fondos para la vivienda.
+La contracción que ha experimentado la captación de la banca
+comercial debe ser analizada tomando en consideración la evolución de
+los demás componentes del balance bancario. En particular, la
+disminución de la captación de recursos del público por parte de los
+bancos es reflejo de la contracción del financiamiento. Desde la crisis
+bancaria de 1995 el financiamiento otorgado por la banca comercial se
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+45
+ha reducido, lo cual dio lugar en un principio a una contracción de los
+pasivos bancarios distintos de la captación del público, principalmente
+pasivos con el exterior (Gráfica 26). No obstante, a partir del primer
+trimestre de 2000 la continua reducción del financiamiento ha venido
+acompañada de una menor captación de recursos del público.
+Gráfica 26 Captación y Financiamiento de la Banca Comercial
+Por ciento del PIB
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+I III I III I III I III I III I III I III I III
+Captación
+Financiamiento
+Total de Activos
+1993 1994 1995 1996 1997 1998 1999 2000
+II.4.2.3. Evolución del financiamiento al sector privado
+Como se menciona en la sección anterior, el financiamiento
+bancario total continúa disminuyendo. A diciembre de 2000 el
+financiamiento otorgado por la banca comercial al sector privado no
+bancario registró una caída real anual de 14 por ciento. Cabe mencionar
+que la reducción del financiamiento total responde, en parte, a la
+contracción que ha experimentado la cartera vencida como producto del
+reconocimiento de pérdidas contra provisiones. Sin embargo, este
+fenómeno no describe adecuadamente la evolución que ha tenido el
+crédito marginal que otorga la banca. A este respecto, dos indicadores
+sugieren una recuperación del financiamiento bancario: a) el crédito al
+consumo concedido a través de tarjetas de crédito sigue aumentando a
+B A N C O D E M É X I C O
+46
+tasas cada vez mayores (Gráfica 27), no obstante que el saldo de dicho
+crédito es relativamente pequeño, y b) la cartera vigente13 crece a tasas
+reales positivas (Gráfica 28a), lo cual refleja parcialmente el otorgamiento
+de nuevos créditos. Al desglosar este último crédito por monedas
+destaca la recuperación del otorgado en moneda nacional, el cual
+aumentó a una tasa real anual de 14.9 por ciento en el bimestre octubre–
+noviembre de 2000 (Gráfica 28b).
+Gráfica 27 Crédito al Consumo otorgado por la Banca Comercial a través de
+Tarjetas de Crédito
+Saldo nominal y variación real anual
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+25
+E F M A M J J A S O N D E F M A M J J A S O N D E F M A M J J A S O N
+16,000
+18,000
+20,000
+22,000
+24,000
+26,000
+28,000
+Saldo Variación real anual 30,000
+Por ciento Millones de pesos
+1998 1999 2000
+13 Se refiere a la cartera propia de la banca, concepto que excluye la cartera relacionada
+con los pagarés IPAB-Fobaproa y los Cetes-UDIS.
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+47
+Gráfica 28 Crédito Otorgado por la Banca Comercial al Sector Privado
+a) Crédito Total, Vigente y Vencido
+Variación real anual en por ciento
+b) Crédito Vigente en Moneda Nacional
+y en Moneda Extranjera
+-35
+-30
+-25
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+E M M J S N E M M J S N
+Total
+Cartera vigente
+Cartera vencida
+1999 2000
+-24
+-16
+-8
+0
+8
+16
+E M M J S N E M M J S N
+Variación
+real anual
+-24
+-16
+-8
+0
+8
+16
+Variación
+en dólares
+Moneda nacional
+Moneda extranjera
+1999 2000
+No obstante los indicios de una mejoría en el financiamiento
+bancario, la importancia de las fuentes alternativas de financiamiento ha
+aumentado. Sobre estas últimas cabe mencionar lo siguiente:
+(a) La emisión interna de valores privados se incrementó 24.7 por
+ciento en términos reales anuales, llegando así a un monto total
+de 105.4 miles de millones de pesos al cierre de 2000. Del
+saldo anterior el componente más vigoroso ha sido el papel
+comercial, cuya colocación creció en términos reales a una tasa
+anual de 61.4 por ciento.
+(b) Los resultados de la Encuesta de Evaluación Coyuntural del
+Mercado Crediticio al tercer trimestre de 2000, que recaba el
+Banco de México, muestran: que los proveedores siguen
+siendo la fuente de financiamiento más utilizada por las
+empresas (50.3 por ciento de las respuestas), en especial por
+las pequeñas y no exportadoras (60.2 y 55.3 por ciento,
+respectivamente); y que la banca comercial fue mencionada
+como fuente de financiamiento en tan sólo 22.7 por ciento de
+las respuestas.
+(c) El financiamiento que otorgan las principales fuentes no
+bancarias14 se aceleró durante el año, pasando de una tasa de
+14 Incluye el crédito otorgado por proveedores de 169 empresas que cotizan en la BMV,
+emisoras de tarjetas no bancarias, Sociedades de Ahorro y Préstamo, SOFOLES,
+B A N C O D E M É X I C O
+48
+crecimiento real anual de 5.6 por ciento en el cuarto trimestre
+de 1999 a 13.5 por ciento en el tercer trimestre de 2000. Por
+lo que respecta al comportamiento de sus componentes, al
+cierre del tercer trimestre del año destaca: que el crédito no
+bancario al consumo representó 42.1 por ciento del crédito
+total al consumo, y registró una tasa de crecimiento real anual
+de 36.5 por ciento; que el financiamiento no bancario otorgado
+a empresas o personas físicas con actividad empresarial
+registró un incremento real anual de 12.3 por ciento; y que el
+crédito no bancario a la vivienda, que otorgan principalmente
+las SOFOLES y las Sociedades de Ahorro y Préstamo,
+aumentó 30.1 por ciento en términos reales.
+Los anteriores resultados confirman la importancia creciente
+que están adquiriendo las fuentes de financiamiento no bancarias, las
+cuales han cubierto parcialmente el vacío dejado por la banca. No
+obstante, la disponibilidad de financiamiento por parte de la banca
+comercial es de gran importancia para la economía, en especial para las
+empresas chicas, medianas y no exportadoras, las cuales han resentido
+en mayor medida la carencia de crédito bancario en los últimos años.
+instituciones de seguros, arrendadoras financieras, empresas de factoraje, colocación
+de papel bursátil, uniones de crédito, créditos contratados por empresas no financieras
+con bancos del exterior y deuda externa.
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+49
+III. Panorama General de la Economía en 2000 y
+Perspectivas del Sector Privado para 2001
+Durante 2000, el desempeño de la economía mexicana resultó
+sustancialmente mejor que el anticipado al inicio del año. Esto fue
+consecuencia de un entorno externo muy favorable y de la aplicación de
+políticas macroeconómicas prudentes. En contraste, para 2001 se espera
+un deterioro del entorno internacional que seguramente afectará la
+evolución de la economía nacional. No obstante lo anterior, los
+elementos de solidez con que cuenta la economía del país y la aplicación
+preventiva de las políticas monetaria y fiscal permitirán un ajuste
+ordenado. En este capítulo se hace un breve recuento de la evolución de
+la economía en el año 2000 y luego se presentan las perspectivas del
+sector privado con respecto a la evolución de las principales variables
+económicas en 2001.
+III.1. Aspectos Sobresalientes de la Evolución de la
+Economía y de la Aplicación de la Política
+Monetaria en 2000
+El efecto neto que el entorno internacional ejerció sobre la
+economía mexicana durante 2000 resultó positivo. Entre los factores que
+influyeron de manera favorable destacan las siguientes:
+(a) un crecimiento de la economía de los Estados Unidos mayor
+que el esperado;
+(b) un incremento significativo del precio internacional del petróleo;
+y
+(c) una mejoría de las condiciones de acceso a los mercados
+internacionales de capital.
+Sin embargo, en los últimos meses de 2000 también se
+presentaron influencias del exterior que incidieron desfavorablemente.
+Entre éstas cabe mencionar:
+(a) la caída del precio internacional del petróleo; y
+B A N C O D E M É X I C O
+50
+(b) la confirmación de la desaceleración económica en los Estados
+Unidos.
+Como se comenta en el Capítulo II, el deterioro en el entorno
+internacional a finales del año no afectó significativamente el
+desenvolvimiento de la economía nacional. Así, los efectos positivos de
+la expansión en los Estados Unidos, del elevado precio del petróleo y del
+comportamiento favorable de los flujos de capital, contribuyeron al
+crecimiento económico y a la estabilidad del tipo de cambio. Esta última
+constituyó un factor coadyuvante del proceso desinflacionario.
+En 2000, la economía mexicana registró una tasa de
+crecimiento superior a la esperada, así como una inflación congruente
+con el objetivo y significativamente menor que el pronóstico de los
+analistas del sector privado al inicio del año. Estos resultados positivos
+se dieron a la par de una situación favorable en el mercado laboral, ya
+que se registró un aumento tanto del empleo como de los salarios reales.
+En lo que hace a las cuentas externas, los déficit de la balanza comercial
+y de la cuenta corriente se incrementaron en relación con los observados
+en 1999. Esto último es atribuible a que la expansión de la demanda
+agregada y el fortalecimiento del peso frente al dólar de los Estados
+Unidos más que compensaron los efectos propicios de los elevados
+precios del petróleo y del crecimiento de las exportaciones no petroleras.
+Una fracción sustancial del déficit en cuenta corriente fue financiada con
+flujos de inversión extranjera de largo plazo.
+El incremento anual de los precios al consumidor al cierre de
+2000 fue de 8.96 por ciento, el más bajo de los últimos seis años. De
+esta manera, por segunda ocasión consecutiva, se logró con holgura la
+meta correspondiente. En el año, la inflación general disminuyó 3.36
+puntos porcentuales. Este descenso y el cumplimiento de la meta se
+explican principalmente por los siguientes factores: a) la aplicación de una
+política monetaria congruente con el objetivo de inflación; b) la
+estabilidad del tipo de cambio; y c) la mejoría de las expectativas de
+inflación.
+La inflación subyacente tuvo un mejor desempeño que la
+inflación general, ya que disminuyó a mayor velocidad y terminó el año en
+un nivel inferior a la del INPC. Por tanto, los fenómenos que en 1999
+contribuyeron de manera tan importante a la baja de la inflación general,
+no tuvieron el mismo efecto en 2000. Esto se debió a que la inflación de
+los bienes agropecuarios fue mayor que la del año anterior y que la
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+51
+general. Asimismo, la inflación anual de los bienes administrados y
+concertados y la que registró el subíndice de precios de los servicios
+educativos fue más elevada que la del INPC. La mayor contribución al
+proceso de desinflación la tuvo el sector de mercancías, si bien la
+inflación en el sector servicios también descendió considerablemente.
+Hacia el final del año se observó un relativo estancamiento en el
+descenso de la inflación general y una menor velocidad en el ritmo al que
+venía bajando la inflación subyacente.
+La autoridad monetaria intensificó en seis ocasiones la postura
+restrictiva de la política monetaria. El propósito primordial de dichas
+modificaciones fue alcanzar el objetivo de inflación para 2000 y, con
+énfasis creciente, asegurar una trayectoria de mediano plazo congruente
+con la meta de lograr una tasa de inflación menor que 6.5 por ciento en
+2001 y de 3 por ciento en 2003. A partir de marzo las expectativas de
+inflación del público acerca de la tasa de inflación para 2000 se situaron
+ya por debajo de la meta de 10 por ciento.
+Los efectos de la intensificación de la restricción monetaria
+sobre las tasas de interés internas se perciben con mayor claridad a partir
+del incremento del “corto” acordado el 16 de mayo. Con este fin,
+conviene comparar la evolución en el periodo de las tasas de interés
+externas con la de las internas. Después del “corto” referido, las tasas de
+interés internas, nominales y reales, se incrementaron o se mantuvieron
+constantes aun cuando la tasa de interés externa se haya reducido. El
+resultado de ello fue que se amplió la brecha entre ambas (Gráfica 21).
+Lo anterior se tradujo a fines de año en niveles de tasas internas
+nominales ligeramente superiores a los observados al inicio de 2000. Por
+su parte, las tasas reales terminaron el año en un nivel sustancialmente
+más elevado, en un contexto de tasas externas ligeramente inferiores a las
+prevalecientes al inicio del periodo. Ello sugiere que las modificaciones en
+la postura de la política monetaria han llevado a una disociación parcial
+entre las tasas internas y las externas.
+Dado el rezago considerable con el que las acciones de la
+política monetaria inciden sobre la evolución de la economía y de los
+precios, la elevación de las tasas de interés internas todavía no se ha
+traducido en una franca desaceleración del gasto interno. Confirmando
+esta apreciación, los datos más recientes señalan que éste aún crece a un
+ritmo vigoroso.
+B A N C O D E M É X I C O
+52
+A su vez, después de una disminución significativa en enero de
+2000, los incrementos nominales de los salarios contractuales se
+mantuvieron en un nivel relativamente constante durante la mayor parte
+del año, mostrando la misma inercia que se ha constatado en años
+anteriores. Debido a dicha inercia, será de suma importancia que desde
+enero de 2001 las revisiones salariales sean congruentes con el objetivo
+de inflación de 6.5 por ciento propuesto para el año, y con los
+incrementos sostenibles de la productividad de la mano de obra.15
+Debido a lo anterior, así como a los fenómenos de índole
+externa ya mencionados, el año 2000 culminó con una postura de la
+política monetaria más restrictiva. Los ajustes del “corto” acordados a lo
+largo del año estuvieron enfocados a limitar el efecto sobre el crecimiento
+de los precios de los factores enumerados anteriormente.
+III.2. Perspectivas del Sector Privado para 2001
+III.2.1. Pronóstico sobre los Principales Determinantes de la
+Inflación
+Desde la publicación del pasado Informe sobre la Inflación, los
+pronósticos de la mayoría de los analistas respecto a las principales
+variables externas que influyen sobre el desempeño de la economía
+mexicana presentaron un deterioro importante. En particular, es
+conveniente destacar los siguientes:
+(a) El crecimiento anual esperado para la economía de los Estados
+Unidos en el cuarto trimestre de 2000 se redujo ligeramente a
+2.3 por ciento y la expectativa para el año se ajustó de 5.2
+por ciento en septiembre a 5.1 por ciento actualmente16. Sin
+embargo, el pronóstico para 2001 se revisó sustancialmente a
+la baja, al pasar de 3.7 por ciento en septiembre a 1.8 por
+ciento a la fecha16. Los analistas del sector privado esperan
+que en 2001 dicha economía no crezca en el primer trimestre y
+lo haga a tasas de 1.1, 2.9 y 3.6 por ciento en el segundo,
+tercero y cuarto trimestres del año.
+15 La evolución de la demanda agregada, del consumo, del déficit comercial y de los
+salarios en la parte final de 2000 se discute en secciones anteriores de este documento.
+16 Promedio de los pronósticos de Goldman Sachs, JP Morgan, Morgan Stanley y Deutsche
+Bank, enero de 2001.
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+53
+(b) El precio promedio estimado por los analistas del sector
+privado para la mezcla mexicana de petróleo de exportación en
+el año 2001 se redujo de 20.85 dólares por barril en
+septiembre a 19 dólares por barril en enero. Por su parte,
+tomando en cuenta la cotización a futuro del petróleo WTI al
+25 de enero y su diferencia con el precio de la mezcla
+mexicana en diciembre de 2000, se anticipa en 2001 un precio
+promedio de la mezcla mexicana de 18.52 dólares por barril.
+Los pronósticos sobre el tipo de cambio para el cierre de
+2001, provenientes de la encuesta que levantó el Banco de México el 23
+de enero de 2001 entre los analistas del sector privado, se modificaron
+ligeramente al alza. De acuerdo con dicha encuesta, a finales de enero el
+sector privado anticipaba que el tipo de cambio al cierre de 2001 sería
+de 10.60 pesos por dólar. La encuesta también señala que los niveles
+esperados para el tipo de cambio en febrero, marzo y abril son,
+respectivamente, 9.92, 10.01 y 10.06 pesos por dólar.
+Por su parte, durante diciembre de 2000 el precio de los
+futuros del peso se vio muy afectado por el cambio de percepción que
+tuvo lugar respecto del crecimiento de la economía de los Estados
+Unidos en 2001 y por la caída del precio del petróleo. Lo anterior dio
+lugar a una importante corrección al alza del tipo de cambio “spot” y de
+los futuros del peso (Gráfica 29). Estos fenómenos se intensificaron en
+los primeros días de enero. Así, en la tercera semana de ese mes el
+precio futuro del tipo de cambio a diciembre de 2001 se situó en 10.82
+pesos por dólar.
+B A N C O D E M É X I C O
+54
+Gráfica 29 Futuros del Tipo de Cambio y Expectativas de Tipo de Cambio para
+el Cierre de 2001
+Pesos por dólar
+11.18
+10.85
+10.70
+10.82
+10.78
+10.55
+10.50
+10.48
+10.49
+10.42
+10.60
+10.00
+10.50
+11.00
+11.50
+M A M J J A S O N D E
+Expectativas de Tipo de Cambio
+para el cierre de 2001
+2000 2001
+Futuros del Tipo de Cambio
+9.30
+9.80
+10.30
+10.80
+11.30
+A M J J A S O N D E
+Contrato de marzo 2001
+Contrato de junio 2001
+Contrato de septiembre 2001
+Contrato de diciembre 2001
+2000 2001
+FUENTE: Bloomberg y Encuesta sobre las Expectativas de los Especialistas en Economía del Sector Privado, Banco de México.
+Otra variable que influye de manera importante sobre la
+inflación es el salario. Para enero, febrero y marzo de 2001, los analistas
+consultados en las encuestas que levanta el Banco de México anticipan
+que los aumentos salariales serán, respectivamente, de 9.9, 9.5 y 9.2 por
+ciento (Gráfica 30). Esto indica que esperan una importante corrección a
+la baja de la tasa de crecimiento de los salarios nominales.
+Un tercer factor que incide de manera significativa sobre el
+proceso inflacionario y consecuentemente sobre las expectativas de
+inflación lo constituyen los ajustes que se deciden para los precios
+administrados y concertados. Con relación a la evolución esperada para
+dichos precios, hay que destacar que de acuerdo con los Criterios
+Generales de Política Económica, los precios y tarifas que aplican los
+organismos y empresas públicas se ajustarán primordialmente en línea
+con la inflación objetivo para 2001 y que los precios de los bienes y
+servicios públicos que son utilizados como insumos en los procesos
+productivos se determinarán con base en su referencia internacional.
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+55
+Gráfica 30 Incrementos Salariales Contractuales
+Por ciento
+12.78
+12.68
+13.20
+12.60
+13.10
+13.00
+11.33
+11.80
+11.30
+9.88
+9.50
+9.20
+8
+9
+10
+11
+12
+13
+14
+A M J J A S O N D E F M
+Incrementos Salariales
+Observados
+Incrementos Salariales
+Esperados
+Media Móvil de 4 Meses
+2000 2001
+FUENTE: Secretaría del Trabajo y Previsión Social. Para enero de 2001 el dato se tomó de los pronósticos del sector privado en la
+Encuesta sobre las Expectativas de los Especialistas en Economía del Sector Privado levantada por el Banco de México
+en diciembre de 2000. Para febrero y marzo los pronósticos se tomaron de la mencionada encuesta levantada en enero de
+2001.
+Por lo que se refiere a la expansión del PIB, las estimaciones
+para 2000 se han ajustado al alza, al pasar de 6.71 por ciento en la
+encuesta de septiembre a 7.17 por ciento en la de diciembre. Asimismo,
+para el cierre del mismo año, los especialistas consultados por el Banco
+de México anticipan incrementos del consumo y de la inversión de 7.2
+por ciento y 10.4 por ciento, respectivamente. En cuanto al sector
+externo, pronostican un déficit en cuenta corriente de 17,313 millones.
+Finalmente, los analistas estiman que la inversión extranjera directa sumó
+13,012 millones de dólares y que el déficit fiscal resultó en 2000 de 0.85
+por ciento como proporción del PIB.
+Los indicadores sobre el clima de los negocios y el nivel de
+confianza que se recogieron en la más reciente encuesta del Banco de
+México mostraron un debilitamiento del optimismo que se había
+reportado en los últimos meses.
+B A N C O D E M É X I C O
+56
+Según los consultores encuestados, los principales factores que
+podrían obstaculizar la actividad económica durante los próximos meses
+son los siguientes: la debilidad de los mercados externos y de la
+economía mundial (28 por ciento de las respuestas para cada uno); el
+elevado costo del financiamiento interno (14 por ciento de las
+respuestas); y el nivel del precio de exportación del petróleo (10 por
+ciento de las respuestas).
+Para 2001 el crecimiento real del PIB esperado por los
+analistas encuestados se ajustó de 4.56 por ciento en septiembre de
+2000 a 3.83 por ciento en enero. A la vez, pronostican un déficit de la
+balanza comercial y de la cuenta corriente de 12,445 y 22,708 millones
+de dólares, respectivamente. Asimismo, los consultores estiman un
+incremento de las exportaciones no petroleras de 11.6 por ciento y una
+disminución de las exportaciones petroleras de 14.6 por ciento. Por otra
+parte, se anticipa que las importaciones aumentarán 11.8 por ciento.
+Finalmente, los analistas esperan un flujo de inversión extranjera directa
+de 13,047 millones de dólares para el año.
+En cuanto a los pronósticos relativos al déficit fiscal para 2001,
+la encuesta de enero señala que éste será de 0.69 por ciento como
+proporción del PIB.
+III.2.2. Expectativas de Inflación del Sector Privado
+Los pronósticos de la inflación mensual para enero, febrero y
+marzo se han mantenido prácticamente constantes. Dichos pronósticos
+implican que la inflación anual descenderá de 8.96 en diciembre de 2000
+a 8.55 en marzo de 2001 (Cuadro 8).
+Cuadro 8 Expectativas de Inflación Mensual y Anual
+Por ciento
+Mensual Anual
+Enero 1.11 8.71
+Febrero 0.75 8.56
+Marzo 0.54 8.55
+Fuente: Encuesta sobre las Expectativas de los Especialistas en Economía del
+Sector Privado, Banco de México.
+Las expectativas de inflación para los siguientes doce meses se
+ajustaron a la baja y las referentes a 2001 aumentaron ligeramente. De
+acuerdo con las encuestas que recaba el Banco de México, la
+expectativa de inflación para el año 2001 pasó de 7.81 por ciento en
+I N F O R M E S O B R E L A I N F L A C I Ó N O C T U B R E - D I C I E M B R E 2 0 0 0
+57
+septiembre de 2000 a 7.87 en enero de 2001. Cabe destacar al
+respecto que algunos consultores incorporaron en sus expectativas los
+efectos de una posible reforma fiscal. Asimismo, es importante subrayar
+que el nivel de la inflación esperada para 2001 resulta aún incompatible
+con el objetivo de alcanzar en el año una inflación que no exceda de 6.5
+por ciento. Finalmente, la inflación esperada para 2002 se ubica en 6.28
+por ciento (Gráfica 31).
+Gráfica 31 Evolución de las Expectativas de Inflación
+Variación anual en por ciento
+Próximos 12 meses Cierre de 2001
+10.66
+10.33
+9.51
+9.52
+9.01
+8.89
+8.89
+8.43
+8.16
+7.79
+7.8
+7.58
+7.81
+6.0
+7.0
+8.0
+9.0
+10.0
+11.0
+E F M A M J J A S O N D E
+2000 2001
+9.07
+8.76
+8.81
+8.08
+8.07
+8.16
+8.00
+7.81
+7.60
+7.70
+7.58
+7.87
+6.0
+7.0
+8.0
+9.0
+10.0
+11.0
+F M A M J J A S O N D E
+2000 2001
+FUENTE: Encuesta sobre las Expectativas de los Especialistas en Economía del Sector Privado, Banco de México.
+Los ajustes observados en la percepción del riesgo país, la
+volatilidad cambiaria y la mayor restricción monetaria han inducido un
+aumento de las tasas de interés en todos los plazos menores que un año.
+Sin embargo, la curva de rendimientos de los Cetes se ha invertido, lo
+cual refleja claramente una expectativa de descenso tanto de la inflación
+como de las tasas nominales (Gráfica 32).
+B A N C O D E M É X I C O
+58
+Gráfica 32 Curvas de Rendimiento Nominal de los Cetes: Tasas de la Subasta
+Primaria
+Por ciento
+15.69
+15.22
+16.47
+16.86
+16.66
+15.30
+17.26
+18.01
+17.59 17.01
+1 5
+1 6
+1 7
+1 8
+2 8 d í a s 9 1 d í a s 1 8 2 d í a s 3 6 4 d í a s 3 a ñ o s
+3 de octubre de 2000
+26 de dicimebre de 2000
+* El instrumento a 3 años corresponde al bono a ese plazo emitido con cupones a tasa fija
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+59
+IV. Programa Monetario para 2001
+A partir de la adopción del régimen de libre flotación
+cambiaria, como consecuencia de la crisis de balanza de pagos de 1994-
+1995, el tipo de cambio dejó de funcionar como el instrumento de
+política que orientaba las expectativas de inflación alrededor de los
+objetivos de la autoridad. En esas circunstancias, la política monetaria
+asumió el papel que, en términos técnicos, se conoce como ancla nominal
+de la economía.
+El esquema de la política monetaria se ha modificado con el fin
+de incrementar su efectividad y transparencia ante los cambios que ha
+experimentado la economía de México en el transcurso de los últimos
+seis años. Esta evolución ha tenido como resultado una convergencia
+gradual hacia un esquema de objetivos de inflación. Este es utilizado hoy
+en día, con diferentes variantes, por varios bancos centrales, tanto de
+países desarrollados como emergentes. Por ello, a fin de dar una
+explicación detallada de la estrategia actual de la política monetaria y
+propiciar su entendimiento, resulta conveniente realizar un breve recuento
+de sus orígenes y de su evolución reciente. Con ese propósito, en la
+siguiente sección se presenta una reseña de las principales modificaciones
+que ha experimentado la política monetaria en México en los últimos
+años. Posteriormente, se describen los principales elementos del
+esquema de objetivos de inflación que se incluyen en el Programa
+Monetario para 2001. Finalmente, debido a que la aplicación de la
+política monetaria responde tanto al entorno interno como al externo, se
+esboza el marco macroeconómico esperado para 2001 y los principales
+factores de riesgo que se vislumbran, así como la posible reacción de la
+política monetaria ante la eventual materialización de dichos riesgos.
+IV.1. Evolución Reciente del Esquema de Política
+Monetaria: La Convergencia a Objetivos de
+Inflación
+A consecuencia de la devaluación del peso y del repunte de la
+inflación, derivados de la crisis cambiaria y financiera de 1994–1995, la
+credibilidad del Banco de México se vio severamente dañada. Debido a
+la necesidad de establecer un ancla nominal visible y estricta, en 1995 se
+B A N C O D E M É X I C O
+60
+adoptó como guía de la política monetaria un límite al crecimiento del
+crédito interno neto del Banco Central durante dicho año. Este límite se
+derivó de la estimación del crecimiento de la demanda de base monetaria
+y del supuesto de una nula acumulación de reservas internacionales.
+Conviene aclarar al respecto, que en ese momento no se pensó en dicho
+limite, o en el crecimiento de la base, como un objetivo que pudiera ser
+utilizado como regla cuasiautomática para la conducción monetaria. Ello,
+toda vez que sus limitaciones para tal fin eran conocidas por la autoridad.
+Sin embargo, a causa de la crisis de credibilidad por la que atravesaba en
+ese momento el Instituto Central, se juzgó conveniente la adopción de un
+agregado monetario muy visible para servir como guía del programa
+monetario. Las limitaciones de los agregados monetarios como referencia
+para la conducción de la política monetaria, así como sus ventajas en las
+circunstancias por las que atravesaba la economía mexicana, se
+expresaron de la siguiente manera en el texto del Programa Monetario
+para 1995:17
+La mayoría de los bancos centrales ha dejado de adoptar
+objetivos cuantitativos en cuanto a la evolución de su
+propio crédito o de agregados monetarios tales como los
+billetes y monedas en circulación, medio circulante u otros.
+Esto, debido a que los cambios tecnológicos o de
+regulación financiera, ocurridos en las últimas décadas,
+han dado lugar a que se haya perdido en buena medida la
+relación más o menos estable, que años atrás existía, entre
+alguno de esos agregados y el PIB nominal.
+No obstante lo expresado en el párrafo inmediato anterior,
+la presente crisis de confianza en la moneda nacional
+determina la conveniencia de que el banco central adopte
+una política de crédito primario sumamente estricta. Esto
+lo puede hacer imponiéndose un límite al crecimiento de su
+crédito interno durante el año.
+Esta fórmula puede coadyuvar eficazmente a que las
+expectativas inflacionarias de los agentes económicos
+vayan convergiendo con las proyecciones de precios
+contenidas en el programa económico adoptado por el
+Gobierno Federal, las cuales concuerdan con las
+17 Exposición sobre la Política Monetaria para 1995, pp. 53-54.
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+61
+estipulaciones del Acuerdo de Unidad para Superar la
+Emergencia Económica.
+En el aludido reporte también se anunció que dentro del límite
+establecido para el crecimiento del crédito interno, la Junta de Gobierno
+manejaría su evolución considerando los siguientes factores:18
+Las divergencias entre la inflación observada y la inflación
+prevista en el Acuerdo de Unidad para Superar la
+Emergencia Económica, respondiendo con medidas
+contraccionistas en caso de que se perciba una aceleración
+de la inflación.
+El comportamiento del tipo de cambio y de los
+diferenciales entre las tasas de interés a diferentes plazos.
+La política monetaria será restrictiva en caso de
+observarse una tendencia hacia la depreciación del tipo de
+cambio. Lo mismo sucederá si el diferencial entre las tasas
+nominales de largo y corto plazo se amplía, o si el
+diferencial entre las tasas reales de los Ajustabonos a
+cierto plazo y de los Cetes al mismo plazo se ensancha.
+Esto último, en razón de que se considera que el
+comportamiento de dichos diferenciales refleja las
+expectativas inflacionarias del público.
+Los resultados de encuestas sobre expectativas
+inflacionarias del público y de especialistas.
+La evolución de otros factores, tales como los precios
+productor y las revisiones de los contratos colectivos de
+trabajo.
+De esta manera en el Programa Monetario para 1995 se
+incorporaba una regla explícita relativa al crecimiento del crédito interno
+y el uso discrecional de los instrumentos de política para inducir las
+condiciones monetarias adecuadas para alcanzar los objetivos
+propuestos. El primer elemento cumplía la función fundamental de
+establecer un compromiso estricto para limitar la fuente primordial de
+inflación: la creación excesiva de crédito interno. De esta manera se
+afectaba el comportamiento de las expectativas de inflación. El segundo
+elemento se sustentaba en el manejo discrecional del crédito interno,
+18 Exposición sobre la Política Monetaria para 1995. pp. 55-56.
+B A N C O D E M É X I C O
+62
+dentro de los límites establecidos por el primer elemento, para inducir un
+comportamiento de los precios congruente con el objetivo de inflación.
+Asimismo, con el fin de contar con un esquema operativo de
+acuerdo al cual tanto el tipo de cambio como las tasas de interés fuesen
+determinadas libremente por el mercado, el Banco de México tomó dos
+decisiones importantes: establecer el régimen denominado “encaje
+promedio cero” y la utilización del objetivo de saldos acumulados en las
+cuentas corrientes que mantiene la banca en el Instituto Central como
+instrumento de la política monetaria.19 Mediante este último mecanismo el
+Banco de México envía señales a los mercados financieros, sin
+predeterminar los niveles de la tasa de interés o del tipo de cambio.
+En 1997 se introdujo en el Programa Monetario del Banco de
+México un pronóstico de la evolución diaria de la demanda de base
+monetaria. Ello, para proporcionar a los agentes económicos una
+referencia que facilitara el seguimiento de la política monetaria.
+Si bien la inflación se redujo de 52 por ciento en 1995 a menos
+de 9 por ciento en 2000, en dicho lapso la experiencia mostró que en la
+medida en que la inflación disminuye, la relación entre el dinero y los
+precios se vuelve más incierta. La estrecha relación que mantuvieron el
+crecimiento de la base y la inflación en el periodo 1986-1990 se fue
+diluyendo a partir de este último año (Gráfica 33). En el periodo 1997-
+2000, la relación entre el crecimiento de la base monetaria y el de los
+precios se debilitó como consecuencia del proceso de remonetización
+que ha tenido lugar en respuesta a la consolidación de la tendencia
+decreciente de la tasa de inflación.
+Además, por lo general los movimientos de la inflación se han
+anticipado a los de la base monetaria (Gráfica 33). Ello comprueba que
+en el pasado las perturbaciones inflacionarias no han sido el resultado de
+una política monetaria expansiva, sino que ésta ha acomodado los
+efectos inflacionarios causados por las alteraciones de los precios clave
+de la economía. Consecuentemente, la trayectoria de esta última variable
+no es útil para inferir el incremento futuro de los precios. Tal desconexión
+pone de manifiesto que los movimientos del crecimiento de la base
+monetaria proporcionan información imprecisa sobre la evolución de la
+inflación presente y futura. Por tanto, la utilidad del pronóstico sobre el
+crecimiento de la base como elemento para influir en la formación de las
+19 Para una explicación detallada de este mecanismo, véase el Informe Anual del Banco de
+México de 1996, Anexo 4.
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+63
+expectativas inflacionarias y para garantizar el cumplimiento de los
+objetivos establecidos, se ha debilitado.
+Gráfica 33 Crecimiento de los Billetes y Monedas e Inflación en México: 1986-
+2000
+Por ciento
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+I n f l a c i ó n
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+B i l l e t e s y M o n e d a s
+Inflación
+Crecimiento de los
+Billetes y Monedas
+1986 1987 1988 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000
+La ausencia de una relación estable entre los agregados
+monetarios estrechos y la inflación en la mayoría de las economías
+desarrolladas ha llevado a sus bancos centrales a reducir la importancia
+otorgada a su evolución como fundamento para el análisis y evaluación
+de las presiones inflacionarias.
+En años recientes la credibilidad del Banco de México se ha
+estado fortaleciendo. Por esta razón ahora se enfatiza el estudio
+cuidadoso de diversos indicadores que proporcionan información sobre
+el fenómeno inflacionario. Esta práctica corresponde a lo indicado en el
+segundo elemento de la política del Instituto Central introducido desde el
+programa monetario de 1995. En los últimos años las acciones de la
+política monetaria en México se han fundamentado en un análisis
+exhaustivo y continuo de aquellas variables que inciden sobre el
+comportamiento de la inflación y que sirven para hacer pronósticos del
+B A N C O D E M É X I C O
+64
+crecimiento de los precios. Cuando este análisis ha indicado que las
+presiones inflacionarias que se han acumulado resultan incongruentes con
+los objetivos, se ha restringido la política monetaria a través de
+ampliaciones del “corto”. Ello, con el fin de inducir las condiciones
+monetarias requeridas para restablecer la congruencia entre los
+pronósticos y las metas de inflación. Los canales a través de los cuales
+las acciones de política monetaria afectan la evolución de los precios se
+ilustran en el siguiente diagrama (Gráfica 34).
+Gráfica 34 Canales de Transmisión de la Política Monetaria
+Acciones de Política Monetaria
+Expectativas Tasas de Interés
+Oferta de
+Crédito
+Demanda Agregada Tipo de Cambio
+Precios de no Comerciables
+y Salarios
+Precios de
+Comerciables
+Precios de
+Activos
+Inflación
+Decisiones de
+Ahorro-Inversión
+Cuando se amplía el “corto” el Banco de México propicia un
+aumento de las tasas de interés nominales de corto plazo y una mejoría
+de las expectativas de inflación. A consecuencia de estos efectos las
+tasas de interés reales aumentan. La efectividad del “corto” para
+modificar el comportamiento de las tasas de interés ha sido comprobada
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+65
+por varios estudios20. El incremento de las tasas de interés reales y la
+mejoría de las expectativas de inflación que induce una ampliación del
+“corto”, influyen sobre la evolución de los precios, si bien con rezagos
+considerables, a través de varios canales.
+En primer lugar, el incremento de las tasas de interés reales,
+por medio de su efecto sobre las decisiones de ahorro e inversión de las
+personas y empresas, mitiga el ritmo de expansión de la demanda
+agregada. A su vez, esta última influencia debilita las presiones sobre los
+salarios y sobre los precios de los bienes no comerciables.
+En segundo lugar, el aumento de las tasas de interés, además
+de reducir la demanda de crédito, puede también limitar la oferta del
+mismo. Esto último, si los bancos consideran que las mayores tasas de
+interés pueden implicar el apoyo a proyectos de inversión de alto riesgo.
+De esta manera, el aumento de las tasas de interés, aunado a la
+incertidumbre de la banca respecto a la calidad de los proyectos de
+inversión, puede propiciar una menor disponibilidad de crédito en la
+economía. A su vez, ello afectaría a la inversión y, por consiguiente, a la
+demanda agregada y a los precios.
+En tercer lugar, los incrementos de las tasas de interés hacen
+más atractiva la inversión en bonos y disminuyen la demanda de acciones,
+por lo que el valor de mercado de estas últimas disminuye. Ante la
+reducción del valor de las empresas, éstas enfrentan un deterioro de las
+condiciones en las cuales obtienen financiamiento, encareciéndose la
+realización de nuevos proyectos de inversión. Lo anterior afecta a la
+demanda agregada y eventualmente a los precios. Con respecto a los
+consumidores, el aumento de las tasas de interés y la consecuente
+reducción de los precios de las acciones disminuyen el valor de sus
+activos y, por consiguiente, perciben que su riqueza es menor. Estos
+fenómenos producen una contracción del consumo y de la demanda
+agregada.
+En cuarto lugar, las tasas de interés más elevadas inducen una
+apreciación (o menor depreciación) del tipo de cambio, lo cual afecta
+directamente el comportamiento de los precios de los bienes
+comerciables y las expectativas de inflación. Asimismo, los movimientos
+20 Por ejemplo: “El efecto del "corto" sobre la estructura de tasas de interés”,
+Documento de Investigación 2000-1, Banco de México, junio de 2000.
+“Expectativas de inflación, riesgo país y política monetaria en México”. Documento
+elaborado para el seminario Estabilización y Política Monetaria: La Experiencia
+Internacional, organizado por el Banco de México en noviembre de 2000.
+B A N C O D E M É X I C O
+66
+del tipo de cambio real afectan el crecimiento de la demanda agregada al
+incidir sobre el precio relativo de los bienes comerciables y los no
+comerciables. Sin embargo, ni la teoría ni la evidencia son concluyentes
+respecto de sus consecuencias expansionistas o contraccionistas.
+Cabe aclarar que si bien uno de los probables efectos de una
+política monetaria más restrictiva es generar una tendencia hacia una
+apreciación (o menor depreciación) del tipo de cambio, dicha política no
+es utilizada por el Banco de México con este propósito. De hecho,
+fundamentalmente se busca afectar la tendencia de la inflación de
+mediano plazo a través de los demás canales de transmisión. Además,
+aunque las acciones monetarias restrictivas tienen el efecto aludido, el
+tipo de cambio en un régimen de libre flotación se ve influido por una
+multiplicidad de variables, por lo que las medidas restrictivas de política
+monetaria no son efectivas para anclarlo, como en algunas ocasiones se
+ha sugerido por diversos analistas.
+Finalmente, la corrección de las expectativas de inflación que
+se da en respuesta a un aumento del “corto” se verá reflejada a la postre
+en la revisión de los salarios, en la formación de los precios en la
+economía y en la cotización del tipo de cambio.
+La descripción anterior deja en claro la complejidad de los
+canales de transmisión de la política monetaria y la incertidumbre sobre la
+importancia relativa de cada uno de ellos.21
+Con fundamento en lo expuesto, a fin de evaluar la conducción
+de la política monetaria, los agentes económicos necesitan conocer los
+elementos sobre los cuales el Banco de México finca su análisis de las
+presiones inflacionarias y de las condiciones monetarias, así como los
+objetivos de inflación de corto y mediano plazos. Por tanto, en el año
+2000 el Banco de México consideró conveniente ampliar los mecanismos
+de comunicación con el público mediante la publicación de informes
+trimestrales sobre la inflación. Asimismo, se anunciaron objetivos de
+inflación multianuales. Estas medidas constituyen un esfuerzo significativo
+para lograr que la aplicación de la política monetaria sea lo más
+transparente posible. De esta forma, la política monetaria en México ha
+ido convergiendo a un esquema de objetivos de inflación.
+21 Aunque existen canales adicionales a través de los cuales la política monetaria influye
+sobre el comportamiento de la inflación, éstos son menos relevantes y pueden
+consultarse fácilmente en la literatura especializada.
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+67
+Este esquema de la política monetaria fue utilizado por primera
+vez en 1990 por Nueva Zelanda. A partir de entonces, varios países,
+desarrollados y emergentes, lo han adoptado. Ello, como resultado de
+los problemas que enfrentaron las estrategias sustentadas en agregados
+monetarios y por la creciente adopción de sistemas cambiarios de libre
+flotación. Entre los países que utilizan este enfoque también se encuentran
+Australia, Canadá, Inglaterra, Suecia, Finlandia, Israel, Chile, la
+República Checa, Brasil, Polonia y Sudáfrica.22 Las principales
+características de este régimen monetario, el cual se basa en la aplicación
+de medidas discrecionales de política monetaria con el fin de alcanzar los
+objetivos de inflación propuestos, son las siguientes:
+(a) el reconocimiento de la estabilidad de precios como el objetivo
+fundamental de la política monetaria;
+(b) el anuncio de metas de inflación de mediano plazo;
+(c) la conformación de una autoridad monetaria autónoma;
+(d) la aplicación de la política monetaria en un marco de
+transparencia, el cual se sustenta en una estrategia de
+comunicación respecto de los objetivos, planes y decisiones de
+la autoridad monetaria;
+(e) un análisis de todas la fuentes de presiones inflacionarias con el
+fin de evaluar la trayectoria futura del crecimiento de los
+precios; y
+(f) el uso de mediciones alternativas de la inflación, como la
+inflación subyacente, para separar aquellos fenómenos que
+inciden de manera transitoria sobre la inflación e identificar la
+tendencia de mediano plazo del crecimiento de los precios.
+Entre los beneficios que han obtenido los países que adoptaron
+este esquema destacan los siguientes:
+(a) reducción de la inflación y consolidación de la estabilidad de
+precios;
+22 Para una descripción de algunas de estas experiencias véase “Metas de inflación como
+instrumento de política monetaria”, Documento de Investigación 9702, Banco de México,
+mayo de 1997.
+B A N C O D E M É X I C O
+68
+(b) disminución de la transmisión de los movimientos cambiarios a
+precios;
+(c) mayor transparencia y comprensión de la aplicación de la
+política monetaria; y
+(d) mejor rendición de cuentas por parte de la autoridad
+monetaria.
+IV.2. Elementos del Programa Monetario
+En esta sección se presentan los elementos fundamentales del
+esquema de política monetaria vigente en México. Estos son congruentes
+con la descripción arriba presentada del esquema de objetivos de
+inflación.
+IV.2.1. Objetivos del Programa
+Debido a que la inflación en México es aún elevada, la Junta de
+Gobierno ha considerado que para abatir el crecimiento de los precios de
+manera permanente, es preferible hacerlo en forma gradual. Esta
+estrategia se ha adoptado con el fin de reducir los costos sociales que
+conlleva el proceso de estabilización. La evidencia recabada de aquellas
+economías que han reducido la inflación a partir de niveles similares a los
+que prevalecen hoy en día en México, confirma la pertinencia de la
+decisión tomada por el Instituto Central.
+Con base en este planteamiento, la Junta de Gobierno del
+Banco de México estableció como objetivo de mediano plazo que para
+diciembre de 2003 se alcance una tasa de incremento anual del INPC de
+3 por ciento. Con el propósito de establecer referencias de corto plazo
+en la trayectoria hacia la estabilidad de precios, la Junta de Gobierno del
+Banco de México, en el Informe sobre la Inflación: Julio–Septiembre de
+2000, fijó como meta para 2001 una inflación anual que no exceda de
+6.5 por ciento. A la vez, también se anunció que el objetivo de inflación
+para 2002, el cual será dado a conocer en el transcurso del presente
+año, deberá situarse en alrededor de 4.5 por ciento. En diciembre de
+2000, el H. Congreso de la Unión aprobó el Presupuesto de Egresos de
+la Federación y la Ley de Ingresos para 2001, los cuales son congruentes
+con un déficit de 0.65 por ciento del producto. La reducción propuesta
+en el déficit del sector público coadyuvará al abatimiento de la inflación.
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+69
+Dada la coyuntura actual, una condición necesaria para
+alcanzar las metas propuestas es una política monetaria restrictiva.
+Cuando la fijación de los precios y de los salarios en la economía se guía
+por expectativas de inflación que se encuentran por arriba de las metas,
+el Instituto Central debe restringir la postura de la política monetaria. Lo
+anterior con el fin de inducir, a través de los canales ya descritos, una
+corrección de las expectativas de inflación de los agentes económicos y,
+eventualmente, que ese hecho se refleje en la fijación de los precios y de
+los salarios en la economía. Mientras no exista congruencia entre estas
+variables y las metas de corto y largo plazo, la política monetaria deberá
+mantener su sesgo restrictivo. Es por ello que en una situación como la
+que actualmente se vive en México, en la cual las expectativas de
+inflación son superiores a las metas, un elemento esencial para alcanzar el
+objetivo de inflación es la aplicación de una política monetaria restrictiva.
+De este planteamiento también se desprende que en la medida en que la
+determinación de los precios y de los salarios sea compatible con los
+objetivos de inflación, éstos podrán alcanzarse con la aplicación de una
+política monetaria menos restrictiva. Como resultado, el costo del
+proceso de reducción de la inflación disminuye.
+Aun cuando la postura monetaria sea la adecuada, en el corto
+plazo la evolución de los precios puede verse influida por perturbaciones
+de los precios clave de la economía, como son el tipo de cambio, los
+salarios y los precios administrados y concertados por el sector público.
+Por ello, es posible que al materializarse dichas perturbaciones, la política
+monetaria no pueda contrarrestarlas con la velocidad necesaria para
+cumplir con la meta anual de inflación. En tales circunstancias, el objetivo
+de mediano plazo adquirirá la función de ancla nominal del sistema. Ante
+esta situación, la autoridad monetaria anunciará el tiempo que estima
+tomará la absorción de la perturbación aludida y aplicará las medidas
+apropiadas para alcanzar el objetivo de mediano plazo propuesto
+originalmente. Estas acciones estarían dirigidas a limitar el deterioro de
+las expectativas inflacionarias y a permitir el restablecimiento de la
+trayectoria descendente de la inflación.
+En aquellos periodos en los cuales la economía requiere de una
+depreciación del tipo de cambio real, o de un aumento de los precios
+públicos, se experimentan presiones inflacionarias no anticipadas. Si en
+tal coyuntura, la autoridad monetaria quisiera cumplir a toda costa con
+sus objetivos de inflación de corto plazo, tendría que inducir un
+movimiento en sentido contrario en el resto de los precios de la
+economía, de magnitud tal que compensara los impactos inflacionarios de
+B A N C O D E M É X I C O
+70
+los aumentos mencionados. Debido a la inflexibilidad a la baja que
+exhiben casi todos los precios, este ajuste sería prácticamente imposible
+de realizar en el corto plazo sin que sus costos resultaran excesivamente
+onerosos. En consecuencia, ante un escenario semejante, el Banco de
+México, siguiendo la práctica de la mayoría de los bancos centrales del
+mundo, no compensaría totalmente el impacto inflacionario directo de los
+ajustes, lo cual redundaría en una desviación transitoria de la inflación
+respecto de los objetivos de corto plazo. El Banco de México restringiría
+la política monetaria en el grado necesario para evitar la generación de
+efectos duraderos sobre las expectativas inflacionarias y sobre la inflación
+misma. De esta manera, las perturbaciones aludidas tendrían tan sólo un
+impacto temporal sobre la inflación. Una vez absorbidas, el crecimiento
+de los precios regresaría a la trayectoria establecida originalmente.
+Los incrementos salariales nominales cuando son incompatibles
+con las ganancias en productividad y con los objetivos de inflación,
+también elevan considerablemente el costo social del proceso
+desinflacionario. Esto se debe a que, como secuela de dichos aumentos,
+se elevarían los costos de producción de las empresas. Al enfrentar esta
+situación, una vez agotadas las posibilidades de absorber los mayores
+costos aceptando una reducción de sus utilidades, las empresas tratarían
+de trasladarlos al consumidor a través de alzas en sus precios. Si la
+autoridad monetaria acomodara estos aumentos, la inflación se
+incrementaría y ello reduciría o anularía las pretendidas ganancias en el
+salario real.
+Por el contrario, si la autoridad monetaria reaccionara
+restrictivamente, el resultado sería una contracción de las utilidades de las
+empresas, de la inversión y del empleo. En suma, la economía se vería
+sumergida en una situación de bajo o nulo crecimiento. La meta de
+desinflación se habría logrado, pero el costo del ajuste resultaría elevado.
+El argumento anterior ilustra claramente la necesidad de que las
+negociaciones salariales contractuales se sustenten en expectativas de
+inflación congruentes con los objetivos anunciados. De esa manera se
+reducirá el costo del proceso desinflacionario y éste podrá avanzar de
+acuerdo con lo programado.
+Un factor que ha coadyuvado a alcanzar los objetivos de
+inflación en los últimos dos años es el cumplimiento de las metas en el
+ámbito de las finanzas públicas. Sin embargo, como se ha señalado en
+múltiples ocasiones, la fortaleza fiscal de los últimos años se apoyó
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+71
+parcialmente en ingresos petroleros elevados. Esto transparenta la
+vulnerabilidad que presentan el marco macroeconómico y el descenso
+futuro de la inflación frente a una reducción súbita del precio del petróleo.
+La excesiva dependencia de los ingresos públicos con respecto al
+petróleo constituye una de las deficiencias más graves de que adolece la
+estructura fiscal de México. Por ello, resulta de suma importancia
+vigorizar las finanzas públicas mediante una reforma fiscal que reduzca
+dicha dependencia.
+En caso de que la reforma fiscal causara efectos alcistas sobre
+los precios, en el corto plazo se produciría una desviación transitoria de
+la inflación respecto de las metas propuestas. No obstante, como se
+señaló respecto de los cambios en los precios relativos, si la acción
+preventiva de la autoridad monetaria logra evitar la generación de efectos
+secundarios, la inflación regresará en tan sólo unos meses a los objetivos
+planteados inicialmente. En concreto, de presentarse el escenario
+descrito, una vez que se aprobara la reforma fiscal y se conocieran sus
+componentes, el Banco de México anunciaría el periodo en el que, a su
+juicio, surtiría efectos esta perturbación de la inflación y, por ende,
+cuántos meses podría retrasarse el cumplimiento de la meta de inflación
+de 2001. Una vez contenida la posible revisión de corto plazo de las
+expectativas inflacionarias, el proceso de reducción de la inflación se
+vería reforzado por una posición fiscal más sólida. Por tanto, aun cuando
+la reforma fiscal tuviera efectos inmediatos sobre la inflación, que
+obligaran a posponer el cumplimiento de los objetivos de corto plazo, la
+viabilidad de conseguir los de mediano y largo plazos se incrementaría.
+La discusión anterior ilustra claramente los elementos que se
+consideran necesarios para alcanzar, en primera instancia, la meta de
+inflación propuesta para 2001 y, ulteriormente, la convergencia con el
+objetivo de inflación de 3 por ciento en 2003:
+(a) una política monetaria restrictiva;
+(b) ajustes de precios administrados por el sector público con base
+en los objetivos de inflación;
+(c) incrementos salariales congruentes con las ganancias
+sostenibles en productividad y con la meta de inflación;
+(d) ausencia de perturbaciones externas severas –tales como
+reducciones de los términos de intercambio o de la oferta de
+B A N C O D E M É X I C O
+72
+capitales externos– que conlleven una modificación
+considerable del tipo de cambio real; y
+(e) una postura fiscal estructuralmente sólida.
+El Banco de México evaluará en los Informes sobre la Inflación
+que publique a lo largo de 2001 las consecuencias del incumplimiento de
+una o más de las condiciones enunciadas. Asimismo, se procuraría
+pronosticar la velocidad a la cual la perturbación inflacionaria podría ser
+absorbida. Obviamente, este ejercicio estaría sujeto a un grado
+considerable de incertidumbre. Una vez instrumentada la reforma fiscal
+con el afán de informar al público de la manera más transparente, el
+Banco de México daría a conocer su estimación de los efectos directos e
+indirectos de dicha reforma sobre la inflación. En esas circunstancias
+muy probablemente se tendría que restringir la política monetaria con el
+propósito de regresar la inflación general a niveles congruentes con los
+objetivos de mediano plazo. De esta forma, se reforzaría el papel de
+ancla nominal que cumplen las metas de inflación y se evitaría la
+contaminación de las expectativas de inflación de mediano y largo plazos.
+IV.2.2. Instrumentación de la Política Monetaria
+La conducción de la política monetaria se lleva a cabo en un
+entorno en el cual tanto el tipo de cambio como las tasas de interés se
+determinan libremente en los mercados financieros. En este esquema, el
+Banco de México, al igual que la mayoría de los bancos centrales del
+mundo, garantiza antes que nada que no generará ni excesos ni faltantes
+de oferta de base monetaria. Para ello, ajusta diariamente la oferta de
+dinero primario de forma tal que esta corresponda con su demanda.
+Acorde con este esquema, el Banco de México interviene
+todos los días en el mercado de dinero. Ello se hace mediante subastas,
+ofreciendo créditos o depósitos, o a través de la compraventa de valores
+gubernamentales en directo o en reporto23. El Banco de México permite
+a las instituciones de crédito, al cierre de las operaciones del día, registrar
+saldos negativos (sobregiros24) en sus cuentas corrientes, siempre y
+cuando al término de un periodo de 28 días, dichos sobregiros hayan
+sido compensados con depósitos equivalentes.
+23 Este tipo de operación puede realizarse con valores emitidos por el Gobierno Federal o
+bien por el propio Banco Central.
+24 Cuando no excedan de ciertos límites. Al respecto, ver Anexo 4 del Informe Anual 1996.
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+73
+Con fundamento en lo anterior, al final de cada periodo de
+medición, el Banco de México suma para cada banco los saldos
+positivos diarios mantenidos en su cuenta corriente y le resta el total de
+los sobregiros incurridos. Si el cálculo anterior arroja un sobregiro neto
+para una institución de crédito, el Banco de México le cobra sobre dicho
+monto una tasa de interés equivalente a dos veces la tasa de Cetes a 28
+días prevaleciente en el mercado. Por otra parte, si un banco registra
+saldos positivos acumulados en el periodo de medición, éste incurre en el
+costo de oportunidad de haber mantenido recursos ociosos en el Banco
+de México, ya que el Instituto Central no los remunera. Por ello,
+conviene a las instituciones de crédito mantener un saldo acumulado igual
+a cero en sus cuentas corrientes. El Banco Central determina sus
+operaciones en el mercado de dinero de tal manera que la suma de los
+saldos acumulados de las cuentas corrientes de toda la banca (saldo
+acumulado de saldos diarios totales) termine el periodo de medición de
+28 días en un monto determinado de antemano.
+Con el objeto de enviar señales sobre sus intenciones de
+política monetaria, el Banco de México da a conocer diariamente el nivel
+al que pretende llevar el “saldo acumulado de los saldos diarios totales”
+de las cuentas corrientes al término del periodo de medición. De esta
+manera, por ejemplo, un objetivo de saldo acumulado igual a cero es
+indicativo de la intención del Banco Central de satisfacer, a tasas de
+interés de mercado, toda la demanda de billetes y, por tanto, de
+proporcionar los recursos necesarios para que la banca en su conjunto
+no se vea obligada a incurrir en sobregiros o a acumular saldos positivos
+no deseados al finalizar el periodo de cómputo.
+Un objetivo de saldos acumulados negativo, o sea un “corto”,
+señala la intención del Banco Central de no proporcionar a la banca
+todos los recursos demandados a tasas de interés de mercado. Este tipo
+de acción por parte del Banco Central obliga a alguna o a varias
+instituciones de crédito a obtener una parte de los recursos requeridos a
+través del sobregiro en sus cuentas corrientes. Esto último, haciendo
+abstracción de otras influencias, induce una elevación de las tasas de
+interés, ya que las instituciones tratarán de evitar pagar la elevada tasa
+que se cobra por los sobregiros en el saldo acumulado al finalizar el
+periodo de cómputo. Esto se intentaría buscando obtener los recursos
+faltantes en el mercado de dinero. Esta circunstancia envía al mercado la
+señal de que el Banco de México ha adoptado una postura restrictiva de
+política monetaria.
+B A N C O D E M É X I C O
+74
+El Banco de México siempre proporciona el crédito suficiente
+para atender plenamente la demanda de billetes y monedas, incluso
+cuando adopta un objetivo de saldos acumulados negativo. La diferencia
+reside en que en este último caso, parte de ese crédito es otorgado a una
+tasa superior a la de mercado, como resultado de que se ha producido
+un sobregiro en la cuenta corriente de uno o más bancos.
+En algunas ocasiones, la tasa de interés determinada por el
+mercado podría no ser congruente con el cumplimiento de los objetivos
+de inflación. En tal situación, el Banco de México restringiría la postura
+de la política monetaria mediante el establecimiento o ampliación del
+“corto”. Como se mencionó, la efectividad del “corto” para inducir
+movimientos alcistas en las tasas de interés ha sido comprobada en varios
+estudios. Esta efectividad se ha manifestado claramente en ocasión de los
+aumentos recientes del “corto”. Durante el segundo semestre de 2000 y
+especialmente a partir del cuarto trimestre, las ampliaciones del “corto”
+han tenido como resultado un aumento sostenido de las tasas de interés
+reales.
+El “corto” es el instrumento que utiliza, y que previsiblemente
+seguirá utilizando el Banco de México para inducir los movimientos de las
+tasas de interés necesarios para estar en posición de alcanzar los
+objetivos de inflación propuestos. El “corto” ha resultado ser un
+instrumento muy eficaz en cuanto a permitir una distribución espontánea
+del efecto inducido por las perturbaciones externas entre el tipo de
+cambio y las tasas de interés. Esta ventaja es de suma importancia en una
+economía como la mexicana, que está sujeta a una gran volatilidad y a
+una transmisión alta de las variaciones del tipo de cambio hacia los
+precios. Además, este mecanismo ha contribuido de manera significativa
+al proceso de desinflación, ya que las tasas de interés nominales y reales
+han reaccionado de manera expedita a las modificaciones del instrumento
+y a las desviaciones de la inflación esperada con respecto al objetivo.25
+También se ha demostrado que la aplicación de un “corto” a
+través de sus efectos sobre las tasas de interés reales, redunda en un
+menor crecimiento de la demanda agregada al estimular el ahorro y
+encarecer el crédito bancario y no bancario. Debido a la importancia
+25 Para una discusión de las ventajas del “corto” y del efecto de las tasas de interés sobre
+la demanda agregada véase “Consideraciones sobre la conducción de la política
+monetaria y el mecanismo de transmisión en México”, documento elaborado para el
+seminario Estabilización y Política Monetaria: La Experiencia Internacional, organizado
+por el Banco de México en noviembre de 2000.
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+75
+que ha adquirido este último en tiempos recientes, la influencia de las
+mayores tasas de interés sobre la demanda agregada ha operado en gran
+medida vía su efecto sobre el costo del crédito no bancario. En la
+medida en que continúe la expansión del crédito bancario, el impacto de
+tasas reales de interés más elevadas cobrará aún mayor relevancia en
+razón del aumento en el acervo total de crédito en la economía.
+IV.2.3. Análisis de las Presiones Inflacionarias y Política de
+Comunicación
+A través de una aplicación oportuna de las medidas
+discrecionales de política monetaria para alcanzar los objetivos de
+inflación, el Instituto Central influye en el proceso de formación de los
+precios y sobre las expectativas de inflación. Lo deseable es que la
+política monetaria se instrumente en forma preventiva, lo cual reduce
+sustancialmente los costos del proceso de abatimiento de la inflación. En
+consecuencia, el Banco de México debe vigilar constantemente todas las
+fuentes de presiones inflacionarias y actuar sin demora cuando el análisis
+indique su presencia. Mientras esta respuesta sea aplicada con la mayor
+oportunidad, más clara será la señal que emane del Banco Central y, por
+ende, más intensa será su influencia sobre los procesos de formación de
+expectativas y de precios.
+Como apoyo para la conducción de la política monetaria, el
+Banco de México realiza un análisis continuo de la evolución de los
+precios y de las perspectivas inflacionarias. Este proceso se sintetiza y se
+hace público a través de los Informes sobre la Inflación que se publican
+con una periodicidad trimestral. En dichos Informes se estudia, en primer
+lugar, la evolución reciente de la inflación general y de varios subíndices
+de precios. También se examina el comportamiento de los principales
+determinantes de la inflación, entre los cuales destacan los siguientes:
+(a) el entorno externo y el tipo de cambio;
+(b) remuneraciones, salarios, empleo y costos unitarios de la mano
+de obra;
+(c) oferta y demanda agregadas;
+(d) precios administrados y concertados;
+(e) finanzas públicas;
+B A N C O D E M É X I C O
+76
+(f) fenómenos transitorios que afectan a la inflación; y
+(g) agregados monetarios y crediticios.
+El proceso descrito permite obtener una explicación detallada
+del comportamiento pasado de la inflación y también hacer inferencias
+sobre la evolución futura de los precios.
+En los mencionados informes trimestrales también se revisan las
+perspectivas relativas a cada uno de los principales determinantes de la
+inflación. Además, se incluye una extensa discusión sobre los riesgos que
+enfrenta la economía –y en particular las metas de la política monetaria–
+ante las contingencias inmediatas y sobre cuál sería la reacción de la
+autoridad de materializarse alguno de dichos riesgos.
+Con base en todo lo anterior el Instituto Central utiliza los
+“cortos”, adoptando una política monetaria más restrictiva, cuando en el
+entorno macroeconómico se detectan presiones inflacionarias futuras
+incongruentes con el logro de los objetivos de inflación. Estas presiones
+suelen ser producto de las siguientes situaciones:
+(a) cuando las expectativas inflacionarias del público se desvían en
+forma considerable respecto del objetivo de inflación;
+(b) cuando la demanda agregada aumenta persistentemente a tasas
+superiores al crecimiento potencial de la producción;
+(c) cuando se presentan perturbaciones inflacionarias exógenas. En
+particular, la política monetaria procurará, en toda
+circunstancia, neutralizar los efectos secundarios de dichas
+perturbaciones sobre los precios y, en ocasiones, actuará de
+manera precautoria para contrarrestar parcialmente los efectos
+inflacionarios directos que originen los movimientos de los
+precios clave en la economía. El objetivo final de este enfoque
+es que los ajustes necesarios de los precios relativos afecten
+sólo moderadamente al INPC, elevando su nivel pero evitando
+el deterioro de las expectativas inflacionarias; y
+(d) cuando se necesita restaurar condiciones ordenadas en los
+mercados cambiario y de dinero.
+A pesar de las salvedades expresadas en las secciones
+anteriores, el crecimiento de la base monetaria es una referencia general
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+77
+de utilidad para el seguimiento de la política monetaria. Debido a esto, en
+el Apéndice de este documento se presenta la trayectoria pronosticada
+de la base monetaria diaria, estimada con información disponible a enero
+de 2001 y congruente con el objetivo de inflación para el año. En dicho
+apéndice también se proporcionan los supuestos utilizados para la
+elaboración de dicha estimación.
+IV.3. Perspectivas para el año 2001 y Balance de
+Riesgos
+En el transcurso de las últimas semanas se ha materializado uno
+de los escenarios de riesgo sobre el que el Banco de México había
+advertido repetidamente en sus Informes sobre la Inflación publicados en
+el año 2000. En concreto, ha tenido lugar un cambio drástico en las
+perspectivas respecto a la evolución de las principales variables externas
+que influyen sobre el comportamiento de la economía mexicana.
+Específicamente:
+(a) los pronósticos de crecimiento de la economía de los Estados
+Unidos para 2001 se han revisado significativamente a la baja;
+y
+(b) el precio del petróleo, tanto en el mercado “spot” como en el
+de futuros, se ha reducido.
+Estos dos fenómenos han estado asociados a información
+reciente que indica, de manera cada vez más contundente, que el ritmo
+de expansión de la economía de los Estados Unidos se ha debilitado
+considerablemente. Lo anterior ha llevado a una revisión importante del
+entorno externo esperado para 2001 en comparación con el panorama
+que se presentó en el Informe sobre la Inflación: Julio–Septiembre 2000.
+Como consecuencia de esta modificación de las perspectivas externas,
+también se han actualizado los pronósticos sobre la evolución de la
+economía nacional.
+A continuación se presenta una descripción breve del entorno
+externo y de la evolución de las principales variables macroeconómicas
+de México anticipadas para 2001. Finalmente, se discuten los elementos
+de riesgo más importantes que se vislumbran en este escenario base.
+B A N C O D E M É X I C O
+78
+IV.3.1. Entorno Externo
+Las expectativas de un grupo considerable de corredurías
+internacionales respecto a la expansión futura de la economía de Estados
+Unidos indican claramente que en los meses de diciembre y enero tuvo
+lugar una rápida e importante corrección (Cuadro 9).
+Cuadro 9 Evolución de las Expectativas de Crecimiento Económico en los
+Estados Unidos para 2001
+Por ciento
+Credit Suisse 4.2 n.d. n.d. 2.8 1.8
+Deutsche Bank 4.0 3.9 3.9 2.7 1.8
+Goldman Sachs 4.0 4.0 3.3 3.0 2.0
+JP Morgan 3.8 3.7 3.1 3.0 1.8
+Merrill Lynch 4.0 4.0 3.7 3.0 2.0
+Morgan Stanley 3.6 3.7 3.0 2.5 1.1
+2000
+Enero
+2001
+Septiembre Octubre Noviembre Diciembre
+La revisión aludida se ha dado en respuesta a la acumulación
+de información –la cual se presenta con detalle en la sección II.3.3– que
+muestra sin ambigüedad que ha tenido lugar una importante
+desaceleración económica en los Estados Unidos. Esta percepción
+quedó confirmada por la reducción de 50 puntos base en la tasa de
+Fondos Federales acordada de manera inesperada el 3 de enero de
+2001 por la Reserva Federal. Debido a la importancia que la expansión
+de la economía de dicho país ha tenido con respecto al crecimiento de la
+economía mundial, el cambio de percepción referido ha dado lugar a que
+se revisen a la baja los pronósticos de crecimiento para los principales
+países (Cuadro 10).
+Cuadro 10 Evolución de las Expectativas de Crecimiento Económico en 2001
+para algunas Economías Seleccionadas
+Por ciento
+Canadá 3.9 3.9 3.6 3.4 2.7
+Japón 1.7 1.8 1.7 1.7 1.3
+Reino Unido 2.7 2.7 2.7 2.7 2.4
+Unión Monetaria
+Europea 3.3 3.1 3.1 3.0 2.4
+Septiembre Octubre
+2000
+Enero
+2001
+Noviembre Diciembre
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+79
+FUENTE: Global Data Watch, JP Morgan
+A la vez, la desaceleración esperada para la economía mundial
+ha incidido sobre el comportamiento del precio del petróleo. En
+particular, el precio del petróleo WTI se redujo en 4.72 dólares por
+barril en su cotización promedio entre noviembre de 2000 (34.37 dólares
+por barril) y enero de 2001 (29.65 dólares por barril). Por su parte, las
+cotizaciones a futuro del precio del energético indican que el de la mezcla
+mexicana, probablemente descienda de 20.98 dólares por barril
+observado el 25 de enero a 20.61, 18.58, 17.26 y 16.31 dólares por
+barril en marzo, junio, septiembre y diciembre, respectivamente.26
+En respuesta a los acontecimientos descritos, el Banco de
+México ha modificado los supuestos incorporados en sus pronósticos
+sobre la evolución del entorno externo. En particular cabe destacar los
+siguientes:
+(a) La tasa de crecimiento esperada para la economía de los
+Estados Unidos se revisó de 3.2 por ciento a un intervalo entre
+1.8 y 2.4 por ciento. Ello, en congruencia con los pronósticos
+de la gran mayoría de las corredurías y del FMI. Asimismo, se
+anticipa que la debilidad de dicha economía se profundizará en
+el primer semestre pero en el segundo se espera una importante
+recuperación.
+(b) Con base en las cotizaciones a futuro del precio del petróleo
+WTI y considerando la diferencia que el precio de este crudo
+mantuvo con el de la mezcla mexicana en diciembre la
+estimación es que en 2001 el precio promedio de la mezcla
+mexicana se ubique en 18.52 dólares por barril.
+Adicionalmente, es importante destacar el incremento en la
+volatilidad del mercado petrolero en los últimos meses, lo cual
+mantiene latente el peligro de una reducción mayor en el precio
+de la mezcla mexicana.
+Un factor que previsiblemente contribuirá a que el acomodo de
+la economía de México a la desaceleración económica de los Estados
+Unidos y a la caída del precio del petróleo sea ordenado, es el posible
+aumento de los flujos netos de capital privado hacia América Latina. Esto
+respondería a la perspectiva de que la desaceleración de los Estados
+26 Estimación que utiliza el diferencial promedio en diciembre entre el WTI y la mezcla
+mexicana (8.75 dólares por barril).
+B A N C O D E M É X I C O
+80
+Unidos venga acompañada de una ligera corrección del déficit de la
+cuenta corriente de dicha economía, liberándose de esa manera recursos
+que quedarían disponibles para otras economías del mundo, y a un
+entorno de tasas de interés bajas. Un factor que podría impedir que estos
+recursos se dirigieran a América Latina es que la agudización de la
+aversión al riesgo que se ha presentado en los bonos de alto riesgo en los
+Estados Unidos se propagara a los bonos de los mercados emergentes.
+Sin embargo, debido a que la caída de la demanda de bonos de alto
+riesgo en los Estados Unidos ha estado asociada al sobreendeudamiento
+de las emisoras de esos títulos y al impacto que la desaceleración de
+dicha economía pudiera tener sobre la capacidad de pago de las aludidas
+empresas, la probabilidad de que este mercado contamine al mercado de
+bonos de las economías emergentes es tal vez reducida. Asimismo, para
+2001 se pronostica un nivel de inversión extranjera directa en México
+similar al registrado el año anterior, con lo cual una parte importante de la
+cuenta corriente será financiada con recursos de largo plazo.
+IV.3.2. Evolución Prevista para las Principales Variables
+Macroeconómicas en 2001
+La evolución de la economía de México durante 2001 estará
+determinada principalmente por tres factores:
+(a) el impacto de la desaceleración económica en los Estados
+Unidos y de la caída del precio del petróleo sobre las cuentas
+externas del país;
+(b) el debilitamiento de la demanda interna; y
+(c) la disponibilidad y condiciones de acceso al financiamiento
+externo.
+Sin duda, la reducción del crecimiento económico en los
+Estados Unidos tendrá un efecto desfavorable sobre el incremento de las
+exportaciones de México. Sin embargo, la magnitud del impacto es muy
+difícil de calcular debido a que la intensa integración comercial entre los
+dos países es un fenómeno reciente, que coincide con la expansión más
+larga en la historia económica de los Estados Unidos. Por ello, para
+hacer esta inferencia no se cuenta como referencia con un episodio de
+desaceleración económica en los Estados Unidos en el cual el grado de
+integración haya sido similar al actual. Las exportaciones de México
+también se verán afectadas por la disminución del precio del petróleo.
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+81
+Obviamente, la reducción de la tasa de incremento de las
+exportaciones durante 2001 afectará el crecimiento de la economía
+mexicana y, probablemente, éste será menor que el de 4.5 por ciento
+anunciado originalmente. Ello, en razón de que el pronóstico se realizó
+bajo el supuesto de que la economía de los Estados Unidos crecería a
+una tasa anual de entre 3 y 3.2 por ciento. El efecto de la reducción de la
+tasa de expansión de las exportaciones sobre el crecimiento económico
+se verá amortiguado por la consecuente desaceleración de las
+importaciones, inducida por la contracción de la demanda de insumos
+importados. Así, como resultado del cambio de las perspectivas con
+respecto al entorno internacional, los analistas del sector privado han
+ajustado a la baja su pronóstico para el crecimiento económico de
+México en 2001.
+Cuadro 11 Crecimiento Real Esperado de la Economía de México en 2001
+Por ciento
+Credit Suisse 4.6 4.6 4.6 4.2 3.2
+Deutsche Bank 4.9 4.9 4.9 4.3 3.7
+Goldman Sachs 4.8 4.8 4.5 4.0 3.6
+JP Morgan 4.0 4.1 3.8 3.8 3.2
+Morgan Stanley 4.5 4.2 4.2 4.2 3.3
+Banamex 5.3 5.3 5.1 4.9 4.1
+BBVA-Bancomer 5.0 5.0 4.6 4.0 4.0
+Santander n.d. n.d. 4.7 4.7 3.9
+2000 2001
+Septiembre Octubre Noviembre Diciembre Enero
+FUENTE: Diversos reportes de las instituciones financieras.
+El escenario base del Banco de México para 2001 también
+supone una importante desaceleración del ritmo de crecimiento de la
+demanda interna. En particular, del consumo privado y público y de la
+inversión privada. Ello, en respuesta a las elevadas tasas de interés reales
+que se prevén, al ajuste fiscal y a la desaceleración de la actividad
+económica y del crecimiento del empleo.
+Con respecto al ajuste fiscal en 2001, cabe señalar que si bien
+la reducción aprobada en el déficit público, a 0.65 por ciento del PIB, es
+indudablemente un paso en la dirección correcta, las finanzas públicas
+aún presentan fragilidades de consideración. En particular resulta
+preocupante el incremento del gasto público programable de 3.5 por
+ciento en términos reales, ya que éste se aplica sobre el elevado nivel de
+gasto incurrido en 2000. A este respecto, resulta alentador que el
+B A N C O D E M É X I C O
+82
+Gobierno Federal haya expresado su voluntad de realizar un esfuerzo
+adicional de control y racionalización de sus erogaciones con el fin de
+alcanzar en 2001 un déficit de 0.5 por ciento del producto. Es
+recomendable que la prudencia fiscal se extienda también a aquellas
+operaciones fuera del presupuesto, por ejemplo los PIDIREGAS y la
+intermediación financiera de la banca de desarrollo, que en el futuro
+pueden dar lugar a presiones adicionales sobre las finanzas públicas.
+Como ya lo indica la información disponible sobre la
+producción industrial y las ventas, la desaceleración del producto durante
+el cuarto trimestre de 2000 ha sido más rápida que la de la demanda
+agregada. Por ello, se espera que en 2001, y sobre todo en el primer
+semestre, se amplíe el déficit de la cuenta corriente.
+En el escenario base se considera que la ampliación esperada
+del déficit de la cuenta corriente no enfrentará dificultades de
+financiamiento y que no se deteriorará de manera significativa la solidez
+de las fuentes de financiamiento. Lo anterior, como ya se comentó,
+debido a que la oferta de recursos que estará disponible para las
+economías emergentes probablemente será ligeramente mayor. Ello, en
+función de una demanda más débil proveniente de los Estados Unidos y
+de las menores tasas de interés que prevalecerán en los mercados
+financieros internacionales. Sin embargo, a causa de una disponibilidad
+de divisas más limitada proveniente de las exportaciones nacionales, no
+puede descartarse que durante el año se presenten episodios de
+volatilidad en el mercado cambiario. Para que estas presiones, de ocurrir,
+se manifiesten en movimientos ordenados del tipo de cambio, y para
+inducir la corrección que se requiere en el crecimiento de la demanda
+agregada, es imprescindible que las tasas de interés reales se mantengan
+elevadas. Como se ha comentado en varias ocasiones, el complemento
+ideal de la restricción monetaria es una mayor disciplina fiscal. La
+aplicación coordinada de ambas políticas conducirá a la moderación del
+crecimiento de la demanda agregada y, posiblemente, a una reducción de
+las necesidades de financiamiento del exterior. De esta manera, se
+limitaría el impacto sobre la inflación, que pudieran infligir los factores
+externos aludidos.
+Las presiones cambiarias susceptibles de asomar en el
+escenario descrito podrían dificultar el descenso de la inflación. Ello, en
+razón de la influencia que tiene el tipo de cambio en la formación de las
+expectativas respecto al incremento futuro de los precios. En este
+escenario, los retos que enfrentaría la política monetaria serían el de
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+83
+permitir el ajuste del tipo de cambio nominal que el mercado requiera
+para alcanzar un nuevo nivel de equilibrio del tipo de cambio real
+congruente con un entorno externo menos favorable y el de evitar que
+esta corrección generase revisiones al alza de las expectativas de
+inflación, de los incrementos salariales y de la inflación de los bienes no
+comerciables. Para lograr esta finalidad, sería necesario que, de
+presentarse, el ajuste cambiario se llevara a cabo de manera ordenada.
+Ello necesita del mantenimiento de una postura restrictiva de la política
+monetaria. Asimismo, la autoridad monetaria vigilará la evolución de las
+expectativas de inflación, de los precios de los bienes no comerciables y
+de las negociaciones salariales contractuales. En su caso, reaccionará
+ante cualquier indicio de contaminación.
+Las acciones correspondientes de la política monetaria no
+estarían dirigidas a la defensa de un nivel específico del tipo de cambio.
+Una de las principales ventajas de un régimen de flotación cambiaria es
+que proporciona la flexibilidad necesaria para que el tipo de cambio real
+se desplace hacia un nuevo nivel de equilibrio cuando los participantes
+del mercado perciben que es precisa una modificación en respuesta a
+perturbaciones externas o internas. Sin embargo, la revisión de las
+expectativas de inflación que pudiera suscitarse a partir de un ajuste
+cambiario, podría elevar el costo en términos de inflación de alcanzar un
+nuevo equilibrio del tipo de cambio real. En tal situación, las acciones del
+Banco de México se enfocarían a lograr el acomodo necesario del tipo
+de cambio real al menor costo posible en términos de inflación. Al
+respecto, cabe notar que a medida que los agentes económicos han
+venido adquiriendo una mayor comprensión del funcionamiento del
+régimen de flotación, la intensidad y la velocidad con que los movimientos
+cambiarios se transmiten a los precios internos parecen haberse
+debilitado.
+En el escenario base para el año 2001, también se han
+incorporado factores internos que podrían complicar el descenso de la
+inflación. Destacan los siguientes:
+(a) expectativas de inflación superiores a la meta;
+(b) revisiones salariales contractuales incongruentes con la meta de
+inflación y con las ganancias previsibles de la productividad; y
+(c) elevado crecimiento del gasto privado.
+B A N C O D E M É X I C O
+84
+Estos tres factores podrían presionar a los precios de los
+bienes no comerciables y posiblemente generar una ampliación del déficit
+de la cuenta corriente. De suceder, esto último podría inducir una
+corrección del tipo de cambio y afectar la evolución de los precios de los
+bienes comerciables. Por estos motivos resulta indispensable que la
+política monetaria mantenga una postura restrictiva que permita
+restablecer lo antes posible la congruencia de las expectativas de inflación
+incorporadas en las revisiones salariales con la meta de inflación.
+Además, dicha postura de política monetaria también inducirá una
+moderación de la expansión de la demanda interna. Todo ello, con el
+propósito de lograr un ajuste ordenado de la economía que permita
+reducir la inflación en diciembre de 2001 a un nivel que no exceda de 6.5
+por ciento.
+El marco macroeconómico delineado sugiere que 2001 será un
+año en el cual el descenso de la inflación enfrentará mayores obstáculos
+que en el pasado reciente. En respuesta a este cambio de escenario, el
+14 de enero la Junta de Gobierno del Banco de México decidió
+aumentar el “corto” de 350 a 400 millones de pesos. Además, es
+evidente que para alcanzar los objetivos propuestos será necesario
+mantener y, posiblemente, intensificar la restricción monetaria.
+IV.3.3. Balance de Riesgos
+El escenario base presentando se encuentra sujeto a un alto
+grado de incertidumbre. Esto se debe principalmente a que si bien la
+información disponible apunta hacia una franca desaceleración de la
+economía de los Estados Unidos, su magnitud es aún difícil de estimar.
+La rapidez con la que los analistas han actualizado sus previsiones en los
+últimos dos meses, ilustra la sensibilidad de los mercados ante la
+aparición de nueva información. Hoy en día, esta cuestión constituye una
+fuente importante de incertidumbre adicional. Por tanto, a continuación se
+enuncian los riesgos, tanto externos como internos, que podría enfrentar
+la economía nacional en los próximos 12 meses. Como complemento de
+todo ello, también se describen las acciones de política económica que
+preventivamente se juzgan adecuadas para responder a dichas
+perturbaciones en caso de que llegaran a materializarse.
+Respecto al entorno externo, los principales elementos que
+podrían afectar la evolución de la economía nacional y el descenso de la
+inflación son los siguientes:
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+85
+(a) que el crecimiento de la economía de los Estados Unidos
+resulte aún menor que el anticipado, lo cual implicaría que
+dicho país experimente una recesión –de acuerdo con la
+definición oficial de dos trimestres consecutivos con
+crecimiento negativo– y que la robusta recuperación que
+actualmente se pronostica para el tercero y cuarto trimestres no
+se materializara;
+(b) que el precio del petróleo se ubique por debajo de lo indicado
+por las cotizaciones a futuro actualmente vigentes; y
+(c) que los flujos de capital hacia los mercados emergentes se vean
+afectados por un incremento de la aversión al riesgo.
+Debido a que la desaceleración de la economía de los Estados
+Unidos se ha intensificado y a ciertos desequilibrios presentes en dicha
+economía, la probabilidad de que ésta experimente una recesión en 2001
+ha aumentado en los últimos meses, aunque todavía se mantiene en
+niveles reducidos. En particular, no es fácil pronosticar la sensibilidad del
+consumo privado a la desaceleración económica y a la corrección en la
+valuación de los activos las cuales podrían resultar más agudas que las
+esperadas en la actualidad.
+Asimismo, podría presentarse el caso de que la desaceleración
+económica en los Estados Unidos afectara la salud de su sistema
+financiero, lo cual repercutiría negativamente sobre los flujos de capital
+hacia América Latina.
+Finalmente, la profundización de la desaceleración de la
+economía de los Estados Unidos, podría venir acompañada de una caída
+adicional del precio del petróleo. Ello, debido al impacto de dicha
+desaceleración sobre el crecimiento económico mundial. Asimismo, una
+demanda más débil por el energético consecuencia de una expansión mas
+lenta de la economía mundial, podría coincidir con incrementos en la
+producción de crudo que se derivarían de la capacidad adicional que
+estará disponible en la segunda mitad de 2001.
+De concretarse alguna de las primeras dos posibilidades
+expuestas, sería probable que se generase un ajuste del tipo de cambio
+real del peso como respuesta a una mayor escasez de divisas.
+En el caso de la tercera contingencia, debido a que los
+excedentes de divisas de PEMEX son vendidos al Banco de México, los
+B A N C O D E M É X I C O
+86
+cambios en esta variable no afectarían directamente la oferta de divisas
+en el mercado cambiario. Sin embargo, una caída mayor que la
+anticipada en el precio del petróleo podría inducir un movimiento en el
+tipo de cambio si se afectaran las expectativas respecto de la viabilidad
+de alcanzar las metas fiscales o si ocurriera una ampliación del déficit de
+la cuenta corriente.
+En cualquiera de estas situaciones, la modificación del tipo de
+cambio nominal sería el mecanismo de ajuste idóneo para moverse hacia
+un nuevo equilibrio del tipo de cambio real. Como se comentó, en una
+circunstancia semejante la autoridad monetaria reaccionaría con prontitud
+ante indicios de que los acomodos del tipo de cambio estuvieran
+causando una revisión al alza de las expectativas de inflación de mediano
+plazo e incidiendo sobre el comportamiento de los precios de los bienes
+no comerciables.
+De materializarse alguna de estas tres posibilidades
+desfavorables también resultaría indispensable un mayor ajuste fiscal. La
+finalidad de dicha medida sería que el sector público contribuyera a
+generar un incremento del ahorro interno. Este incremento se convertiría
+en uno de los fundamentos para que la economía nacional hiciera frente a
+un menor ingreso de divisas por exportaciones –petroleras y no
+petroleras– y a una reducción del financiamiento externo. De esta
+manera se limitaría el impacto de esas perturbaciones externas sobre las
+tasas de interés reales y sobre la inversión del sector privado. Al
+respecto, el decreto aprobatorio del Proyecto de Presupuesto de
+Egresos de la Federación para el año 2001, ya incorpora en su artículo
+32 la obligación de recortar el gasto para compensar pérdidas de
+ingresos públicos asociadas a cualquiera de los eventos desfavorables
+descritos. Las autoridades hacendarias han reiterado en diversos foros
+que buscarán alcanzar un déficit fiscal menor que el aprobado por el H.
+Congreso de la Unión para este año.
+El escenario base supone que en los próximos meses la tasa de
+crecimiento de la demanda interna disminuirá significativamente. Lo
+anterior debe limitar la ampliación del déficit de la cuenta corriente, a fin
+de preservarlo en un nivel congruente con la oferta previsible de capitales
+de largo plazo.
+Al momento de publicar este documento los principales
+factores internos de riesgo para el escenario base son los siguientes:
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+87
+(a) que el crecimiento de la demanda interna proveniente del sector
+privado supere por un amplio margen al de la producción
+interna. En esa circunstancia, se profundizaría la dependencia
+de la economía con respecto al financiamiento externo de corto
+plazo, aumentándose la vulnerabilidad del proceso
+desinflacionario frente a la volatilidad de los mercados
+internacionales de capital;
+(b) que las expectativas de inflación continúen mostrando la rigidez
+exhibida hasta ahora por un periodo más prolongado; y
+(c) que las negociaciones salariales contractuales no se concluyan
+en niveles congruentes con el objetivo de inflación y con el
+crecimiento previsible de la productividad de la mano de obra.
+Es probable que de materializarse los elementos internos de
+riesgo, lo hagan de manera simultánea. Ello, dado el hecho de que un
+crecimiento excesivo de la demanda interna sería la causa fundamental de
+la rigidez de las expectativas de inflación. En este contexto, las políticas
+macroeconómicas deberían restringirse aún más para corregir el
+crecimiento de la demanda y la desviación de las expectativas
+inflacionarias.
+B A N C O D E M É X I C O
+88
+V. Consideraciones Finales
+La evolución de las principales variables macroeconómicas en
+2000 resultó mejor que la esperada al inicio del año, tanto por analistas
+del sector privado como del sector público.
+La expansión económica que comenzó en 1996 continuó en
+2000, y la estimación al momento de publicar este Informe es que en el
+año pasado, el PIB real haya registrado un incremento superior a 7 por
+ciento, es decir, el más elevado conseguido en los últimos 19 años. Por
+su parte, del cierre de 1999 al de 2000 la tasa anual de inflación
+disminuyó de 12.32 a 8.96 por ciento, alcanzándose de esta manera, por
+segundo año consecutivo, y con holgura, la meta propuesta. El esfuerzo
+estabilizador se reflejó más notoriamente en la reducción de 6.72 puntos
+porcentuales que exhibió la inflación subyacente durante el año pasado.
+Dicha medición, que captura la tendencia de mediano plazo de la
+inflación, mostró un ritmo de descenso más lento hacia finales del año
+pasado, pero mantiene una clara trayectoria decreciente. Asimismo, en
+2000 la economía mexicana logró crear más de 529 mil empleos
+formales y los salarios reales tuvieron un incremento mayor que 6 por
+ciento. El comportamiento de estas variables confirma que el abatimiento
+de la inflación contribuye al crecimiento económico, a la creación de
+empleos, a la recuperación del salario real y a la reducción de la
+desigualdad.
+En 2001 la economía de México tendrá que hacer frente al
+menos a dos perturbaciones negativas provenientes del exterior: la
+reducción de los precios del petróleo y la desaceleración de la economía
+de los Estados Unidos. Estos fenómenos, a través de su impacto sobre
+las cuentas externas y fiscales del país, incidirán de manera importante
+sobre la evolución de la economía en el año que se inicia.
+Ante un entorno internacional complicado en 2001, la
+economía nacional cuenta con varios elementos de fortaleza que le
+permitirán conseguir un ajuste ordenado a las circunstancias actuales y
+recuperar, lo antes posible, el vigor que la ha caracterizado en los últimos
+cinco años. Entre los principales elementos que están contribuyendo a
+disminuir la vulnerabilidad de la economía se cuentan los siguientes:
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+89
+(a) El régimen cambiario de flotación y la libre determinación de las
+tasas de interés inhiben los flujos de capital especulativo, limitan
+la acumulación de desequilibrios en la balanza de pagos y
+permiten un rápido ajuste de las principales variables
+financieras ante perturbaciones, tanto de origen interno como
+externo.
+(b) El sistema financiero ha avanzado considerablemente en su
+proceso de consolidación y capitalización por lo que, hoy en
+día, ya no representa una fuente importante de vulnerabilidad
+económica. Además, los avances en los ámbitos regulatorio y
+legislativo, han sentado las bases para una pronta y necesaria
+reactivación del crédito bancario.
+(c) La holgada estructura de las amortizaciones de la deuda
+externa pública en 2001, las cuales han sido cubiertas casi en
+su totalidad, y el elevado nivel de reservas internacionales,
+mitigan considerablemente el impacto de posibles alteraciones
+en los mercados internacionales de capital sobre los mercados
+financieros internos.
+(d) El sector privado también presenta un bajo grado de
+exposición a modificaciones súbitas de las condiciones de
+crédito en los mercados financieros internacionales.
+(e) Un déficit de la cuenta corriente moderado, el cual será
+financiado en gran parte por flujos de capital de largo plazo.
+No obstante lo anterior, con el fin de lograr en el futuro tasas
+de crecimiento económico elevadas y sostenibles, resulta imprescindible
+avanzar en la reforma estructural, en particular la de los sectores de
+energía y de comunicaciones.
+La perseverancia en la disciplina monetaria y fiscal resultará
+crucial para consolidar y fortalecer la estabilidad alcanzada en el pasado
+reciente. Si bien los logros obtenidos en los últimos dos años se
+sustentaron en el cumplimiento de las metas fiscales y en la aplicación
+prudente de la política monetaria, también estuvieron influidos por un
+entorno internacional benigno. Por ello, para preservar la credibilidad,
+respecto de la aplicación de la política macroeconómica, es necesario
+propiciar decididamente que las metas propuestas para 2001 se cumplan,
+aun en medio de un entorno externo adverso.
+B A N C O D E M É X I C O
+90
+El esfuerzo fiscal requerido para alcanzar el déficit de 0.65 por
+ciento del PIB plasmado en el Presupuesto de Egresos de la Federación
+y en la Ley de Ingresos para 2001, constituye un paso importante en esa
+dirección. Sin embargo, como lo ha señalado reiteradamente el Gobierno
+Federal, la actual estructura fiscal aún presenta debilidades
+considerables, entre las que destaca la excesiva dependencia de los
+ingresos petroleros. Por ello, en el contexto actual, resulta impostergable
+fortalecer los ingresos públicos mediante una reforma fiscal integral.
+Por su parte, la Junta de Gobierno del Banco de México,
+reitera su compromiso de continuar utilizando de manera firme y oportuna
+los instrumentos de que dispone a fin de alcanzar los dos objetivos
+siguientes, que en realidad son secuencia del actual esfuerzo estabilizador:
+que al cierre de 2001 la inflación no exceda de 6.5 por ciento y lograr la
+convergencia a una inflación de 3 por ciento en el año 2003.
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+91
+VI. Apéndice: Pronóstico de la Demanda de Base
+Monetaria en 2001
+Como se señaló en el Programa Monetario para 2001, la
+utilidad de los agregados monetarios para la conducción de la política
+monetaria ha disminuido significativamente en los últimos años. Ello, en
+razón de que la relación entre los precios y dichos agregados se ha vuelto
+más incierta en la medida en que la inflación ha descendido. No obstante
+lo anterior, como se ha hecho a partir de 1997, y a fin de proporcionar
+información que pudiera ser pertinente para la evaluación de la política
+monetaria, a continuación se presenta la trayectoria diaria del saldo de la
+base monetaria anticipada para 2001 (Cuadro1). Dicho pronóstico es
+congruente con los siguientes supuestos: un crecimiento del PIB de 4 por
+ciento en términos reales27; una inflación no mayor que 6.5 por ciento y
+una remonetización de 2.6 por ciento. Cabe mencionar que la
+remonetización anterior es sensiblemente menor que la observada al
+cierre de 2000 (4.9 por ciento). Los supuestos anteriores dan por
+resultado un pronóstico para el saldo de la base monetaria al 31 de
+diciembre de este año de 237.4 miles de millones de pesos, 13.6 por
+ciento superior al observado en igual fecha de 2000. Los limites del
+intervalo de confianza, tomando una desviación estándar de los residuales
+que el modelo estima, corresponden a saldos de 244.5 y 230.3 miles de
+millones de pesos28.
+El modelo utilizado para la estimación incluye como variables
+explicativas de la demanda de base monetaria: la actividad económica,
+las tasas de interés, los rezagos de la variable dependiente y un conjunto
+de variables binarias que buscan capturar los distintos efectos
+estacionales. Al respecto, es importante destacar que la trayectoria de la
+base monetaria es muy difícil de precisar a priori por las siguientes
+razones: a) la relación entre la inflación y la base no ha sido estable y
+puede modificarse a lo largo del tiempo; b) los supuestos básicos para
+realizar el pronóstico de la base monetaria (referentes al crecimiento del
+producto o a las tasas de interés) pueden no materializarse; c) la relación
+27 En los últimos meses las perspectivas sobre el crecimiento de la economía mexicana se
+han vuelto más inciertas. Por ello, en la estimación de la demanda de base monetaria se
+decidió utilizar un supuesto conservador para el incremento del producto en 2001.
+28 Esto corresponde a +/- 3 por ciento del saldo pronosticado para fin de año.
+B A N C O D E M É X I C O
+92
+entre la demanda de base monetaria y las variables que explican su
+evolución también puede modificarse con el tiempo; d) innovaciones
+tecnológicas o cambios en las prácticas de pago modifican la demanda
+de base; y e) la ocurrencia de eventos extraordinarios puede propiciar
+una alteración transitoria en la demanda de base monetaria29.
+29 Por ejemplo, la incertidumbre relacionada a los problemas computacionales del año 2000
+generaron un incremento temporal de la demanda de billetes y monedas (Programa
+Monetario 2000, Banco de México).
+P R O G R A M A M O N E T A R I O P A R A 2 0 0 1
+93
+Cuadro 12 Pronóstico de los Saldos Diarios de la Base Monetaria para 2001*
+Miles de millones de pesos
+Día Ene Feb Mar Abr May Jun
+1 208.9 188.3 182.7 181.3 183.8 188.4
+2 202.8 192.4 184.6 179.2 182.2 188.4
+3 196.7 192.4 184.6 176.5 183.5 188.4
+4 196.1 192.4 184.6 176.5 184.5 186.0
+5 196.4 192.4 181.7 178.9 184.5 182.9
+6 196.4 187.7 177.9 183.4 184.5 180.9
+7 196.4 183.4 175.7 183.4 180.9 181.9
+8 192.8 183.9 177.0 183.4 177.6 183.3
+9 189.4 184.9 178.5 185.5 177.3 183.3
+10 188.1 184.9 178.5 189.9 180.5 183.3
+11 191.0 184.9 178.5 194.3 183.9 180.7
+12 194.3 182.9 176.1 194.3 183.9 178.6
+13 194.3 182.0 174.6 194.3 183.9 179.4
+14 194.3 183.5 176.2 194.3 184.1 184.1
+15 192.8 186.8 179.6 194.3 183.2 187.5
+16 189.6 188.9 181.8 190.5 182.6 187.5
+17 187.7 188.9 181.8 185.6 184.5 187.5
+18 188.4 188.9 181.8 182.5 186.2 185.0
+19 188.9 185.1 179.5 182.7 186.2 181.3
+20 188.9 181.0 177.3 183.0 186.2 179.3
+21 188.9 178.3 177.3 183.0 182.8 180.2
+22 185.7 179.4 178.1 183.0 179.1 181.1
+23 180.7 181.5 178.9 179.3 177.6 181.1
+24 178.7 181.5 178.9 175.3 179.7 181.1
+25 180.1 181.5 178.9 174.8 182.0 178.5
+26 183.3 180.3 175.3 178.8 182.0 176.3
+27 183.3 179.9 172.6 183.6 182.0 177.5
+28 183.3 180.4 173.2 183.6 181.2 182.1
+29 182.9 177.4 183.6 180.7 186.0
+30 183.2 181.3 183.8 182.6 186.0
+31 184.4 181.3 186.1
+*Información observada al 25 de enero de 2001.
+B A N C O D E M É X I C O
+94
+Pronóstico de los Saldos Diarios de la Base Monetaria para 2001
+Miles de millones de pesos
+Día Jul Ago Sep Oct Nov Dic
+1 186.0 184.9 183.5 183.6 189.9 200.1
+2 184.7 186.7 183.5 181.2 192.3 200.1
+3 183.3 188.3 181.7 180.1 192.3 198.9
+4 183.1 188.3 178.7 181.5 192.3 198.4
+5 184.7 188.3 177.2 183.3 189.4 199.8
+6 186.4 185.3 178.1 183.3 185.6 205.1
+7 186.4 181.6 179.8 183.3 183.9 210.2
+8 186.4 180.2 179.8 180.7 185.2 210.2
+9 183.3 181.7 179.8 177.4 187.5 210.2
+10 180.8 184.0 177.7 177.0 187.5 213.1
+11 181.0 184.0 176.3 181.0 187.5 217.1
+12 185.1 184.0 176.9 185.8 185.8 217.1
+13 189.0 183.3 181.6 185.8 186.3 225.0
+14 189.0 183.1 185.5 185.8 189.3 232.1
+15 189.0 183.3 185.5 185.2 193.5 232.1
+16 187.4 185.4 185.5 182.8 197.1 232.1
+17 184.6 187.1 183.4 181.6 197.1 231.8
+18 183.1 187.1 180.2 183.7 197.1 231.4
+19 184.1 187.1 178.2 185.3 195.9 232.1
+20 185.7 184.0 179.1 185.3 195.9 237.5
+21 185.7 180.1 180.6 185.3 192.2 243.5
+22 185.7 177.7 180.6 181.9 191.5 243.5
+23 182.7 179.1 180.6 178.6 192.2 243.5
+24 179.3 180.5 178.0 177.2 192.2 243.4
+25 178.1 180.5 176.0 180.3 192.2 243.4
+26 181.2 180.5 176.7 183.7 189.6 239.0
+27 185.3 177.6 181.3 183.7 188.4 236.9
+28 185.3 175.2 185.3 183.7 190.3 239.5
+29 185.3 175.6 185.3 183.3 195.7 239.5
+30 185.8 179.9 185.3 184.8 200.1 239.5
+31 185.3 183.5 187.1 237.4

@@ -1,0 +1,2084 @@
+ Informe sobre 
+la Inflación 
+Abril – Junio 2006 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JULIO, 2006 
+    
+JUNTA DE GOBIERNO 
+ 
+Gobernador 
+ 
+GUILLERMO ORTIZ MARTÍNEZ 
+ 
+Subgobernadores 
+ 
+EVERARDO ELIZONDO ALMAGUER 
+GUILLERMO GÜÉMEZ GARCÍA 
+JESÚS MARCOS YACAMÁN 
+JOSÉ JULIÁN SIDAOUI DIB 
+ 
+    
+ 
+ADVERTENCIA 
+ 
+A menos que se especifique lo contrario, este documento está elaborado 
+con información disponible al 28 de julio de 2006.  Las cifras son de carácter 
+preliminar y están sujetas a revisiones.   CONTENIDO 
+Informe sobre la Inflación Abril-Junio 2006 
+1.  Introducción.......................................................................................................1 
+2.  Evolución Reciente de la Inflación...................................................................3 
+2.1.  La Inflación en el Segundo Trimestre de 2006...............................3 
+2.2.  Índice Nacional de Precios Productor ............................................6 
+3.  Principales Determinantes de la Inflación.......................................................7 
+3.1.  Entorno Externo.............................................................................7 
+3.1.1.  Actividad Económica Global.............................................7 
+3.1.2.  Tendencias Generales de la Inflación...............................8 
+3.1.3.  Mercados Financieros.....................................................11 
+3.1.4.  Perspectivas...................................................................13 
+3.2.  Demanda y Oferta Agregadas en México ....................................14 
+3.2.1.  Indicadores de Demanda y Oferta Agregadas................14 
+3.2.2.  Empleo............................................................................18 
+3.2.3.  Sector Externo................................................................21 
+3.3.  Costos y Precios ..........................................................................24 
+3.3.1.  Salarios y Costo Unitario de la Mano de Obra................24 
+3.3.2.  Bienes y Servicios Administrados y Concertados...........25 
+3.3.3.  Materias Primas Alimenticias y Metales..........................27 
+3.4.  Evolución de los Agregados Monetarios y Crediticios..................28 
+3.4.1.  Base Monetaria, Crédito Interno Neto y Activos 
+Internacionales ...............................................................28 
+3.4.2.  Agregados Monetarios y Financiamiento........................30 
+4.  La Política Monetaria durante el Segundo Trimestre de 2006.....................33 
+5.  Balance de Riesgos y Conclusiones.............................................................37 
+                                           INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+1.  Introducción 
+La  evolución  reciente  de  la  economía  mundial  y  sus  perspectivas 
+continúan siendo positivas, si bien los riesgos que enfrenta este panorama se han 
+acentuado respecto de lo reportado en el anterior Informe sobre la Inflación.  La 
+información más reciente apunta a que la composición del crecimiento mundial 
+podría estarse modificando.  En particular, diversos indicadores sugieren que el 
+ritmo  de  actividad  económica  en  los  Estados  Unidos  está  presentando  una 
+desaceleración gradual.  Esta situación proviene, principalmente, de una menor 
+actividad en el sector de la vivienda y de un menor crecimiento del consumo 
+privado.  Por otra parte, la actividad económica en Europa y Japón continúa 
+recuperándose, mientras que en China y en otros países asiáticos mantiene una 
+fuerte expansión.   
+El vigor con el que ha crecido la economía mundial, y en particular el 
+dinamismo  de  algunas  economías  asiáticas  que  hacen  un  uso  intensivo  de 
+diversos energéticos, han mantenido presionados los precios internacionales del 
+petróleo  y  han  propiciado  que  su  volatilidad  se  haya  incrementado.    A  ello 
+también han contribuido diversas restricciones para incrementar la oferta de estos 
+productos,  así  como  mayores  tensiones  de  índole  geopolítica  en  algunas 
+regiones  del  mundo,  debido  a  lo  cual  dichos  precios  han  registrado  niveles 
+máximos recientemente.   
+La confluencia de elevados precios internacionales de los energéticos y 
+de otras materias primas y de un aumento en la utilización de los recursos 
+productivos, ha conducido a mayores presiones sobre la inflación a nivel global.  
+Este  deterioro  en  el  entorno  inflacionario  ha  propiciado  un  aumento  en  la 
+incertidumbre  sobre  la  reacción  correspondiente  por  parte  de  los  principales 
+bancos centrales y el nivel que alcanzarían las tasas de interés.   
+El panorama descrito ha tenido diversas consecuencias.  Por un lado, la 
+percepción  de  mayores  tasas  de  interés  en  los  países  industrializados  ha 
+acentuado los riesgos de un descenso en el crecimiento mundial. Por otro, se ha 
+incrementado la aversión al riesgo por parte de los inversionistas, lo que se ha 
+traducido  en  un  aumento  en  la  volatilidad  de  los  mercados  financieros 
+internacionales, y en un ajuste en los precios de diversos activos y divisas, 
+principalmente en economías emergentes.  Estos últimos también se han visto 
+afectados por la reversión de posiciones financiadas en mercados en donde los 
+réditos de corto plazo se encuentran al alza.  Es importante destacar que los 
+activos y divisas más afectados fueron los de aquellos países emergentes con 
+elevados  requerimientos  de  financiamiento  externo  y,  en  general,  con  una 
+situación económica menos sólida, según la percepción de los mercados.  Sin 
+embargo, cabe señalar que parte de los movimientos referidos en los precios de 
+los activos y divisas se han revertido en las ultimas semanas.    
+Debe resaltarse que el ajuste observado en los mercados financieros 
+internacionales se presenta después de que diversas primas de riesgo habían 
+alcanzado niveles mínimos históricos.  Asimismo, una gama de indicadores sobre 
+la  rentabilidad  de  las  empresas  muestra  que  éstas  se  encuentran  en  una 
+situación financiera sólida, al tiempo que las tasas de interés de largo plazo en los 
+1                                                                                       BANCO DE MÉXICO 
+mercados desarrollados aún se mantienen relativamente reducidas en términos 
+históricos.  En este contexto, los recientes acontecimientos en los mercados 
+financieros mundiales parecerían formar parte de una corrección propia de la fase 
+del ciclo en la que se encuentran.    
+Los mercados financieros en México se han visto afectados tanto por el 
+menor apetito por riesgo a nivel global, como por cierta incertidumbre asociada al 
+proceso  electoral  del  presente  año.    Sin  embargo,  el  ajuste  ante  estas 
+circunstancias ha sido ordenado y con costos reducidos en términos de inflación y 
+crecimiento.  Ello, en virtud de la estabilidad económica alcanzada en los últimos 
+años, así como de la profundidad de nuestros mercados financieros. De hecho, 
+en  las  últimas  semanas  se  han  venido  revirtiendo  los  movimientos  que  se 
+presentaron en el tipo de cambio y en los precios de otros activos. 
+La  actividad  económica  en  México  continuó  expandiéndose 
+significativamente durante el segundo trimestre del año.  Este resultado estuvo 
+sustentado en el crecimiento de los distintos rubros de la demanda agregada, 
+tanto  de  su  componente  interno  como  del  externo.    El  avance  del  primero 
+respondió al persistente dinamismo del gasto de consumo, así como a un mayor 
+crecimiento de la inversión.  En el segundo caso sobresalió el aumento en las 
+exportaciones  manufactureras,  en  especial  las  del  sector  automotriz.  Es 
+pertinente señalar que la evolución del gasto interno continuó siendo favorecida 
+por los ingresos de remesas familiares y por las exportaciones de crudo. 
+Por su parte, el entorno inflacionario en México sigue siendo favorable:  
+al cierre del segundo trimestre la inflación general se situó en 3.18 por ciento a 
+tasa anual, mientras que la subyacente lo hizo en 3.22 por ciento.  Este último 
+rubro ha presentado un ligero incremento asociado, entre otros factores, al alza 
+en los precios internacionales de diversos materiales utilizados en la construcción 
+de vivienda.   
+Estos resultados han  contribuido a que las expectativas de inflación se 
+hayan mantenido en niveles reducidos.  Así, las recabadas por el Banco de 
+México en junio, referentes a la inflación general para los cierres de 2006, 2007 y 
+2008 fueron de 3.36, 3.52 y 3.54 por ciento.  Por su parte, en dicha encuesta las 
+expectativas para la inflación subyacente para el cierre de 2006 se ubicaron en 
+3.28 por ciento. 
+Considerando el escenario descrito, la Junta de Gobierno del Banco de 
+México permitió una reducción de las condiciones monetarias internas en su 
+comunicado  de  política  monetaria  de  abril,  y  destacó  que,  para  el  futuro 
+previsible, no existía espacio disponible para un relajamiento adicional.  Así, en 
+los comunicados de mayo, junio y julio la Junta decidió mantener sin cambio las 
+condiciones monetarias y reiteró la ausencia de margen para un relajamiento. 
+A pesar de que se han registrado avances significativos en materia de 
+reducción de la inflación y de que sus perspectivas se mantienen favorables, 
+persisten algunos riesgos, los cuales se detallan en la última sección de este 
+Informe. En este contexto, la política monetaria continuará orientada a propiciar y 
+consolidar la convergencia de la inflación con su meta. 
+2                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+2.  Evolución Reciente de la Inflación  
+2.1.  La Inflación en el Segundo Trimestre de 2006 
+La evolución de los precios durante el segundo trimestre de 2006 fue 
+acorde con lo previsto en el anterior Informe sobre la Inflación. En junio, la 
+inflación general anual se ubicó en 3.18 por ciento y la subyacente en 3.22 por 
+ciento.  Estos resultados implicaron una baja en el primer caso y un alza en el 
+segundo, con relación a los datos que se registraron en marzo (3.41 y 3.04 por 
+ciento). El aumento en la inflación subyacente fue consecuencia de las alzas 
+observadas  en  el  subíndice  de  precios  de  los  servicios,  destacando  la  que 
+correspondió al grupo de la vivienda (Cuadro 1).  
+Cuadro 1 
+Componentes del Índice Nacional de Precios al Consumidor 
+Variación anual en por ciento 
+Dic-2005 Mar-2006 Abr-2006 May-2006 Jun-2006
+(a) (b) (c) (d) (e)
+INPC 3.33           3.41           3.20           3.00           3.18          
+Subyacente 3.12           3.04           3.20           3.14           3.22          
+Mercancías 2.82           2.70           2.70           2.57           2.53          
+Alimentos 3.69           3.61           3.57           3.48           3.46          
+Resto de mercancías 2.19           2.04           2.07           1.91           1.86          
+Servicios 3.46           3.40           3.75           3.76           3.96          
+Vivienda 2.55           3.04           3.31           3.61           3.88          
+Resto de servicios 4.55           3.83           4.28           3.94           4.06          
+No  Subyacente 3.76           4.20           3.19           2.70           3.12          
+Agropecuarios -0.18           1.47           -2.63           -3.69           -2.04          
+Frutas y Verduras -1.86           5.29           -5.24           -8.58           -3.95          
+Jitomate -23.18           12.02           -26.86           -33.46           -27.23          
+Resto 4.12           4.26           -0.17           -1.25           1.02          
+Pecuarios 0.93           -0.83           -0.90           -0.26           -0.83          
+Administrados y Concertados 4.76           4.76           4.97           4.70           4.54          
+Administrados 7.13           7.95           8.64           8.45           8.18          
+Gasolina bajo octanaje 4.47           6.24           8.69           7.80           7.74          
+Gasolina alto octanaje 4.39           4.54           6.68           5.81           5.74          
+Electricidad 4.27           5.97           6.14           6.78           7.79          
+Gas doméstico 14.79           13.26           11.84           11.33           9.58          
+Concertados 2.43           1.62           1.43           1.31           1.22          
+Educación 6.63           6.47           6.52           6.57           6.51           
+Durante el segundo trimestre de 2006, la inflación general se mantuvo 
+dentro del intervalo de variabilidad de más/menos un punto porcentual que se 
+determinó alrededor del objetivo de 3 por ciento. En abril, mayo y junio la tasa de 
+crecimiento anual del Índice Nacional de Precios al Consumidor (INPC) fue 3.20, 
+3.00 y 3.18 por ciento. Las fluctuaciones que experimentó este indicador fueron 
+determinadas,  en  su  mayor  parte,  por  el  comportamiento  que  mostró  su 
+componente no subyacente (Cuadro 1 y Gráfica 1).   
+3                                                                                       BANCO DE MÉXICO 
+Gráfica 1 
+Índice Nacional de Precios al Consumidor 
+Variación anual en por ciento 
+12 INPC
+Subyacente
+No Subyacente
+10
+8
+6
+4
+2
+7344688033197926039479003751513451008
+2100999252223480441523663495093974201
+4.4.4.4.3.3.3.4.4.4.4.4.4.4.4.5.5.5.5.4.4.4.4.4.4.4.3.3.3.2.3.3.3.3.3.3.3.
+0
+J J A S O N D E F M A M J J A S O N D E F M A M J J A S O N D E F M A M J
+2003 2004 2005 2006
+ 
+La  inflación  no  subyacente  anual  se  ubicó  al  cierre  del  segundo 
+trimestre de 2006 en 3.12 por ciento, lo que significó una reducción de 1.08 
+puntos porcentuales con relación a la cifra que alcanzó al finalizar el trimestre 
+anterior (4.20 por ciento). Asimismo, este indicador presentó cierta volatilidad 
+durante el periodo de análisis, reflejando principalmente las fluctuaciones que se 
+registraron en las cotizaciones de las frutas y verduras (Gráfica 2).   
+Gráfica 2 
+Índice de Precios No Subyacente y Subíndice de Precios de Frutas y Verduras 
+Variación anual en por ciento 
+10 No subyacente 30
+25
+Frutas y
+Verduras
+20
+8
+15
+10
+6
+5
+0
+4
+-5
+-10
+Dic Dic Dic
+2 -15
+J A  O  D  F  A  J A  O  D  F  A  J A  O  D  F  A  J
+2003 2004 2005 2006
+ 
+Las fluctuaciones que exhibió la inflación no subyacente anual, entre 
+abril y junio de 2006, también fueron influidas por el desempeño de los precios de 
+los bienes y servicios administrados. Ello se debió, en lo principal, a las alzas que 
+se  observaron  al  inicio  del  trimestre  en  los  precios  de  las  gasolinas  en  las 
+4                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+ciudades fronterizas. Estas se revirtieron posteriormente de manera parcial, al 
+modificarse la política aplicable para su determinación (en la sección 3.3.2 se 
+describe  detalladamente  el  comportamiento  del  subíndice  de  precios  de  los 
+bienes y servicios administrados). 
+Durante  el  trimestre  que  se  analiza,  la  inflación  subyacente  anual 
+aumentó 0.18 puntos porcentuales. Ello resultó de una elevación en la variación 
+anual del subíndice de los servicios, que fue contrarrestada parcialmente por un 
+decremento en la correspondiente al subíndice de las mercancías (Gráfica 3). En 
+el subíndice de las mercancías disminuyeron las variaciones anuales del grupo 
+de los alimentos procesados y del resto de las mercancías (Cuadro 1).  
+Gráfica 3 
+Subíndices Subyacentes de las Mercancías y de los Servicios 
+a ) Mercancías  b) Servicios 
+Variación anual en por ciento  Variación anual en por ciento 
+9 Mercancías 8 Servicios
+Alimentos Vivienda
+8 Resto de Mercancías 7 Resto de Servicios
+7
+6
+6
+5
+5
+4
+4
+3
+3
+2
+2
+1 1
+Dic Dic Dic Dic Dic Dic
+0 0
+J S  D  M  J S  D  M  J S  D  M  J J S  D  M  J S  D  M  J S  D  M  J
+2003 2004 2005 2006 2003 2004 2005 2006
+   
+La evolución que observó la inflación del subíndice subyacente de los 
+servicios durante el segundo trimestre de 2006 obedeció, en su mayor parte, a la 
+aceleración en el ritmo de crecimiento de los precios de la vivienda. Ello fue 
+producto de las alzas que se registraron en los costos de algunos materiales para 
+la construcción ligados al acero, cobre y cemento. Adicionalmente, la trayectoria 
+de la inflación de los servicios distintos de los de la vivienda contribuyó al alza de 
+la inflación subyacente (Gráfica 4). Esto último fue consecuencia de la dinámica 
+de las cotizaciones de diversas materias primas, entre las que destacan los 
+energéticos y los granos, que incidieron sobre el proceso de formación de precios 
+en genéricos asociados al transporte aéreo, turismo y servicios de alimentación.  
+5                                                                                       BANCO DE MÉXICO 
+Gráfica 4 
+Subíndice Subyacente de los Servicios de Vivienda e Índice del Costo de la Construcción Residencial 
+Variación anual en por ciento 
+6 16
+Vivienda
+14
+ICC Residencial
+12
+5
+10
+8
+4 6
+4
+2
+3
+0
+-2
+Dic Dic Dic
+2 -4
+J A  O  D  F  A  J A  O  D  F  A  J A  O  D  F  A  J
+2003 2004 2005 2006
+ 
+2.2.  Índice Nacional de Precios Productor  
+El Índice Nacional de Precios Productor (INPP), excluyendo petróleo, 
+alcanzó un nivel de 5.86 por ciento al finalizar el segundo trimestre de 2006. Ello 
+significó un incremento de 2.10 puntos porcentuales con relación al resultado que 
+se observó en marzo. Esta alza se debió primordialmente a los aumentos que 
+registraron los precios del acero y del cobre, lo que incidió sobre las cotizaciones 
+de diversos materiales para la construcción, así como sobre las de productos 
+metálicos, maquinaria y equipo (Gráfica 5).  
+Gráfica 5 
+Índice Nacional de Precios Productor Excluyendo Petróleo,  
+Mercancías y Servicios Finales  
+Variación anual en por ciento 
+20 INPP
+18 Construcción
+Productos Metálicos, Maquinaria y Equipo
+16
+14
+12
+10
+8
+6
+4
+2
+0
+-2
+Dic Dic Dic
+-4
+J A  O  D  F  A  J A  O  D  F  A  J A  O  D  F  A  J
+2003 2004 2005 2006
+ 
+6                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+3.  Principales Determinantes de la Inflación 
+3.1.  Entorno Externo 
+La información disponible sugiere que la actividad económica global 
+mantuvo  un  ritmo  de  crecimiento  elevado  en  el  segundo  trimestre  de  2006, 
+acompañado de ciertos cambios en la composición del crecimiento mundial.  La 
+continuación de la expansión económica mundial resultó en una mayor utilización 
+de recursos y, en combinación con otros factores, en aumentos adicionales de los 
+precios de los bienes primarios. Además, diversos analistas consideran que los 
+pasados incrementos de los precios internacionales del petróleo pueden haberse 
+reflejado en las presiones registradas sobre los índices de inflación subyacente, 
+principalmente en Estados Unidos y en Europa. Ello contribuyó a generar una 
+percepción  de  mayores  riesgos  inflacionarios  por  parte  de  las  autoridades 
+monetarias.  Ante la posibilidad de la prolongación del ciclo restrictivo de la 
+política  monetaria,  se  observó  mayor  volatilidad  en  los  mercados  financieros 
+internacionales a partir de la segunda semana de mayo.  En las economías 
+emergentes, ello se tradujo en un aumento de la percepción de riesgo referente a 
+los instrumentos de deuda de estos países, especialmente los denominados en 
+moneda local. En general, hubo una caída de los precios de diversos activos, 
+aunque diferenciada entre los distintos países.  Si bien la volatilidad disminuyó al 
+finalizar  el  trimestre,  el  agravamiento  de  tensiones  geopolíticas  durante  julio 
+generó de nuevo alzas en los precios de los energéticos, y episodios de cierto 
+nerviosismo en los mercados financieros.   
+3.1.1.  Actividad Económica Global 
+La información oportuna sugiere que el crecimiento de la economía 
+mundial se mantuvo vigoroso durante el segundo trimestre del año.  En Estados 
+Unidos se observó un crecimiento significativo, aunque inferior al alcanzado en el 
+periodo enero-marzo.  La actividad económica en la zona del euro continuó su 
+repunte.  La  economía  japonesa  siguió  mostrando  dinamismo  y  el  ritmo  de 
+crecimiento en China se mantuvo elevado. Todo ello contribuyó al mantenimiento 
+de tasas de expansión altas en los países emergentes. 
+En Estados Unidos, el crecimiento trimestral anualizado del PIB durante 
+los  primeros  meses  del  año  registró  fluctuaciones  marcadas,  después  de  la 
+desaceleración temporal observada a finales de 2005.  Así, al desaparecer los 
+factores que habían deprimido la demanda interna en el último trimestre de 2005, 
+el crecimiento del PIB mostró un repunte significativo en el periodo enero-marzo 
+de  2006,  ubicándose  en  5.6  por  ciento  a  tasa  trimestral  anualizada.    En  el 
+segundo trimestre el ritmo de expansión nuevamente se desaceleró, al registrarse 
+un crecimiento del PIB de 2.5 por ciento a tasa trimestral anualizada.   
+Si bien las cifras anteriores, expresadas en términos de variaciones 
+trimestre  a  trimestre,  presentan  un  panorama  de  volatilidad  en  la  actividad 
+económica en Estados Unidos, ello se explica por el impacto de los huracanes en 
+el Golfo de México a finales del año pasado. Las cifras de crecimiento anual del 
+7                                                                                       BANCO DE MÉXICO 
+PIB,  un  indicador  de  mayor  confiabilidad  en  las  presentes  circunstancias, 
+sugieren una desaceleración gradual.  La tasa de crecimiento anual del PIB 
+disminuyó de 3.7 por ciento en el primer trimestre, a 3.5 por ciento en el segundo.  
+Lo anterior se explica principalmente por un menor crecimiento del consumo 
+privado, lo que parece estar reflejando el impacto de los altos precios de la 
+energía  y  el  enfriamiento  observado  en  los  mercados  de  bienes  raíces.  La 
+inversión residencial se ha venido ajustando al menor dinamismo de la demanda 
+de viviendas nuevas, y registró en el segundo trimestre su primera variación 
+anual negativa en cinco años. La inversión no residencial también mostró cierta 
+desaceleración durante el segundo trimestre, si bien se mantienen condiciones 
+favorables para su expansión.  Por su parte, la producción industrial continuó 
+creciendo de manera dinámica, impulsada por el vigor del sector exportador. Tras 
+haber  crecido  3.3  por  ciento  a  tasa  anual  (5.1  por  ciento  a  tasa  trimestral 
+anualizada) en el primer trimestre, la producción industrial se expandió en 4.6 por 
+ciento en abril-junio (6.6 por ciento a tasa trimestral anualizada).   
+En  la  zona  del  euro,  la  actividad  económica  repuntó  en  el  primer 
+trimestre de 2006, al crecer 2.5 por ciento a tasa trimestral anualizada (2.0 por 
+ciento  a  tasa  anual),  después  de  haber  experimentado  una  inesperada 
+desaceleración en el último trimestre de 2005 (1.1 por ciento a tasa trimestral 
+anualizada  y  1.7  por  ciento  a  tasa  anual).  La  recuperación  fue  resultado 
+fundamentalmente  de  la  mejoría  del  consumo  y  de  las  exportaciones.    Las 
+autoridades europeas estiman una evolución similar en el segundo trimestre.   
+En Japón, la actividad económica ha mantenido su expansión, la cual 
+ya no depende sólo del sector externo, pues la demanda interna ha cobrado 
+importancia.  Durante el primer trimestre, el PIB se incrementó 3.1 por ciento a 
+tasa  trimestral  anualizada  (3.5  por  ciento  a  tasa  anual).    Posteriormente,  la 
+actividad  económica  ha  continuado  mostrando  dinamismo,  sustentada  en  el 
+aumento del empleo (y el consecuente fortalecimiento del gasto de los hogares) y 
+la solidez de la inversión privada. Así, la expansión actual habría alcanzado al 
+segundo  trimestre  una  duración  igual  a  la  registrada  de  1986  a  1991  (18 
+trimestres), la segunda más larga desde 1951.  
+En  los  países  emergentes  se  ha  mantenido  un  fuerte  ritmo  de 
+expansión. En China, el PIB creció 11.3 por ciento a tasa anual en el segundo 
+trimestre de 2006. En los últimos meses, ante las elevadas tasas de crecimiento 
+de la demanda, diversos analistas han mencionado de nueva cuenta el riesgo de 
+sobrecalentamiento  de  la  economía,  si  bien  la  inflación  continúa  ubicada  en 
+niveles reducidos. En el resto de Asia emergente, la actividad económica ha 
+continuado vigorosa. En América Latina, el PIB mostró un sólido crecimiento 
+durante el primer trimestre, superior al observado en el periodo octubre-diciembre 
+de 2005.  
+3.1.2.  Tendencias Generales de la Inflación 
+En  el  período  referido,  los  índices  de  inflación  de  las  principales 
+economías del orbe mostraron una tendencia al alza.   Lo anterior reflejó, entre 
+otros factores, los crecientes precios de los energéticos y el incremento de los 
+precios de los productos primarios no petroleros (Gráfica 6).    
+8                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+Gráfica 6 
+Índices de Precios  
+Variación anual en por ciento  
+a) Índices de Precios al Consumidor   b) Índices de Precios de Productos Primarios 
+6 Estados Unidos Eurozona 40 No Petroleros 70
+Japón G-7 Energía (esc. der)
+China
+5 35 60
+30 50
+4
+25 40
+3
+20 30
+2
+15 20
+1
+10 10
+0
+5 0
+-1 0 -10
+DF A J A O DF A J A O DF A J A O DF A J  DF A J A O DF A J A O DF A J A O DF A J 
+2002 2003 2004 2005 2002 2003 2004 2005
+   
+Fuente: Bureau of Labor Statistics, Eurostat, Statistics Bureau,  Nota: El índice de productos no petroleros incluye los precios de 
+Statistics Canada y National Statistics.  alimentos, bebidas, materias primas agrícolas  y metales. 
+  Fuente: Fondo Monetario Internacional. 
+Los  precios  del  petróleo  registraron  una  fuerte  alza  durante  abril,  al 
+consolidarse la perspectiva de un sólido crecimiento en la demanda mundial de 
+petróleo y de una expansión moderada en la capacidad de producción a nivel 
+mundial.  Después de un breve retroceso a principios de mayo, los precios del 
+petróleo  se  mantuvieron  en  niveles  elevados  durante  el  resto  del  trimestre, 
+apoyados por el surgimiento de nuevas tensiones geopolíticas relacionadas con 
+Irán. El precio del WTI promedió 70.6 dólares por barril durante el segundo 
+trimestre del año, poco más de siete dólares por arriba del promedio observado 
+en el trimestre anterior, y registró niveles récord a mediados de julio ante el 
+surgimiento de conflictos en el Medio Oriente. 
+Por  su  parte,  la  tendencia  alcista  de  los  precios  de  los  productos 
+primarios no petroleros se acentuó durante el segundo trimestre (Gráfica 6). De 
+acuerdo con el índice publicado por el Fondo Monetario Internacional, durante el 
+primer trimestre los precios de estos productos aumentaron 48.8 por ciento a tasa 
+trimestral anualizada (16.4 por ciento a tasa anual).  En el trimestre abril-junio, 
+dichos precios registraron una variación anualizada de 61.1 por ciento (29.8 por 
+ciento a tasa anual). El incremento fue particularmente marcado en el caso de los 
+metales, cuya variación trimestral anualizada fue de 130.1 por ciento (62.8 por 
+ciento a tasa anual).  También se observaron incrementos de los precios de los 
+alimentos y de las materias primas agrícolas, aunque más moderados. 
+La inflación general en Estados Unidos repuntó en el segundo trimestre, 
+a  la  vez  que  comenzaron  a  observarse  mayores  presiones  sobre  el  índice 
+subyacente (Gráfica 7). La inflación general al consumidor se ubicó en 3.4 por 
+ciento anual al cierre del primer trimestre, pero en junio subió a 4.3 por ciento, 
+superando las expectativas. Por su parte, el índice subyacente al consumidor 
+aumentó de alrededor de 2 por ciento a lo largo del primer trimestre, hasta 2.6 por 
+ciento en junio.  El incremento del índice general reflejó en buena medida las 
+alzas observadas durante los últimos meses en los precios de la energía.  En el 
+9                                                                                       BANCO DE MÉXICO 
+caso de la inflación subyacente, el repunte ha sido generalizado, aunque mayor 
+en los servicios y, en particular, en los conceptos relacionados con la vivienda.1  
+Además, algunos analistas consideran que puede estar ocurriendo una mayor 
+transmisión  de  los  incrementos  en  los  precios  del  petróleo  a  los  índices 
+subyacentes.  Cabe destacar que se espera un descenso de la tasa de inflación 
+en el segundo semestre de este año y que las expectativas de inflación de largo 
+plazo se mantienen ancladas en niveles moderados.  
+Gráfica 7 
+EUA: Índices de Precios 
+Variación anual en por ciento  
+a) Precios al Consumidor  b) Deflactor del Gasto en Consumo 
+5.0 IPC 40 5.0 Total
+IPC Subyacente (exc. alimentos y energía) Subyacente (exc. alimentos y energía)
+4.5 Alimentos 4.5
+Energía (esc. derecha) 35
+4.0 4.0
+30
+3.5 3.5
+25
+3.0 3.0
+2.5 20 2.5
+2.0 2.0
+15
+1.5 1.5
+10
+1.0 1.0
+5
+0.5 0.5
+0.0 0 0.0
+DF A J A O DF A J A O DF A J A O DF A J  DF A J A O DF A J A O DF A J A O DF A 
+2002 2003 2004 2005 2002 2003 2004 2005
+   
+Fuente: BLS.  Fuente: BEA. 
+En la zona del euro, la inflación anual aumentó de 2.2 por ciento en 
+marzo a 2.5 por ciento en junio, principalmente como secuela de los mayores 
+precios del petróleo. Si bien las alzas en costos laborales han sido tenues, las 
+autoridades europeas consideran que los índices inflacionarios continuarán en 
+niveles elevados en lo que resta del año y en 2007, en parte como resultado de 
+los efectos indirectos derivados de los pasados incrementos en los precios de la 
+energía.    En  Japón,  el  comportamiento  reciente  de  los  precios  confirma  la 
+terminación del proceso deflacionario. Al mes de junio se habían registrado ocho 
+meses  consecutivos  de  tasas  anuales  positivas  para  el  índice  de  precios 
+subyacente. 
+En lo que respecta al este de Asia, la inflación en la región se ha 
+mantenido relativamente contenida, aunque se observan mayores presiones en 
+algunos países debido a la fortaleza de la actividad económica y al impacto de los 
+                                                 
+1  El índice de precios al consumidor incluye varios conceptos relativos al costo de la vivienda. Los más 
+importantes son el índice de rentas pagadas y el índice de alquiler imputado para los ocupantes de 
+vivienda propia, que representan alrededor de 29 por ciento del índice general de precios al consumidor.  
+Ambos índices se calculan a partir de la información recabada sobre los precios del alquiler de casas. 
+Diversos analistas han señalado que los pasados aumentos en los precios de las casas parecen haber 
+empezado a reflejarse en mayores precios de alquiler, después de un periodo en el cual la expectativa 
+de una rápida apreciación de las casas creó un incentivo a la adquisición de vivienda propia como una 
+alternativa superior al alquiler de vivienda. Sin embargo, el reciente enfriamiento del mercado inmobiliario 
+y la perspectiva de tasas de interés al alza han aumentado el atractivo del alquiler de vivienda para los 
+hogares y, por ende, acelerado la convergencia de las rentas de casas con los pasados aumentos en los 
+precios de la vivienda. 
+10                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+aumentos en los precios de los energéticos. En América Latina, la inflación ha 
+mostrado una tendencia a la baja, si bien en algunos países, como Argentina, el 
+crecimiento anual del índice de precios al consumidor sigue registrando cifras de 
+dos dígitos.  
+3.1.3.  Mercados Financieros 
+En  los  mercados  financieros  internacionales  se  mantuvieron 
+condiciones de relativa holgura, a pesar de que las tasas de interés de largo 
+plazo en Estados Unidos se incrementaron gradualmente respecto a sus niveles 
+de principios de año.  La tasa de interés del bono del Tesoro estadounidense a 
+diez años se ubicó en 5.14 por ciento al finalizar el segundo trimestre, tras 
+haberse situado en 4.85 por ciento al cierre del primer trimestre y en 4.39 por 
+ciento en diciembre de 2005 (Gráfica 8).  A pesar de los incrementos observados, 
+las tasas de interés de largo plazo se mantienen en niveles bajos en términos 
+históricos.  El moderado aumento de las tasas de largo plazo, en un contexto en 
+el que las expectativas de inflación de largo plazo se mantienen aparentemente 
+ancladas, es indicativo de las dificultades para evaluar los riesgos a futuro para la 
+inflación y el crecimiento de la economía.  
+Gráfica 8 
+EUA: Tasas de Interés 
+Por ciento anual  
+a) Rendimiento de los Bonos del Tesoro de  b) Futuros de Fondos Federales 
+EUA y Tasa de Fondos Federales 
+6 6.0
+Bono 30 años
+5
+5.5
+4
+Bono 10 años
+3 5.0
+Fondos 
+2 Federales
+4.5
+31 Mar 06
+1 02 May 06
+23 Jun 06
+27 Jul 06
+0 4.0
+Ene04 Jul04 Ene05 Jul05 Ene06 Jul06 1m 2m 3m 4m 5m 6m 7m 8m 9m10m11m
+   
+ 
+Fuente: Reserva Federal.  Fuente: Bloomberg.
+Durante  el  segundo  trimestre,  la  Reserva  Federal  de  los  Estados 
+Unidos continuó aumentando su tasa de referencia en ¼ de punto porcentual en 
+cada  una  de  las  reuniones  del  Comité  de  Operaciones  de  Mercado  Abierto 
+(FOMC  por  sus  siglas  en  inglés).  Cabe  señalar  que  el  incremento  en  las 
+presiones inflacionarias dio lugar a una revisión al alza en las expectativas para la 
+tasa  de  fondos  federales  a  mediados  de  mayo,  propiciando  un  episodio  de 
+volatilidad  en  los  mercados  internacionales.    Sin  embargo,  dicha  turbulencia 
+tendió a disminuir después de la reunión del Comité en junio, cuando el objetivo 
+para la tasa de fondos federales alcanzó 5.25 por ciento. Los miembros del 
+Comité  anunciaron  en  esa  ocasión  que  si  bien  la  moderación  del  ritmo  de 
+crecimiento económico debería contribuir a limitar las presiones inflacionarias, 
+11                                                                                       BANCO DE MÉXICO 
+persistían algunos riesgos, y reiteraron que las decisiones futuras de política 
+dependerían de las perspectivas tanto para la inflación como para el crecimiento 
+económico.  En este contexto la curva de futuros para la tasa de fondos federales 
+se desplazó hacia abajo. 
+En  la  zona  del  euro,  el  Banco  Central  Europeo  (BCE)  decidió  a 
+principios de junio aumentar por segunda vez en el año las tasas de interés de 
+política (el tercer incremento desde que inició el actual ciclo de aumentos de 
+tasas en diciembre de 2005). La principal tasa de interés de referencia aumentó 
+en 25 puntos base, para ubicarse en 2.75 por ciento. En su reunión de julio, las 
+autoridades monetarias europeas dejaron inalteradas sus tasas de interés de 
+política, pero enfatizaron que se mantendrán alertas, ya que los riesgos para la 
+inflación son al alza y que la política monetaria sigue siendo acomodaticia. En 
+Japón, la continua expansión económica ha contribuido a cerrar la brecha del 
+PIB. Debido a ello, se fortaleció  la percepción de que el Banco de Japón pondría 
+fin  a su política monetaria de tasa de interés cero en el futuro cercano. Las tasas 
+de  interés  de  corto  plazo  en  este  país  se  incrementaron  ligeramente  desde  
+finales del segundo trimestre en anticipación del primer ajuste en la tasa de 
+referencia por parte del banco central, que tuvo efecto el 14 de julio. 
+En  este  escenario  de  una  posible  política  monetaria  global  más 
+restrictiva, los mercados financieros internacionales registraron una volatilidad 
+significativa desde la segunda semana de mayo.  Lo anterior fue influido también 
+por el hecho de que de empezaron a revertirse diversas posiciones que se habían 
+apalancado, aprovechando la disponibilidad de financiamiento en monedas con 
+tasas de interés reducidas. La volatilidad fue patente en los mercados accionarios 
+y cambiarios de las economías emergentes.  La corrección en los mercados 
+accionarios durante mayo y junio ha sido la mayor desde el otoño de 1998.  No 
+obstante,  el  auge  en  los  primeros  meses  del  año  y  la  recuperación  desde 
+mediados  de  junio  ha  significado  que,  a  pesar  del  episodio  de  turbulencia, 
+muchos  de  dichos  mercados  se  encuentren  aún  por  encima  de  los  niveles 
+observados al finalizar 2005. 
+En  el  caso  de  los  mercados  cambiarios,  el  dólar  se  debilitó 
+considerablemente desde mediados de abril hasta mediados de mayo. A partir de 
+la  segunda  semana  de  mayo  dicha  depreciación  tendió  a  revertirse.    Las 
+monedas de algunos países emergentes mostraron depreciaciones significativas 
+frente al dólar.  Tal fue el caso de la lira turca, que se depreció 20 por ciento en 
+los últimos dos meses del segundo trimestre. En América Latina, el real brasileño 
+y el peso chileno cayeron frente al dólar en 4.1 por ciento y 4.7 por ciento 
+respectivamente en esos meses.  En balance, durante el segundo trimestre el 
+índice amplio del tipo de cambio nominal efectivo del dólar se depreció 1.6 por 
+ciento en promedio respecto a enero-marzo.2 
+Los márgenes sobre los créditos soberanos no acusaron un deterioro 
+tan marcado durante este lapso de volatilidad. Los márgenes soberanos del 
+índice  EMBI  Global  aumentaron  39  puntos  base  en  el  periodo  mayo-junio.3 
+Tampoco  se  registraron  diferencias  significativas  entre  las  diversas  regiones 
+                                                 
+2  El índice amplio es un promedio ponderado de los valores cambiarios del dólar respecto de las monedas 
+de  los  principales  socios  comerciales  de  los  Estados  Unidos  (26  países,  incluyendo  economías 
+emergentes). 
+3  Los márgenes del índice EMBI Global disminuyeron 24 puntos base del cierre de junio al 27 de julio. 
+12                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+emergentes. Sin embargo, se pudo observar que los bonos más afectados por la 
+volatilidad  fueron  los  de  aquellos  países  con  elevados  requerimientos  de 
+financiamiento externo y, en general, con una situación económica percibida en 
+los mercados como de mayor riesgo, como es el caso de Turquía.   
+El  reciente  periodo  de  volatilidad  ha  sido  interpretado  por  diversos 
+observadores del mercado como un proceso de corrección en la percepción de 
+riesgo de los inversionistas (a raíz de mayor incertidumbre sobre la inflación y la 
+posible  respuesta  de  la  política  monetaria),  y  no  como  un  cambio  en  la 
+perspectiva sobre el panorama macroeconómico global. Al finalizar el trimestre se 
+registraba  mayor  tranquilidad  en  los  mercados  internacionales  y  una  parcial 
+reversión  del  ajuste  a  la  baja  en  diversos  mercados,  sin  que  el  periodo  de 
+turbulencia hubiera afectado de forma patente las perspectivas de crecimiento e 
+inflación  en  la  mayoría  de  las  economías  emergentes.    Sin  embargo,  el 
+recrudecimiento de ciertas tensiones geopolíticas dio lugar a episodios de cierta 
+volatilidad en algunos mercados durante el mes de julio.   
+3.1.4.  Perspectivas 
+Las perspectivas de la economía mundial para el resto de este año y el 
+siguiente  son  favorables.  En  cuanto  a  la  actividad  económica  global,  sigue 
+proyectándose la continuación del periodo de expansión. En Estados Unidos se 
+espera una disminución gradual en la tasa de crecimiento asociada a un menor 
+ritmo de expansión del consumo y al enfriamiento del mercado de bienes raíces, 
+entre  otros  factores.    Asimismo,  se espera  que  continúe  la  recuperación  en 
+Japón, una aceleración del crecimiento en las economías de la zona del euro y, 
+en general, una evolución positiva en las economías emergentes. A pesar del 
+gradual cierre de las brechas del producto en las principales economías, siguen 
+sin observarse señales  de una  aceleración  en las presiones salariales.  Sin 
+embargo, el aumento en el grado de utilización de los recursos productivos, 
+aunado  a  los  incrementos  en  los  precios  de  los  productos  primarios 
+(particularmente del petróleo), han dado lugar a mayores riesgos al alza para la 
+inflación.  
+El aumento en los riesgos inflacionarios en Estados Unidos y otros 
+países ha modificado la perspectiva sobre la trayectoria de la política monetaria 
+en las principales economías.  Si bien hasta ahora el ajuste en los mercados 
+financieros internacionales ante este cambio ha sido relativamente ordenado, no 
+puede descartarse un deterioro adicional en el entorno financiero internacional 
+debido a la persistencia de factores de riesgo significativos.  Por una parte, los 
+precios del petróleo se mantienen elevados y existe el riesgo de que factores 
+geopolíticos  o  de  otra  naturaleza  los  impulsen  nuevamente  al  alza.  En  un 
+contexto en el que diversos analistas consideran que puede estar registrándose 
+un mayor traspaso de los precios de la energía a la inflación subyacente en varios 
+países, ello podría resultar en un incremento de las tasas de interés mayor al 
+ahora anticipado. Asimismo, si bien los precios de los activos inmobiliarios han 
+disminuido en diversos países, en varios de ellos se ubican todavía en niveles 
+que superan a sus valuaciones históricas. Una corrección más pronunciada en el 
+valor de dichos activos, aunque poco probable, podría restar fortaleza a la actual 
+expansión económica.  Finalmente, en un horizonte más largo, cabe resaltar que 
+persisten los riesgos derivados de los desequilibrios globales en cuenta corriente 
+(particularmente en los Estados Unidos y China) con el consecuente potencial de 
+un ajuste en los mercados cambiarios.  
+13                                                                                       BANCO DE MÉXICO 
+3.2.  Demanda y Oferta Agregadas en México 
+3.2.1. Indicadores de Demanda y Oferta Agregadas 
+Durante el primer semestre de 2006 la demanda agregada y el PIB 
+tuvieron crecimientos anuales superiores a los registrados en 2005.  En general, 
+la evolución de la demanda agregada en la primera mitad del presente año se 
+caracterizó por los siguientes aspectos: i) mayor crecimiento anual tanto de la 
+demanda interna como de la externa; ii) persistente dinamismo del gasto de 
+consumo  (Gráfica  9);  iii) mayor  expansión  anual  del  gasto  de  inversión, 
+sobresaliendo el aumento de su componente de bienes de capital importados; y, 
+iv) consolidación  de  la  mejoría  que  habían  presentado  las  exportaciones  de 
+bienes y servicios durante la segunda parte del año pasado. Esta evolución se 
+mantuvo tanto en el primer trimestre del año, como en el segundo.4 
+Gráfica 9 
+Indicadores de Demanda Interna y Externa 
+Variaciones anuales en por ciento de datos desestacionalizados (promedio móvil de dos meses) 
+28
+12 Inversión Fija Bruta
+21
+9
+Exportaciones No 
+Petroleras
+14
+6
+7
+3
+Indicador de Consumo 
+Privado
+0 0
+-3 -7
+E M M J S N E M M J S N E M M J S N E M M J
+2003 2004 2005 2006
+ 
+Fuente: INEGI para la Inversión Fija Bruta y elaboración del Banco de México para el Indicador Mensual de 
+Consumo Privado y las Exportaciones No Petroleras. Estas últimas están medidas en dólares corrientes. 
+La desestacionalización fue efectuada por el Banco de México 
+La  expansión que mostró la actividad económica en el primer semestre 
+del año se  vio favorecida por  varios aspectos que caracterizaron al  entorno 
+externo.  Primero, la demanda externa tuvo un comportamiento positivo que se 
+reflejó en una mayor expansión de las exportaciones no petroleras.  Segundo, en 
+la industria automotriz, luego de la  maduración  de importantes proyectos de 
+inversión,  su  producción  y  exportaciones  registraron  un  repunte  importante.  
+Tales inversiones permitieron modernizar las líneas de producción para fabricar 
+                                                 
+4  En el comportamiento de los indicadores de consumo privado durante el segundo trimestre del año 
+destaca el incremento en el bimestre abril-mayo de las ventas al menudeo en los establecimientos 
+comerciales de 2.7 por ciento anual con datos desestacionalizados (1.3 por ciento anual con cifras 
+originales).  Asimismo, en el segundo trimestre las ventas de la ANTAD presentaron un crecimiento 
+anual de 16.5 por ciento.  Por otra parte, en los indicadores de inversión sobresale que en el bimestre 
+abril-mayo dicho gasto mostró un crecimiento anual que se estima en 8.7 por ciento (11.2 por ciento con 
+datos desestacionalizados).  En el segundo trimestre el crecimiento anual de las importaciones de bienes 
+de capital, medido en dólares corrientes, resultó de 18 por ciento.  Cabe señalar, también con relación al 
+gasto de inversión, que su  crecimiento anual en el periodo enero-mayo alcanzó 11.1 por ciento, tasa 
+que supera a las registradas en los cinco años precedentes. 
+14                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+nuevos modelos, a la vez que incrementaron la oferta de proveedores.  Tercero, 
+al igual que ocurrió en los dos años previos, durante el primer semestre de 2006 
+el dinamismo del gasto interno y de la producción fueron favorecidos por un 
+nuevo aumento del superávit de la balanza comercial de productos petroleros, así 
+como por los crecientes ingresos por concepto de remesas familiares. 
+Gráfica 10 
+Indicadores de Producción 
+a) Producción  b) Series Desestacionalizadas 
+Variaciones anuales en por ciento de datos  Julio de 2000=100 
+desestacionalizados y promedio móvil de 
+dos meses 
+Producción 
+105.0
+Manufacturera
+6
+4 104
+Producción 
+Producción  5 Industrial
+2 Industrial 102 100.5
+4 100
+0
+98
+3
+96
+-2
+2
+IGAE 94
+-4
+1
+92 Producción 
+Manufacturera
+-6 0 90
+EMMJSNEMMJSNEMMJSNEMM EAJOEAJOEAJOEAJOEAJOEAJOEAM
+2003 2004 2005 2006 2000 2001 2002 2003 20042005 2006
+   
+Fuente: INEGI y desestacionalización efectuada por el Banco de México. 
+En la evolución de la oferta agregada en el primer semestre  destacan 
+una mayor expansión a tasa anual con relación a lo observado en 2005, tanto del 
+PIB, como de las importaciones de bienes y servicios.5  Asimismo, la expansión 
+que alcanzó el producto en el periodo fue balanceada entre los tres sectores de la 
+actividad económica, al considerar que todos (agropecuario, industrial y servicios) 
+presentaron tasas anuales positivas y significativas.6 
+Un aspecto que destaca en la evolución del producto en la primera 
+mitad  de  2006  fue  la  considerable  mejoría  que  presentó  el  sector  industrial 
+(Gráfica 10).  Tal recuperación reflejó los avances observados en los cuatro 
+sectores  que  lo  integran  (minería,  manufacturas, construcción  y  electricidad), 
+aunque  sobresale  el repunte  que experimentó  el  sector  manufacturero 
+(Gráfica 11).7  Así, a partir de la segunda mitad de 2005, el crecimiento anual de 
+                                                 
+5 En los indicadores del producto sobresale que el Indicador Global de la Actividad Económica (IGAE) 
+registró en el bimestre abril-mayo un incremento anual de 3.9 por ciento y con datos desestacionalizados 
+la correspondiente variación anual resultó de 5.3 por ciento. 
+6  En el caso del sector agropecuario su crecimiento anual en el segundo trimestre de 2006 fue favorecido 
+por mayores niveles de precipitación pluvial, que permitieron incrementar de manera importante la 
+superficie sembrada en ese período.  Ello contrasta con el retraso de lluvias e incluso sequía que se 
+presentó en algunas regiones del país en igual trimestre de 2005. 
+7  En el bimestre abril-mayo de 2006 la producción industrial y la manufacturera registraron respectivos 
+crecimientos  anuales  de  2.4  y  2.1 por  ciento,  pero  con  datos  desestacionalizados  las  tasas 
+correspondientes resultaron más elevadas de 5.2 y 5.3 por ciento.  Por otra parte, en el bimestre referido 
+la producción de la industria automotriz terminal (Rama 56) creció a una tasa anual de 17.6 por ciento, 
+pero con cifras desestacionalizadas tal variación resultó de 24.5 por ciento. 
+15                                                                                       BANCO DE MÉXICO 
+la producción manufacturera se fue fortaleciendo, principalmente como respuesta 
+a los aumentos de la destinada al mercado externo.  Por su parte, en los meses 
+más recientes también ha habido un avance ligero de la dirigida al mercado 
+interno.    El  fortalecimiento  de  la  producción  manufacturera  para  el  mercado 
+externo  ha  sido  notorio  en  el  crecimiento  que  han  tenido  las  exportaciones 
+manufactureras  y,  especialmente,  las  efectuadas  por  la  industria  automotriz 
+terminal.  
+Gráfica 11 
+Producción Manufacturera en México y Estados Unidos 
+Datos desestacionalizados, Julio 2000=100 
+110
+108 Estados Unidos  109.7
+106 105.1
+104
+Estados Unidos Sin 
+101.9
+102 Alta Tecnología 
+100
+100.5
+98
+96
+94 México Sin Automotriz 
+Terminal
+92
+México
+90
+EMMJ SNEMMJ SNEMMJ SNEMMJ SNEMMJ SNEMMJ SNEMMJ
+2000 2001 2002 2003 2004 2005 2006
+ 
+Fuente: INEGI y para datos de Estados Unidos el Federal Reserve Board. La desestacionalización de la serie de México  
+Sin Automotriz Terminal (se excluye a la producción de vehículos) es elaboración del Banco de México. 
+La  industria  automotriz  es  un  sector  de  suma  importancia  para  la 
+economía mexicana, tanto por el valor de su producción, como por el empleo que 
+genera y por su incidencia en el comercio exterior del país.  Respecto a esto 
+último, destaca su significativo saldo comercial superavitario.  En 2005 y en lo 
+que va de 2006, la producción de vehículos en México ha registrado un notable 
+incremento en la mayoría de las empresas.  Este hecho ha reflejado de manera 
+importante la fabricación de modelos nuevos para la exportación al mercado de 
+Estados Unidos.  Así, en el segundo trimestre la producción y la exportación de 
+vehículos presentaron tasas anuales respectivas de 23.8 y 35.4 por ciento (29.8 y 
+39.2  por  ciento  con  datos  desestacionalizados).    Este  hecho  ha  permitido 
+incrementar de manera significativa la participación de los vehículos fabricados 
+en México en las ventas de vehículos en Estados Unidos (Gráfica 12). 
+Considerando, entre otros factores, la evolución y perspectivas de la 
+gama de indicadores de la actividad económica referidos, se estima que en el 
+segundo trimestre de 2006 el crecimiento anual del PIB haya superado 4 por 
+ciento, luego de que en el primero su expansión fue de 5.5 por ciento.  Cabe 
+precisar que en el segundo trimestre del año, al igual que ocurrió en el primero, la 
+evolución del PIB (y de diversos renglones de la demanda agregada) estuvo 
+influida por un efecto estadístico asociado al periodo de asueto de la Semana 
+16                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+Santa.8  Con la corrección del efecto estadístico referido, mediante el uso de 
+datos desestacionalizados, se estima que en el segundo trimestre de 2006 el 
+crecimiento anual del PIB haya sido superior al observado en el primero.  
+Gráfica 12 
+Indicadores de la Industria Automotriz 
+a) Producción Total  b) Exportaciones Totales  c) Estados Unidos: Variación Anual 
+Variación anual en por ciento del  Variación anual en por ciento del  de las Ventas de Vehículos; 
+número de unidades  número de unidades  Enero-junio de 2006 
+número de unidades 
+51.2 64.2
+VENTAS 
+-201,141
+TOTALES
+36.3 48.1
+35.4
+23.8 De Importados 104,273
+De 
+8.4 8.1 -305,414 Ensamblados 
+en Países de 
+TLCAN:
+-1.2 -1.4  En EUA y 
+-522,403
+Canadá
+-12.5 -12.9 
+2003 2004 2005 Ene- I II 2003 2004 2005 Ene- I II
+Jun Jun En México 216,989
+2006 2006
+     
+Fuente: Elaboración del Banco de México con datos de la AMIA y ANPACT.  Fuente: Elaboración del Banco de México con datos 
+de AMIA, ANPACT y Automotive News. 
+Un  aspecto  a  destacar  respecto  de  la  evolución  de  la  actividad 
+económica  en  el  país  en  2006,  es  que  los  mayores  crecimientos  que  han 
+registrado el PIB y la demanda interna no han implicado presiones sobre la 
+capacidad de producción de la economía.  Ello, al considerar los siguientes 
+aspectos:  i) el avance del producto ha sido balanceado a nivel sectorial. El mejor 
+desempeño  del  sector  agropecuario  ha  provenido  en  lo  fundamental  de 
+condiciones  climatológicas  benignas,  mientras  que  la  expansión  del  sector 
+servicios ha sido similar a la observada en los dos años previos. En cuanto al 
+mayor ritmo de producción del sector industrial, éste ha reflejado, en el margen, 
+una  mayor  producción  manufacturera,  luego  de  resultados  modestos  el  año 
+previo. Dicha mejoría es atribuible en gran medida a un mayor dinamismo de la 
+demanda externa en diversos sectores, a lo que se ha sumado el repunte de las 
+exportaciones de la industria automotriz terminal; ii) a pesar del avance logrado 
+por la producción del sector manufacturero, su nivel en el segundo trimestre de 
+2006 apenas superó a sus máximos previos alcanzados a mediados del 2000;9 
+iii) la rama manufacturera que ha mostrado un mayor dinamismo en 2006 ha sido 
+la de la industria automotriz terminal.  Como ya se mencionó, ésto fue resultado 
+de la fabricación de nuevos modelos, luego de cuantiosas inversiones por parte 
+de las empresas ensambladoras para modernizar e incrementar su capacidad de 
+producción; y,  iv) a partir de 2004, la capacidad de producción de la economía se 
+ha ido fortaleciendo gradualmente, considerando que la inversión ha registrado 
+                                                 
+8  Dicho efecto de Semana Santa implicó que el segundo trimestre del año contara con un menor número 
+de días laborables que el trimestre correspondiente de 2005, y que lo contrario haya ocurrido en el 
+primer trimestre del año en curso.  Ello contribuyó a disminuir la tasa anual de crecimiento del producto 
+en el segundo trimestre y a aumentar la del primero.   
+9 Tal resultado refleja en buena medida la evolución de la industria maquiladora, cuyo nivel de producción 
+se mide actualmente mediante un indicador de horas-hombre trabajadas. Dicha medición subestima el 
+nivel de producción con relación al que resultaría de considerar indicadores de los volúmenes de 
+producción física o de exportaciones de esa industria. 
+17                                                                                       BANCO DE MÉXICO 
+una recuperación significativa, luego de tres años consecutivos en que había 
+presentado  debilidad.    Un  indicador  acerca  de  la  intensidad  del  proceso  de 
+inversión, de la modernización del acervo de capital y de su impacto potencial en 
+la capacidad de producción del país, es el aumento que ha presentado el valor de 
+las importaciones de bienes del capital.  Del primer semestre de 2003 a igual 
+lapso de 2006, tales adquisiciones se incrementaron en 48.7 por ciento, medidas 
+en dólares corrientes.  
+3.2.2. Empleo  
+La expansión de la actividad económica en el primer semestre de 2006 
+se reflejó en un aumento de la demanda de trabajo,  conduciendo a una mejoría 
+de  diversos  indicadores  de  ocupación.      De  esta  manera,  el  avance  en  la 
+generación de empleo que se registró durante el primer trimestre del año, se 
+fortaleció en el segundo.  Dicho repunte de la ocupación abarcó a la mayoría de 
+los  sectores  productivos.    Además,  en  el  segundo  trimestre  la  tasa  de 
+desocupación nacional, al igual que la correspondiente a las áreas urbanas, 
+presentó una ligera disminución.  Por otra parte, la información disponible sugiere 
+que la mejoría que ha mostrado el mercado laboral no ha dado lugar a una mayor 
+escasez de recursos humanos calificados.  Los indicadores que elabora el Banco 
+de México sobre demanda de empleo en el sector manufacturero muestran que, 
+en el segundo trimestre del año, las empresas no enfrentaron dificultades para 
+reclutar y contratar mano de obra calificada en las áreas de producción, ventas y 
+administración (Gráfica 13).  Tampoco se observó una mayor competencia entre 
+las firmas mencionadas por conseguir esos recursos humanos.  Asimismo, en los 
+resultados del segundo trimestre del año provenientes de la encuesta mensual 
+que recaba el Banco de México entre los grupos de analistas económicos del 
+sector privado, prácticamente no se mencionó a la escasez de mano de obra 
+calificada y a los costos laborales como factores que pudieran obstaculizar en los 
+próximos seis meses a la actividad económica en el país.10 
+En general, los aspectos más sobresalientes relativos a la evolución del 
+mercado laboral durante el segundo trimestre de 2006, fueron los siguientes: 
+i) fortalecimiento del empleo en el sector formal, medido mediante el número de 
+trabajadores afiliados al IMSS; ii) incremento de las nuevas plazas de trabajo 
+formal, concentrado en los empleos eventuales urbanos, si bien en el margen 
+comenzó a adquirir mayor dinamismo la generación de empleos permanentes; 
+iii) aumento en el número de trabajadores en el IMSS. Este abarcó a la mayoría 
+de  los  sectores  de  actividad,  resultando  más  vigorosa  en  los  servicios  y  la 
+construcción,  aunque  también  fue  significativo  en  las  manufacturas;  iv) ligera 
+disminución de la tasa de desocupación a nivel nacional; y, v) se mantuvieron 
+elevadas las proporciones de la población ocupada que se consideró subocupada 
+y la que labora en actividades informales. 
+                                                 
+10  En su conjunto el “aumento en los costos salariales” y “la escasez de mano de obra calificada” 
+absorbieron durante el segundo trimestre de 2006 sólo el 1.43 por ciento de las respuestas sobre los 
+factores que podrían limitar a la actividad económica en los próximos seis meses.  Véanse los resultados 
+de junio de 2006 de la Encuesta sobre las Expectativas de los Especialistas en Economía del Sector 
+Privado. 
+18                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+Gráfica 13 
+Indicadores del Mercado Laboral 
+Sector Manufacturero: Indicadores de Escasez de Mano de Obra 
+Promedio móvil de dos meses de los balances de respuestas 
+40 10 Número de personas que 
+renunciaron a la empresa para  Hay mayor dificultad para contratar mano 
+Hay una mayor competencia entre las  contratarse en otras firmas 10 de obra calificada en las áreas de:
+30 empresas en la contratación de personal 
+calificado 0
+20 0
+10 -10 
+-10 
+0
+-20 
+-20 
+-10  Producción
+Administración y Ventas
+-20  -30  -30 
+SD M JS D M JS D M JS D M JS D M JS D M J SD M JS D M JS D M JS D M JS D M JS D M J SD M JS D M JS D M JS D M JS D M JS D M J
+20002001 2002 2003 2004 2005 2006   20002001 2002 2003 2004 2005 2006   20002001 2002 2003 2004 2005 2006  
+Fuente: Resultados recabados por el Banco de México con su Encuesta Mensual de Coyuntura en el Sector Manufacturero. Los balances de respuesta se 
+refieren al porcentaje (ponderado) de empresas que señaló haber enfrentado una mayor competencia de otras firmas para contratar personal calificado 
+(o en su caso al de empresas que indicó que aumentó el número de personas que renunció para contratarse en otras firmas) menos el de aquellas que 
+expresó haber encarado una menor competencia en dicha contratación. En el caso de la gráfica de la derecha, los balances de respuesta se refieren al 
+porcentaje (ponderado) de empresas que señalaron haber enfrentado mayor dificultad para contratar mano de obra,  menos el  de aquellas que 
+expresó menor dificultad. 
+Al cierre del segundo trimestre de 2006, el número de trabajadores 
+afiliados al IMSS registró un incremento anual  de 832,580 personas (Gráfica 
+14b), lo que implicó un crecimiento de 6.5 por ciento.  Dicha tasa resultó la mayor 
+registrada  en  los  últimos  72  meses  (desde  julio  de  2000)11  y  se  integró  de 
+350,456 trabajadores permanentes (crecimiento anual de 3.2 por ciento), y de 
+482,124 eventuales urbanos (alza de 25.8 por ciento).  De esa manera, casi 58 
+por ciento del referido aumento anual correspondió a ocupaciones eventuales 
+urbanas.    Ahora  bien,  en  los  últimos  meses  las  ocupaciones  permanentes 
+mostraron  una  mayor  alza  que  las  eventuales.      Así,  del  incremento  de 
+279,539 ocupaciones formales registrado del cierre del primer trimestre del año al 
+del segundo, el 51 por ciento correspondió a empleos permanentes. 
+Por  otra  parte,  el  empleo  formal  con  datos  ajustados  por  efectos 
+estacionales, muestra lo siguiente:  a junio del presente año este indicador superó 
+en 1,032,522 empleos su nivel máximo alcanzado previamente a finales de 2000 
+(Gráfica 14a).  
+La mejoría en el empleo formal durante el segundo trimestre del año 
+comprendió a los distintos sectores económicos, pero su avance al cierre de junio 
+fue más importante en la industria de la construcción (de 141,452 trabajadores y 
+14.2 por ciento anual), en las actividades de comercio (153,471 trabajadores y 
+6.2 por ciento) y en otros servicios (302,064 personas y 7.1 por ciento).12  Por su 
+parte,  el  incremento  que  mostró  este  indicador  en  el  sector  manufacturero 
+también resultó significativo (de 173,389 trabajadores y 4.6 por ciento). De esa 
+manera, en el transcurso del presente año ha continuado la mejoría del empleo 
+manufacturero  que  se  inició  en  2004.  No  obstante,  con  datos 
+                                                 
+11  Como se ha mencionado en anteriores Informes Sobre la Inflación, es posible que el alza en el número 
+de trabajadores asegurados también esté reflejando los resultados de un mayor esfuerzo de fiscalización 
+por parte del IMSS. 
+12  El sector de Otros Servicios incluye a los servicios para empresas y personas, así como a los servicios 
+sociales y comunales. 
+19                                                                                       BANCO DE MÉXICO 
+desestacionalizados, el número total de trabajadores afiliados de dicho sector 
+todavía registró al cierre de junio de 2006 una contracción de 518 mil personas 
+(11.5 por ciento) con relación a su nivel de octubre de 2000 (Gráfica 15a).13 De 
+hecho,  el  avance  acumulado  por  el  empleo  manufacturero  ha  comprendido 
+solamente a ocupaciones eventuales urbanas. Ello, toda vez que en el período 
+referido de más de cinco años el número de trabajadores permanentes mostró 
+una disminución significativa.  
+Gráfica 14 
+Trabajadores Asegurados: Permanentes y Eventuales Urbanos 
+a) Millones de Trabajadores Asegurados  b) Número de Asegurados en el IMSS 
+Datos desestacionalizados  Variación anual de datos originales 
++1,032,522  246,590  Permanentes 1,000,000 80 
+13.7 785,932 Eventuales Urbanos 2,5
+3
+8
+13.5 800,000 9
+9
+5
+6,
+13.3 33  600,000 57
+Variaciones 
+13.1 positivas en 35  3 34 
+12.9 meses 46,25 400,000 318,6
+4
+12.7 Dic. 2000 31 +1, 200,000
+7
+3,
+12.5 1
+4
+- 0
+12.3 0
+9
+7
+12.1 Jul. 2003 -200,000  34,
+-
+NM J NM J NM J NM J NM JN M J D M  J  S  D M  J  S D  M J 
+2000 2001 2002 2003 200420052006 2003 2004 2005 2006
+   
+Fuente: IMSS y desestacionalización efectuada por el Banco de México. 
+De acuerdo con los resultados de la Encuesta Nacional de Ocupación y 
+Empleo  (ENOE)  que  recaba  el  INEGI,  en  el  segundo  trimestre  de  2006  se 
+redujeron ligeramente tanto la tasa de desocupación a nivel nacional, como la 
+tasa correspondiente a las áreas urbanas.  La primera de esas tasas, medida con 
+datos desestacionalizados, descendió del primero al segundo trimestre  de 3.41 a 
+3.37 por ciento (Gráfica 15b).  Por su parte, la tasa de desocupación en las áreas 
+urbanas cayó de 4.4 por ciento, a 4.36 por ciento.  Por último, en el sexto mes del 
+presente  año  el  porcentaje  de  la  población  ocupada  que  se  consideró 
+subocupada se ubicó en 5.72 por ciento,  mientras que el de aquélla que laboró 
+en  actividades  informales  resultó  en  el  primer  trimestre  del  año  de  27.8 por 
+ciento.14  
+                                                 
+13  La debilidad del empleo manufacturero ha caracterizado a la evolución en los últimos años de una 
+diversidad de economías. Véase el Recuadro 1: El Empleo Manufacturero en Estados Unidos y en 
+México, en el Informe sobre la Inflación de Abril-Junio 2005 (páginas 21 y 22). 
+14  De acuerdo a la Encuesta Nacional de Ocupación y Empleo (ENOE) que recaba el INEGI, la población 
+subocupada está integrada por las personas que tienen necesidad y disponibilidad para laborar más 
+horas de trabajo de lo que su ocupación actual les permite.  En cuanto a la población ocupada en el 
+sector informal, ésta comprende a todas aquellas personas en actividades económicas de mercado que 
+operan a partir de los recursos de los hogares, pero sin constituirse como empresas con un estatus 
+independiente de esos hogares.  En tales unidades de producción hay ausencia de prácticas contables y 
+no hay distinción entre el patrimonio del hogar y el de la empresa. 
+20                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+Gráfica 15 
+Indicadores del Mercado Laboral 
+a) Trabajadores Asegurados en el IMSS en el  b) Tasas de Desocupación a Nivel Nacional y 
+Sector Manufacturero  en las Áreas Urbanas 
+Datos desestacionalizados, Índices de  Porcentaje con respecto a la población 
+Trabajadores: Octubre de 2000=100  económicamente activa y datos 
+desestacionalizados 
+190 6.0
+Eventuales
+5.5 Urbana
+170.0
+160
+5.0
+4.36
+4.5
+130
+4.0
+-517,967 trabajadores
+3.5  Nacional  3.37
+100
+Total
+3.0
+88.5
+Permanentes 80.5
+70 2.5
+EAJOEAJOEAJOEAJOEAJOEAJOEAJ I II  III IV  I II  III IV  I II  III IV  I II 
+2000 2001 2002 2003 2004 2005 2006 2003 2004 2005 2006
+   
+Fuente: IMSS y desestacionalización efectuada por el Banco de   Fuente: INEGI y desestacionalización efectuada por el Banco de 
+México.  México. 
+3.2.3. Sector Externo  
+Durante  el  segundo  trimestre  de  2006,  al  igual  que  ocurrió  en  el 
+primero,  la  cuenta  corriente  de  la  balanza  de  pagos  mostró  un  saldo 
+superavitario.  Tal resultado se produjo a pesar de que el crecimiento a tasa anual 
+de la demanda agregada superó al que había presentado en 2005, y de que la 
+expansión del gasto interno fue mayor que la del PIB.  Esto último implicó una 
+alza importante de las importaciones de mercancías. 
+En general, los aspectos más sobresalientes de la evolución del sector 
+externo durante el segundo trimestre, fueron los siguientes: 
+a)  Las exportaciones no petroleras mantuvieron, como lo habían hecho en 
+el  primer  trimestre,  una  tasa  de  crecimiento  anual  superior  a  la 
+observada en todo 2005.15 Cabe señalar que las cifras de comercio 
+exterior correspondientes al segundo trimestre (al igual que ocurrió con 
+otros indicadores de la actividad económica) fueron influidas a la baja 
+por un efecto estadístico asociado al periodo de asueto de la Semana 
+Santa.  Tal efecto determinó que en el período reportado el crecimiento 
+anual de las exportaciones no petroleras resultara inferior al registrado 
+en  el  primer  trimestre  del  año.    No  obstante,  con  cifras 
+desestacionalizadas, el incremento a tasa anual de dicho rubro resultó 
+cercano en ambos trimestres. 
+                                                 
+15  En el segundo trimestre de 2006 las exportaciones de mercancías crecieron a una tasa anual de 
+18.1 por ciento (14 por ciento en todo 2005), en respuesta a aumentos de 36.4 por ciento de las 
+exportaciones petroleras y de 15 por ciento de las no petroleras. En estas últimas destacó el incremento 
+de las efectuadas por la industria manufacturera (tanto maquiladora como no maquiladora) de 15.3 por 
+ciento. 
+21                                                                                       BANCO DE MÉXICO 
+b)  Las exportaciones manufactureras de la industria automotriz terminal 
+continuaron presentando un crecimiento anual elevado (Gráfica 16).16 
+c)  Las  exportaciones  petroleras  de  México  siguieron  mostrando 
+incrementos anuales significativos, propiciados por nuevas alzas de los 
+precios del crudo en el mercado petrolero internacional. De hecho, el 
+valor  de  esas  ventas  al  exterior  alcanzó  un  nivel  sin  precedente 
+histórico para un trimestre y lo mismo ocurrió con el precio de la mezcla 
+mexicana de crudo de exportación. 
+d)  Las  importaciones  de  mercancías  mantuvieron  un  incremento  anual 
+significativo que superó al observado en 2005. Ese mayor dinamismo 
+de las adquisiciones en el exterior comprendió a sus tres renglones 
+(bienes intermedios, de capital y de consumo), destacando la expansión 
+de las importaciones de bienes de capital.17 Cabe precisar que con 
+datos  desestacionalizados,  el  crecimiento  a  tasa  anual  de  las 
+importaciones fue mayor que el observado en el primer trimestre del 
+año. 
+e)  El  déficit  comercial  no  petrolero  mostró  un  incremento  moderado,  
+reflejando en parte el mayor dinamismo que presentó el gasto interno 
+con relación al que registró el PIB. No obstante, dicho déficit siguió 
+siendo influido a la baja por el desempeño favorable que presentaron 
+las exportaciones del sector automotriz. 
+En el bimestre abril-mayo las exportaciones de productos mexicanos al 
+mercado de los Estados Unidos mostraron un incremento anual de 14.25 por 
+ciento, una tasa superior a la registrada por las adquisiciones totales de ese país 
+en el exterior, que se ubicó en 12.34 por ciento. Ello implicó un ligero aumento de 
+la participación de los productos mexicanos en las importaciones de ese país, al 
+pasar de 10.56 por ciento en 2005, a 10.74 por ciento en igual bimestre del 
+presente  año.    Cabe  señalar  que  esa  mejoría  reflejó    fundamentalmente  la 
+evolución de las exportaciones de petróleo y del sector automotriz.  De esa 
+manera, si de los datos del bimestre de referencia se excluye tanto el petróleo 
+como las exportaciones del sector automotriz, resulta una ligera disminución de la 
+participación de mercado de los productos de México, de 8.58 a 8.52 por ciento.  
+Por otra parte, cabe precisar que en los primeros cinco meses del año mejoró la 
+participación  de  los  productos  mexicanos  en  las  importaciones  de  Estados 
+Unidos, aún si no se considera al petróleo y a las exportaciones automotrices.   
+                                                 
+16  En  el  segundo  trimestre  las  exportaciones  manufactureras  del  sector  automotriz  registraron  un 
+crecimiento anual de 20 por ciento  (de 23.5 por ciento con datos desestacionalizados), tasa que se 
+originó de alzas de 32.6 por ciento del valor de las exportaciones de vehículos y de 9.7 por ciento del 
+resto de los productos del sector automotriz (maquilador y no maquilador). 
+17  En el segundo trimestre las importaciones de mercancías mostraron un crecimiento a tasa anual de 
+16.9 por ciento (18.4 por ciento con datos desestacionalizados), mientras que en el primero del año 
+había resultado de 19.2 por ciento (15.9 por ciento con datos desestacionalizados). Tales tasas 
+superaron a la de 12.7 por ciento registrada en todo 2005.  La referida evolución en el segundo trimestre 
+del año en curso, se originó por incrementos respectivos de 16 y 18 por ciento de las importaciones de 
+bienes intermedios y de capital, mientras que el alza de las de bienes de consumo resultó de 20.6 por 
+ciento. Cabe señalar en el caso de las importaciones de bienes de consumo que su crecimiento anual 
+fue influido al alza por un aumento importante del valor de las adquisiciones en el exterior de gasolina 
+(de 108.2 por ciento). De hecho, si se deducen estas últimas del total de importaciones de bienes de 
+consumo, el resto de esas adquisiciones registró en el segundo trimestre un crecimiento anual de 8.1 por 
+ciento. 
+22                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+Gráfica 16 
+Exportaciones e Importaciones de Mercancías 
+Variaciones anuales en por ciento de datos desestacionalizados 
+a) Exportaciones  b) Exportaciones Manufactureras  c) Importaciones 
+70 30 Manufactureras  20 30 Consumo
+20
+sin Automotriz Capital
+60 No Petroleras 25 15 25 Intermedios
+15 20
+50 20
+10
+15
+40 10 15
+5 10
+30 10
+5 5
+0
+20 Petroleras 5
+0
+10 0 0 Automotriz -5 -5
+0 -5 -5 -10 -10
+I II III IV I II III IV I II III IV I II I II III IV I II III IV I II III IV I II I II III IV I II III IV I II III IV I II
+2003 2004 2005 2006   2003 2004 2005 2006   2003 2004 2005 2006
+Fuente: Banco de México. 
+El saldo superavitario que presentó la cuenta corriente en el segundo 
+trimestre de 2006 se derivó, al igual que en el primero, de tres factores que 
+incrementaron de manera importante los ingresos netos: aumento de los saldos 
+superavitarios de la balanza comercial de productos petroleros y de la del sector 
+automotriz,  y  una  mayor  entrada  de  recursos  por  remesas  familiares.    En 
+particular, el superávit comercial de productos petroleros pasó de 4,247 millones 
+de dólares en el segundo trimestre de 2005, a 5,410 millones en igual lapso de 
+2006,  en  tanto  que  el  correspondiente  al  sector  automotriz  se  elevó  de 
+4,730 millones a 6,075 millones. Por su parte, el ingreso de recursos por remesas 
+familiares sumó en el segundo trimestre 6,241 millones de dólares, implicando un 
+incremento a tasa anual de 19.7 por ciento. Este resultado significó un aumento 
+de 1,027 millones con respecto a la cifra de igual trimestre del año pasado. 
+Cuadro 2 
+Importaciones de Estados Unidos 
+Por ciento 
+Variaciones Porcentuales Anuales: 2006
+Participación
+Abril-Mayo Ene-May
+Enero - Mayo Abril - Mayo
+Total sin  Total sin 
+Total sin 
+2005 2006 2005 2006 Total Petróleo Automotriz Petróleo y sin  Petróleo y sin 
+Petróleo
+Automotriz Automotriz
+Total 100.00 100.00 100.00 100.00 12.34 32.11 10.08 9.01 10.29 11.59
+Total s/México 89.65 89.16 89.44 89.26 12.11 30.39 10.11 8.66 10.36 11.51
+Total s/México y s/China 76.13 75.18 75.74 74.96 11.17 30.46 8.65 8.66 8.64 10.12
+1. Canadá 17.53 17.46 17.30 16.93 9.94 57.54 6.29 6.60 6.18 10.61
+2. China 13.52 13.98 13.69 14.30 17.28 7.29 17.30 -- 17.30 17.26
+3. México 10.35 10.84 10.56 10.74 14.25 42.84 9.83 10.53 9.53 12.39
+4. Japón 8.66 8.06 8.30 7.93 7.28 -- 7.28 12.52 4.03 2.08
+5. Alemania 5.22 4.97 5.27 4.98 6.05 -- 6.05 1.19 8.31 10.30
+Suma de 5 países 55.28 55.31 55.13 54.87 11.82 49.27 9.91 8.34 10.36 11.93  
+Fuente: Elaborado por el Banco de México con información del Buró del Censo del Departamento de Comercio de Estados Unidos. 
+Con base en la información descrita y la de otros rubros de las cuentas 
+externas, se estima que en el segundo trimestre de 2006 la cuenta corriente de la 
+balanza de pagos haya mostrado un saldo superavitario cercano a 1.3 miles de 
+millones de dólares.  Con lo anterior, la cuenta corriente habría presentado un 
+superávit acumulado en el primer semestre del año de 2.1 miles de millones de 
+dólares (déficit de 2,444 millones en igual semestre de 2005).  Por otra parte, se 
+23                                                                                       BANCO DE MÉXICO 
+calcula que en el segundo trimestre del presente año la cuenta de capital haya 
+registrado un superávit de alrededor de 10 mil millones de dólares (incluyendo 
+errores  y  omisiones).  Dicho  saldo  superavitario  fue  el  resultado  neto, 
+principalmente,  de  lo  siguiente:    entradas  de  recursos  en  los  renglones  de 
+inversión extranjera, tanto directa como de cartera, y de salidas derivadas de 
+desendeudamiento con el exterior por parte del sector público. Por último, en el 
+trimestre de referencia la reserva internacional neta del Banco de México se 
+incrementó en 11,256 millones de dólares.  Ello implicó que el saldo de tales 
+reservas al cierre de junio fuera de 78,743 millones de dólares. 
+3.3.  Costos y Precios 
+3.3.1.  Salarios y Costo Unitario de la Mano de Obra 
+Los incrementos salariales que pactaron las empresas de jurisdicción 
+federal durante el segundo trimestre de 2006 fueron, en promedio, iguales a los 
+que se otorgaron durante el mismo lapso de 2005. Así, en el periodo referido, 
+estos contratos, que tienen una vigencia de doce meses, se elevaron en 4.4 por 
+ciento. Destaca que los aumentos salariales a los trabajadores de empresas 
+públicas promediaron 4.0 por ciento, mientras que los correspondientes a las 
+empresas privadas 4.5 por ciento (Cuadro 3).   
+Cuadro 3  
+Incremento Promedio al Salario Contractual y Trabajadores Beneficiados 
+según Tipo de Empresa 
+2005 2006
+ I  II III  IV Ene-Dic I II Abr May Jun Ene-Jun
+Incremento Promedio al Salario Contractual (por ciento)1/
+Total 4.5 4.4 4.4 4.2 4.4 4.3 4.4 4.4 4.2 4.6 4.3
+Empresas Públicas 3.6 4.0 4.1 4.0 4.0 4.0 4.0 3.5 4.0 4.1 4.0
+Empresas Privadas 4.7 4.6 4.7 4.7 4.6 4.3 4.5 4.4 4.4 4.7 4.4
+Trabajadores Beneficiados (participación porcentual)
+Total 100 100 100 100 100 100 100 100 100 100 100
+Empresas Públicas 19 22 46 72 41 19 27 1 53 8 22
+Empresas Privadas 81 78 54 28 59 81 73 99 47 92 78  
+1/ Promedio ponderado por el número de trabajadores beneficiados en el periodo. 
+Fuente: Elaborado por el Banco de México con datos de la Secretaría del Trabajo y Previsión Social. 
+Cuadro 4 
+Remuneraciones, Productividad Laboral y CUMO por Sector de Actividad Económica 
+Variación anual en por ciento 
+2004 2005 2006
+Ene-Dic Ene-Abr Ene-Dic Ene Feb Mar Abr Ene-Abr
+Industria Manufacturera no Maquiladora
+Productividad Laboral 7.1 2.3 2.0 6.4 4.9 10.6 -1.7 5.0
+Remuneraciones Medias Reales 0.3 -0.5 -0.1 0.3 1.0 0.2 0.9 0.6
+CUMO -6.3 -2.5 -2.0 -5.7 -3.7 -9.4 2.7 -4.0
+Industria Maquiladora1/
+Productividad Laboral 2.5 -2.1 -1.1 1.6 -0.2 1.8 -2.3 0.2
+Remuneraciones Medias Reales -0.2 -1.9 0.4 1.2 1.6 3.2 2.5 2.1
+CUMO -2.6 0.2 1.6 -0.4 1.8 1.3 4.9 1.9  
+1/ El cálculo de la producción en la industria maquiladora se basa en el número de horas trabajadas. Así, la productividad media laboral 
+por persona ocupada refleja la intensidad de la mano de obra en el proceso productivo. 
+Fuente: Elaborado por el Banco de México con información del INEGI. 
+24                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+En la industria manufacturera no maquiladora, el costo unitario de la 
+mano de obra (CUMO) registró una variación promedio negativa durante el primer 
+cuatrimestre del 2006. Esta baja resultó mayor con relación a la observada en el 
+mismo lapso de 2005, lo que fue producto de un mayor ritmo de crecimiento de la 
+productividad laboral (Cuadro 4). Por el contrario, en la industria maquiladora se 
+observó un incremento en el CUMO mayor al del mismo periodo del año previo, lo 
+que fue consecuencia de un aumento en las remuneraciones medias reales.  
+3.3.2.  Bienes y Servicios Administrados y Concertados 
+El subíndice de precios de los bienes y servicios administrados alcanzó 
+en  junio  de  2006  una  tasa  de  variación  anual  de  8.18  por  ciento,  lo  que 
+representó un incremento de 0.23 puntos porcentuales respecto del nivel de 
+marzo. Este incremento fue producto de alzas en los precios de las gasolinas en 
+las ciudades fronterizas, así como en las tarifas eléctricas de alto consumo.  En el 
+caso de las gasolinas, ello se debió, en una primera instancia, al movimiento 
+ascendente en las referencias internacionales de este combustible; sin embargo, 
+al determinarse posteriormente un precio máximo para las ciudades fronterizas, 
+esta tendencia se vio interrumpida.18  En el caso de las tarifas eléctricas de alto 
+consumo, el incremento fue consecuencia de las alzas en los precios de los 
+metales que inciden sobre la fórmula de cálculo de este servicio.19  En contraste 
+con la evolución de las cotizaciones de los referidos energéticos, la tasa de 
+crecimiento anual del precio del gas para uso doméstico se redujo (Gráfica 17). 
+Como consecuencia de diversas medidas establecidas por el Gobierno 
+Federal,  los  precios  internos  de  la  gasolina,  gas  licuado  y  gas  natural  han 
+exhibido una menor volatilidad que la de sus referentes externos (Gráfica 18). 
+Así, en el caso de los primeros dos energéticos las alzas de precios que se han 
+observado  recientemente  en  los  mercados  internacionales  no  han  producido 
+presiones  inflacionarias  de  magnitud  comparable  a  las  registradas  en  otros 
+países.20  Cabe destacar que, durante el trimestre que se analiza, el precio 
+externo  de  la  gasolina  fue  mayor  al  interno,  situación  que  en  años  previos 
+usualmente había sido la inversa. No obstante, la trayectoria de los futuros de 
+este combustible sugiere que hacia el final del año los precios internos podrían 
+ubicarse nuevamente en un nivel más alto que los externos. Asimismo, el alza 
+que se observó en el precio internacional del gas licuado no se traspasó a las 
+cotizaciones  internas,  debido  a  la  determinación  del  Gobierno  Federal  de 
+                                                 
+18  El Gobierno Federal emitió dos comunicados con relación a la política de precios de las gasolinas en las 
+ciudades fronterizas. El primero, indicaba que a partir del 25 de abril de 2006 el precio de este 
+combustible no podría rebasar el nivel alcanzado en la semana del 11 al 17 de abril de 2006. El 
+segundo, que a partir del 6 de mayo se determinaba como precio máximo para las gasolinas en las 
+ciudades fronterizas, el correspondiente al precio mínimo observado para una ciudad en particular en la 
+misma fecha de referencia (que resultó ser Ciudad Juárez).   
+19  Las tarifas eléctricas residenciales de alto consumo se actualizan mensualmente de acuerdo al siguiente 
+factor: F = 0.8*TIP + 0.2*TCC. El primer término de la ecuación (TIP), se compone de tres subíndices del 
+Índice Nacional de Precios al Productor (INPP) que se promedian aritméticamente, y son: Productos 
+Metálicos, Maquinaria y Equipo, Industrias Metálicas Básicas y, Otras Industrias Manufactureras. El 
+segundo término (TCC), representa el costo de los precios de los combustibles que se utilizan para la 
+generación de la electricidad, éstos son: combustóleo importado y nacional; gas natural; diesel industrial 
+y; carbón importado y nacional.   
+20  En adición a las medidas implementadas durante el segundo trimestre de 2006 para limitar el impacto 
+del alza de los precios internacionales de las gasolinas sobre los precios internos que rigen en las 
+ciudades  fronterizas,  el  Gobierno  Federal  previamente  determinó  medidas  que  inciden  sobre  las 
+cotizaciones internas de los siguientes energéticos: gasolinas, electricidad de bajo consumo, gas licuado 
+y gas natural (ver Informe sobre la Inflación Enero-Marzo 2006, p.39).  
+25                                                                                       BANCO DE MÉXICO 
+incrementar el precio de este combustible con un desliz congruente con una tasa 
+de variación anual de 4 por ciento. Por lo que toca al precio externo del gas 
+natural, éste ha mantenido una tendencia descendente, que de acuerdo a la 
+trayectoria de los futuros podría revertirse durante el próximo semestre. Los 
+precios internos de este energético están sujetos tanto a los movimientos en las 
+cotizaciones internacionales como a diversas reglas establecidas para acotar su 
+volatilidad, por lo que su comportamiento ha sido más estable (Gráfica 18c). 
+Gráfica 17 
+Subíndice de Precios Administrados 
+Variación anual en por ciento 
+20 Administrados
+18 Gasolina
+Electricidad
+16
+Gas doméstico
+14
+12
+10
+8
+6
+4
+2
+0
+-2
+-4
+-6
+J   J    A    S    O    N    D    E    F    M    A    M    J  
+2005 2006
+ 
+Gráfica 18 
+Precios Internacionales y Futuros de Energéticos Seleccionados1/ 
+a ) Gasolina2/   b) Gas licuado3/  c) Gas natural4/ 
+21/04/2006 (futuros) 21/04/2006 (futuros) 21/04/2006 (futuros)
+260 26/07/2006 (futuros) 120 26/07/2006 (futuros) 16 26/07/2006 (futuros)
+240 Precio Interno 110 Precio Interno 14 Precio Interno
+220
+100 12
+200
+180 90 10
+160 80 8
+140 70 6
+120
+60 4
+100
+80 50 2
+Dic Dic Dic Dic Dic Dic Dic Dic Dic
+60 40 0
+ E  A J O E  A J O E  A J O E  A J O  E  A J O E  A J O E  A J O E  A J O  E  A J O E  A J O E  A J O E  A J O
+2003 2004 2005 2006 2003 2004 2005 2006 2003 2004 2005 2006
+1/ Las cotizaciones de los futuros corresponden a l New York Mercantile Exchange y a las fechas del 21 de abril y 26 de julio de 2006. 
+2/ Texas. Centavos de dólar por galón. 
+3/ Mont Belvieu, Tex. Centavos de dólar. 
+4/ Tetco, Tex. Dólares por MMBtu. 
+Al cierre del segundo trimestre de 2006 la variación anual del subíndice 
+de los bienes y servicios con precios concertados fue 1.22 por ciento, cifra que 
+resultó 0.40 puntos porcentuales menor a la observada en marzo.  La reducción 
+mencionada ha sido producto, principalmente, del escaso número de localidades 
+en las que, durante este periodo, se observaron incrementos al transporte público 
+o en el pago de cuotas de autopistas.    
+26                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+3.3.3.  Materias Primas Alimenticias y Metales  
+Las cotizaciones internacionales de los granos registraron incrementos 
+moderados durante el segundo trimestre de 2006, si bien la curva de los futuros 
+indica que, en lo que resta del año, éstas podrían presentar una trayectoria al 
+alza.  Los  aumentos  referidos  inciden  sobre  la  estructura  de  costos  de  los 
+productores de diversos alimentos procesados, entre los que destacan el pan y 
+los cereales, así como en algunos costos de los productos pecuarios.  
+Por  otra  parte,  los  precios  internacionales  de  la  carne  de  cerdo 
+aumentaron aproximadamente 30 por ciento durante el periodo que se analiza. 
+No obstante, en este caso la curva de los futuros de este cárnico sugiere que este 
+incremento podría revertirse en los meses siguientes (Gráfica 19). Por tanto, el 
+efecto de las cotizaciones internacionales sobre los precios internos de la carne 
+de cerdo y de sus productos derivados es incierto. Algo similar sucede con la 
+carne de res, ya que sus precios internacionales se han reducido moderadamente 
+con relación al nivel observado al cierre del trimestre previo, mientras que los 
+futuros indican que podrían elevarse en los meses siguientes.  
+Gráfica 19 
+Cotizaciones Internacionales de Materias Primas Alimenticias1/ 
+a ) Granos  b) Carnes 
+Dólares por bushel  Dólares por libra 
+1.2
+Res
+11
+Observado Futuros 1.1 Cerdo
+9 1.0 Observado Futuros
+7 0.9
+0.8
+5
+0.7
+3
+0.6
+1 Maíz
+Trigo 0.5
+Soya
+-1 0.4
+D  M J SD  M J SD  M J SD  M J SD   D  M J SD  M J SD  M J SD  M J SD  
+2002 2003 2004 2005 2006 2002 2003 2004 2005 2006
+   
+1/ Las cotizaciones de los futuros corresponden al 26 de julio de 2006. En el caso de los granos los valores corresponden al Chicago  
+   Board of Trade, mientras que en el de los cárnicos al Chicago Mercantile Exchange.  
+Fuente: Departamento de Agricultura de EEUU.  
+Los  precios  del  acero  y  del  cobre  aumentaron  significativamente 
+durante el segundo trimestre de 2006 con relación a los niveles observados en el 
+trimestre previo.  Así, entre marzo y junio, los aumentos en los precios del acero y 
+del cobre fueron de 12.1 y 71.2 por ciento (Gráfica 20). En ambos casos, esta 
+elevación  correspondió  a  lo  acontecido  en  los  mercados  internacionales.  Un 
+factor adicional que ha incidido en los precios del cobre y del acero fue el de los 
+conflictos laborales que han venido afectando a la producción.  
+27                                                                                       BANCO DE MÉXICO 
+Gráfica 20 
+Precio Interno del Acero y Cobre 
+Índices base diciembre 2003=100 
+400
+Acero
+Cobre
+360
+320
+280
+240
+200
+160
+120
+Dic Dic Dic
+80
+J A  O  D  F  A  J A  O  D  F  A  J A  O  D  F  A  J
+2003 2004 2005 2006
+ 
+Las  alzas  que  registraron  los  precios  de  los  metales  incidieron 
+principalmente sobre las cotizaciones de los materiales para la construcción, así 
+como en las tarifas eléctricas de alto consumo (ver Sección 3.3.2). Asimismo, 
+dichos incrementos en las cotizaciones de los metales y de la electricidad han 
+repercutido  sobre  los  costos  que  enfrentan  los  productores  de  diversas 
+mercancías, mismos que pudieran eventualmente implicar presiones sobre los 
+precios al consumidor. 
+3.4.  Evolución de los Agregados Monetarios y Crediticios 
+3.4.1. Base Monetaria, Crédito Interno Neto y Activos 
+Internacionales 
+Durante  el  primer  semestre  de  2006  la  base  monetaria  tuvo  un 
+crecimiento anual promedio de 14.6 por ciento, variación superior a la observada 
+durante el mismo periodo del año pasado (13.2 por ciento).21  Recientemente el 
+crecimiento de la demanda de base monetaria se ha acelerado, en parte debido 
+al mayor uso de efectivo que suele ocurrir durante los procesos electorales.  Al 
+respecto,  se  espera  que  este  agregado  reduzca  su  dinamismo  durante  la 
+segunda mitad del 2006.  
+Al cierre del segundo trimestre de 2006, los activos internacionales se 
+incrementaron en 8,934 millones de dólares con respecto al trimestre anterior, 
+con lo que su saldo al 30 de junio de 2006 fue de 84,980 millones de dólares.22  
+                                                 
+21    Variaciones calculadas con base en el promedio de saldos diarios.   
+22   Las definiciones de activos internacionales y reserva internacional pueden ser consultadas en el 
+glosario del Comunicado de Prensa sobre el Estado de Cuenta del Banco de México (publicación 
+semanal).  Al restar de la base monetaria los activos internacionales se obtiene una medida amplia de la 
+posición crediticia del Banco de México frente al mercado interno (crédito interno neto).  Es decir, el 
+financiamiento otorgado, o recibido, internamente por el Banco Central.  Por su parte, la reserva 
+28                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+Por su parte, la base monetaria aumentó 16,029 millones de pesos.  Como 
+resultado de lo anterior, el crédito interno neto del Banco de México disminuyó 
+84,248 millones de pesos en el trimestre (Cuadro 5). 
+Cuadro 5 
+Base Monetaria, Activos Internacionales y Crédito Interno Neto 
+Millones 
+Variación 
+Saldos Flujos en 2006
+% anual
+Trimestre 
+Al 31 Dic.    Al 30 Jun.    Al 30 Jun.   Acumulados al
+2005 2006 2006  I  II 30 Jun. 2006
+ (A) Base Monetaria (Pesos) 380,034   369,072   17.5 -26,990      16,029      -10,961     
+ (B) Activos Internacionales Netos (Pesos) 1/ 2/  788,167   957,918   35.4 21,062      100,276      121,338     
+        Activos Internacionales Netos (Dólares) 2/ 74,115   84,980   29.5 1,931      8,934      10,865     
+ (C) Crédito Interno Neto (Pesos) [(A)-(B)] 1/ -408,133   -588,846   49.8 -48,051      -84,248      -132,299     
+ (D) Reserva Internacional (Dólares) [(E)-(F)] 3/ 68,669   78,743   27.5 -1,182      11,256      10,074     
+ (E) Reserva Bruta (Dólares) 74,110   84,945   29.5 1,914      8,922      10,835     
+Pemex  6,420      10,555      16,976     
+Gobierno Federal -3,556      -932      -4,488     
+Venta de dólares a la banca 4/ -1,407      -1,550      -2,957     
+Otros 5/ 456      848      1,305     
+ (F) Pasivos a menos de seis meses (Dólares) 5,441   6,203   62.0 3,096      -2,334      762     
+ 
+1/ Para la estimación de los flujos efectivos en moneda nacional de los activos internacionales netos se utiliza el tipo de cambio aplicado a la operación 
+generadora de cada variación.  
+2/ Los activos internacionales netos se definen como la reserva bruta, más los créditos convenio con bancos centrales a más de seis meses,  a lo que se 
+restan los adeudos totales con el FMI y con bancos centrales derivados de convenios establecidos a menos de seis meses. 
+3/ Según se define en la Ley del Banco de México. 
+4/ Corresponde a las ventas diarias de dólares realizadas conforme al mecanismo para reducir el ritmo de acumulación de reservas  internacionales (ver 
+comunicado de prensa de la Comisión de Cambios del 20 de marzo de 2003). 
+5/Incluye los rendimientos de los activos internacionales netos y otras operaciones. 
+Cabe  mencionar  que  como  parte  de  la  estrategia  para  mejorar  la 
+composición de la deuda pública, se ha venido sustituyendo deuda externa por 
+interna. En junio de 2006 la Secretaría de Hacienda y Crédito Público y el Banco 
+de México anunciaron que se realizará una amortización anticipada de créditos 
+contratados con el Banco Interamericano de Desarrollo y con el Banco Mundial 
+por  aproximadamente  7,000  millones  de  dólares.  Para  llevar  a  cabo  esta 
+operación, el Gobierno Federal adquirirá divisas de la reserva internacional del 
+Banco de México con recursos que obtendrá de la colocación de bonos (Bondes 
+D) en el mercado de deuda local, instrumento con características similares a los 
+Bonos de Regulación Monetaria del Banco de México (BREMS).  Los recursos en 
+moneda nacional que obtenga el Banco de México por dicha operación serán 
+utilizados para realizar el pago anticipado de BREMS.    Como resultado de ello, 
+se  reducirá  el  saldo  de  las  reservas  internacionales  y  el  de  los  BREMS, 
+disminuyendo el pasivo y el activo del Banco de México y, por tanto, el costo de 
+financiar dichas reservas. Una vez que esta operación se realice, el Banco de 
+México dejará de colocar BREMS en el mercado, y las operaciones de regulación 
+monetaria (e.g. esterilización) que se hacían con dichos títulos se llevarán a cabo 
+con Bondes D. 
+                                                                                                                                 
+internacional es una medida que excluye los pasivos en divisas del Banco de México a corto plazo (a 
+menos de seis meses).  
+29                                                                                       BANCO DE MÉXICO 
+3.4.2. Agregados Monetarios y Financiamiento 
+La disminución en el costo de oportunidad de mantener activos líquidos 
+observada desde mediados del 2005 y el mayor ritmo de actividad económica 
+han contribuido a que los agregados monetarios estrechos hayan incrementado 
+su dinamismo. En particular, el medio circulante M1 aumentó su variación anual 
+de 9.2 por ciento en mayo de 2005, a 17.6 por ciento en el mismo mes de 2006 
+(Gráfica 21a y 21b). A su vez, este incremento reflejó también el mayor uso de 
+efectivo asociado a los procesos electorales. 
+Por  su  parte,  en  los  primeros  cinco  meses  del  año  el  agregado 
+monetario amplio M4 registró un crecimiento anual promedio de 15.4 por ciento.  
+Al respecto, cabe señalar que continúa el proceso de  profundización financiera 
+de la economía. En particular, a mayo de 2006 el ahorro financiero llegó  a 
+representar alrededor de 52 por ciento del PIB (Gráfica 21c). El ahorro financiero 
+se ha visto impulsado por un entorno macroeconómico de estabilidad, por la 
+captación de recursos a través del Sistema de Ahorro para el Retiro y, de forma 
+reciente, por el mayor dinamismo de la actividad económica. 
+Gráfica 21 
+Agregados Monetarios M1 y M4 y Tasas de Interés 
+a ) Agregados Monetarios M1 y M4  b) Diferencial entre las tasas de  c ) Agregado Monetario M4 1/ 
+Variación anual en por ciento de  interés de la captación a plazo y  Por ciento del PIB 
+series de tendencia  la captación líquida 
+Por ciento anual 
+18 5.5 55
+M1  M4
+17
+5.0 50
+16
+4.5 45
+15
+14 4.0 40
+13 3.5
+35
+12
+3.0
+11 30
+2.5
+10
+25
+9 2.0
+M S E M S E M S E M M S E M S E M S E M 20
+2003 2004 2005 2006 2003 2004 2005 2006 1970 1976 1982 1988 1994 2000 2006
+1/ Última observación mayo de 2006. Saldos prom  edio de los últimos doce meses.     
+La  mayor  oferta  de  recursos  financieros  internos  ha  permitido  un 
+incremento en el financiamiento al sector privado no financiero, a lo cual también 
+ha contribuido la menor demanda de recursos por parte del sector público.23 Esta 
+tendencia es aún más clara al analizar el crédito directo vigente de la banca 
+comercial a los hogares, el cual ha mostrado un marcado dinamismo en los 
+últimos años, en particular, en el caso del otorgado al consumo (variación real 
+anual de 48.3 por ciento a mayo de 2006). Sin embargo esto ha comenzado a 
+reflejarse  en  incrementos  en  la  cartera  vencida  y  en  la  vigente  con  pagos 
+vencidos, particularmente en los créditos al consumo.24  Al respecto, cabe señalar 
+                                                 
+23  Los cuantiosos ingresos petroleros y el menor costo financiero, entre otros factores, han permitido al 
+sector público reducir sus requerimientos financieros en los últimos años. 
+24  La cartera vigente con intereses vencidos corresponde a aquella que si bien aún no se considera  
+vencida de acuerdo con los criterios contables, presenta cierto atraso en sus pagos. 
+30                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+que si bien se ha presentado un ligero incremento en el índice de morosidad de la 
+cartera de tarjetas de crédito, éste aún se mantiene en niveles bajos.25 
+Cuadro 6 
+Fuentes y Usos de Recursos de la Economía 
+Porcentaje del PIB 
+Flujo anual: I trimestre Saldo en primer trimestre de 2006
+2005 2006 Var. Real Anual % PIB Estructura %
+ Total de fuentes    6.0 7.2 4.4 71.2 100.0
+        M4    5.5 7.1 11.3 52.5 73.7
+              En poder de residentes    5.1 6.5 10.5 50.5 70.9
+                    SAR    1.6 1.3 8.9 11.5 16.2
+                            Siefores    0.9 0.8 9.9 6.3 8.9
+                            Otros fondos    0.7 0.5 7.6 5.2 7.3
+                    Resto    3.5 5.2 11.0 39.0 54.7
+              En poder de no residentes    0.4 0.6 38.2 2.0 2.8
+        Financiamiento externo    0.5 0.1 -11.2 18.7 26.3
+              Sector público 1/    0.3 0.3 -12.7 12.0 16.8
+              Banca comercial 2/    0.1 -0.3 -51.0 0.3 0.4
+              Sector privado 3/    0.1 0.1 -4.7 6.5 9.1
+ Total de usos    6.0 7.2 4.4 71.2 100.0
+        Reserva internacional 4/    0.4 0.7 3.0 8.4 11.7
+        Sector público (SHRFSP) 5/    2.1 1.2 0.0 37.4 52.5
+              Internos    1.8 0.9 7.4 25.4 35.7
+              Externos    0.3 0.3 -12.7 12.0 16.8
+        Estados y municipios 0.2 0.1 3.2 1.5 2.1
+              Crédito de intermediarios financieros 6/    0.1 0.1 6.1 1.3 1.9
+              Emisión de instrumentos de deuda    0.0 0.0 -14.3 0.2 0.2
+        Sector privado    2.4 2.6 5.8 27.3 38.3
+              Hogares 7/      2.0 2.2 16.3 12.6 17.7
+                    Consumo    1.0 1.2 41.2 3.8 5.4
+                    Vivienda   1.0 0.9 8.0 8.8 12.3
+              Empresas    0.4 0.4 -1.9 14.6 20.5
+                    Crédito de intermediarios financieros 6/    0.3 0.3 0.6 6.3 8.9
+                    Emisión de instrumentos de deuda    0.0 0.1 -0.4 1.8 2.6
+                    Externo    0.1 0.1 -4.7 6.5 9.1
+        Otros conceptos    0.9 2.6 -26.9 -3.3 -4.6  
+1/ Incluye endeudamiento externo del Gobierno Federal, de organismos y empresas públicas y PIDIREGAS externos, reportados por la 
+Secretaria de Hacienda y Crédito Público (SHCP). 
+2/ Pasivos externos de la banca comercial. Excluye captación de no residentes. 
+3/ Incluye prestamos y valores emitidos en el exterior por el sector privado. 
+4/ Según se define en la Ley del Banco de México. 
+5/ Saldo histórico de los requerimientos financieros del sector público (SHRFSP) y flujo de los requerimientos financieros del sector público 
+(RFSP), reportados por la SHCP. El flujo anualizado del primer trimestre de 2005 excluye el efecto del intercambio del pagaré Fobaproa. 
+6/ Cartera total de los intermediarios financieros. Incluye programas de reestructura. 
+7/ Incluye programas de reestructura. En vivienda se refiere a la cartera total de los intermediarios financieros y del Instituto del Fondo 
+Nacional de la Vivienda para los Trabajadores (INFONAVIT).  
+El  crédito  directo  vigente  otorgado  por  la  banca  comercial  a  las 
+empresas ha mantenido una ligera recuperación y, en mayo de 2006, registró una 
+tasa de crecimiento real anual de 11.4 por ciento.  La reactivación del crédito 
+empresarial se ha concentrado, principalmente, en los sectores de servicios y de 
+la construcción (Gráfica 22).  En el último año, el saldo total del crédito directo 
+vigente se incrementó en 54.9 miles de millones de pesos, mientras que el crédito 
+otorgado a los sectores de servicios y de la construcción se incrementó en 52 
+                                                 
+25  El índice de morosidad de tarjetas de crédito pasó de 3.18 en diciembre de 2004 a 4.64 en mayo de 
+2006.  Esto contrasta con lo observado en el crédito bancario a la vivienda en donde los índices de 
+morosidad, tanto en la vivienda de interés social como en la residencial, continúan disminuyendo, 
+alcanzando 2.1 por ciento en mayo de 2006. 
+31                                                                                       BANCO DE MÉXICO 
+miles de millones de pesos. Ello también refleja que las actividades industriales, y 
+en  particular  las  manufactureras,  suelen  tener  otras  alternativas  de 
+financiamiento, principalmente externas. Finalmente, otro mercado en el que se 
+ha observado un repunte es el de deuda corporativa de mediano y largo plazo, 
+llegándose a colocar cerca de 18 miles de millones de pesos durante el segundo 
+trimestre de 2006, a una tasa de interés promedio de 9.26 por ciento. 
+Gráfica 22 
+Crédito Directo Vigente de la Banca Comercial a las Empresas y Valores Privados a Mediano Plazo 
+a ) Crédito Directo Vigente de la  b) Crédito Directo Vigente de la  c) Valores Privados a Mediano 
+Banca Comercial a Empresas  Banca Comercial a Empresas  Plazo 
+Variación anual en por ciento  Flujos acumulados en mmp  Emisión y rendimiento anual 
+50 Total Manufacturas 60 Servicios 
+mmp % 
+Construcción Servicios  Construcción Emisión
+40 50 Manufacturas 20 Tasa de interés 13
+18
+40 12
+30 16
+30 14 11
+20
+12
+20 10
+10 10
+10 8 9
+0 0 6 8
+4
+-10 -10 7
+2
+-20 -20 0 6
+D M J S D M J S D M J S D M E F M A M J J A S O N D E F M A M I  II III IV I  II III IV I  II III IV I  II
+2002 2003 2004 2005 2005 2006 2003 2004 2005 2006
+     
+Como se ha señalado en otras ocasiones, en general, las tasas de 
+interés de los créditos ofrecidos a la mayoría de la población continúan siendo 
+elevadas y no han reflejado cabalmente la caída en las tasas de interés líderes 
+provenientes de la reducción de la inflación.26  Al respecto, el Banco de México 
+ha procurado que los usuarios de los servicios financieros cuenten con más y 
+mejor información, a fin de que puedan elegir los créditos y servicios que más les 
+convengan.    En  este  sentido,  el  Banco  de  México  anunció  que,  a  partir  de 
+septiembre 2006, entrará en vigor una normatividad aplicable a bancos y Sofoles 
+que establece medidas de transparencia en el otorgamiento de créditos y otras 
+medidas  de  protección  para  los  acreditados.27  En  particular,  de  estas 
+disposiciones destaca el Costo Anual Total o CAT (indicador que considera, entre 
+otros  costos,  la  tasa  de  interés,  comisiones  y  seguros  obligatorios),  el  cual 
+permitirá que las personas cuenten con información estandarizada de las distintas 
+ofertas de crédito, facilitando la selección de la alternativa de menor costo. 
+                                                 
+26  Existe todavía un amplio diferencial entre las tasas pasivas que pagan los bancos y las que cobran.  
+Mientras que en abril de 2006, el costo de la captación a plazo en moneda nacional fue de 6.2 por ciento 
+anual, la tasa de interés cobrada sobre las tarjetas de crédito tradicionales fue de 32.9 por ciento, el 
+costo anual total de los créditos hipotecarios fue de 13.8 por ciento y 13.6 por ciento para los créditos a 
+empresas. 
+27  Para mayor información consultar la Circular Telefax 8/2006 y la presentación sobre las reglas de 
+transparencia para el otorgamiento de crédito, ambas disponibles en la página Web del Banco de México 
+(http://www.banxico.org.mx). 
+32                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+4.  La Política Monetaria durante el Segundo Trimestre 
+de 2006 
+Durante  el  segundo  trimestre  del  año  los  elevados  precios  de  los 
+energéticos y otras materias primas, en combinación con una mayor utilización de 
+los recursos productivos, implicaron mayores presiones sobre la inflación.  Esto 
+ha generado incertidumbre sobre la reacción correspondiente por parte de los 
+principales  bancos  centrales  y,  en  consecuencia,  sobre  los  niveles  que 
+alcanzarían  los  réditos  en  los  mercados  financieros  internacionales, 
+especialmente en los Estados Unidos.   
+Este entorno, en donde se percibe que las condiciones monetarias 
+globales continuarán tornándose menos acomodaticias, ha propiciado un menor 
+apetito por riesgo por parte de los inversionistas.  A su vez, ello se ha venido  
+traduciendo  en  un  ajuste  en  los  precios  de  diversos  activos  y  divisas, 
+principalmente en las economías emergentes (Gráfica 23).  En particular, en 
+dichas economías se han observado incrementos en los réditos correspondientes 
+a los instrumentos de deuda de mediano y largo plazo en moneda nacional 
+respecto de los observados durante el primer trimestre del año (Gráfica 24), si 
+bien aquéllos han venido revirtiéndose en las últimas semanas.   
+Es importante mencionar que las tasas de interés de largo plazo en las 
+economías desarrolladas aún se mantienen en niveles reducidos respecto de su 
+comportamiento histórico.  Esto es, si bien las condiciones financieras globales se 
+han tornado menos favorables, aún mantienen relativa holgura.  
+Gráfica 23 
+Índice Global de Apetito por Riesgo e Índices de Bolsas de Valores 
+a) 1990-20061/   b) Abril-Junio 2006 (abril 2006=100)2/ 
+10
+120
+8 Optimismo Extremo 115
+6 110
+4 105
+100
+2
+95
+0
+90
+-2
+85 México
+-4 Polonia
+80
+Hungría
+-6 Pesimismo Extremo 75
+Sudáfrica
+-8 70
+Abril Mayo Junio Julio
+E J  E J  E J  E J  E J  E J  E J 
+2006
+2000 2001 2002 2003 2004 2005 2006
+   
+1/ Fuente: Credit Suisse. El índice compara los rendimientos ajustados por riesgo de 64 activos. Para cada activo se calculan los rendimientos 
+en seis meses sobre el efectivo y la volatilidad a 12 meses. Después estima una regresión lineal de corte transversal con la volatilidad 
+como variable independiente y el rendimiento como variable dependiente. La pendiente de la regresión es el valor del índice de apetito por 
+riesgo en ese punto del tiempo. Durante periodos de alto apetito por riesgo, los activos riesgosos como acciones de economías 
+desarrolladas y mercados emergentes presentan altos rendimientos, mientras que los bonos gubernamentales de los países desarrollados 
+tienden a presentar rendimientos bajos e incluso negativos. Lo opuesto ocurre durante periodos de bajo apetito por riesgo.  
+2/ Estos países tienen una calificación crediticia similar o ligeramente superior que México. 
+33                                                                                       BANCO DE MÉXICO 
+Gráfica 24 
+Tasas de Interés de Largo Plazo y Diferencial de Tasas de Interés  
+Soberanas con respecto a Estados Unidos 
+a) Tasas de Interés a Diez Años en Moneda  b) EMBI 2005-2006 1/ 
+Local  Puntos base 
+Por ciento anual  
+10.0 México Sudáfrica 6.0 200 México Sudáfrica 250
+Hungría Polonia
+Hungría Polonia 240
+9.5 180
+Global 230
+9.0 5.5 160
+220
+8.5 140
+210
+8.0 5.0 120 200
+190
+7.5 100
+180
+7.0 4.5 80
+170
+6.5 60
+160
+6.0 4.0 40 150
+Ene Feb Mar Abr May Jun Jul Ene Feb Mar Abr May Jun Jul
+2006 2006
+   
+  1/ EMBI global: diferencial soberano. 
+Fuente: Bloomberg. 
+Por  su  parte,  el  entorno  inflacionario  en  México  continúa  siendo 
+favorable.  En particular, durante el primer semestre la inflación subyacente se 
+mantuvo cercana a 3 por ciento. En cuanto a la inflación general, tal y como se 
+había anticipado, durante el segundo trimestre mostró una tendencia decreciente, 
+después del repunte que presentó a principios de año. Es importante mencionar 
+que la inflación subyacente se ha mantenido ya durante varios meses cercana al 
+3 por ciento, mientras que la volatilidad que ha registrado la inflación general ha 
+sido reflejo, en gran parte, de aquélla que caracteriza a la inflación del subíndice 
+de  precios  de  las  frutas  y  verduras  y,  en  menor  medida,  de  la  que  ha 
+caracterizado  a  la  inflación  de  los  bienes  y  servicios  administrados.  En 
+consecuencia, parece que el traspaso de las perturbaciones de oferta hacia la 
+tendencia de la inflación se ha venido reduciendo de manera significativa.   
+Estos resultados han contribuido a que las expectativas de inflación 
+para diferentes plazos se hayan mantenido en niveles reducidos (Gráfica 25).  
+Así, las recabadas por el Banco de México en junio referentes a la inflación 
+general para los cierres de 2006, 2007 y 2008 fueron de 3.36, 3.52 y 3.54 por 
+ciento. Por su parte, las correspondientes a la inflación subyacente para 2006 y 
+2007 fueron de 3.28 y 3.22 por ciento.  Como es de apreciarse, los analistas aún 
+mantienen sus expectativas para la inflación general para diferentes horizontes 
+por arriba del objetivo, si bien consideran que la inflación subyacente continuará 
+situándose en niveles cercanos al 3 por ciento. 
+Considerando  que  la  inflación,  así  como  sus  perspectivas,  había 
+mostrado una evolución acorde con lo anticipado por el Instituto Central, la Junta 
+de  Gobierno  del  Banco  de  México  permitió  en  abril  una  reducción  en  las 
+condiciones monetarias no mayor a 25 puntos base y destacó que, para el futuro 
+previsible, no existía espacio para un relajamiento adicional.  De esta forma, en 
+los comunicados de mayo, junio y julio la Junta decidió mantener sin cambio las 
+34                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+referidas  condiciones,  habiendo  reiterado  en  dichas  fechas  la  ausencia  de 
+margen para un relajamiento posterior.  Estas acciones dieron lugar a que la tasa 
+de interés de fondeo bancario se redujera a 7 por ciento el 21 de abril, y a que se 
+haya mantenido en dicho nivel hasta la actualidad (Gráfica 26).  
+Gráfica 25 
+Expectativas de Inflación: Encuesta Banco de México  
+a) Cierre de 2006 y 2007  b) Próximos 12 meses y 4 Años (promedio) 
+Por ciento anual  Por ciento anual 
+4.50 4.75 Promedio Próximos 4 Años
+Expectativa Inflación General Anual
+Cierre 2006 Próximos 12 meses
+Expectativa Inflación General Anual 4.50
+4.25 Cierre 2007
+4.25
+4.00
+4.00
+3.75
+3.75
+3.50
+3.50
+3.25
+3.25 3.00
+D F  A  J  A O  D F  A  J  A O  D F  A  J  D F A  J  A O  D F A  J  A O  D F  A J 
+2003 2004 2005 2003 2004 2005
+   
+Gráfica 26 
+Tasas de Interés de Fondeo Bancario 
+Por ciento anual 
+11
+10
+9
+8
+7
+6
+5
+4
+3
+E  A  J  O  E A  J  O  E  A  J  O  E  M J
+2003 2004 2005 2006
+ 
+En los últimos meses los mercados financieros internos han resentido 
+tanto la mayor aversión al riesgo a nivel global, como la incertidumbre asociada al 
+proceso  electoral  del  presente  año.    Estos  factores  dieron  lugar  a  que  se 
+presentara un empinamiento de la curva de rendimientos durante el segundo 
+trimestre (Gráfica 27a).  En consecuencia, el diferencial entre la tasa de interés 
+del bono a 20 años y la de fondeo bancario a un día pasó de un promedio de 61 
+puntos base en el primer trimestre del año, a uno de 206 en el segundo.   
+35                                                                                       BANCO DE MÉXICO 
+No  obstante,  conviene  notar  que  el  ajuste  en  nuestros  mercados 
+financieros, ante un entorno en donde las condiciones monetarias a nivel global 
+se encuentran en un proceso de normalización, ha sido ordenado y ha conllevado 
+costos reducidos en términos de inflación y crecimiento. Al respecto, cabe señalar 
+que parte de los ajustes en los precios de diversos activos y divisas en los 
+mercados emergentes se han revertido recientemente. Asimismo, ha comenzado 
+a mitigarse la incertidumbre que usualmente antecede a los procesos electorales.  
+Estos factores han dado lugar a que en las últimas semanas se hayan venido 
+revirtiendo, tanto el incremento en las tasas de interés en moneda nacional para 
+plazos mayores, como algunos de los ajustes que se presentaron en el tipo de 
+cambio y en los precios de otros activos (Gráfica 27 y Gráfica 28).   
+Gráfica 27 
+Curva de Rendimientos en México y Diferencial con los Estados Unidos  
+a) Curva de Rendimientos en México  b) Diferencial México – Estados Unidos 
+Por ciento anual  Puntos base 
+11 Promedio Cuarto Trimestre 2005 750 3 meses
+1 año
+Promedio Primer Trimestre 2006 700 5 años
+10 Promedio Segundo Trimestre 2006 650 10 años
+28-Jul-06 600
+9 550
+500
+450
+8
+400
+350
+7
+300
+250
+6
+200
+1 1 3 6 1 3 5 10 20
+E A  J O E A J O E A J
+día meses   años
+2004 2005 2006
+   
+Gráfica 28 
+Curva de Rendimientos y Tipo de Cambio Efectivo en Economías Emergentes  
+a) Cambio en la Pendiente de la Curva de  b) Tipo de Cambio Efectivo  
+Rendimientos   Abril 2006=100 
+Puntos base 
+150 105
+100 100
+95
+50
+México
+Polonia
+90 Hungría
+0
+Sudáfrica
+México Polonia 85 Apreciación
+-50
+Hungría Sudáfrica
+Depreciación
+Abril Mayo Junio Julio 80
+-100 2006   Abril Mayo 2006 Junio
+ 
+36                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+5.  Balance de Riesgos y Conclusiones 
+El escenario económico que el Banco de México prevé para el 2006 se 
+sustenta en los siguientes elementos: 
+a)  En general, las perspectivas sobre la evolución de la economía mundial 
+continúan siendo positivas, si bien se han acentuado algunos riesgos.  
+Por  lo  que  se  refiere  a  los  Estados  Unidos,  el  promedio  de  las 
+proyecciones para el crecimiento económico de los principales analistas 
+se ubica alrededor de 3.5 por ciento, y se anticipa que la actividad 
+industrial se expandirá a un ritmo superior.  
+b)  Las cuentas externas de México seguirán registrando ingresos elevados 
+provenientes de las exportaciones de crudo y de las remesas de los 
+trabajadores mexicanos en el exterior.   
+c)  A pesar de que se anticipa que las condiciones monetarias globales se 
+tornen más restrictivas, conduciendo a una mayor aversión al riesgo por 
+parte de los inversionistas, los mercados financieros internacionales 
+mantienen relativa holgura.  En particular, las tasas de interés para 
+plazos mayores en las economías desarrolladas continúan en niveles 
+reducidos en términos históricos.      
+A partir de las consideraciones anteriores, y con base en la información 
+analizada en este Informe, el ejercicio de pronóstico arroja el siguiente escenario 
+para 2006: 
+Crecimiento: Se estima que el crecimiento económico se situará entre 
+4.0 y 4.5 por ciento (en el Informe sobre la Inflación anterior el intervalo era de 3.5 
+a 4.0 por ciento). 
+Empleo: Se prevé que la generación de empleos en el sector formal 
+será cercana a las 900 mil plazas (número de trabajadores asegurados en el 
+IMSS).  
+Cuenta Corriente:  Se anticipa que el déficit en la cuenta corriente de 
+la balanza de pagos sea alrededor de 0.2 por ciento del producto.    
+Inflación:  Es previsible que la inflación general y la subyacente se 
+sitúen entre 3 y 3.5 por ciento al cierre del año. El primer indicador observará 
+cierta volatilidad proveniente de su componente no subyacente.   
+Al respecto, cabe destacar lo siguiente:  
+a)  Si bien la inflación subyacente se ha mantenido cercana al 3 por ciento 
+en lo que va del año, las mayores presiones que ha venido enfrentando 
+provienen, en gran parte, del alza en los precios de diversos materiales 
+que se utilizan para la construcción de vivienda. Por supuesto, dichas 
+presiones podrían reducirse en la medida en que se restablezca la 
+producción de acero y cobre que se ha visto afectada por conflictos 
+laborales en algunas empresas del sector. Por su parte, los aumentos 
+que se han presentado en las cotizaciones de diversas materias primas 
+han repercutido sobre los precios de los servicios distintos de los de la 
+37                                                                                       BANCO DE MÉXICO 
+vivienda,  manteniendo  la  inflación  del  rubro  resto  de  los  servicios 
+relativamente elevada. Finalmente, se anticipa que la inflación de las 
+mercancías muestre una trayectoria lateral en lo que resta del año.  
+b)  Se estima que entre agosto y noviembre de 2006 la variación anual del 
+componente  no  subyacente  podría  incidir  al  alza  sobre  la  inflación 
+general, dado que se espera un repunte de la inflación anual de los 
+bienes agropecuarios.  Ello se debe a que en igual periodo del año 
+anterior se presentaron reducciones atípicas en los precios de estos 
+productos.   
+c)  Si bien los precios internacionales de los energéticos han alcanzado 
+nuevamente niveles máximos históricos, se anticipa que su impacto 
+sobre la inflación general será moderado.  Esto se debe a diversas 
+políticas que han sido adoptadas por el Gobierno Federal para atenuar 
+los efectos de la volatilidad de los precios internacionales de estos 
+bienes. 28   
+Para  2007  se  anticipa  que  la  inflación  subyacente  registre  niveles 
+cercanos al 3 por ciento, y que la inflación general se mantenga dentro del 
+intervalo de variabilidad de más/menos un punto porcentual alrededor del objetivo 
+de 3 por ciento, previéndose que, hacia finales de año, se sitúe en un nivel 
+inferior a 3.5 por ciento.   
+Es claro que tanto el entorno para la inflación como sus perspectivas 
+han mejorado.  No obstante, conviene mencionar los siguientes riesgos: 
+i)  Las elevadas cotizaciones internacionales de diversas materias primas 
+continúan siendo una fuente de presiones inflacionarias. Tal es el caso 
+de los energéticos y de los metales. 
+ii)  Las  cotizaciones  a  futuro  de  los  granos  sugieren  que  sus  precios 
+podrían ir al alza.   
+iii)  El entorno financiero internacional se ha vuelto menos favorable.  
+iv)  El ritmo de crecimiento de los precios de los servicios continúa siendo 
+elevado. 
+v)  Las expectativas de inflación aún se encuentran por encima de la meta 
+de 3 por ciento. 
+Por  otra  parte,  existen  factores  de  riesgo  que  pudieran  incidir 
+principalmente  sobre  el  crecimiento  de  la  actividad  productiva  previsto  en  el 
+escenario base.   
+En primer lugar, si la inflación se recrudece en los Estados Unidos, las 
+autoridades monetarias podrían incrementar sus tasas de referencia más allá de 
+lo que actualmente anticipan los mercados financieros, acentuando los riesgos a 
+la baja para el crecimiento mundial.  
+                                                 
+28   Para mayor información sobre las políticas de precios y tarifas seguidas por el Gobierno Federal ver el 
+Informe sobre la Inflación Enero- Marzo 2006 (página 39).  
+38                                         INFORME SOBRE LA INFLACIÓN ABRIL – JUNIO 2006 
+Como se ha señalado en repetidas ocasiones, otro factor de riesgo que 
+ha  venido  afectando  adversamente  el  ritmo  de  crecimiento  de  la  actividad 
+productiva y, por tanto, la generación de empleos, es la pérdida de competitividad 
+de la economía nacional.  Dicha pérdida refleja, sobre todo, la falta de avances 
+para  hacer  más  flexible  nuestra  estructura  productiva,  lo  que  permitiría  que 
+diversos insumos estratégicos fluyan de manera expedita y a precios competitivos 
+a aquellos sectores en donde se van generando oportunidades de crecimiento.  
+El que otros países estén avanzando en esta dirección disminuye las ventajas 
+competitivas del país, lo cual dificulta la solución de problemas endémicos en 
+nuestra sociedad, tales como el abatimiento de la pobreza y la muy desigual 
+distribución del ingreso.  
+Por otro lado, un riesgo que continúa latente es el proveniente de los 
+desequilibrios globales.  De hecho, el déficit en cuenta corriente de los Estados 
+Unidos  se  mantiene  muy  elevado.  No  obstante,  diversos  analistas  continúan 
+asignando únicamente una reducida probabilidad de ocurrencia a un escenario en 
+donde pudiera presentarse una corrección abrupta de esta situación.  
+Finalmente, en los últimos meses los mercados financieros internos se 
+vieron afectados, en parte, por la incertidumbre asociada al proceso electoral del 
+presente año.  Otros factores de riesgo relacionados con este proceso podrían 
+generarse, ocasionando nuevos episodios de volatilidad.  Sin embargo, como ya 
+se mencionó, los logros alcanzados en materia de estabilidad y profundidad de 
+nuestros mercados financieros han conducido a que la economía mexicana se 
+encuentre en la actualidad en una posición sólida para hacer frente a estos 
+episodios y mantener un clima de certidumbre para la inversión y la actividad 
+productiva.  
+ 
+39 

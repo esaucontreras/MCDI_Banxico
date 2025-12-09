@@ -1,0 +1,2965 @@
+ Informe sobre
+la Inflación
+Julio – Septiembre 2001
+OCTUBRE, 2001  JUNTA DE GOBIERNO
+Gobernador
+GUILLERMO ORTIZ MARTÍNEZ
+Subgobernadores
+EVERARDO ELIZONDO ALMAGUER
+GUILLERMO GÜEMEZ GARCÍA
+JESÚS MARCOS YACAMÁN
+JOSÉ JULIÁN SIDAOUI DIB  ADVERTENCIA
+A  menos  que  se  especifique  lo  contrario,  este  documento  está  elaborado  con
+información  disponible  al  23  de  octubre  de  2001.  Las  cifras  son  de  carácter
+preliminar y están sujetas a revisiones.  INDICE
+I. Introducción 1
+II. Evolución Reciente de la Inflación 3
+II.1. Indicadores de Inflación 4
+II.1.1. Inflación Anual del Indice Nacional de Precios al
+Consumidor y del Indice de Precios Subyacente 4
+II.1.2. Inflación Mensual del Indice Nacional de Precios
+ al Consumidor y del Indice de Precios Subyacente 6
+II.1.3. Indice Nacional de Precios Productor 10
+II.1.4. Fenómenos Transitorios que Afectaron a la
+Inflación 10
+II.2. Principales Determinantes de la Inflación 13
+II.2.1. Entorno Externo 14
+II.2.2. Remuneraciones, Salarios y Empleo 24
+II.2.3. Oferta y Demanda Agregadas 33
+II.2.4. Balanza de Pagos, Flujos de Capital y Tipo de
+Cambio 38
+II.2.5. Precios Administrados y Concertados 41
+II.2.6. Resumen 42
+III. La Política Monetaria Durante el Tercer Trimestre de
+2001 43
+III.1. Acciones de Política Monetaria 43
+III.2. Agregados Monetarios y Crediticios 49
+III.2.1. Base Monetaria, Crédito Interno Neto y Activos
+Internacionales Netos 49
+III.2.2. Agregados Monetarios M1 y M4 50
+III.2.3. Financiamiento al Sector Privado 52
+IV. Perspectivas del Sector Privado 54
+IV.1. Perspectivas del Sector Privado para 2001 y 2002 54
+IV.1.1. Pronóstico sobre los Principales Determinantes de
+la Inflación 54
+IV.1.2. Pronósticos de Inflación del Sector Privado 58
+V. Balance de Riesgos y Conclusiones 60  INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+I.  Introducción
+La  evolución  de  la  inflación  general  durante  el  tercer
+trimestre del año fue congruente con el objetivo de alcanzar en
+diciembre de 2001 una inflación anual menor que 6.5 por ciento.
+Entre los logros conseguidos en dicho periodo, destaca el descenso
+continuo de la inflación subyacente, sustentado en el desempeño
+favorable de la inflación subyacente de las mercancías. No obstante
+lo anterior, la rigidez a la baja que han mostrado los incrementos
+salariales contractuales ha redundado en un estancamiento de la
+inflación anual subyacente de los servicios en un nivel cercano a
+7.5 por ciento.
+Aun  antes  de  los  trágicos  acontecimientos  del  11  de
+septiembre, los pronósticos ya señalaban una desaceleración de la
+actividad  económica  mundial  más  aguda  que  la  originalmente
+prevista. Como resultado, se anticipaba una expansión más débil en
+México tanto en 2001 como en 2002.
+No hay duda de que los ataques terroristas han tenido un
+efecto  perjudicial  sobre  la  confianza  del  consumidor  y  de  las
+empresas, la actividad económica y la evolución de los mercados
+financieros  tanto  en  los  Estados  Unidos  como  en  el  resto  del
+mundo. En particular, las perspectivas de corto plazo relativas a la
+economía estadounidense se han deteriorado. Por otra parte, en el
+mediano plazo en ese país difícilmente el crecimiento económico
+podrá recuperar los niveles alcanzados en el periodo 1996-2000.
+A la luz de la estrecha vinculación que existe entre la
+economía nacional y la de los Estados Unidos, es de esperarse que
+el desempeño desfavorable de las exportaciones, la producción y el
+empleo en México se prolongue e incluso se intensifique.
+Si bien los avances que se han obtenido en el proceso de
+desinflación han sido notables, la tasa de crecimiento de los precios
+en México todavía es elevada, por lo que sigue constituyendo un
+obstáculo para un desarrollo económico sostenido y armónico. Es
+por ello que, la Junta de Gobierno del Banco de México ratifica el
+compromiso de alcanzar al cierre del próximo año una inflación
+que no exceda de 4.5 por ciento y una inflación de 3 por ciento en
+2003.
+Los esfuerzos de reducción de la inflación en 2002 se
+llevarán a cabo en un contexto internacional más incierto que el
+1 BANCO DE MÉXICO
+observado en los últimos años. Asimismo, la relativa rigidez a la
+baja de las expectativas de inflación para 2002 y 2003, ubicadas a
+la fecha en niveles incompatibles con los objetivos, dificultan la
+encomienda del Instituto Central.
+Como  resultado  del  complejo  entorno  económico
+internacional y debido a los elevados incrementos que continuaron
+exhibiendo los salarios contractuales el margen de que se dispone
+para relajar la postura de la política monetaria es prácticamente
+nulo. Asimismo, la debilidad estructural de las finanzas públicas,
+tampoco permite instrumentar una política fiscal expansiva. En este
+contexto resulta imprescindible avanzar significativamente en el
+ámbito de las reformas estructurales pendientes. Ello, con el fin de
+disminuir  la  vulnerabilidad  de  la  economía  mexicana  ante
+perturbaciones  de  origen  interno  y  externo.  Así,  México  podría
+salir de la fase actual del ciclo de manera ordenada y contar con las
+condiciones  adecuadas  para  retomar  tasas  de  crecimiento
+económico  elevadas  y  sostenibles,  con  creación  de  empleos,
+confianza  de  inversionistas  y  consumidores,  solvencia  de  las
+finanzas del sector público e inflación baja y estable.
+2 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+II.  Evolución Reciente de la Inflación
+La evolución de los precios durante el tercer trimestre de
+2001 resultó congruente con el cumplimiento de la meta para el
+año, incluso con cierta holgura. Tanto la inflación anual del Indice
+Nacional de Precios al Consumidor (INPC) como la del Indice de
+Precios Subyacente continuaron descendiendo. En el periodo de
+análisis destacaron los siguientes resultados:
+(a)  si bien la inflación anual del INPC mostró variabilidad a lo
+largo del trimestre, ésta se ubicó al final del periodo por
+debajo del nivel registrado en junio;
+(b)  la inflación anual subyacente disminuyó continuamente;
+(c)  la  desaceleración  de  la  inflación  subyacente  anual  de
+mercancías fue más pronunciada;
+(d)  la inflación subyacente anual de los servicios se mantuvo
+prácticamente constante en un nivel similar al observado
+en el trimestre anterior; y
+(e)  la inflación anual de los bienes y servicios que se excluyen
+del  cálculo  de  la  inflación  subyacente  registró  un
+comportamiento muy volátil.
+De  estos  hechos  se  desprenden  dos  conclusiones
+importantes acerca del actual proceso de desinflación:
+(a)  En un entorno de inflación moderada, la volatilidad de los
+precios  de  los  bienes  y  servicios  que  se  excluyen  del
+cálculo  de  la  inflación  subyacente  tiene  una  influencia
+relativamente  mayor  sobre  la  inflación  del  INPC  que
+cuando  se  experimentan  niveles  elevados  de  inflación.
+Por ello, en las circunstancias actuales, la evolución del
+índice  de  precios  subyacente  es  un  indicador  aún  más
+preciso de la tendencia de la inflación.  De lo anterior se
+deduce que durante el tercer trimestre se atenuaron las
+presiones inflacionarias de mediano plazo.
+(b)  La estabilidad que mostró en el periodo la inflación anual
+subyacente de los servicios indica que los incrementos
+que han registrado los costos unitarios de la mano de obra
+se han constituido en un obstáculo para el proceso general
+de desinflación.
+3 BANCO DE MÉXICO
+II.1.  Indicadores de Inflación
+A  continuación  se  analiza  el  desempeño  que  tuvieron
+durante el trimestre julio–septiembre de 2001 los distintos índices
+de precios que calcula el Banco de México.
+II.1.1.  Inflación  Anual  del  Indice  Nacional  de  Precios  al
+Consumidor y del Indice de Precios Subyacente
+Al cierre del tercer trimestre de 2001, la inflación anual
+medida  por  el  INPC  fue  de  6.14  por  ciento.  Ello  significó  una
+reducción de 0.43 puntos porcentuales en comparación con el dato
+correspondiente del trimestre anterior. Sin embargo, la inflación
+general  no  bajó  ininterrumpidamente  durante  este  periodo.  Al
+respecto, si bien en julio se observó un descenso significativo, éste
+se revirtió parcialmente en agosto y septiembre (Gráfica 1).
+Gráfica 1 Indice  Nacional  de  Precios  al  Consumidor  e  Indice  de  Precios
+Subyacente
+Variación anual en por ciento
+21
+2 INPC Subyacente
+1179 5.9216.6517.4118.6119.018.5418.2618.2318.0117.3917.0416.585.831
+1 19
+4.2
+15 13.9
+1
+2
+3
+13 2.
+12
+02
+1.51
+10.1
+191 110.9.739.489.419.129.108.858.918.878.9611
+7 8.7.097.177.116.956.575.885.936.14
+5
+Sep  Dic   Mar  Jun   Sep   Dic   Mar  Jun   Sep   Dic   Mar  Jun   Sep  
+1998 1999 2000 2001
+En  contraste  con  lo  anterior,  la  disminución  de  la
+inflación subyacente anual fue continua durante el trimestre. Así, al
+cierre  de  septiembre  de  2001,  la  tasa  de  crecimiento  anual  del
+índice de precios subyacente resultó de 5.93 por ciento, mientras
+4 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+que en junio había sido de 6.36 por ciento (Gráfica 1). Aunque al
+final del trimestre la inflación subyacente anual se ubicó por debajo
+de la general, en los primeros dos meses del lapso de referencia
+ocurrió lo contrario. Lo señalado, debido a los altibajos que registró
+la tasa de incremento anual del INPC. Esto último fue reflejo de la
+volatilidad de los precios de los bienes y servicios que se excluyen
+del cálculo de la inflación subyacente. Por un lado, la inflación
+anual del subíndice de los precios administrados y concertados por
+el sector público disminuyó 3.81 puntos porcentuales. Por otro, en
+el mismo periodo, la inflación anual del subíndice de los precios
+agropecuarios se elevó 4.28 puntos porcentuales (Cuadro  1). Así,
+en un entorno de mayor estabilidad, las variaciones acentuadas de
+los precios de ciertos bienes y servicios tienen una incidencia más
+significativa  sobre  el  promedio  que  representa  el  INPC.    Lo
+indicado corrobora que la inflación subyacente, la cual excluye de
+su  canasta  a  los  precios  más  volátiles,  es  un  indicador  más
+confiable de la tendencia de mediano plazo del crecimiento de los
+precios.
+Cuadro 1 Indices de Precios: INPC, Subyacente, Productos Agropecuarios,
+Servicios Educativos y Administrados y Concertados
+Por ciento
+Variaciones Anuales Variaciones Trimestrales
+Sep 2001/ Jun 2001/ Sep 2000/ Sep 2001/ Jun 2001/ Sep 2000/
+  Sep 2000   Jun 2000  Sep 1999  Jun 2001  Mar 2001  Jun 2000
+INPC 6.14 6.57 8.85 1.27 0.97 1.68
+Subyacente 5.93 6.36 8.26 0.73 1.28 1.14
+   Mercancías 4.85 5.52 7.64 0.31 1.03 0.95
+   Servicios 7.52 7.58 9.19 1.35 1.63 1.41
+Agropecuarios 6.63 2.35 5.42 4.99 2.96 0.77
+Educación 14.06 14.49 15.08 11.78 0.59 12.20
+Administrados y
+Concertados 5.06 8.87 12.41 -1.07 -1.27 2.51
+En  el  trimestre  que  se  reporta,  la  inflación  subyacente
+anual de las mercancías tuvo un desempeño diferenciado de la de
+los servicios. El primero de dichos indicadores descendió en este
+trimestre a un ritmo más rápido que en el anterior, ubicándose al
+cierre de septiembre en 4.85 por ciento, mientras que en junio había
+terminado  en  5.52  por  ciento.  En  contraste,  la  inflación  anual
+subyacente  de  los  servicios  permaneció  prácticamente  sin
+variación.    En  septiembre  dicho  indicador  terminó  en  7.52  por
+ciento, nivel ligeramente inferior al de 7.58 por ciento observado
+en junio (Gráfica 2).
+El  avance  conseguido  durante  2001  en  cuanto  a  la
+reducción  de  la  inflación  subyacente  de  mercancías  se  explica
+5 BANCO DE MÉXICO
+principalmente por la estabilidad del tipo de cambio. Por otra parte,
+la rigidez a la baja de la inflación subyacente de los servicios es
+atribuible a que  los incrementos de los salarios reales han excedido
+a  las  ganancias  en  productividad.  Esto  último  ha  causado  que
+aumenten  los  costos  unitarios  de  la  mano  de  obra  y  ello  ha
+repercutido en mayor medida sobre los precios de los servicios1.
+Gráfica 2 Indices de Precios Subyacentes: Mercancías y Servicios
+Variación anual en por ciento
+20
+18
+16
+14
+12
+Mercancías
+10
+Servicios
+8
+6
+4
+Sep  Dic   Mar  Jun   Sep   Dic   Mar  Jun   Sep   Dic   Mar  Jun   Sep  
+1998 1999 2000 2001
+II.1.2.  Inflación Mensual del Indice Nacional de Precios al
+Consumidor y del Indice de Precios Subyacente
+En julio la inflación mensual resultó negativa, habiendo
+sido la disminución más pronunciada en un mes del nivel general
+de precios desde 1968, año en que inició el cálculo del INPC2. Lo
+anterior  se  explica  por  dos  influencias:  i)  por  la  desinflación
+mensual que experimentaron los precios de las mercancías y ii) por
+la disminución de 1.5 puntos porcentuales que mostró el subíndice
+de los precios administrados y concertados, atribuible a una baja de
+13.1  por  ciento  del  precio  del  gas  doméstico.  En  agosto  y
+                                                
+1 Diversos estudios realizados por el Banco de México indican que los salarios son un
+determinante más importante de la inflación subyacente de los servicios que de las
+mercancías.  Un ejemplo de lo anterior puede encontrarse en el siguiente trabajo:
+“Determinantes del Nivel de Precios y la Dinámica Inflacionaria en México”, Daniel
+Garcés, Documento de Investigación del Banco de México No. 9907.
+2 Antes de 1968 la inflación se calculaba con base en el Indice de Precios al Mayoreo de
+la Ciudad de México.
+6 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+septiembre la inflación mensual medida por el INPC repuntó, tanto
+como consecuencia de los elevados incrementos que tuvieron los
+precios de los productos agropecuarios como de la actualización de
+las colegiaturas que ocurre al inicio del ciclo escolar. El efecto de
+estas alzas y la estabilidad de la inflación subyacente de servicios
+dieron lugar a que la medida estadística de tendencia3 aumentara
+(Gráfica 3).
+Gráfica 3 Indice Nacional de Precios al Consumidor
+Variación mensual en por ciento
+INPC Tendencia
+2.2
+1.7
+1.2
+0.7
+0.2
+-0.3
+Sep Dic Mar Jun Sep Dic Mar Jun Sep Dic Mar Jun Sep
+  1998                                             1999                                              2000                                             2001
+Los  pronósticos  de  los  analistas  del  sector  privado  al
+inicio del tercer trimestre de 2001 respecto de la inflación del INPC
+que se acumularía en el periodo fueron mayores que el resultado
+conseguido.  Esto  fue  consecuencia  de  una  sobrestimación
+significativa de la inflación para julio y de una  subestimación de
+menor magnitud para las de agosto y septiembre (Cuadro 2). Cabe
+señalar que en buena parte los errores de predicción se debieron a
+la  volatilidad  de  los  precios  de  los  bienes  y  servicios  que  se
+excluyen  del  cálculo  de  la  inflación  subyacente.    Otro  factor
+explicativo, aunque de menor relevancia, provino de un error de
+pronóstico de la propia inflación subyacente.
+                                                
+3 Calculada mediante el procedimiento estadístico denominado X12 ARIMA. Este método
+suaviza la serie original mediante la utilización de promedios móviles.
+7 BANCO DE MÉXICO
+ Revisiones de los Pronósticos de Inflación del Sector Privado
+Los pronósticos sobre la inflación de mediano plazo se Los errores en los pronósticos de la inflación mensual del
+han  caracterizado  en  tiempos  recientes  por  registrar INPC han dado lugar a modificaciones significativas, y
+revisiones  drásticas,  en  respuesta  a  movimientos  no más que proporcionales, del pronóstico de la inflación que
+anticipados de la inflación mensual observada del INPC. se  acumulará  al  cierre  del  año  (Gráfica  2).  Según
+Ajustes bruscos en las expectativas generan incertidumbre, estimaciones realizadas por el Banco de México, un error
+repercutiendo negativamente sobre las tasas de interés, las de predicción en la inflación mensual del INPC de 1 punto
+negociaciones salariales y, en general, sobre todos los porcentual  produce  una  revisión  del  pronóstico  de  la
+contratos que fijan un precio por un periodo determinado inflación  para  el  cierre  de  año  de  hasta  1.25  puntos
+(por ejemplo, las colegiaturas, la renta de vivienda, etc.). porcentuales.
+Las expectativas han reaccionado tal vez excesivamente a
+GRÁFICA 2
+los movimientos no esperados de la inflación general, ERROR DE PREDICCIÓN Y REVISIÓN DEL PRONÓSTICO DE LA
+causados por la volatilidad de los subíndices de precios INFLACIÓN DEL INPC PARA EL CIERRE DEL AÑO
+POR CIENTO ANUAL
+que se excluyen del cálculo de la inflación subyacente.
+00..4400
+El pronóstico de la inflación mensual del INPC que se 00..2200
+EErrrroorr  ddee  PPrreeddiicccciióónn
+utiliza para este análisis es el promedio de las previsiones
+00..0000
+que recaba el Banco de México entre un número amplio
+de analistas económicos del sector privado. Este se publica --00..2200
+mensualmente en la Encuesta sobre las Expectativas de los
+--00..4400
+Especialistas en Economía del Sector Privado. Por otra
+parte, se define como error de predicción la diferencia --00..6600
+entre  la  inflación  mensual  observada  del  INPC  y  el --00..8800 RReevviissiióónn  ddeell  PPrroonnóóssttiiccoo
+pronóstico que se realizó un mes antes.  Así, el error de
+--11..0000
+plar eidnifclaccióiónn  emn esnesputaiel mrebgries tsraed caa elcnu elas ec momeso  yl ala b ersepcehraa dean terne Ene-99Ene-99 Mar-99Mar-99 May-99May-99 Jul-99Jul-99 Sep-99Sep-99 Nov-99Nov-99 Ene-00Ene-00 Mar-00Mar-00 May-00May-00 Jul-00Jul-00 Sep-00Sep-00 Nov-00Nov-00 Ene-01Ene-01 Mar-01Mar-01 May-01May-01 Jul-01Jul-01 Sep-01Sep-01
+agosto para septiembre.
+Las  significativas  modificaciones  registradas  en  los
+El error de predicción de la inflación mensual del INPC se pronósticos de la inflación general para el cierre de año
+asocia de manera estrecha con las variaciones de los
+probablemente son atribuibles a dos causas: a que las
+precios de los bienes y servicios que no se incluyen en el perturbaciones no esperadas (positivas o negativas) que
+cálculo de la inflación subyacente (Gráfica 1). La razón de afectan a los subíndices de precios excluidos del cálculo
+ello reside en que, por definición, los precios de ese de la inflación subyacente se consideran permanentes y a
+conjunto de bienes y servicios excluidos son los de mayor
+que incluso pueden repetirse. No obstante lo señalado, la
+volatilidad. En consecuencia, ello dificulta la predicción evidencia  indica  que  las  variaciones  extremas  en  los
+de su evolución. subíndices  de  los  precios  agropecuarios  y  de  los
+administrados  y  concertados  tienden  a  revertirse
+GRÁFICA 1 parcialmente en el mediano plazo.
+ERROR DE PREDICCIÓN Y DIFERENCIA ENTRE LA INFLACIÓN
+MENSUAL DEL INPC Y LA SUBYACENTE.
+POR CIENTO ANUAL En conclusión, los pronósticos de la inflación general a
+0.80 mediano plazo han sobrereaccionado a perturbaciones de
+0.60 los subíndices de precios que se excluyen del índice de
+INPC-Subyacente
+0.40 inflación subyacente. Es de esperarse que esta práctica se
+0.20 modere, conforme se adquiera una mejor comprensión del
+0.00 proceso de formación de precios en un ambiente de baja
+-0.20 inflación. Ello debería conducir a que desaparecieran los
+efectos perniciosos que provocan los cambios súbitos en
+-0.40
+Error de Predicción las  expectativas  de  inflación.    Lo  anterior  resalta  la
+-0.60
+importancia del subíndice de precios subyacente como
+-0.80
+indicador de la tendencia del crecimiento de los precios a
+-1.00
+Ene-99 Mar-99 May-99 Jul-99 Sep-99 Nov-99 Ene-00 Mar-00 May-00 Jul-00 Sep-00 Nov-00 Ene-01 Mar-01 May-01 Jul-01 Sep-01 mediano plazo.
+8 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+Cuadro 2 Inflación Mensual Observada y Esperada
+Por ciento
+2001 2000
+Observada Esperada 1/ Observada Esperada 1/
+Julio -0.26 0.41 0.39 0.55
+Agosto 0.59 0.48 0.55 0.54
+Septiembre 0.93 0.78 0.73 0.83
+1/ Inflación esperada en junio de 2001 según la Encuesta sobre las Expectativas de los Especialistas en
+Economía del Sector Privado que recaba el Banco de México.
+La serie de tendencia de la inflación mensual subyacente
+de los servicios, al igual que la inflación anual de este subíndice, no
+registró una variación importante en el trimestre analizado (Gráfica
+4). En contraste, se acentuó el descenso de la serie de tendencia de
+la inflación mensual subyacente de mercancías. Cabe apuntar que
+este  resultado  estuvo  influido  decisivamente  por  la  inusitada
+disminución  que  tuvo  en  julio  la  inflación  subyacente  de  las
+mercancías.
+Gráfica 4 Indices  de  Precios  Subyacentes  de  las  Mercancías  y  de  los
+Servicios
+Variación mensual en por ciento
+2.9 2.9
+ Mercancias Servicios
+Tendencia Tendencia 
+2.4 2.4
+1.9 1.9
+1.4 1.4
+0.9 0.9
+0.4
+0.4
+-0.1
+-0.1
+S D M J S D M J S D M J S
+S D M J S D M J S D M J S
+1998 1999 2000 2001 1998 1999 2000 2001
+9 BANCO DE MÉXICO
+II.1.3.  Indice Nacional de Precios Productor
+Al igual que la del INPC, la inflación anual del INPP
+registró altibajos durante el tercer trimestre de 2001, mostrando al
+cierre del periodo un ligero aumento. En septiembre, el incremento
+anual del INPP sin petróleo y sin servicios fue de 4.67 por ciento,
+mientras que en junio había resultado de 4.46 por ciento. El mayor
+descenso conseguido en el trimestre fue en julio, mes en el que el
+componente  de  demanda  interna  del  INPP  experimentó  una
+variación negativa.  Esta última como reflejo de la significativa
+reducción que mostró el precio del gas licuado. Este avance se
+revirtió en agosto y septiembre principalmente por la depreciación
+del tipo de cambio, aunque en ese segundo mes también pesó el
+alza  del  precio  del  gas  licuado.    Los  movimientos  del  tipo  de
+cambio  tienen  una  incidencia  elevada  sobre  los  precios  de  los
+bienes  que  integran  este  índice,  ya  que  usualmente  éstos  se
+comercian internacionalmente.
+La evidencia estadística sugiere que las variaciones del
+subíndice de demanda interna del INPP sin petróleo y sin servicios
+preceden a las del subíndice  subyacente de las mercancías. Por
+dicha  razón,  la  evolución  reciente  del  aludido  indicador  es  una
+señal que advierte acerca de una posible incidencia desfavorable
+sobre el proceso de  desinflación del subíndice subyacente de las
+mercancías.
+II.1.4.  Fenómenos Transitorios que Afectaron a la Inflación
+El incremento a tasa mensual del subíndice de los precios
+de la educación en septiembre de 2001 resultó de 10.46 por ciento.
+Ello fue reflejo del aumento de las colegiaturas que ocurre al inicio
+de cada ciclo escolar4. Como referencia, en el mismo mes del año
+previo este subíndice tuvo un alza de 10.55 por ciento. Así, al
+cierre  del  trimestre  reportado  la  tasa  de  crecimiento  anual  del
+subíndice de los precios de la educación fue de 14.06 por ciento.
+Por tanto, no se observó, como ocurrió en el tercer trimestre de
+2000,  una  reducción  significativa  con  respecto  al  resultado  del
+trimestre precedente (Gráfica 5).
+                                                
+4 El  subíndice  de  educación  tiene  una  notable  estacionalidad.  Su  elevación  más
+pronunciada ocurre en septiembre (un pequeño aumento se observa usualmente en
+agosto,  por  el  inicio  de  clases  en  algunas  preparatorias  y  universidades).  Los
+incrementos de colegiaturas que tuvieron una mayor incidencia sobre la inflación del
+trimestre fueron los de las primarias y secundarias. En contraste, las alzas de cuotas en
+las escuelas para carrera “corta” e idiomas y en las universidades fueron más
+moderadas.
+10 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+Sería de esperarse que las colegiaturas respondieran a la
+evolución de las expectativas de inflación y de los salarios, ya que
+la educación es un bien no comerciable. Por tanto, la rigidez a la
+baja  que  ha  exhibido  la  tasa  anual  de  crecimiento  de  las
+colegiaturas constituye una evidencia adicional del efecto adverso
+que  han  tenido  sobre  la  inflación  los  elevados  incrementos
+salariales.  Ello, a pesar de que las expectativas de inflación se han
+ajustado continuamente a la baja. El efecto descrito ha sido aún
+más pronunciado en el sector de la educación que en el resto de la
+economía.  Esto  se  hace  patente  al  compararse  la  evolución  del
+subíndice  de  los  precios  de  la  educación  con  la  del  índice
+subyacente de servicios y al notar que las revisiones al alza de los
+precios en el sector educativo han superado a las observadas en el
+resto de los servicios.
+Gráfica 5 Subíndice de Precios de la Educación e INPC
+Variación anual en por ciento
+20
+15
+Educación
+10
+INPC
+Subyacente Servicios
+5
+S E M S E M S E M S
+1998 1999 2000 2001
+En el periodo julio-septiembre, el subíndice de precios de
+los productos agropecuarios acumuló un incremento de 4.99 por
+ciento,  habiendo  sido  el  mayor  registrado  durante  el  año.  Los
+productos cuyos precios sumaron los mayores aumentos durante el
+trimestre fueron los siguientes: naranja (60.99 por ciento), frijol
+(19.35 por ciento) y jitomate (15.52 por ciento).
+11 BANCO DE MÉXICO
+                           Determinantes de la Inflación del Subíndice de Precios de la Educación
+Durante los últimos cinco años las colegiaturas se han 1. Los servicios que recibe un consumidor utilizan en su
+incrementado en una mayor proporción que la mayoría de producción  insumos  que  son  comerciables  y  no
+los precios de la economía. De septiembre de 1997 a comerciables.  Por  ejemplo,  el  servicio  que  ofrece  un
+septiembre de 2001, las colegiaturas aumentaron 17.6 restaurante requiere de alimentos (comerciable) y de la
+puntos porcentuales más que el INPC. Además, en dicho preparación  y  presentación  de  los  mismos  (no
+periodo, las alzas de las colegiaturas también superaron a comerciable). Así, es posible que en la educación los
+las del subíndice de precios subyacente de los servicios en insumos no comerciables tengan un mayor peso que en el
+14.9 puntos porcentuales. En este recuadro se analizan caso de otros servicios. Ello implica que el aumento de los
+algunas de las posibles causas de este fenómeno. costos unitarios de la mano de obra tiene una mayor
+incidencia sobre los costos de operación de una escuela
+A raíz de la crisis de 1995, el precio relativo de la
+que en otras empresas de servicios;
+educación (subíndice de precios de la educación entre el
+INPC) disminuyó. De septiembre de 1994 a septiembre de 2.  Los  incrementos  reales  en  sus  precios  que  puede
+1997  dicho  concepto  se  redujo  22.7  por  ciento.  No acordar una empresa dependen en gran medida de la
+obstante lo anterior, el precio relativo de las colegiaturas competencia que enfrenta. Una empresa con un poder de
+alcanzó su nivel más alto de los últimos veinte años en mercado alto, ante cambios en la demanda agregada o en
+septiembre de 1994, el cual probablemente excedía el los costos unitarios, puede modificar sus precios en mayor
+nivel  de  equilibrio  de  largo  plazo,  por  lo  que  no proporción que una empresa con bajo poder. Es probable
+necesariamente es una buena referencia. Actualmente el que las escuelas tengan un mayor poder de mercado que
+precio relativo de la educación se encuentra cerca del otras empresas de servicios. Esto, en la medida que le
+máximo histórico (Gráfica 1). resulta muy costoso a un estudiante cambiarse de una
+escuela a otra. Así, el precio relativo de la educación ha
+En  principio  las  colegiaturas  deberían  responder
+experimentado en los últimos veinte años reducciones y
+principalmente a las expectativas de inflación y a los
+alzas más pronunciadas que las de los precios relativos de
+salarios. Ello, toda vez que la educación es un bien no
+los  servicios  médicos  (cuyo  poder  de  mercado
+comerciable. Puesto que las expectativas de inflación han
+probablemente es inferior al de las escuelas) y del corte de
+disminuido, la rigidez de la inflación en las colegiaturas
+cabello (cuyo poder de mercado es bajo)(Gráfica 1); y
+debe atribuirse primordialmente a los incrementos que han
+experimentado los salarios reales de los trabajadores de la GRÁFICA 1
+educación. Por otra parte, el vigor que mostró la demanda PRECIO RELATIVO DE LA EDUCACIÓN, SERVICIOS MÉDICOS
+Y CORTE DE CABELLO
+agregada hasta el inicio de este año probablemente se Enero de 1980=1
+tradujo en presiones de demanda de servicios educativos.
+El subsecuente debilitamiento de la demanda agregada no 1.70
+se reflejó en una disminución del precio relativo de dichos Educación
+1.50
+servicios.  La  razón  es  que  las  decisiones  sobre  los
+incrementos  de  las  colegiaturas  se  toman  usualmente 1.30
+meses antes del inicio de las clases, que es cuando los
+1.10 Servicios Médicos
+aumentos se hacen efectivos.
+0.90 Corte de Cabello
+La fortaleza que exhibió la demanda agregada hasta el
+inicio de 2001 y la continua elevación que han registrado 0.70
+los costos unitarios de la mano de obra se han reflejado en
+0.50
+usenr vaiucmioesn. toS idne  leoms bparregcoio, s ersetlea tifveonsó mdee nlao  mhaay osriídao d em láoss Ene-80 Ene-82 Ene-84 Ene-86 Ene-88 Ene-90 Ene-92 Ene-94 Ene-96 Ene-98 Ene-00
+pronunciado en el caso de la educación. Al respecto, la
+tasa de crecimiento anual del subíndice de los precios de
+la educación ha superado desde hace cinco años a la del 3. La prolongada huelga de la UNAM que ocurrió entre
+subíndice de precios subyacente de los servicios. Esto 1999 y 2000 pudo haber presionado a la demanda por
+puede deberse a varias razones, entre las cuales destacan educación media y superior. Sin embargo, como se señaló
+las siguientes: en el Informe sobre la Inflación:  Julio-Septiembre  de
+12 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+2000, aún cuando ello pudo haber ejercido un efecto caracterizó  a  la  demanda  agregada  hasta  el  primer
+alcista sobre las colegiaturas, no explica los incrementos trimestre de 2001. Ambos factores pudieron haber tenido
+de las misma en los grados inferiores, los cuales han sido un impacto mayor sobre los precios de la educación que
+muy similares a los de la universidad. Es de notar que el sobre los de otros servicios. Lo anterior, debido al alto
+aumento real de las colegiaturas en carreras cortas e componente de bienes intermedios no comerciables que
+idiomas ha sido significativamente menor que en el resto incorpora la educación, y también al mayor poder de
+de los grados (Cuadro 1). mercado que tienen las escuelas en comparación con la
+mayoría de las empresas de servicios.
+CUADRO 1
+PRECIO RELATIVO DE LOS COMPONENTES DEL SUBÍNDICE DE Actualmente,  el  precio  relativo  de  la  educación  se
+PRECIOS DE LA EDUCACIÓN
+encuentra cercano al máximo histórico de los últimos
+Septiembre de 1988=1
+veinte años, y la demanda agregada se ha debilitado a
+Educación Jardín Primaria Secundaria Preparatoria Universidad Carrera
+deNiños Corta partir del segundo trimestre de este año. Por ello, es de
+Sep / 1988 1.00 1.00 1.00 1.00 1.00 1.00 1.00
+Sep / 1990 1.18 1.16 1.13 1.19 1.16 1.23 1.25 esperarse que en 2002 los incrementos en las colegiaturas
+Sep / 1992 1.52 1.50 1.49 1.56 1.54 1.67 1.44 se  moderen  significativamente.  De  no  ocurrir,  ello
+Sep / 1994 1.82 1.89 1.89 1.93 1.79 1.88 1.56
+Sep / 1995 1.51 1.60 1.59 1.60 1.49 1.58 1.26 constituiría evidencia de que el poder de mercado que
+Sep / 1996 1.40 1.49 1.50 1.48 1.40 1.55 1.07
+Sep / 1997 1.41 1.48 1.51 1.48 1.41 1.61 1.04 tienen  las  escuelas  representa  un  obstáculo  para  la
+Sep / 1998 1.43 1.51 1.56 1.53 1.41 1.64 1.01 convergencia  de  la  inflación  de  la  educación  con  la
+Sep / 1999 1.46 1.56 1.61 1.57 1.44 1.65 1.02
+Sep / 2000 1.54 1.65 1.72 1.67 1.53 1.77 1.03 inflación general.
+Sep / 2001 1.65 1.78 1.85 1.80 1.66 1.88 1.10
+En conclusión, el incremento real que han mostrado las
+colegiaturas es atribuible en lo principal a los aumentos en
+los costos unitarios de la mano de obra y a la fortaleza que
+II.2.  Principales Determinantes de la Inflación
+En esta sección se analizan los principales factores que
+inciden  sobre  la  evolución  de  la  inflación.  En  primer  lugar  se
+examina la evolución del entorno internacional. Ello es relevante
+ya que dicho entorno, a través de sus efectos sobre las cuentas
+externas del país, incide en la determinación del tipo de cambio, la
+producción, la demanda agregada y los precios. A continuación, se
+revisa  el  comportamiento  de  los  salarios  y  de  la  productividad.
+Estos son determinantes directos de los costos unitarios de la mano
+de obra, los cuales se han constituido en una influencia crucial
+sobre el proceso inflacionario. En el siguiente inciso se describe la
+evolución de la demanda y oferta agregadas. El análisis de dichas
+variables  permite  identificar  las  presiones  inflacionarias  que  se
+derivan  de  los  excesos  de  demanda  agregada.  Estos  últimos
+también  se  manifiestan  en  el  comportamiento  de  la  cuenta
+corriente, la cual se estudia por separado y cuya exploración viene
+acompañada de la que corresponde al desempeño de los rubros que
+integran  la  cuenta  de  capital.  Finalmente,  se  reporta  el
+comportamiento de los precios administrados y concertados por el
+sector público. Como se explica ampliamente en el texto, dichos
+precios  tienen  una  incidencia  directa  muy  significativa  sobre  la
+inflación del INPC.
+13 BANCO DE MÉXICO
+II.2.1.  Entorno Externo
+La desaceleración de la economía de los Estados Unidos y
+los ataques terroristas del 11 de septiembre fueron los fenómenos
+que dominaron el entorno externo de la economía mexicana en el
+periodo. El comportamiento del resto de las economías del mundo
+fue poco vigoroso y había llevado a la reducción del pronóstico de
+expansión mundial aun antes de los sucesos del 11 de septiembre
+(Cuadro 3),  tendencia  que  se  intensificó  posteriormente.  En  el
+segundo  y  tercer  trimestres  de  2001  se  observó  un  crecimiento
+prácticamente nulo de la economía mundial y una sincronización
+elevada  del  ciclo  económico  global.  Ambos  acontecimientos  no
+habían  coincidido  en  los  últimos  treinta  años.  En  razón  de  lo
+inusual de esta coyuntura, en la actualidad el análisis prospectivo
+de la economía mundial es muy incierto.
+Cuadro 3 Pronósticos del FMI para el Crecimiento del Producto Interno Bruto
+Variaciones en por ciento
+    Mayo           Octubre
+2001 2002 2001 2002
+Mundo 3.2 3.9 2.6 3.5
+Economías Avanzadas 1.9 2.7 1.3 2.1
+EUA 1.5 2.5 1.3 2.2
+Japón 0.6 1.5 -0.5 0.2
+Alemania 1.9 2.6 0.8 1.8
+Francia 2.6 2.6 2.0 2.1
+Italia 2.0 2.5 1.8 2.0
+Reino Unido 2.6 2.8 2.0 2.4
+Canadá 2.3 2.4 2.0 2.2
+Resto 3.0 3.8 1.9 3.3
+Unión Europea 2.4 2.8 1.8 2.2
+NICs de Asia 3.8 5.5 1.0 4.3
+Latinoamérica  3.7 4.4 1.7 3.6
+Fuente: Fondo Monetario Internacional, World Economic Outlook, mayo 1º y octubre 1º de
+2001. Estos pronósticos no incorporan los efectos de los ataques terroristas del 11 de
+septiembre.
+A pesar de la perturbación adversa que experimentó la
+economía  global  durante  septiembre,  las  fluctuaciones  de  las
+variables  financieras  en  México  se  dieron  sin  sobresaltos.  Al
+respecto,  la  percepción  del  riesgo  país  se  deterioró,  el  tipo  de
+cambio se depreció y las tasas de interés aumentaron hacia finales
+del  trimestre.  Finalmente,  durante  el  trimestre  el  precio  de  la
+mezcla mexicana de petróleo se mantuvo por encima del anticipado
+al inicio del mismo. Sin embargo, hacia el cierre de septiembre esta
+cotización  experimentó  una  caída  importante,  situándose  en  los
+niveles más bajos del año.
+14 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+II.2.1.1.  Precio del Petróleo
+En  el  tercer  trimestre  de  2001,  el  nivel  promedio  del
+precio  internacional  del  petróleo5  se  ubicó  en  26.7  dólares  por
+barril,  1.3  dólares  menor  que  en  abril-junio.  Aunque  la
+desaceleración  global  continuó  presionando  hacia  la  baja  a  ese
+precio,  la intensificación de las hostilidades entre Israel y Palestina
+y la decisión de los países miembros de la OPEP de reducir sus
+cuotas de producción, contribuyeron al repunte que ocurrió con
+posterioridad durante julio y agosto. Como secuela del nerviosismo
+asociado  a  los  ataques  terroristas  del  11  de  septiembre,  la
+volatilidad  del  precio  internacional  aumentó  hacia  finales  del
+trimestre. Esto se debió a la gran incertidumbre prevaleciente en
+cuanto a las condiciones que afectan tanto a la demanda como a la
+oferta  de  crudo.  Por  el  lado  de  la  oferta,  la  posibilidad  de  un
+conflicto militar más amplio provocó presiones hacia el incremento
+de la cotización. Por el lado de la demanda, la revisión a la baja de
+los  pronósticos  de  crecimiento  mundial  y  la  reducción  de  la
+demanda  de  combustible  para  las  aerolíneas  dieron  lugar  a
+presiones  a  la  baja.  La  estrategia  diplomática  adoptada  por  el
+gobierno de los Estados Unidos en respuesta a los ataques y la
+ausencia  de  una  reacción  militar  inmediata  llevaron  a  los
+principales analistas a esperar, en caso de que se presentase, un
+conflicto armado muy localizado que no generaría interrupciones
+importantes  en  la  oferta  mundial  de  crudo.  Así,  después  de  la
+escalada alcista que ocurrió en los días siguientes al ataque, ha
+dominado la influencia de la demanda y el precio se ha estabilizado
+transitoriamente en niveles inferiores a los que prevalecían antes de
+los atentados.
+                                                
+5 Crudo marcador de referencia: WTI.
+15 BANCO DE MÉXICO
+Gráfica 6 Precio de la Mezcla Mexicana de Petróleo de Exportación en 2001
+Dólares por barril
+24
+Precio diario
+Promedio del mes
+22
+20.77
+20 19.55 19.62
+18
+16
+1 1 1 1 1 1 1 1 1 1 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0
+2-Jul- 9-Jul- 16-Jul- 23-Jul- 30-Jul- 6-Ago- 3-Ago- 0-Ago- 7-Ago- 3-Sep- 0-Sep- 7-Sep- 4-Sep-
+1 2 2 1 1 2
+FUENTE: Pemex
+En  el  trimestre  julio-septiembre  de  2001,  el  precio
+promedio  de  la  mezcla  mexicana  de  exportación  de  petróleo
+registró un nivel de 19.98 dólares por barril, ligeramente superior al
+de 19.84 dólares observado en el trimestre anterior. La cotización
+de la mezcla mexicana en el periodo resultó asimismo superior al
+pronóstico implícito en los contratos de futuros suscritos al inicio
+del trimestre. Aunque dicho patrón se ha repetido en cada uno de
+los  pasados  tres  meses,  durante  septiembre  el  precio  reflejó  la
+volatilidad experimentada por la cotización internacional, habiendo
+sufrido una disminución de casi seis dólares en las últimas dos
+semanas del mes. Asimismo, el diferencial entre el precio de la
+mezcla mexicana y el WTI se mantuvo en un intervalo entre 5 y 6
+dólares por barril.
+II.2.1.2.  Evolución de la Economía de los Estados Unidos
+La  tasa  de  crecimiento  anual  de  la  economía  de  los
+Estados Unidos durante el segundo trimestre de 2001 fue de 0.3 por
+ciento, registrando así la menor expansión trimestral de los últimos
+ocho  años6.  En  el  trimestre  julio-septiembre  continuó  el
+debilitamiento  de  la  actividad  económica,  a  lo  cual  se  sumó  la
+                                                
+6 Esta cifra se refiere a la tasa de crecimiento trimestral anualizado.
+16 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+perturbación de la confianza que se derivó del ataque terrorista del
+11 de septiembre. Si bien dicho suceso aumentó la probabilidad de
+que en el corto plazo la economía estadounidense experimente una
+recesión,  la  respuesta  inmediata  de  la  política  económica  ha
+generado  la  expectativa  de  una  recuperación  en  el  segundo
+semestre de 2002.
+Para el análisis de la evolución de la economía de los
+Estados  Unidos  durante  el  trimestre  julio-septiembre,  resulta
+conveniente destacar primeramente lo ocurrido hasta antes de los
+ataques terroristas, para a continuación explorar las repercusiones
+de esos acontecimientos. Así, en el periodo de julio a principios de
+septiembre,  la  incipiente  mejoría  que  experimentó  el  sector
+industrial no evitó que la pérdida de vigor sufrida a lo largo del año
+se  reflejara  en  un  aumento  de  la  tasa  de  desempleo.  Aunque
+durante julio y agosto se sostuvo el ritmo de expansión del gasto en
+consumo, la reducción acumulada en el empleo y el persistente
+deterioro del mercado de valores, le transmitieron la debilidad que
+ha mantenido el sector industrial durante los últimos 12 meses e
+incidieron adversamente sobre la confianza de los consumidores.
+Debido  a  que  el  consumo  privado  había  sido  hasta  entonces  el
+motor que evitó que la economía cayera en recesión, la posibilidad
+de una nueva disminución del crecimiento de dicho componente
+del  gasto  hacía  vislumbrar  que  la  debilidad  de  la  actividad
+económica continuaría en los siguientes meses. Dicho diagnóstico
+se sustentaba en la información siguiente:
+(a)  El Indice de la Encuesta de la Asociación Nacional de
+Gerentes  de  Compras  (NAPM),  que  es  un  indicador
+adelantado de la actividad industrial, se situó en el tercer
+trimestre del año, en un nivel promedio de 46.2 puntos.
+Este último, por ser inferior a 50 puntos, es indicativo de
+una contracción del sector manufacturero;
+(b)  Estabilización  en  la  caída  de  los  pedidos  de  bienes
+durables. Durante julio y agosto éstos disminuyeron 0.5
+por ciento, en promedio, después de haberlo hecho en 1.8
+por ciento durante el trimestre abril-junio;
+(c)  Aumento de la tasa de desempleo de 4.5 por ciento en
+julio a 4.9 por ciento en septiembre;
+(d)  Deterioro  de  los  indicadores  relativos  al  mercado  de
+bienes raíces. Durante septiembre el Indice del Mercado
+de la Vivienda se redujo a 56 puntos, su nivel más bajo
+desde enero del presente año; y
+17 BANCO DE MÉXICO
+(e)  Caída  de  los  indicadores  adelantados  del  consumo
+privado.  A  principios  de  septiembre  se  observó  un
+deterioro  de  las  ventas  departamentales,  así  como  del
+Indice  de  Confianza  del  Consumidor  que  calcula  la
+Universidad de Michigan.  El 11 de septiembre el Indice
+Redbook de ventas al menudeo registró una baja de 0.9
+por  ciento  con  respecto  al  dato  reportado  la  semana
+previa.    El  Indice  de  Confianza  del  Consumidor,  que
+durante el trimestre anterior se había mantenido entre 88 y
+93  puntos,  registró  durante  la  primera  quincena  de
+septiembre una disminución de 8 puntos.
+De lo anterior se desprende que los ataques terroristas se
+dieron en un contexto en el que las perspectivas de recuperación de
+la  economía  estadounidense  venían  ya  deteriorándose  de  forma
+notoria.  Aunque  todavía  es  prematuro  realizar  una  evaluación
+confiable del impacto de estos acontecimientos, es probable que
+sus  principales  repercusiones  se  den  a  través  de  los  siguientes
+canales:
+(a)  El  efecto  inmediato  de  la  paralización  parcial  de  la
+actividad  en  los  días  subsiguientes  a  los  ataques  y  la
+perturbación  adversa  sobre  sectores  específicos  como
+aeronáutica, seguros, turismo y entretenimiento;
+(b)  La consecuencia más importante en el mediano plazo se
+dará a través de un ajuste a la baja del gasto de consumo,
+rubro que había sido el sustento de la actividad durante
+los últimos trimestres;
+(c)  La  contracción  de  las  utilidades  de  las  empresas  y  el
+aumento de la aversión al riesgo podrían dar lugar a una
+disminución del gasto de inversión; y
+(d)  El relajamiento de la política monetaria y la expansión
+fiscal  podrían  propiciar  aumentos  significativos  del
+producto hacia el segundo semestre de 2002.
+Los  sucesos  aludidos  agudizaron  la  reducción  de  las
+cotizaciones en las bolsas de valores que venía ocurriendo desde
+mayo del presente año. La caída del índice Dow Jones del 10 al 28
+de  septiembre  resultó  de  7.9  por  ciento,  mientras  que  la
+disminución acumulada del 1º de mayo al cierre de septiembre fue
+de 18.8 por ciento.  A raíz de esto y como consecuencia de los
+despidos anunciados por las empresas más afectadas, durante la
+última semana de septiembre el Indice de Confianza que elabora la
+Universidad  de  Michigan  disminuyó  10  puntos,  cerrando  en
+18 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+septiembre  en  un  nivel  de  81.8.  Las  solicitudes  de  seguro  de
+desempleo  volvieron  a  elevarse  llegando  a  535  mil  durante  la
+semana  del  29  de  septiembre,  y  su  promedio  móvil  de  cuatro
+semanas resultó el más elevado desde diciembre de 1991. Por ello,
+tanto el deterioro patrimonial sufrido como la perturbación adversa
+sobre la confianza, han aumentado la probabilidad de un nuevo
+ajuste a la baja del crecimiento del consumo.
+A pesar de que al momento de la publicación de este
+Informe existen pocos datos que ya incorporen los efectos de los
+sucesos  del  11  de  septiembre,  las  expectativas  relativas  a  la
+expansión  de  la  economía  de  los  Estados  Unidos  muestran  una
+tendencia a la baja. La opinión de los analistas es, en promedio, que
+el crecimiento de la economía de los Estados Unidos en el tercer
+trimestre de 2001 será de –1.1 por ciento y de 0.9 por ciento para
+todo  el  año  (Cuadro  4).    Cabe  resaltar  que  debido  a  las
+circunstancias  por  las  que  atraviesa  dicha  economía,  la
+incertidumbre  a  la  que  están  sujetos  estos  pronósticos  es
+sustancialmente más elevada que la usual.
+Cuadro 4 Pronósticos de Crecimiento para los Estados Unidos en 2001
+Variaciones en por ciento
+Antes del 11 de Septiembre Después del 11 de Septiembre
+III 01 IV 01 2001 III 01 IV 01 2001
+Consensus Forecast 1.6 2.8 1.6 -0.5 -0.8 1.0
+Deutsche Bank 1.5 2.5 1.6 -0.9 -2.6 1.0
+Goldman Sachs 1.0 2.5 1.5 -0.5 -2.5 1.0
+JP Morgan 0.0 1.5 1.3 -2.5 -1.5 0.8
+Ante la desaceleración de la economía, durante su reunión
+del 21 de agosto la Reserva Federal anunció una disminución de 25
+puntos base de su objetivo para la tasa de fondos federales. A partir
+de  los  ataques  terroristas,  dicho  banco  central  y  los  principales
+institutos centrales del mundo suministraron a los mercados una
+inyección sustancial de liquidez. Los préstamos que se otorgaron a
+través de la ventanilla de descuento vinieron acompañados de una
+provisión extraordinaria de recursos vía operaciones de mercado
+abierto y de líneas de crédito a otros bancos centrales para proveer
+de liquidez en dólares a bancos del exterior. Aunado a lo anterior,
+minutos antes de la reapertura del mercado de valores el 17 de
+septiembre,  la  Reserva  Federal  se  inclinó  por  una  reducción
+adicional de 50 puntos base de la tasa de fondos federales, decisión
+que  se  tomó  fuera  del  calendario  de  reuniones  del  Comité  de
+Mercado  Abierto7.    Esta  medida   también   vino  acompañada de
+                                                
+7 En la reunión del Comité de Mercado Abierto correspondiente al 2 de octubre, se decidió
+una reducción adicional de 50 puntos base de la tasa de fondos federales.
+19 BANCO DE MÉXICO
+Reacción de los Mercados Internacionales ante los Ataques Terroristas en los Estados Unidos.
+Los ataques terroristas del 11 de septiembre exacerbaron el
+desempeño  adverso  que  venían  mostrando  los  mercados La  incertidumbre  que  se  apoderó  de  los  mercados
+financieros internacionales a partir del segundo trimestre de internacionales se manifestó asimismo en un incremento del
+2001. Dichos sucesos provocaron una aceleración de la caída precio internacional del petróleo, el cual sólo duró unos
+de las bolsas de valores, tanto de los países desarrollados cuantos días. Hacia finales de septiembre, no sólo se revirtió el
+como de las economías emergentes. Sin embargo, hacia finales alza  anterior  sino  que  el  precio  disminuyó  a  un  nivel
+del  mismo  mes  la  baja  se  revirtió,  resarciéndose,  para considerablemente menor que el registrado antes del 11 de ese
+mediados de octubre en la mayoría de los casos, la totalidad de mes (Gráfica 3). La reducción del precio internacional del
+la pérdida. De modo que, aunque del 10 al 28 de septiembre petróleo se explica principalmente por el deterioro de las
+las  bolsas  de  valores  de  los  Estados  Unidos,  Alemania, perspectivas de crecimiento de la economía mundial. Por otro
+Inglaterra y Japón hayan disminuido 7.9, 7.8, 2.6 y 4.1 por lado, los precios de los productos primarios tuvieron una
+ciento respectivamente, al 15 de octubre la caída resultó de evolución similar, revirtiéndose hacia mediados de octubre el
+sólo 2.7 y 2.6 para los Estados Unidos y Alemania, mientras alza registrada después de los ataques terroristas.
+que para Inglaterra y Japón se observaron crecimientos de 0.7
+y 2.5 por ciento (Gráfica 1). Gráfica 3
+Precio de los Productos Primarios y del Petróleo
+Gráfica 1
+Bolsas de Valores de los Países Industrializados 113 31
+ORO PLATA WTI
+4 de septiembre de 2001=100 111 30
+100 29
+109
+899505 Oro y Plata 3 de Septiembre=100111000357 2222245678Dólares por Barril
+101
+23
+80 99 22
+75 EAIJnalsgeptlmaóadntaeonrsira aUnidos 973-Sep 7-Sep 11-Sep 15-Sep 19-Sep 23-Sep 27-Sep 1-Oct 5-Oct 9-Oct 13-Oct 21
+70 4-Sep 9-Sep Sep14- 19-Sep 24-Sep Sep29- 4-Oct Oct9- 14-Oct Llaa  rráapzóidna  prriemacocridóina l qdue e leax pploiclíat iecla  coemcopnoórmtaimcaie netno  dloess crpiatoís eess
+desarrollados.  Así,  ante  la  incertidumbre  que  surgió
+Por otro lado, a raíz de los ataques terroristas, el dólar
+estadounidense experimentó una depreciación con respecto al inmediatamente después de los ataques, los principales bancos
+euro y al yen. Dicha depreciación resultó transitoria, ya que centrales disminuyeron significativamente sus tasas de interés
+para el 15 de octubre el tipo de cambio del dólar había de referencia.
+recuperado el nivel prevaleciente en la víspera de los sucesos
+aludidos (Gráfica 2). Cuadro 1
+Tasas de Interés de Referencia por ciento anual
+Gráfica 2 Por ciento anual
+Tipo de Cambio del Euro y del Yen FRedeseerarlv ade Banco de Banco Banco
+0.09.2953 0.0086 14-Sep-01 loUs3 nE.i5sdt0oasdos C4a.n0a0dá ECu4er.on2pt5reaol Na5cSi.uo1inz2aa5l de
+0.92 17-Sep-01 3.00 3.50 3.75 5.000
+0.0085 02-Oct-01 2.50 3.50 3.75 4.250
+0.915
+Dólares/Euro0.09.009.951 00..00008834Dólares/Yen Elaacn o mlRopse asEñesartvdaaad so sdF eUe dunenird aoplsr o, gdlareas  malaco csfii osncEeassl  tddadee  opesom leíUtrigcneain dmcoisoa n. eAvtaidnreiimae rádosen,
+el congreso estadounidense aprobó un paquete fiscal adicional
+0.895 Dólares/Euro 0.0082 de alrededor de 70 mil millones de dólares. Aunque a la fecha
+0.89 los detalles de dicho paquete complementario no se han
+Dólares/Yen definido totalmente, resulta evidente que éste estaría orientado
+0.885 0.0081
+04-09-01 08-09-01 12-09-01 16-09-01 20-09-01 24-09-01 28-09-01 02-10-01 06-10-01 10-10-01 14-10-01 aE sptardoomso vUern iudnoas . prEosn tad ere cuesppeerraacrisóen  dqeu el a eelcloo normepíear cduet irlíoas
+favorablemente sobre el desempeño de las economías del resto
+del mundo.
+disminuciones  de  los  réditos  en  las  principales  economías
+desarrolladas.
+La  reacción  descrita  de  la  política  monetaria  fue
+complementada  en  los  Estados  Unidos  con  un  programa  fiscal
+20 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+dirigido a solventar tanto gastos de emergencia como un aumento
+sustantivo de las erogaciones para defensa. Durante las semanas
+posteriores a los ataques terroristas se aprobó un paquete de 40 mil
+millones de dólares para gastos de emergencia y un apoyo de 5 mil
+millones  de  dólares  para  las  compañías  aéreas8.  Además,  el
+congreso  estadounidense  discute  actualmente  una  propuesta  que
+incluye tanto incrementos al gasto público como una disminución
+adicional de los impuestos9.
+Ante la severidad de la crisis, la reacción en los Estados
+Unidos de las políticas monetarias y fiscal fue inmediata. Aun así,
+dada la desaceleración precedente es probable que dichos estímulos
+no resulten suficientemente poderosos para compensar los efectos
+recesivos de corto plazo de sus factores causales. Sin embargo, se
+espera que las medidas adoptadas de política económica propicien
+una reactivación hacia el segundo semestre de 2002, la cual sería
+más vigorosa que la prevista hasta antes de los ataques terroristas.
+II.2.1.3.  Evolución de la Economía en el Resto del Mundo
+Al  igual  que  en  el  caso  de  los  Estados  Unidos,  la
+actividad económica en los países de la zona del euro se desaceleró
+durante  el  segundo  trimestre.    En  ese  lapso  se  registró  un
+crecimiento de apenas 0.1 por ciento. El efecto de la desaceleración
+global sobre las economías de Europa provocó que en el tercer
+trimestre disminuyeran tanto las expectativas de expansión como
+las presiones inflacionarias. Por ello, a fines de agosto el Banco
+Central Europeo (BCE) redujo su tasa de referencia por segunda
+vez en el año en 25 puntos base. Dicho ajuste fue seguido de una
+disminución adicional de 50 puntos durante la tercera semana de
+septiembre, a consecuencia de la incertidumbre generada por los
+acontecimientos del 11 de ese mes. El relajamiento de la política
+monetaria acordado en Gran Bretaña durante el primer semestre del
+año permitió que su economía resintiera en menor medida el efecto
+de la desaceleración global. Sin embargo, un ritmo más lento de
+crecimiento  en  la  Unión  Monetaria  Europea,  su  principal  socio
+comercial, contribuyó a un deterioro significativo del desempeño
+del sector manufacturero británico en el tercer trimestre.
+En Japón, la desfavorable evolución del sector industrial
+vino acompañada de una disminución del crecimiento del consumo
+durante  el  primer  semestre  del  año.  Por  lo  anterior,  y  ante  los
+                                                
+8 El apoyo a las aerolíneas también incluyó 10 mil millones de dólares en forma de
+garantías otorgadas por el Gobierno Federal.
+9 Los analistas estiman que el monto total del paquete de reconstrucción y de reactivación
+de la actividad económica es del orden de 1 a 1.5 puntos del PIB.
+21 BANCO DE MÉXICO
+planes de reforma estructural y consolidación fiscal del gobierno
+japonés, los analistas han reducido su pronóstico de crecimiento
+para la economía de ese país en 2001 a una tasa cercana a –0.5 por
+ciento. En las economías emergentes de Asia, la disminución del
+incremento de las exportaciones intensivas en tecnología continuó
+reflejando la desaceleración de la economía de los Estados Unidos.
+Hacia finales del trimestre, ante una nueva revisión a la baja de los
+pronósticos  de  expansión  de  la  economía  estadounidense,  se  ha
+alargado el plazo para una eventual recuperación de las economías
+de la región.
+En Latinoamérica, la agudización de la incertidumbre en
+Argentina  y  la desaceleración  en  los  Estados  Unidos  siguieron
+incidiendo adversamente, tanto sobre las exportaciones como sobre
+los flujos de capital hacia algunos de los países del área. Por tanto,
+al  igual  que  ocurrió  en  el  trimestre  anterior,  el  pronóstico  de
+crecimiento de los analistas privados para la región en 2001 se
+redujo de 2.6 por ciento en junio a 1.2 por ciento en septiembre.
+A  principios  de  julio  se  agravó  la  incertidumbre  en
+Argentina. Ello, a consecuencia de una caída significativa de la
+recaudación  fiscal  en  el  segundo  trimestre.  En  dicho  mes  el
+rendimiento  neto  de  los  bonos  argentinos  aumentó  en
+aproximadamente 600 puntos base. Aun después de la aprobación
+del  programa  de  “déficit  cero”  por  parte  del  congreso,  los
+indicadores  del  riesgo  país  mantuvieron  una  alta  volatilidad.
+Durante  la  penúltima  semana  del  mes  el  Fondo  Monetario
+Internacional  aprobó  una  ampliación  del  programa  acordado
+inicialmente con el gobierno argentino en diciembre pasado10. Ello
+provocó una mejoría significativa de la percepción del riesgo país,
+acompañada  de  una  baja  de  las  tasas  de  interés  internas.  El
+crecimiento del producto durante el segundo trimestre resultó de
+-0.5 por ciento, menos desfavorable que el esperado, y durante julio
+mejoraron los indicadores de la industria de la construcción. Sin
+embargo,  en  agosto  las  encuestas  sobre  la  actividad  industrial
+reflejaron una contracción del sector que causó una corrección a la
+baja de la expectativa de crecimiento para el año, la cual se sitúa
+actualmente en alrededor de –1.8 por ciento. Asimismo, la caída de
+14 por ciento sufrida en septiembre por la recaudación fiscal y la
+cercanía  de  las  elecciones  parlamentarias  en  octubre,  afectaron
+severamente la percepción del mercado respecto a la viabilidad del
+programa argentino.
+                                                
+10El monto adicional aprobado sumó 8 mil millones de dólares, lo cual implica un total de
+22 mil millones a desembolsarse durante los próximos dos años.
+22 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+            Evolución Reciente de Variables Financieras Selectas en Algunos Países de Latinoamérica
+Los  ataques  terroristas  del  pasado  11  de  septiembre En la segunda semana de septiembre, las tasas de interés
+provocaron un incremento en la aversión al riesgo. Ello internas aumentaron en Argentina, Brasil y México de (42,
+dio lugar a una reasignación de los recursos hacia activos 43  y  11  puntos  base,  respectivamente).  En  Chile
+financieros más seguros, como son los bonos del Tesoro experimentaron un descenso de 8 puntos base. En el mes, la
+de los Estados Unidos. Lo anterior se tradujo en un tasa de interés en Chile acumuló una disminución de 53
+incremento de la sobretasa de los bonos corporativos en puntos base, mientras que en Argentina, Brasil y México las
+dicho país (Cuadro 1). Las sobretasas de los bonos con tasas  internas  subieron  (105,  258  y  75  puntos  base,
+calificación Aaa y Baa registraron aumentos de 23 y 27 respectivamente).
+puntos base, respectivamente, en la semana del 10 al 14 de
+septiembre en comparación con los datos de la semana Cuadro 3
+precedente.  Así,  al  cierre  del  mes  el  aumento  de  la Tasas de Interés Internas de Corto Plazo*
+sobretasa resultó de 53 puntos base para los bonos Aaa y (promedio semanal, por ciento anual)
+de 56 puntos base para los bonos Baa.
+Argentina Brasil Chile México
+Septiembre 3 al 7 20.24 16.26 7.45 8.90
+Cuadro 1 Septiembre 10 al 14 20.66 16.69 7.37 9.01
+Sobretasa de los Bonos Corporativos en los Septiembre 17 al 21 20.64 17.44 7.09 9.40
+Estados Unidos* Septiembre 24 al 28 21.29 18.84 6.92 9.65
+(promedio semanal, puntos base) Octubre 2 al 5 22.08 19.19 6.75 9.56
+Bonos Aaa Bonos Baa Octubre 8 al 12 22.95 19.22 6.45 9.47
+Septiembre 3 al 7 208 290 * Promedios semanales de las tasas de interés del mercado secundario.
+Septiembre 10 al 14 231 317
+Septiembre 17 al 21 264 350 El tipo de cambio se depreció en septiembre 4.1, 3.4 y 4.3
+Septiembre 24 al 28 261 346 por ciento en Brasil, Chile y México, respectivamente
+Octubre 2 al 5 254 342
+(Gráfica 1). Este se incrementó el 11 de septiembre en los
+* Promedios semanales de la sobretasa de Bonos Corporativos en los Estados tres países. Posteriormente, en México se mantuvo estable y
+Unidos con respecto al Bono del Tesoro a 10 años. Fuente: Reserva Federal de
+los Estados Unidos. luego se apreció mientras que el real brasileño experimentó
+durante el periodo una inestabilidad sustancial y el peso
+El fenómeno explicado causó que las variables financieras
+chileno se depreció nuevamente en los primeros días de
+de la mayoría de las economías emergentes de América
+octubre.
+Latina  experimentaran  volatilidad  y  que  los  activos
+emitidos por las mismas perdieran valor. En la segunda
+Gráfica 1
+semana de septiembre, después de los atentados, hubo un
+Índice del Tipo de Cambio
+deterioro de la percepción del riesgo país de todas las
+(con respecto al dólar)
+naciones de la zona. La sobretasa del EMBI Global se 4 de septiembre = 100
+elevó 126 puntos base para Argentina y 85 puntos base
+para Brasil (Cuadro 2). En contraste, para Chile y México
+estos incrementos resultaron menores, de 14 y 35 puntos 111
+base, respectivamente. Al cierre del mes la sobretasa del
+EMBI Global se elevó para Argentina, Brasil, Chile y 109 Brasil 
+México. El incremento respectivo fue de 183, 230, 33 y 90 Chile
+México
+puntos base, con relación a los niveles observados  a
+107
+principios del periodo.
+105
+Cuadro 2
+Sobretasa del EMBI*
+ (promedio semanal, puntos base) 103
+Argentina Brasil Chile México
+Septiembre 3 al 7 1442 940 197 343 101
+Septiembre 10 al 14 1569 1025 211 377
+Septiembre 17 al 21 1620 1094 229 401
+Septiembre 24 al 28 1626 1170 230 433 99
+OOccttuubbrree  28  aall  512 11787662 11211961 223304 443044 4-Sep- 6-Sep- 8-Sep- 10-Sep- 12-Sep- 14-Sep- 16-Sep- 18-Sep- 20-Sep- 22-Sep- 24-Sep- 26-Sep- 28-Sep- 30-Sep- 2-Oct- 4-Oct- 6-Oct- 8-Oct- 10-Oct- 12-Oct- 14-Oct-
+* Promedios semanales de la sobretasa del EMBI Global de JP Morgan al 12 de octubre. El índice
+EMBI Global de J.P. Morgan incluye bonos emitidos por deudores soberanos o cuasi-soberanos como
+los Brady, Eurobonos, créditos comerciales e instrumentos emitidos localmente pero denominados en
+dólares. La diferencia con otros índices de precios de bonos emitidos por mercados emergentes es que
+se calcula para un mayor número de países, aunque ello implica la inclusión de instrumentos menos
+líquidos que los empleados en la estimación de otros índices. En particular, la cantidad limitada de
+endeudamiento en dólares de Chile lleva a que el precio de sus bonos no se incluyan en índices que
+sólo incorporan instrumentos de muy alta liquidez.
+23 BANCO DE MÉXICO
+Los mercados bursátiles en los países referidos también Gráfica 2
+tuvieron un desempeño adverso a lo largo de septiembre Indices de Precios de los Mercados Accionarios
+(Gráfica 2). Después de los ataques terroristas, los índices
+de las bolsas de valores de Argentina, Brasil, Chile y
+110055
+México  cayeron  6.8,  11.6,  3.8  y  9.2  por  ciento,
+respectivamente (variación del 10 al 17 de septiembre). 110000
+Los  resultados  acumulados en el  mes para Argentina,
+9955
+Brasil, Chile y México fueron respectivamente de –22.7,
+-16.7,–12.8 y –12.5 por ciento. 9900
+8855
+8800
+7755 Chile
+México
+7700 Argentina
+Brasil
+6655
+Sep-4-Sep-6-Sep-8-Sep-10-12-Sep-14-Sep-16-Sep-18-Sep-20-Sep-22-Sep-24-Sep-26-Sep-28-Sep-30-Sep-2-Oct-4-Oct-6-Oct-8-Oct-10-Oct-12-Oct-14-Oct-
+También la economía brasileña resintió los efectos de la
+desaceleración  mundial.    Aunque  durante  el  tercer  trimestre  la
+incidencia de la crisis del sector eléctrico resultó menos nociva que
+lo  temido,  la  decepcionante  evolución  de  la  economía  de  los
+Estados Unidos ha dado lugar a un continuo debilitamiento del
+crecimiento  de  las  exportaciones.  Lo  anterior,  junto  con  la
+disminución de los flujos de capital del exterior, tanto de cartera
+como  de  inversión  extranjera  directa,  siguió  presionando  a  las
+cuentas externas y al tipo de cambio. Ante la intensificación de la
+incertidumbre  en  Argentina,  la  paridad  de  la  moneda  brasileña
+aumentó durante el trimestre en 15.5 por ciento, para alcanzar el 28
+de septiembre un nivel de 2.67 reales por dólar. Las repercusiones
+que  la  depreciación  del  real  pudiera  tener  sobre  la  inflación
+llevaron  al  Banco  de  Brasil  a  aumentar  la  tasa  de  interés  de
+referencia  por  quinta  vez  en  el  año,  a  19  por  ciento.  Así,  las
+políticas más restrictivas en el ámbito monetario y fiscal se han
+sumado al deterioro de las perspectivas de la economía mundial.
+De  ahí  que  la  expectativa  de  crecimiento  para  la  economía
+brasileña en el presente año se ubique en aproximadamente 1.4 por
+ciento.
+II.2.2.  Remuneraciones, Salarios y Empleo
+Las remuneraciones, los salarios y el empleo son factores
+importantes  para  la  determinación  de  la  trayectoria  futura  del
+crecimiento  de  los  precios.  En  el  trimestre  objeto  de  esta
+publicación, el incremento de las remuneraciones y de los salarios
+reales  no  fue  acorde  con  el  descenso  de  la  inflación  y  de  la
+productividad.  Dada  la  desaceleración  por  la  que  atraviesa  la
+economía  ello  ha  contribuido  al  deterioro  de  las  condiciones
+prevalecientes en el mercado laboral.
+24 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+II.2.2.1.  Remuneraciones
+De acuerdo con los datos a julio de 2001, en los sectores
+productivos  para  los  cuales  se  cuenta  con  información  las
+remuneraciones  nominales  por  trabajador  aumentaron  a  tasas
+anuales entre 6.5 y 13.5 por ciento. Cabe destacar que en lo que va
+de 2001, el crecimiento nominal de las remuneraciones ha estado
+por  encima  de  10  por  ciento  en  tres  de  los  cuatro  sectores
+productivos  (los  menores  aumentos  se  han  registrado  en  el
+comercio).  Lo  anterior  se  tradujo  en  incrementos  reales  de  las
+remuneraciones por trabajador superiores a 4.9 por ciento en los
+tres sectores referidos en el periodo enero-julio (Cuadro 5).
+Cuadro 5 Remuneraciones por Trabajador
+Variación anual en por ciento
+Nominales  Reales
+2001 Promedio* 2001 Promedio*
+Ene Feb Mar Abr May Jun Jul Ene-Jul Ene Feb Mar Abr May Jun Jul Ene-Jul
+Industria 
+15.8 12.2 12.3 10.5 12.9 13.3 13.5 12.9 7.1 4.8 4.8 3.2 5.5 6.3 7.2 5.5
+Manufacturera
+Industria 
+14.4 13.0 13.5 15.1 15.5 13.9 13.1 14.1 5.8 5.5 5.9 7.5 8.0 6.9 6.8 6.7
+Maquiladora
+Industria de la 
+15.3 21.0 15.6 17.3 19.1 n.d. n.d. 17.6 6.7 13.0 7.9 9.5 11.3 n.d. n.d. 9.6
+Construcción
+Sector                        
+8.8 6.4 5.9 4.5 4.4 4.9 6.5 5.9 0.7 -0.7 -1.2 -2.5 -2.4 -1.6 0.5 -1.1
+Comercio 
+*El promedio de las remuneraciones, tanto nominales como reales, en la Industria de la Construcción es de enero a mayo de 2001.
+FUENTE: Elaborado con información del INEGI.
+En  el  lapso  transcurrido  de  2001,  las  ganancias  en  la
+productividad han sido, en general, negativas o insuficientes para
+compensar el incremento de las remuneraciones reales pagadas. En
+particular, en la industria de la construcción y en el sector comercio
+la  productividad  ha  registrado  variaciones  anuales  negativas  en
+prácticamente  todos  los  meses.  Lo  anterior  ha  propiciado  una
+elevación considerable de los costos unitarios de la mano de obra.
+Las cifras son elocuentes: de enero a julio del presente año, el costo
+unitario de la mano de obra ha experimentado tasas de crecimiento
+positivas (exceptuando al sector comercio durante enero). Un factor
+agravante es que, por otro lado, esta tendencia no muestra signos de
+moderación.  Por  el  contrario,  en  tres  de  los  cuatro  sectores
+productivos reportados, la variación anual de los costos unitarios
+fue  creciente  durante  los  tres  últimos  meses  para  los  cuales  se
+cuenta con información (Cuadro 6).
+25 BANCO DE MÉXICO
+Cuadro 6 Producto por Trabajador y Costos Unitarios de la Mano de Obra
+Variación anual en por ciento
+Producto por Trabajador Costos Unitarios de la Mano de Obra
+2001 Promedio 2001 Promedio
+Ene Feb Mar Abr May Jun Jul Ene-Jul Ene Feb Mar Abr May Jun Jul Ene-Jul
+Industria 
+3.2 -2.4 0.1 0.1 0.7 0.5 0.9 0.4 3.7 7.4 4.7 3.1 4.7 5.8 6.2 5.1
+Manufacturera
+Industria 
+-1.3 -4.5 1.9 -5.3 0.5 -0.5 1.1 -1.1 7.2 10.4 3.9 13.5 7.5 7.4 5.7 7.9
+Maquiladora
+Industria de la 
+-3.8 -1.9 -2.9 -3.6 -2.8 n.d. n.d. -3.0 10.9 15.2 11.1 13.6 14.6 n.d. n.d. 13.1
+Construcción
+Sector       
+1.2 -8.1 -5.2 -5.2 -7.6 -9.4 -10.7 -6.5 -0.5 8.1 4.2 2.9 5.6 8.6 12.6 5.9
+Comercio 
+FUENTE: Elaborado con información del INEGI.
+El efecto dañino sobre el empleo de los incrementos en
+los costos unitarios de la mano de obra es muy evidente.  Durante
+los  últimos  meses  dicho  aumento  ha  estado  correlacionado  de
+forma inversa con la tasa de crecimiento del personal ocupado y de
+la masa salarial. La contracción del empleo y de la masa salarial ha
+sido más pronunciada en aquellos sectores donde la elevación de
+los costos unitarios ha sido mayor. Por ejemplo, en el sector de la
+construcción, donde las alzas de los costos unitarios han sido más
+notables, el personal ocupado y la masa salarial han experimentado
+de enero a mayo del presente año tasas de variación promedio de
+–23.5 y –14.8 por ciento, respectivamente. De manera análoga, el
+personal ocupado y la masa salarial en el sector  maquilador de
+exportación han sufrido una disminución considerable, con tasas de
+variación de –9 y –2.8 por ciento, respectivamente, en julio del
+presente año (Gráfica 7).
+Los  efectos  adversos  del  incremento  de  los  costos
+unitarios  sobre  la  masa  salarial  han  sido  significativos.  El
+comportamiento de esta última variable indica que a pesar de los
+aumentos  en  los  salarios  reales,  los  ingresos  totales  de  los
+trabajadores  han  descendido.  Lo  anterior  tiene  también
+implicaciones  negativas  respecto  a  la  evolución  futura  de  la
+demanda  agregada  y  para  el  desempeño  de  la  economía  en  el
+mediano plazo.
+26 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+Evolución Reciente del Empleo en las Manufacturas no Maquiladoras
+De junio de 2000 a julio de 2001 la ocupación en la industria el empleo hubiera aumentado 0.15 por ciento. Dado que en
+manufacturera no maquiladora se redujo en 301.5 miles de los escenarios A y B se considera el mismo aumento del
+empleos.  Esta  contracción  puede  atribuirse  tanto  a  una producto  manufacturero  y  un  distinto  aumento  de  los
+disminución  de  la  tasa  de  crecimiento  de  la  actividad salarios reales, la diferencia entre las tasas de crecimiento
+industrial en México, derivada de la  desaceleración que ha del empleo en dichos escenarios indica que el incremento de
+tenido lugar en los Estados Unidos, como al incremento de los los salarios reales explica una reducción del empleo de 2.32
+salarios reales. puntos porcentuales (la tasa de expansión pasa de 2.46 a
+0.15 por ciento del escenario A al B).
+Para analizar la influencia de estos dos factores sobre la
+pérdida de empleos se estimó un modelo econométrico que Escenario C. El nivel del salario real se mantiene constante a
+permite estudiar su evolución en el sector de manufacturas no partir de mayo de 2000 (al igual que en el escenario A) y la
+maquiladoras. Esta se explica  en función del salario real y de evolución de la actividad manufacturera es la efectivamente
+la actividad manufacturera en México. La muestra abarca de observada (cayó 4 por ciento de junio de 2000 a julio de
+enero de 1998 a julio de 2001. 2001). Bajo este escenario el empleo hubiera disminuido
+2.79 por ciento. A partir de la diferencia entre los resultados
+A  fin  de  separar  los  efectos  sobre  el  empleo  en  las
+de los escenarios A y C, los cuales suponen el mismo
+manufacturas del crecimiento de los salarios reales y de la
+crecimiento de los salarios reales y un distinto incremento
+desaceleración del producto manufacturero, se utilizan los
+del  producto  manufacturero,  puede  inferirse  que  la
+parámetros  de  los  modelos  estimados  para  realizar
+disminución  de  la  actividad  manufacturera  explica  una
+simulaciones para el periodo de julio de 2000 a julio de 2001.
+reducción  de 5.26 puntos porcentuales en el crecimiento del
+Si al modelo se le incorporan los datos observados, éste empleo (la tasa pasa de 2.46 a  –2.79 por ciento del
+pronostica una disminución del empleo de junio de 2000 a escenario A al C).
+julio de 2001 de 4.99 por ciento (renglón de simulación con
+En suma, la estimación es que en el periodo de junio de
+datos observados, Cuadro 1). Esta estimación resulta menor
+2000 a julio de 2001 el incremento del salario real generó
+que la caída observada de 6.12 por ciento, lo que ubica el
+una caída de 2.32 por ciento en el empleo (27 por ciento de
+error de pronóstico en 1.12 puntos  porcentuales.
+su variación total), lo que representa una pérdida de 81 mil
+A  continuación  se  consideran  tres  escenarios  hipotéticos puestos de trabajo. Por otra parte, la  desaceleración del
+sobre el crecimiento del producto manufacturero y del salario producto manufacturero dio lugar a una caída del empleo de
+real. A partir de dichos escenarios es posible estimar la 5.26 por ciento (61.3 por ciento de la variación total), lo que
+proporción de la caída del empleo atribuible al aumento del representa una pérdida de 185 mil empleos. Finalmente,
+salario real y la asociada a la  desaceleración del producto cabe mencionar que el modelo utilizado no permite explicar
+manufacturero. el  1.12 por ciento de la disminución observada en el empleo
+entre junio de 2000 y julio de 2001.
+Escenario  A. Se supone que no hay  desaceleración  del
+producto manufacturero y que los salarios reales permanecen Cuadro 1
+Crecimiento del Empleo en la Industria Manufacturera
+constantes. Específicamente, se utiliza un crecimiento anual No Maquiladora de junio de 2000 a julio de 2001
+Series Desestacionalizadas
+constante de la actividad económica de junio de 2000 a julio
+de 2001 igual al observado en los primeros cinco meses del Escenarios
+Observado -6.12
+año 2000 (7.9 por ciento). Por otra parte, los salarios reales
+Simulación con datos observados -4.99
+permanecen sin cambio en el nivel observado en mayo de
+A Salarios reales constantes 2.46
+2000.    Según  la  simulación  correspondiente,  en  esas y no hay desaceleración 
+del producto manufacturero
+circunstancias el empleo hubiera crecido 2.46 por ciento. Al
+B Salarios reales crecen 0.15
+compararse las tasas de incremento del empleo de junio de y no hay desaceleración 
+del producto manufacturero
+2000 a julio de 2001 en el escenario A con las de los
+escenarios B y C es posible cuantificar el impacto sobre el C Sdeaslaarcioesle rreaaclieósn  constantes y -2.79
+empleo de la desaceleración del producto manufacturero y del del producto manufacturero
+crecimiento de los salarios reales. Reducciones en las tasas de crecimiento debido a:
+(A-B)Incremento del Salario Real 2.32
+Escenario B. Se incorporan los datos observados de los (En por ciento) 27.01%
+(A-C)Desaceleración del
+salarios reales (crecimiento de junio de 2000 a julio de 2001 producto manufacturero 5.26
+(En por ciento) 61.27%
+de  7.8  por  ciento  en  la  industria  manufacturera  no
+No explicado por el modelo 1.12
+maquiladora) y se supone un incremento anual constante de
+la actividad económica de junio de 2000 a julio de 2001,
+igual al del caso anterior (7.9 por ciento). En este escenario,
+27 BANCO DE MÉXICO
+Gráfica 7 Masa Salarial, Personal Ocupado y Costos Unitarios
+Variación anual en por ciento
+Industria Manufacturera no Maquiladora Industria  Maquiladora de Exportación
+8 Masa Salarial 24 Masa Salarial
+6 Personal Ocupado Personal Ocupado
+Costos Unitarios 19 Costos Unitarios
+4
+14
+2
+0 9
+-2
+4
+-4
+-6 -1
+Ene-99 May-99 Sep-99 Ene-00 May-00 Sep-00 Ene-01 May-01 Ene-99 May-99 Sep-99 Ene-00 May-00 Sep-00 Ene-01 May-01
+Industria  de la Construcción Comercio al Menudeo
+25 15
+Masa Salarial Masa Salarial
+15 PCeorsstoosn aUl nOitcauripoasdo 10 PCeorsstoosn aUl nOitcauripoasdo
+5
+5
+-5
+0
+-15
+-25 -5
+Ene-99 Abr-99 Jul-99 Oct-99 Ene-00 Abr-00 Jul-00 Oct-00 Ene-01 Ene-99 May-99 Sep-99 Ene-00 May-00 Sep-00 Ene-01 May-01
+Fuente: Banco de México e INEGI.
+Si bien la reducción que ha resentido el personal ocupado
+se  debe  principalmente  al  impacto  de  la  desaceleración  de  la
+economía  de  los  Estados  Unidos  sobre  las  exportaciones  y  la
+producción  de  México,  el  comportamiento  alcista  de  los  costos
+unitarios también ha contribuido a la caída del empleo. De acuerdo
+con  estudios  recientes,  esto  último  sin  duda  han  tenido  un
+significativo efecto desfavorable sobre el empleo. En particular,
+mediante análisis econométricos realizados en el Banco de México
+se ha encontrado que alrededor de 27 por ciento de la reducción de
+la  tasa  de  crecimiento  del  empleo  manufacturero  obedece  al
+incremento de los salarios reales. En términos de dichos estudios se
+estima  una  pérdida  aproximada  de  80,000  empleos  de  enero  a
+agosto de 2001 atribuible a este factor.
+El deterioro del empleo ha sido de tal magnitud que ya ha
+empezado a contrarrestar la disminución que ha sufrido el producto
+en  algunos  sectores  de  actividad.  Como  se  ha  mencionado  en
+Informes  sobre  la  Inflación  anteriores,  durante  las  fases  de
+28 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+desaceleración  económica  la  productividad  tiende  a  reducirse
+debido al rezago con que se ajusta al ciclo la planta laboral. Sin
+embargo, en la industria manufacturera mexicana, en los últimos
+meses  la  reducción  acumulada  de  los  puestos  de  trabajo  ha
+compensado  la  disminución  que  ha  experimentado  el  producto.
+Así, en dicho ramo la productividad por trabajador (Gráfica 8) se
+ha estabilizado.
+Gráfica 8 Producción y Productividad Media en la Industria Manufacturera No
+Maquiladora
+Variación anual en por ciento del promedio móvil de 3 meses
+Indice del Volumen de la Producción
+Productividad Media
+10
+8
+6
+4
+2
+0
+-2
+-4
+J O E A J O E A J O E A J
+1998 1999 2000 2001
+Fuente: Elaborado con información del INEGI.
+Es  importante  destacar  que  una  situación  en  la  cual
+aumentan el salario real y los costos unitarios de la mano de obra, a
+la  vez  que  cae  el  empleo,  es  claramente  indicativa  de  un
+desequilibrio en el mercado laboral.  Ello obedece a que, ante la
+caída de la demanda agregada, el salario real debería ajustarse a la
+baja  o  crecer  más  moderadamente  para  proveer  los  empleos
+adicionales que requiere el importante incremento que experimenta
+la fuerza laboral año con año por razones demográficas. Asimismo,
+el  impacto  adverso  sobre  la  distribución  del  ingreso  en  una
+situación en la cual se conserva el nivel de empleo y el salario real
+sube más pausadamente, es más leve que en una coyuntura como la
+presente. Actualmente se están consiguiendo ganancias sustanciales
+29 BANCO DE MÉXICO
+en el salario real, pero a costa de que un número considerable de
+trabajadores pierda su empleo.
+El incremento que han experimentado los salarios reales,
+claramente incompatible con la evolución de la productividad, ha
+propiciado  dos  resultados  en  extremo  indeseables:  pérdida  de
+competitividad  y  un  entorno  desfavorable  para  la  creación  de
+empleos. Estas tendencias se han materializado a la par que tiene
+lugar un proceso de desaceleración económica. La conjunción de
+esos  factores  ha  agravado  tanto  la  situación  actual  como  las
+perspectivas de mediano plazo en el mercado laboral. Por otro lado,
+como  se  ha  mencionado  repetidamente,  el  incremento  de  los
+salarios  reales  por  encima  de  las  ganancias  en  productividad
+constituye una presión inflacionaria importante.
+II.2.2.2.  Salarios Contractuales
+En  el  trimestre  objeto  de  este  Informe,  el  aumento
+promedio de los salarios nominales contractuales fue de 9.28 por
+ciento. En julio, la variación nominal de los mismos resultó de 8.98
+por ciento. Sin embargo, el incremento que en promedio registraron
+los salarios contractuales en ese mes estuvo muy influido por la
+revisión en Pemex. Si se excluye de dicho promedio el aumento
+otorgado  por  la  paraestatal,  éste  se  ubica  en  9.7  por  ciento.
+Asimismo, durante agosto y septiembre el incremento promedio de
+los  salarios  contractuales  resultó  ligeramente  inferior  a  10  por
+ciento.  En  los  primeros  nueve  meses  de  2001,  el  crecimiento
+nominal promedio de los salarios contractuales pasó de 10.4 a 9.7
+por ciento, mientras que en el mismo lapso las expectativas de
+inflación  del  sector  privado  para  los  siguientes  12  meses  se
+redujeron de 7.8 a 5.7 por ciento. En consecuencia, la brecha entre
+estas dos variables se amplió, en lugar de reducirse, en los primeros
+tres trimestres del presente año (Gráfica 9).
+30 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+Gráfica 9 Salarios Contractuales e Inflación Esperada para los Siguientes 12
+Meses
+Variación anual en por ciento
+Expectativas de Inflación para los Siguientes 12 meses
+13 Salarios Contractuales
+11
+9
+7
+5
+E M M J S N E M M J S
+2000 2001
+FUENTE: Encuesta sobre las Expectativas de los Especialistas en Economía del Sector Privado, Banco de México y Secretaría del Trabajo
+y Previsión Social.
+Aunque en los primeros meses de 2001 los incrementos
+nominales de los salarios contractuales concedidos en la industria
+manufacturera fueron superiores a los otorgados en otros sectores,
+a partir de junio han resultado similares (Cuadro 7).
+Cuadro 7 Salarios Contractuales por Sectores
+Variación anual en por ciento
+2001
+Ene Feb Mar Abr May Jun Jul Ago Sep
+Manufacturas 11.1 10.7 10.8 10.9 10.9 10.2 9.0 10.1 9.8
+Otros Sectores 10.0 9.8 9.9 10.3 10.5 10.1 9.0 9.9 9.1
+FUENTE: Elaborado con información de la Secretaría del Trabajo y Previsión Social.
+En el contexto de una actividad económica más débil, las
+empresas difícilmente pueden reflejar el incremento de sus costos
+de producción en los precios finales de sus productos. Por ello, el
+ajuste tiende a presentarse a través de una menor plantilla laboral y
+de una compresión de las utilidades. Sin embargo, la elevación de
+los costos de producción podría trasladarse eventualmente a los
+precios  que  pagan  los  consumidores.  Por  tanto,  los  incrementos
+31 BANCO DE MÉXICO
+nominales  de  los  salarios  contractuales  constituyen  una  presión
+inflacionaria latente.
+II.2.2.3.  Empleo
+La desaceleración, tanto de la economía estadounidense
+como de la mexicana, ha causado un deterioro muy severo de la
+ocupación. Si bien durante el tercer trimestre de 2001 la pérdida de
+empleos formales se moderó, la caída acumulada que ha resentido
+esta variable es muy importante.
+De junio a septiembre del presente año, el número de
+trabajadores  asegurados  en  el  IMSS  (permanentes  y  eventuales
+urbanos)  se  contrajo  en  poco  más  de  19,100  personas  (Gráfica
+10a).  Esta disminución trimestral es la menor que se ha observado
+en 2001. A pesar de lo anterior, la reducción acumulada de puestos
+de trabajo es muy significativa, ya que durante los primeros tres
+trimestres del año ésta fue mayor que 220 mil empleos.
+Es  importante  destacar  que  dicha  moderación  en  la
+pérdida de empleos se debe en parte al renglón de trabajadores
+urbanos eventuales dedicados a la construcción. Sin embargo, este
+rubro  ocupacional  es  volátil  y  presenta  un  comportamiento
+estacional,  por  lo  que  es  probable  que  el  aumento  hasta  ahora
+observado pudiera revertirse. Asimismo, el deterioro adicional de
+las perspectivas para la economía de los Estados Unidos y su efecto
+sobre  la  economía  nacional  son  factores  que  posiblemente
+impedirán una recuperación más vigorosa del empleo.
+La atenuación que registró la pérdida de empleos durante
+el tercer trimestre del año contribuyó a estabilizar los indicadores
+de desempleo. Así, en septiembre de 2001 la tasa de desempleo
+abierto se ubicó en 2.49 por ciento, con lo cual el nivel mensual de
+la serie de tendencia de esta variable ha sido a partir de marzo
+ligeramente superior a 2.30 por ciento (Gráfica 10b).  Asimismo, la
+serie de tendencia de la tasa de ocupación parcial y desocupación
+ha  mostrado  una  ligera  reducción  desde  abril  del  presente  año
+(Gráfica 10c).
+Las tasas de desempleo abierto y de ocupación parcial y
+desempleo no han mostrado un incremento pronunciado, como se
+esperaría dada la evolución de la actividad económica y del total de
+asegurados en el IMSS.
+32 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+Gráfica 10 Indicadores de Empleo y Desempleo
+Series de Tendencia
+(a) (b) (c)
+Millones de  Tasa de Ocupación Parcial y Desocupación
+1a3se.0gurados Total de Asegurados en el IMSS Por ciento Tasa de Desempleo Abierto en Areas Urbanas Por ciento Observada
+3.6 Tendencia
+26
+12.6
+3.3 Observada
+Tendencia 24
+12.2 3.0 22
+Observado
+11.8 Tendencia 2.7 20
+2.4 18
+11.4
+2.1 16
+11.0 1.8 14
+A F A F A F A S M S M S M S S M S M S M S
+1998 1999 2000 2001 1998 1999 2000 2001 1998 1999 2000 2001
+FUENTE: IMSS e INEGI.
+Con base en la trayectoria del empleo en los últimos cinco
+años, es poco probable que en lo que resta de 2001 tenga lugar una
+creación  significativa  de  puestos  de  trabajo.  Lo  anterior  tiene
+suficiente sustento en los datos sobre la materia.
+Durante los cuartos trimestres de 1997 y 1999, periodos
+en  que  se  observaron  tasas  reales  de  crecimiento  económico
+desestacionalizadas muy elevadas, el número promedio de empleos
+creados  fue  superior  a  230  mil.  Sin  embargo,  en  los  mismos
+trimestres  de  1998  y  2000,  durante  los  cuales  las  tasas  de
+incremento del producto real desestacionalizado fueron negativas, el
+número promedio de puestos de trabajo se contrajo en más de 16
+mil.
+De  acuerdo  con  los  analistas  del  sector  privado,  el
+pronóstico de incremento anual del producto para el cuarto trimestre
+de 2001 es cercano a cero por ciento, lo que podría implicar un
+crecimiento desestacionalizado negativo. Por tanto, es de esperarse
+que el empleo no se recupere en lo que resta del año y que en el
+mejor escenario se mantenga la pérdida ya acumulada. Asimismo,
+las perspectivas de crecimiento económico y la rigidez exhibida por
+las  revisiones  salariales  tampoco  favorecen  la  generación  de
+empleos en el mediano plazo.
+II.2.3.  Oferta y Demanda Agregadas
+Durante el segundo trimestre del presente año continuó la
+desaceleración de la economía mexicana que se inició desde finales
+de 2000.  Por el lado de la demanda agregada, este proceso se
+caracterizó por una disminución de la tasa de crecimiento anual de
+todos  sus  componentes,  salvo  del  consumo  público.  También
+33 BANCO DE MÉXICO
+experimentaron una reducción las tasas de crecimiento anual de los
+dos rubros de la oferta agregada: el PIB y las importaciones.
+Un aspecto sorprendente de la desaceleración por la que
+está atravesando la economía mexicana es el rápido debilitamiento
+de la expansión de los componentes de la demanda interna.  Así,
+las tasas de crecimiento anual de la inversión y del consumo total
+pasaron de niveles superiores a 10 por ciento en el tercer trimestre
+del  año  pasado  a  –5.5  y  3  por  ciento,  respectivamente,  en  el
+segundo trimestre de 2001.  Por otra parte, la tasa de incremento
+anual del componente interno de la oferta agregada, es decir el PIB,
+mostró una reducción, al pasar de 7.3 a cero por ciento del tercer
+trimestre de 2000 al segundo de 2001 (Cuadro 8).
+Cuadro 8 Demanda y Oferta Agregadas en 2000 y 2001
+Variación real anual en por ciento
+2000 2001
+I Trim. II Trim.III Trim.IV Trim. Anual I Trim. II Trim.
+Oferta Agregada 11.7 11.2 11.4 8.0 10.5 3.0 0.4
+PIB 7.7 7.6 7.3 5.1 6.9 1.9 0.0
+Importaciones B. y S. 24.9 22.3 23.2 16.1 21.4 6.3 1.5
+Demanda Agregada 11.7 11.2 11.4 8.0 10.5 3.0 0.4
+Consumo Total 8.9 9.4 10.0 6.6 8.7 5.3 3.0
+Privado 9.6 10.2 10.5 7.6 9.5 6.5 3.8
+Público 3.9 4.6 6.1 0.6 3.5 -3.0 -2.2
+Inversión Total 10.9 10.5 11.1 7.6 10.0 0.4 -5.5
+Privada 12.8 8.9 10.8 8.2 10.2 -0.7 -5.3
+Pública -4.5 26.0 13.1 5.3 8.6 11.3 -6.8
+Exportaciones B. y S. 17.3 15.8 16.9 14.1 16.0 4.7 -0.4
+FUENTE: INEGI.
+La disminución de la tasa de crecimiento económico en
+México ha estado determinada de manera muy importante por la
+evolución  de  la  economía  de  los  Estados  Unidos.  El  principal
+vínculo entre las dos es el intercambio comercial. En dicho eslabón
+el sector manufacturero juega un papel crucial ya que casi el 90 por
+ciento de las exportaciones de México a los Estados Unidos son
+manufactureras.  En  este  sentido  es  importante  destacar  que  la
+desaceleración  del  sector  manufacturero  en  los  Estados  Unidos
+precedió a la de los otros sectores de esa economía.  Por ello, ya
+desde los últimos meses de 2000, la actividad, las exportaciones y
+el empleo de la industria manufacturera en México empezaban a
+desacelerarse.  La  contribución  del  sector  manufacturero  al
+crecimiento experimentado por la inversión y por el empleo en los
+últimos años ha sido también un factor fundamental para entender
+la rápida desaceleración que sufrieron ambas variables en el primer
+34 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+semestre de 2001.  Asimismo, la importante caída registrada por el
+empleo influyó negativamente sobre el consumo del sector privado.
+La relevancia del sector manufacturero mexicano como
+generador de empleos y como destino de la inversión es uno de los
+factores  que  explica  porqué  el  crecimiento  en  México  se  ha
+reducido de manera más pronunciada que en los Estados Unidos.
+Otros factores que también han contribuido a este fenómeno son
+los siguientes:
+(a)  El reducido nivel del crédito bancario al sector privado ha
+impedido  que  el  sistema  financiero  mexicano  mitigue
+significativamente,  como  ha  sucedido  en  los  Estados
+Unidos, la caída de la inversión y del consumo; y
+(b)  La  elevada  tasa  de  expansión  económica  registrada  en
+México en el año 2000 permitió que el PIB observado se
+acercara  a  su  nivel  potencial,  después  del  modesto
+desempeño en 1999.  Esta recuperación se sustentó en la
+aceleración  del  crecimiento  de  la  inversión  y  del
+consumo, variables que en 1999 habían tenido un menor
+incremento. Esto último, como consecuencia del contagio
+financiero  de  la  crisis  rusa  que  tuvo  lugar  durante  el
+segundo semestre de 1998. Por ello, aun en un entorno
+externo más favorable que el actual, dicha tasa no era
+sostenible.
+Durante  el  segundo  trimestre  del  año  continuó
+reduciéndose la tasa de incremento anual de la inversión privada, lo
+cual  confirma  la  estrecha  vinculación  de  este  agregado  con  las
+variaciones del producto, de la actividad manufacturera y de las
+exportaciones.  Por otra parte, si bien el crecimiento del consumo
+total y del sector privado también se ha ajustado a la baja, éste es el
+único componente de la demanda agregada que aún presenta tasas
+positivas  de  variación  anual.    El  comportamiento  del  consumo
+privado  ha  estado  influido  negativamente  por  el  lento  ritmo  de
+expansión económica y por la pérdida de empleos.  Sin embargo, el
+aumento que registró la masa salarial en los primeros meses de
+2001 y, en alguna medida, la recuperación del crédito al consumo,
+son dos factores que mitigaron la caída del crecimiento de este
+renglón del gasto.
+El conjunto de los factores señalados tuvo como resultado
+una expansión de la demanda interna en el segundo trimestre de
+2001 de 0.7 por ciento. Ello contrasta con el nulo crecimiento que
+exhibió  el  producto  en  igual  lapso.    Como  consecuencia  de  lo
+35 BANCO DE MÉXICO
+anterior, el déficit comercial en este periodo continuó presentando
+tasas de crecimiento anual positivas.
+Para comprender mejor los movimientos recientes en la
+tendencia de una variable, el estudio del crecimiento trimestral de
+sus  cifras  desestacionalizadas  resulta  más  informativo  que  el
+seguimiento de las tasas anuales.  Con base en los datos corregidos
+por estacionalidad, la inversión privada y la gubernamental y las
+exportaciones registraron caídas de 1.7, 6.8 y 0.6 por ciento en el
+segundo trimestre.  Por otra parte, el consumo privado y el del
+sector público mostraron aumentos respectivos de 0.6 y 0.4 por
+ciento.  La combinación de estos desempeños tuvo como resultado
+una pequeña contracción en la demanda interna de 0.2 por ciento.
+Asimismo,  el  PIB  se  mantuvo  constante  durante  el  segundo
+trimestre del año y las importaciones disminuyeron 1 por ciento.
+Por tanto, a diferencia de lo que muestran las tasas anuales de
+crecimiento, los datos desestacionalizados sugieren que, después de
+exhibir caídas en los dos trimestres anteriores, la economía se había
+estabilizado durante el segundo trimestre del año.
+Se cuenta con información incompleta y preliminar para
+evaluar el comportamiento de los principales componentes de la
+demanda  agregada  durante  el  tercer  trimestre  de  2001.  Sin
+embargo, los datos disponibles indican lo siguiente:
+(a)  La tasa de expansión anual del consumo privado habría
+disminuido  nuevamente  durante  el  tercer  trimestre,
+ubicándose  en  un  nivel  inferior  a  2  por  ciento.  Muy
+probablemente,  la  tasa  trimestral  de  crecimiento  de  la
+serie desestacionalizada del consumo privado fue cercana
+a  cero.  Esta  percepción  se  apoya  en  la  siguiente
+información:
+-   Las  ventas  de  los  establecimientos  comerciales  que
+reporta el INEGI presentaron una contracción a tasa
+anual en el bimestre  julio-agosto. La variación anual
+de las ventas al menudeo pasó de 2.9 por ciento en el
+segundo trimestre a –0.5 por ciento en julio-agosto.
+Para el mismo periodo, la variación anual de las ventas
+al mayoreo se ajustó de –6.8 a –7.4 por ciento;
+-   El  incremento  a  tasa  anual  de  las  ventas  a  tiendas
+totales de los socios de la ANTAD pasó de 8.2 por
+ciento en el segundo trimestre a 7.2 por ciento en el
+tercero.  Asimismo,  las  ventas  de  algunos  bienes
+durables  como  refrigeradores,  estufas  y  lavadoras
+perdieron vigor durante el trimestre; y
+36 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+-   Si bien las importaciones de bienes de consumo siguen
+expandiéndose a una tasa anual elevada, ésta se redujo
+de  21.6  a  18.1  por  ciento,  del  segundo  al  tercer
+trimestre.
+(b)  La  tasa  de  crecimiento  anual  de  la  inversión  privada
+probablemente  resultó  inferior  a  la  de  –5.3  por  ciento
+registrada  en  el  segundo  trimestre.  Ello  debido  a  lo
+siguiente:
+-   En julio la inversión fija bruta registró una variación
+anual de –4.8 por ciento;
+-   La tasa de variación anual de las importaciones de
+bienes  de  capital  disminuyó  de  -0.8  a  –15.1  por
+ciento del segundo al tercer trimestre; y
+-   El  sector  de  la  construcción  se  contrajo  en  el
+bimestre julio-agosto a una tasa anual de –3.7 por
+ciento, en comparación con la de –6.9 por ciento en
+el segundo trimestre de 2001.
+(c)  Una desaceleración en los Estados Unidos mayor que la
+anticipada en el tercer trimestre y los efectos de medidas
+de seguridad más drásticas en la frontera, como secuela
+de los acontecimientos del 11 de septiembre, explican la
+caída a tasa anual de –6.9 por ciento, que registraron en el
+tercer trimestre las exportaciones no petroleras.
+Los desarrollos comentados serían congruentes con una
+caida  anual  de  la  demanda  agregada  en  el  tercer  trimestre  de
+alrededor de 3 por ciento.
+Respecto a la evolución de los componentes de la oferta
+agregada, la información disponible sugiere lo siguiente:
+(a)  El PIB registró en el tercer trimestre una contracción a
+tasa  anual  mayor  que  1  por  ciento.  Este  resultado  se
+sustenta en la información que se presenta a continuación:
+-   El  Indice  Global  de  Actividad  Económica  (IGAE)
+experimentó en  julio  una  variación  a tasa anual de
+-0.9 por ciento;
+-   La producción industrial disminuyó a una tasa anual
+de 4.4 por ciento en el bimestre julio-agosto;
+37 BANCO DE MÉXICO
+-   El  efecto  de  un  menor  crecimiento  del  sector
+industrial  en  los  Estados  Unidos  a  causa  de  los
+ataques  terroristas  sólo  se  reflejó  parcialmente  en
+septiembre.    Sus  principales  repercusiones  se
+resentirán a partir de octubre; y
+-   La  incidencia  desfavorable  sobre  sectores
+específicos, como el turismo y la aviación comercial,
+de los sucesos del 11 de septiembre.
+(b)  Como  consecuencia  de  la  desaceleración  de  todos  los
+componentes  de  la  demanda  agregada,  la  tasa  de
+crecimiento  de  las  importaciones  bajó  de  0.1  a  -9  por
+ciento del segundo al tercer trimestre.
+Tomando  en  consideración  la  información  anterior,  el
+Banco de México estima que para el año 2001 en su conjunto el
+crecimiento del PIB podría ser cercano a cero por ciento.
+II.2.4.  Balanza  de  Pagos,  Flujos  de  Capital  y  Tipo  de
+Cambio
+La rápida y pronunciada corrección del crecimiento de la
+demanda  agregada  en  los  primeros  nueve  meses  del  año  limitó
+considerablemente la ampliación del déficit de la cuenta corriente.
+Ello, por la desaceleración de las exportaciones y de la producción
+asociada a la reducción del crecimiento económico en los Estados
+Unidos. Destaca a este respecto que si bien el déficit comercial
+total acumulado durante los primeros nueve meses del año aumentó
+a una tasa anual de 30.6 por ciento, el déficit no petrolero se redujo
+en 24 por ciento. Además, en el tercer trimestre el déficit comercial
+total resultó inferior al registrado en ese mismo periodo del año
+pasado y los datos de tendencia sugieren caídas a lo largo del año
+del déficit comercial (Gráfica 11). Esta información apunta hacia
+un mayor balance entre el crecimiento de la oferta y de la demanda
+internas. La evolución descrita del déficit comercial ha sido un
+factor importante para limitar la demanda de recursos externos por
+parte  de  la  economía  mexicana.  Consecuentemente,  ello  ha
+contribuido a la estabilidad que ha mostrado el tipo de cambio.
+38 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+Gráfica 11 Déficit de la Balanza Comercial, Total y No Petrolero
+Millones de dólares
+Trimestral      Mensual: Series de Tendencia
+8,000
+Total Total
+7,000 No Petrolero* 6,984 2,100 No Petrolero*
+1,900
+5,945
+6,000
+1,700
+5,070 5,133
+5,000 4,568 4,426 4,516 1,500
+4,000 3,638 1,300
+1,100
+3,000
+2,220 900
+2,000 1,850 1,798 1,683
+1,147 1,368 700
+1,000
+500
+0 300
+I II III IV I II III S N E M M J S N E M M J S N E M M J S
+         2000                         2001 1998 1999 2000 2001
+* Excluye importaciones de gasolina, gas butano y gas propano.
+Como  se  ha  comentado  en  pasados  Informes  sobre  la
+Inflación,  otro  factor  que  explica  la  estabilidad  cambiaria
+experimentada hasta la fecha es el favorable comportamiento de los
+flujos de capital.  El saldo superavitario de la cuenta de capital en
+el primer semestre fue uno de los más elevados para ese lapso de
+los últimos 7 años. Asimismo, los flujos de capital de largo plazo,
+principalmente de inversión extranjera directa, financiaron en dicho
+periodo el 85 por ciento del déficit de la cuenta corriente. Para el
+tercer trimestre se estima un déficit de la cuenta corriente de 3.1
+miles  de  millones  de  dólares  y  un  superávit  de  3.8  miles  de
+millones en la cuenta de capital (incluyendo errores y omisiones).
+Del total anterior 701 millones corresponden a inversión de cartera.
+Durante el trimestre julio-septiembre, el rendimiento neto
+de  los  bonos  que  el  gobierno  mexicano  coloca  en  el  exterior
+aumentó considerablemente para todos los plazos (Gráfica 12). El
+correspondiente al bono UMS26 se incrementó en 113 puntos base
+entre el cierre de junio y el de septiembre. Ello lo situó por encima
+de los 400 puntos base por primera ocasión en el año.
+39 BANCO DE MÉXICO
+Gráfica 12 Indicadores del Riesgo País y Tipo de Cambio
+Rendimiento Neto del Bono UMS26 
+Rendimiento Neto de la Deuda Pública Externa 
+Puntos base  y Tipo de Cambio Pesos por dólar
+Puntos base a Diferentes Plazos
+432 432 435 UMS26 9.90
+415
+Tipo de Cambio
+400 384 410
+9.70
+360
+350 385
+9.50
+308
+360
+300
+312 306 9.30
+290
+335
+250 264
+257
+9.10
+ 29 de junio de 2001 310
+200 180
+28 de septiembre de 2001
+285 8.90
+150 E F M A M J J A S
+Mex 05 Mex 07 Mex 08 Mex 09 Mex 16 Mex 26 2001
+FUENTE:  Bloomberg y Banco de México.
+Nota: El rendimiento neto del bono UMS26 es la diferencia entre su rendimiento bruto y el de un bono del gobierno de los Estados Unidos de
+vencimiento similar.
+En respuesta al deterioro en la percepción del riesgo país,
+tanto  el  tipo  de  cambio  como  las  tasas  de  interés  internas
+experimentaron movimientos alcistas. Así, después de que durante
+parte de julio y agosto los réditos llegaron a niveles históricamente
+bajos,  hacia  finales  de  agosto,  ante  el  repunte  estacional  de  la
+inflación y a causa de los ataques terroristas en los Estados Unidos,
+se registró un aumento de las tasas de interés y una depreciación
+del tipo de cambio. A diferencia de lo observado en otros países y
+durante episodios pasados de volatilidad internacional extrema, los
+ajustes ocurrieron de manera ordenada.
+El  tipo  de  cambio  mostró  un  valor  promedio  de  9.24
+pesos por dólar en el trimestre julio-septiembre, lo cual implicó una
+depreciación  de  0.6  por  ciento  con  respecto  al  promedio  del
+trimestre  anterior.  A  principios  de  julio,  como  reflejo  de  la
+incertidumbre  en  Argentina,  la  paridad  aumentó  3  por  ciento.
+Debido a que dicha depreciación fue transitoria, el nivel promedio
+de 9.15 pesos por dólar de julio y agosto resultó prácticamente
+igual al dato correspondiente del trimestre anterior. En septiembre
+el tipo de cambio exhibió una tendencia alcista, la cual se acentuó
+después  de  los  ataques  terroristas  del  11  de  ese  mes.  La
+depreciación  del  tipo  de  cambio  en  septiembre  fue  de  3.3  por
+ciento, cerrando el trimestre en una cotización de 9.52 pesos por
+dólar,  5.3  por  ciento  superior  a  la  prevaleciente  al  final  del
+trimestre anterior (Gráfica 12).
+40 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+II.2.5.  Precios Administrados y Concertados
+En  julio,  agosto  y  septiembre  la  inflación  mensual  del
+subíndice de precios de los bienes administrados y concertados por
+el sector público11 fue respectivamente de -1.51, -0.48 y 0.93 por
+ciento. En esos mismos meses el crecimiento del INPC resultó de
+–0.26, 0.59 y 0.93 por ciento (Gráfica 13).
+Gráfica 13 Subíndice de Precios de los Bienes Administrados y Concertados e
+INPC
+Variación mensual en por ciento
+Administrados y 8 Administrados 
+Concertados
+3.7 Concertados
+INPC 6
+2.7
+4
+1.7 2
+0.7 0
+-0.3 -2
+-1.3 -4
+Ago Nov  Feb May  Ago  Nov  Feb May  Ago  Nov  Feb May  Ago   Ago Nov  Feb May  Ago  Nov  Feb May  Ago  Nov  Feb May  Ago  
+1998 1999 2000 2001 1998 1999 2000 2001
+De  manera  similar  a  lo  ocurrido  en  el  trimestre abril-
+junio, la favorable evolución de dicho subíndice durante el periodo
+analizado  en  este  Informe  es  atribuible  principalmente  al
+comportamiento  de  los  precios  de  los  bienes  administrados.  En
+julio, agosto y septiembre dichos precios registraron variaciones
+mensuales respectivas de –3.61, -1.55 y 1.95 por ciento. Por otro
+lado, el subíndice de los precios concertados mostró los siguientes
+incrementos en esos mismos meses: 0.15, 0.32 y 0.17 por ciento.
+El ritmo más lento de crecimiento del subíndice de los
+precios administrados en el periodo es explicado en lo fundamental
+por  la  disminución  del  precio  del  gas  doméstico.  Durante  el
+trimestre,  la  reducción  acumulada  por  la  cotización  de  dicho
+energético fue de  -14.54 por ciento. Por otra parte, los bienes
+administrados cuyos precios experimentaron en el lapso el mayor
+                                                
+11La canasta del subíndice de los precios administrados se compone de los siguientes
+productos:  gasolina,  gas  doméstico  y  electricidad.  Los  productos  con  precios
+concertados son: telefonía de larga distancia internacional, servicio de telefonía local,
+larga distancia nacional, línea telefónica, taxi, autobús urbano, metro o transporte
+eléctrico, autobús foráneo, transporte colectivo, estacionamientos, tenencia de automóvil,
+cuotas de autopistas, aceites y lubricantes y cuotas y licencias.
+41 BANCO DE MÉXICO
+incremento acumulado fueron la electricidad y las gasolinas, 2.37 y
+1.45 por ciento, respectivamente.
+II.2.6.  Resumen
+La inflación anual del INPC se redujo de 6.57 por ciento
+en junio a 6.14 por ciento en septiembre.  Por su parte, en el mismo
+periodo la inflación anual subyacente disminuyó de 6.36 a 5.93 por
+ciento.
+El descenso de la inflación subyacente se sustentó en una
+importante caída de la tasa anual de crecimiento del subíndice de
+las  mercancías,  mientras  que  la  de  los  servicios  se  mantuvo
+prácticamente constante.  La evolución de la inflación subyacente
+de las mercancías respondió en gran medida a la estabilidad que
+exhibió el tipo de cambio.  A la vez, la rigidez de la inflación de los
+servicios  es  producto  de  los  considerables  incrementos  de  los
+costos unitarios de la mano de obra.
+La desaceleración registrada por la actividad económica
+en los Estados Unidos incidió adversamente en la actividad y el
+empleo en el sector industrial de México. Sin embargo, el rápido
+ajuste a la baja que experimentó el crecimiento de la demanda
+agregada  ante  estos  factores  permitió  el  reestablecimiento  del
+equilibrio entre el incremento de la demanda agregada y el de la
+oferta de bienes y servicios. Ello contribuyó a atenuar las presiones
+inflacionarias  a  través  de  dos  canales.    En  primer  lugar,  este
+fenómeno ha tenido como consecuencia un déficit comercial menor
+que  el  anticipado,  lo  cual  dio  lugar  a  una  menor  demanda  de
+recursos externos.  Lo anterior y una abundante oferta de capitales
+del exterior, coadyuvaron a la estabilidad cambiaria y a la baja de
+la  inflación  anual  de  las  mercancías.    En  segundo  lugar,  la
+reducción del crecimiento de la demanda agregada probablemente
+limitó la capacidad de los productores de servicios para repercutir
+en sus precios los aumentos en los costos unitarios de la mano de
+obra, evitándose así un repunte de la inflación anual del subíndice
+subyacente de los servicios.
+En lo que respecta al comportamiento de los subíndices
+de precios que se excluyen del cálculo de la inflación subyacente,
+se registró un aumento significativo de la inflación anual de los
+bienes  agropecuarios  y  un  descenso  de  la  de  los  bienes
+administrados y concertados.  Por su parte, la inflación anual del
+subíndice  de  precios  de  la  educación  permaneció  prácticamente
+constante.  Estos efectos se compensaron casi totalmente, por lo
+que la disminución de la inflación general anual fue de la misma
+magnitud que la registrada por la inflación subyacente.
+42 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+III.  La Política Monetaria Durante el Tercer
+Trimestre de 2001
+En esta sección se comentan las razones que llevaron al
+Banco de México a modificar la postura de la política monetaria
+durante el trimestre  julio-septiembre.  Como  complemento  de  lo
+anterior, también se presenta un análisis de la evolución durante el
+periodo de las expectativas de inflación y de las tasas de interés
+nominales y reales. Ello, con el propósito de evaluar el efecto que
+la modificación de la postura de la política monetaria ejerció sobre
+estas  variables,  dada  la  importancia  de  ambas  para  revelar  las
+percepciones del público respecto al proceso inflacionario y a las
+condiciones monetarias imperantes en la economía. Por último, se
+analiza la trayectoria de la base monetaria y la de otros agregados
+monetarios y crediticios.
+III.1.  Acciones de Política Monetaria
+El 31 de julio de 2001, la Junta de Gobierno del Banco de
+México decidió reducir el “corto” de 350 a 300 millones de pesos,
+manteniéndolo en ese nivel durante el resto del trimestre. Al igual
+que la disminución del “corto” acordada en el trimestre anterior,
+esta  acción  estuvo  motivada  por  la  favorable  evolución  que  ha
+mostrado la inflación así como por la mitigación de algunos de los
+factores de riesgo que enfrentaba el cumplimiento del objetivo de
+inflación para el año 2001. Estos elementos fueron identificados y
+evaluados por el Banco de México en su Programa Monetario para
+2001.
+La decisión de relajar la postura de la política monetaria se
+sustentó en la siguiente información:
+(a)  El crecimiento acumulado por el INPC durante el periodo
+enero-junio había sido de 2.11 por ciento y a la primera
+quincena de julio la inflación de los últimos doce meses
+había  descendido  a  5.87  por  ciento.  Los  resultados
+correspondientes  para  el  índice  de  precios  subyacente
+fueron de 3.5 y 6.26 por ciento, respectivamente;
+(b)  La  trayectoria  de  los  precios  durante  julio  permitía
+anticipar que en ese mes la tasa de crecimiento anual del
+INPC se situaría por debajo de 6.5 por ciento. Con ello, la
+43 BANCO DE MÉXICO
+evolución de los índices de precios resultaba claramente
+congruente con el objetivo de alcanzar una inflación anual
+no superior a 6.5 por ciento en diciembre;
+(c)  La expectativa del sector privado en cuanto a la inflación
+anual para 2001 se situaba en esas fechas en niveles por
+abajo de 6 por ciento. En específico, de acuerdo con la
+Encuesta  de  Expectativas  recabada  por  el  Banco  de
+México  durante  julio,  la  inflación  anual  esperada  para
+2001 se ubicaba en 5.48 por ciento;
+(d)  La notable  desaceleración registrada por la economía de
+los  Estados  Unidos  se  tradujo  en  una  reducción
+considerable  del  crecimiento  económico  en  México.
+Como  resultado,  la  tasa  de  incremento  de  la  demanda
+interna había mostrado un rápido ajuste a la baja, con lo
+cual se redujo la disparidad que había existido entre la
+expansión de la producción y la del gasto;
+(e)  Lo  anterior  se  reflejó  en  un  déficit  acumulado  de  la
+balanza comercial en el periodo enero-junio menor que el
+anticipado. También en una revisión a la baja del déficit
+de la cuenta corriente estimado por los analistas del sector
+privado  para  todo  2001.  En  julio,  la  Encuesta  de
+Expectativas señaló un pronóstico para el déficit de la
+cuenta  corriente  de  19,796  millones  de  dólares,
+comparado  con  el  de  22,037  millones  de  dólares  de
+finales de diciembre del año pasado;
+(f)  Durante los primeros dos trimestres del año se registró
+una cuantiosa oferta de capitales del exterior, en particular
+en el rubro de inversión extranjera directa. Por tanto, la
+evolución de la cuenta corriente conjuntamente con la de
+la cuenta de capitales se tradujo en una paridad estable; y
+(g)  La    información  preliminar  sobre  las  finanzas  públicas
+para el periodo enero-mayo implicaba que la evolución de
+la postura fiscal resultaba propicia para crear un entorno
+favorable para la estabilización.
+La evolución de la economía y de la inflación durante el
+tercer trimestre  sugieren que el diagnóstico realizado al momento
+de modificarse la postura de la política monetaria fue adecuado. En
+particular, la inflación subyacente continuó con una tendencia a la
+baja.  Asimismo, dado que las perspectivas de crecimiento para la
+economía de los Estados Unidos se deterioraron adicionalmente,
+ello  sugiere  menores  presiones  sobre  los  precios  en  el  futuro
+44 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+cercano. Por último, se mantuvo la oferta de capitales externos,
+aunque ésta fue menos amplia que en los primeros dos trimestres
+del año.
+Sin embargo, como se ha reiterado en Informes anteriores,
+los  incrementos  nominales  de  los  salarios  contractuales  han
+permanecido por encima de la suma de las ganancias previsibles en
+la productividad de la mano de obra y el objetivo de inflación. Es
+probable que ello haya limitado la disminución de la inflación, en
+particular de la asociada al índice subyacente de los servicios. Entre
+los motivos que sustentaron las reducciones del “corto” destacan la
+expectativa de que la sustancial caída del empleo induciría una
+inflexión a la baja en las revisiones salariales contractuales. Al no
+materializarse dicha inflexión, la Junta de Gobierno del Banco de
+México decidió no relajar más la postura de la política monetaria.
+Ello, toda vez que los aumentos en los costos unitarios de la mano
+de obra dificultarán el cumplimiento del objetivo de inflación en el
+año 2002.
+La  inflación  anual  del  INPC  se  incrementó  en  agosto  y
+septiembre como reflejo de la evolución de sus componentes más
+volátiles y menos predecibles.  Este fue el caso en particular de los
+precios  de  los  bienes  administrados  y  concertados  y  de  los
+productos agropecuarios. Aunque dicho aumento no ha afectado la
+evolución de la inflación subyacente, en el futuro cercano podría
+contaminar el proceso de formación de expectativas.
+Finalmente,  los  ataques  terroristas  ocurridos  el  11  de
+septiembre  en  los  Estados  Unidos  probablemente  tendrán  una
+influencia  negativa  sobre  las  siguientes  variables:  la  oferta  de
+capitales a los mercados emergentes y las exportaciones, el turismo
+y las remesas hacia México. Por ello, es factible que en el futuro se
+revierta parcialmente la abundancia relativa de recursos externos
+que se experimentó en los primeros ocho meses del año.
+Para  evaluar  los  resultados  de  la  política  monetaria  e
+identificar  las  presiones  inflacionarias  existentes,  es  relevante
+analizar la trayectoria de las expectativas de inflación. Al respecto,
+durante  los  primeros  dos  meses  del  trimestre  se  redujeron
+visiblemente  las  relativas  al  cierre  de  2001.  Ello  constituye  un
+elemento adicional de validación respecto al diagnóstico realizado
+al momento de modificarse el “corto” (Gráfica  14). Sin embargo,
+debido al repunte que registró la inflación anual a partir de agosto,
+dichas expectativas se incrementaron de 5.25 por ciento en ese mes
+a 5.6 por ciento en septiembre. Las expectativas de inflación para el
+cierre de 2001 han sido muy volátiles ya que han respondido más
+que proporcionalmente a los resultados mensuales de la inflación
+45 BANCO DE MÉXICO
+general. A su vez, estos últimos han estado influidos de manera
+importante por los subíndices de precios que se excluyen de la
+inflación  subyacente.  La  influencia  de  los  factores  volátiles  se
+confirma  al  notarse  que  las  expectativas  de  inflación  para  los
+próximos  doce  meses  y  para  2002  en  ausencia  de  una  reforma
+fiscal disminuyeron de junio a septiembre.
+Un  último  elemento  a  considerar  con  respecto  a  la
+evolución de las expectativas de inflación es que las relativas a los
+próximos 12 meses siguen siendo más altas que las asociadas a
+2001.  Este fenómeno se ha presentado a lo largo del año, a pesar
+de que las expectativas de inflación para 2002 se ubican por debajo
+de ambas. Como se mencionó en el Informe anterior, es probable
+que ello se deba al efecto que la aprobación de la reforma fiscal
+pudiera tener sobre la inflación esperada o bien a que los analistas
+prevén cierta inestabilidad transitoria en ausencia de la reforma
+fiscal.  Adicionalmente,  cabe  resaltar  que  la  inflación  general  se
+redujo rápidamente durante la primera mitad de 2001, en parte por
+la  trayectoria  favorable  de  los  precios  de  algunos  de  los
+componentes  más  volátiles  del  INPC  que  se  excluyen  de  la
+inflación  subyacente.  De  ahí  que  sea  posible  que  los  analistas
+anticipen que la evolución de los mismos llevará en los primeros
+meses del año próximo a una ligera reversión de la tendencia de la
+inflación anual, aunque ello sólo fuera temporalmente.
+46 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+Gráfica 14 Expectativas  de  Inflación  y  Objetivo  de  Saldos  Acumulados
+(“Corto”)
+Por ciento
+-400  -350  -300 
+millones  millones  millones 
+8.0 de pesos de pesos de pesos
+7.5
+7.0
+6.5
+6.0
+Expectativas de Inflación para
+5.5
+los Siguientes 12 meses
+5.0 Expectativas de Inflación para el
+Cierre de 2001
+4.5 Expectativas de Inflación para el
+Cierre de 2002
+4.0
+E F M A M J J A S
+2001
+FUENTE: Encuesta sobre las Expectativas de los Especialistas en Economía del Sector Privado, Banco de México.
+En el trimestre que se reporta, las tasas de interés nominales
+y reales experimentaron cambios de dirección importantes (Gráfica
+15). Durante la primera mitad de julio, las tasas nominales de los
+Cetes a 28 días mostraron un incremento sustancial, el cual fue
+congruente con el que tuvieron las tasas de interés externas. El
+comportamiento anterior obedeció principalmente al ligero efecto
+de  contagio  que  causó  el  agravamiento  de  la  situación  en
+Argentina. Poco antes de la reducción del “corto”, tanto las tasas
+internas como las externas disminuyeron en reacción al anuncio de
+la  ampliación  del  programa  del  FMI  para  Argentina  y  en
+anticipación  a  dicha  reducción  del  “corto”.  A  partir  de  la
+modificación de la postura de la política monetaria se presentó una
+disociación de las tasas de interés internas y externas.  Ello, en la
+medida  en  que  estas  últimas  se  incrementaron  mientras  que  las
+internas bajaron. En suma, las tasas nominales de los  Cetes a 28
+días se redujeron 75 y 77 puntos base del día anterior al posterior al
+cambio del “corto”. A su vez, el rendimiento del bono UMS26 se
+incrementó en 6 puntos base.
+47 BANCO DE MÉXICO
+Gráfica 15 Tasas  de  Interés  Nominales,  Tasas  de  Interés  Reales1/  y
+Rendimiento Total del Bono UMS26
+Por ciento
+Tasas de interés  Tasa Nominal CETES 28 días Rendimiento total  Tasas de interés  Tasa Real CETES 28 días Rendimiento total 
+nominales Tasa Nominal CETES 91 días del UMS26 reales del UMS26
+Tasa Real CETES 91 días
+Rendimiento Total Bono UMS26
+12 Rendimiento Total Bono UMS26
+9.9 9.9
+18
+10
+9.7 9.7
+16
+8
+14 9.5 9.5
+12 9.3 6 9.3
+10 9.1 4 9.1
+8 8.9 2 8.9
+6 8.7 0 8.7
+S O N D E F M A M J J A S S O N D E F M A M J J A S
+2000 2001 2000 2001
+1/ Tasas de interés nominales deflactadas por las expectativas de inflación para los próximos 12 meses.
+Después de modificarse la postura de la política monetaria,
+las  tasas  de  interés  internas  se  mantuvieron  hasta  mediados  de
+agosto en una tendencia a la baja. Dicha tendencia se revirtió a
+finales de ese mismo mes, movimiento que no correspondió a uno
+similar de las tasas externas. Ello se explica por una combinación
+de varios factores. En primer lugar, es posible que existiera entre el
+público una percepción de que pudiera acordarse una reducción
+adicional del “corto”, la cual se diluyó a raíz de que la inflación de
+la primera quincena de agosto resultara mayor que la anticipada. Lo
+señalado  se  combinó  con  la  reacción  ante  la  demanda  de  un
+incremento salarial contractual elevado en la empresa Volkswagen
+y  que  desembocó  en  una  huelga12.  En  tercer  lugar,  existía  la
+opinión entre el público de que se efectuaría un cambio a la Ley del
+Sistema  de  Ahorro  para  el  Retiro  que  permitiría  a  las  Afores
+invertir en una cartera más amplia de instrumentos de deuda.  Sin
+embargo, dicha reforma no se materializó. La tendencia alcista de
+las  tasas  de  interés  internas  observada  a  finales  de  agosto  se
+intensificó a raíz de los trágicos eventos ocurridos en los Estados
+Unidos.  Como consecuencia de ello, también las tasas externas
+experimentaron un incremento sustancial.
+La reducción del “corto” así como desarrollos esperados
+que no se materializaron se tradujeron, a final de cuentas, en una
+disminución de las tasas de interés internas y en un diferencial más
+                                                
+12El paro de labores en la empresa Volkswagen comenzó el 18 de agosto y concluyó el 5
+de septiembre.
+48 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+estrecho entre éstas y las tasas de interés externas. Sin embargo, la
+baja  se  revirtió  parcialmente  en  fechas  posteriores,  desenlace
+atribuible a la conjunción de las siguientes influencias: un repunte
+de la inflación anual y de las expectativas de la misma para el año,
+las implicaciones de lo anterior sobre la conducción de la política
+monetaria  y  una  mayor  volatilidad  financiera  internacional
+asociada a los acontecimientos en los Estados Unidos. Aunque los
+factores  mencionados  no  implican  presiones  inflacionarias  que
+hagan peligrar el cumplimiento del objetivo en el presente año, al
+conjuntarse con la persistencia de elevados incrementos nominales
+de los salarios contractuales justificaron una actitud prudente con
+respecto a la política monetaria.  Lo anterior, con vistas a asegurar
+el logro del objetivo de inflación en el año 2002.
+III.2.  Agregados Monetarios y Crediticios
+III.2.1.  Base  Monetaria,  Crédito  Interno  Neto  y  Activos
+Internacionales Netos
+En  el  tercer  trimestre  de  2001  el  saldo  de  la  base
+monetaria aumentó en promedio a una tasa nominal anual de 11.7
+por  ciento,  menor  que  la  registrada  en  el  mismo  lapso  del  año
+anterior (27.3 por ciento). Durante el periodo el saldo observado de
+la base monetaria continuó ubicándose por debajo del pronosticado,
+con una desviación promedio de –2.4 por ciento.  Lo anterior se
+explica  fundamentalmente  por  un  crecimiento  de  la  actividad
+económica menor que el previsto.
+En el bienio 1999-2000, alrededor de 10 por ciento del
+saldo de los billetes y monedas en circulación se mantuvo en la
+caja de los bancos. Durante el trimestre  julio-septiembre el saldo
+nominal del efectivo en caja creció en promedio a una tasa anual de
+21.1  por  ciento.    Este  incremento  se  explica  en  parte  por  el
+incremento de las cuentas de nómina y, en menor medida, por el
+del número de cajeros automáticos.
+Los activos internacionales netos del Banco de México
+aumentaron 2,047 millones de dólares en el trimestre reportado. En
+contraste  con  lo  ocurrido  en  el  primer  semestre  del  año,  el
+Gobierno  Federal  contribuyó  a  dicha  acumulación  de  activos
+internacionales, principalmente debido a los ingresos que obtuvo
+por la recuperación de colateral, asociada a la recompra de Bonos
+Brady.  Por otra parte, en  julio-septiembre el crédito interno neto
+disminuyó  18,092  millones  de  pesos,  como  reflejo  de  la
+mencionada acumulación de activos internacionales (Cuadro 9).
+49 BANCO DE MÉXICO
+Cuadro 9 Base Monetaria, Activos Internacionales y Crédito Interno Neto
+Millones
+Saldos Flujos efectivos  Flujos efectivos  Flujos efectivos  Flujos efectivos 
+enero -marzo 2001 abril -junio  2001 julio -septiembre  2001 acumulados en el año 1/
+Al 30 Dic. 2000 Al 28 Sep. 2001 Al 28 Sep. 2001
+ 
+ (A)   Base Monetaria (Pesos) 208,943      182,188      -32,833      4,624      1,454      -26,755     
+ (B)   Activos Internacionales Netos (Pesos) 2/  342,386      408,089      46,162      4,677      19,546      70,385     
+Activos Internacionales Netos (Dólares de E.U.) 2/ 35,629      42,912      4,716      521      2,047      7,284     
+Variación de Activos Internacionales Netos  4,716      521      2,047      7,284     
+Pemex (Dólares de E.U.) 3,820      1,234      767      5,821     
+Gobierno Federal (Dólares de E.U.) -238      -1,751      628      -1,361     
+Compras por mecanismo de opciones 735      628      0      1,363     
+Otros (Dólares de E.U.) 3/ 399      410      652      1,461     
+ (C)   Crédito Interno Neto (Pesos) [(A)-(B)] 1/ -133,443      -225,901      -78,995      -53      -18,092      -97,140     
+                Memorándum:
+ (D)   Reserva Internacional 4/  (Dólares de E.U.) 33,555      39,415      4,481      695      684      5,860     
+1/ Para la estimación de los flujos efectivos en moneda nacional de los activos internacionales netos se utiliza el tipo de cambio aplicado a
+la operación generadora de cada variación. La diferencia entre los saldos de activos internacionales netos expresados en moneda
+nacional no corresponde al concepto de flujos efectivos, debido a que los saldos se valúan al tipo de cambio del día. Esta consideración
+también explica el que las diferencias entre los saldos de crédito interno neto no sean iguales a los flujos efectivos reportados.
+2/ Los activos internacionales netos se definen como la reserva bruta, más los créditos convenio con bancos centrales a más de seis
+meses, a lo que se restan los adeudos totales con el FMI y con bancos centrales derivados de convenios establecidos a menos de seis
+meses.
+3/ Incluye principalmente operaciones asociadas al esquema de venta de dólares y los intereses de los activos internacionales.
+4/ Según se define en la Ley del Banco de México.
+III.2.2.  Agregados Monetarios M1 y M4
+La tasa real de crecimiento del medio circulante (M1)
+aumentó  significativamente  en  el  periodo  julio-septiembre  con
+respecto a la observada en el trimestre previo.  La variación más
+importante  se  registró  en  las  cuentas  de  cheques  en  moneda
+extranjera,  las  cuales  se  incrementaron  en  lo  principal  por  las
+operaciones realizadas con motivo de la adquisición de  Banamex
+por Citicorp.  Adicionalmente, los depósitos en cuenta corriente
+(cuentas de nómina) han mantenido un vigoroso crecimiento, como
+reflejo de la intensa promoción de estas cuentas por parte de la
+banca, lo cual resultó en una mayor bancarización (Cuadro 10).
+50 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+Cuadro 10 Agregados Monetarios
+Variación real anual de saldos promedio en por ciento
+2001
+enero-marzo abril-junio julio-septiembre
+M1 6.75 3.49 7.77
+Billetes y Monedas en Poder del Público 7.35 3.13 6.26
+Cuentas de Cheques M.N. 4.07 3.14 4.20
+Cuentas de Cheques M.E. 6.46 -1.25 23.29
+Depósitos en Cuenta Corriente 17.65 10.24 13.49
+M4 6.44 6.72 8.83
+Captación Bancaria -10.32 -7.27 -2.83
+Valores Públicos 1/ 2/ 37.07 31.13 28.43
+Valores Privados 2/ 19.99 10.69 5.54
+Fondos de Ahorro para el Retiro (sin Siefores) 3/ 18.26 17.26 14.80
+1/ Incluye valores del Gobierno Federal, BPAS y BREMS.
+2/ Incluye la tenencia de Siefores.
+3/ Incluye los fondos para la vivienda y los fondos para el retiro en el Banco de México.
+Las cifras oportunas muestran que la tasa de crecimiento
+real anual del agregado monetario M4 aumentó significativamente
+en el periodo reportado (Gráfica 16).  Lo anterior obedeció en parte
+a que la operación de compra de Banamex por Citigroup se reflejó
+en  una  mayor  captación  de  la  banca  comercial  en  moneda
+extranjera en el tercer trimestre del año, la cual aumentó 28.8 miles
+de millones de pesos (variación nominal de 23.1 por ciento en el
+trimestre).  Esto último tuvo su mayor impacto sobre el agregado
+monetario amplio en agosto.
+Gráfica 16 Sistema de Ahorro para el Retiro y M4
+M4 Sistema de Ahorro para el Retiro
+Variación real anual en por ciento Por ciento del saldo de M4
+12
+20
+M4 M4 sin SAR
+17.8
+18
+10
+15.7
+16
+8 14 13.4
+12 10.9
+6 10 9.1
+8 7.1
+4
+5.6
+6
+4.0
+4
+2
+2
+0 0
+Sep Dic  Mar Jun  Sep  Dic  Mar Jun  Sep  1994 1995 1996 1997 1998 1999 2000 2001*/
+1999 2000 2001
+*/ Información a septiembre de 2001.
+Independientemente  de  las  causas  referidas  que  dieron
+lugar al aumento del agregado monetario amplio,  a lo largo de
+51 BANCO DE MÉXICO
+2001  éste  ha  mantenido  una  tasa  de  incremento  real  anual
+relativamente  elevada  (7.3  por  ciento  en  promedio).    Dicho
+comportamiento es aún más destacado si se considera que durante
+el año la actividad económica se ha debilitado.  Del análisis de los
+componentes  del  agregado  M4,  se  infiere  que  gran  parte  de  la
+persistencia del vigor de este agregado se explica por la evolución
+del ahorro financiero canalizado a través del sistema de ahorro para
+el retiro.  Dicho sistema, conformado principalmente por los fondos
+de vivienda y por las Siefores, ha crecido en el año a tasas reales
+superiores a 25 por ciento y ya representa casi el 18 por ciento de
+M4.  Si se excluye de este agregado el ahorro financiero canalizado
+a  través  del  sistema  de  ahorro  para  el  retiro,  M4  se  hubiera
+incrementado en los primeros nueve meses del año a una tasa anual
+promedio de  4.1 por ciento en términos reales (Gráfica 16).
+De los instrumentos financieros que conforman M4, los
+BPAS (emitidos por el IPAB) y los BREMS (emitidos por el Banco
+de México) han registrado los incrementos más notables durante
+2001.    La  emisión  de  BPAS  ha  permitido  al  IPAB  sustituir  la
+captación  del  público  que  se  realizaba  a  través  de  la  banca
+intervenida o en situación especial. La colocación de valores por
+parte  del  Banco  de  México  se  debe,  entre  otros  factores,  a  la
+esterilización de la acumulación de activos internacionales. A este
+respecto, cabe señalar que  durante el año las emisiones de BREMS
+han desplazado gradualmente a otros valores colocados con fines
+de regulación monetaria (Cuadro 11).
+Cuadro 11 Valores Colocados por el Banco de México con Fines de Regulación
+Monetaria
+Millones de pesos
+Saldos Flujos
+Dic-00 Mar-01 Jun-01 Sep-01 Ene-Sep 01
+Total 162,764 156,773 170,570 188,659 25,895
+BREMS 21,834 47,116 79,798 118,082 96,248
+Otros Valores 140,930 109,657 90,772 70,577 -70,353
+III.2.3.  Financiamiento al Sector Privado
+El financiamiento de la banca comercial al sector privado
+experimentó una ligera recuperación durante el tercer trimestre del
+año.  Lo anterior se aprecia en la evolución de la cartera vigente13,
+                                                
+13Se refiere a la cartera propia de la banca comercial, concepto que excluye la cartera
+asociada a los programas de apoyo a deudores y de saneamiento bancario (pagarés
+IPAB-FOBAPROA y los Cetes-UDIs).
+52 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+cuyo saldo ha aumentado a tasas reales anuales positivas (Gráfica
+17), particularmente el del crédito al consumo.
+Gráfica 17 Crédito Otorgado por la Banca Comercial al Sector Privado
+Variación real anual en por ciento
+Crédito Total, Vigente y Vencido Crédito Vigente por Destino 1/
+10.0 50.0
+Total Vigente Vencido Consumo Vivienda Empresas 2/
+5.0 40.0
+0.0 30.0
+-5.0 20.0
+-10.0 10.0
+-15.0 0.0
+-20.0 -10.0
+-25.0 -20.0
+-30.0 -30.0
+-35.0 -40.0
+Sep Dic  Mar Jun Sep Dic  Mar Jun Sep Dic  Mar Jun Sep  Sep Dic  Mar Jun Sep  Dic  Mar Jun Sep  Dic  Mar Jun Sep 
+1998 1999 2000 2001 1998 1999 2000 2001
+1/ Se refiere a la cartera propia de la banca comercial, concepto que excluye la cartera asociada a los programas de apoyo a deudores y
+de saneamiento bancario (pagarés IPAB-FOBAPROA y los Cetes-UDIs).
+2/ Empresas y personas físicas con actividad empresarial. No incluye el crédito otorgado a intermediarios financieros no bancarios.
+Tomando  en  consideración  un  universo  más  amplio  de
+oferentes de recursos financieros, es posible detectar lo siguiente:
+(a)  El saldo del crédito otorgado por las Sofoles hipotecarias
+creció en agosto de 2001 a una tasa real anual de 38.9 por
+ciento, lo cual contrasta con la reducción de este tipo de
+financiamiento por parte de la banca comercial;
+(b)  El  incremento  del  saldo  del  papel  comercial  en  los
+primeros nueve meses del año (7,827 millones de pesos)
+fue superior al flujo acumulado durante 2001 del crédito
+vigente de la banca comercial a empresas (5,376 millones
+de pesos; y
+(c)  En agosto de 2001, el saldo del crédito concedido por las
+Sofoles automotrices aumentó 37.3 por ciento a tasa anual
+en  términos  reales,  mientras  que  el  crédito  bancario
+destinado a la adquisición de bienes de consumo duradero
+se incrementó 26.8 por ciento.
+53 BANCO DE MÉXICO
+IV.  Perspectivas del Sector Privado14
+Durante  el  trimestre  julio-septiembre  de  2001,  los
+consultores  del  sector  privado  revisaron  sus  estimaciones  en  el
+sentido siguiente:  en  cuanto  al  crecimiento  económico  hubo  un
+ajuste  a  la  baja,  las  expectativas  de  inflación  se  mantuvieron
+prácticamente constantes y se acrecentó la incertidumbre (reflejada
+en la dispersión de sus respuestas).
+IV.1.  Perspectivas  del  Sector  Privado  para  2001  y
+2002
+IV.1.1.  Pronóstico sobre los Principales Determinantes de la
+Inflación
+Las estimaciones de los analistas financieros del sector
+privado en relación con la evolución del entorno externo para el
+resto del año experimentaron un deterioro importante. Al respecto
+cabe destacar lo siguiente:
+(a)  Las expectativas del sector privado nacional relativas al
+crecimiento anual de la economía de los Estados Unidos
+para el año 2001 se redujeron de 1.6 por ciento en junio a
+0.8 por ciento en septiembre. No obstante lo anterior, se
+espera  que  la  tasa  de  crecimiento  de  la  economía
+estadounidense  repunte  a  1.8  por  ciento  en  2002.  Al
+respecto,  la  desviación  estándar  de  las  respuestas  ha
+aumentado, lo cual refleja una mayor incertidumbre sobre
+el incremento futuro del PIB de los Estados Unidos15. Por
+otra  parte,  el  pronóstico  promedio  de  los  analistas
+estadounidenses para el crecimiento de la economía de
+ese país en el tercero y cuarto trimestres de 2001 es de
+–0.5 y –0.8 por ciento, respectivamente, en tanto que la
+expectativa para todo el año es de 1.1 por ciento16. Para
+2002,  se  espera  una  recuperación  a  partir  del  segundo
+trimestre y un crecimiento anual de 1.5 por ciento. Cabe
+                                                
+14A menos que se especifique lo contrario, los pronósticos reportados en esta sección se
+obtienen de la Encuesta sobre las Expectativas de los Especialistas en Economía del
+Sector Privado que levanta mensualmente el Banco de México.
+15Asimismo, el coeficiente de variación también señala una mayor dispersión de las
+respuestas.
+16Fuente: Consensus Forecasts, 25 de septiembre de 2001. El pronóstico para el tercer
+trimestre corresponde al crecimiento trimestral anualizado de la serie desestacionalizada.
+54 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+señalar  que  los  principales  bancos  de  inversión
+internacionales predicen un escenario más desfavorable.
+Ello se refleja en que el promedio de los pronósticos de
+crecimiento para los Estados Unidos en 2002 por parte de
+Goldman Sachs, JP Morgan y  Deutsche  Bank es de 0.8
+por ciento (Cuadro 12); y
+(b)  El precio promedio que se pronostica para el año 2001 de
+la  mezcla  mexicana  de  petróleo  de  exportación  es  de
+19.69 dólares por barril17. Para el año 2002, los analistas
+nacionales esperan que el precio promedio de la mezcla
+mexicana sea de 17.16 dólares por barril. Es importante
+señalar que la volatilidad implícita en los precios de los
+futuros del petróleo ha crecido considerablemente, debido
+a la incertidumbre prevaleciente en la economía mundial.
+Cuadro 12 Expectativas de Crecimiento del PIB de los Estados Unidos para
+2002
+Variación trimestral anualizada en por ciento
+2001 2002
+III IV  Anual I  II  III IV  Anual
+Consensus Forecasts -0.5 -0.8 1.0 1.5 3.2 3.9 3.9 1.2
+Deutsche Bank -0.9 -2.6 1.0 -0.3 3.2 5.0 5.5 0.9
+Goldman Sachs -0.5 -2.5 1.0 0.5 2.0 3.0 3.0 0.5
+JP Morgan -2.5 -1.5 0.8 -0.5 3.0 4.0 4.0 0.6
+Promedio* -1.3 -2.2 0.9 -0.1 2.7 4.0 4.2 0.7
+*Promedio de los pronósticos de las corredurías de Deutsche Bank, Goldman Sachs y JP Morgan revisados hasta
+el 22 de octubre.
+Durante septiembre, el pronóstico para el nivel del tipo de
+cambio  al  cierre  de  2001  aumentó  también  como  reflejo  de  la
+incertidumbre que existe en los mercados internacionales.
+Al cierre de septiembre la predicción del sector privado
+era que el tipo de cambio en diciembre de 2001 sería de 9.54 pesos
+por dólar. Por otra parte, hacia esas fechas (28 de septiembre) el
+precio de los futuros del peso para el final de 2001 se situó en 9.70
+pesos por dólar (Gráfica 18).
+Los  especialistas  encuestados  estiman  que  el  tipo  de
+cambio al cierre de diciembre de 2002 se ubique en 10.06 pesos por
+                                                
+17Por otra parte, si se toman en cuenta las cotizaciones a futuro del precio internacional del
+petróleo WTI (1 de octubre) y la diferencia con el precio de la mezcla mexicana en esa
+fecha, se estima un precio promedio de la mezcla mexicana de 19.11 dólares por barril
+para 2001.
+55 BANCO DE MÉXICO
+dólar, mientras que los futuros del peso indican que la paridad será
+de 10.8018 pesos por dólar.
+Gráfica 18  Expectativas de Tipo de Cambio y Futuros del Tipo de Cambio para
+el Cierre de 2001
+Pesos por dólar
+Expectativas de Tipo de Cambio Futuros del Tipo de Cambio
+Cierre 2001 Cierre 2002
+Contrato de Septiembre 2001
+11.00 74 11.00 Contrato de Diciembre 2001
+10.50 10.48 10.49 10.42 10.60 10.53 10.33 10.0910. 10.35 10.18 10.07 4 10.06 1100..2600 CCoonnttrraattoo  ddee  JMuanrioz o2 0200202
+9
+10.00 9.
+66 9.80
+9.50 9. 9.54 9.48 9.40 9.54 9.40
+9.00
+9.00
+O N D E F M A M J J A S E F M A M J J A S
+2000 2001 2001
+ FUENTE:  Bloomberg y Encuesta sobre las Expectativas de los Especialistas en Economía del Sector Privado, Banco de México.
+Los  incrementos  de  los  salarios  contractuales  que  los
+analistas esperan para octubre y noviembre son de 8.43 y 8.13 por
+ciento, respectivamente (Gráfica 19). Cabe destacar que durante
+todo el presente año no se materializó la inflexión a la baja de los
+aumentos de los salarios contractuales esperada por los referidos
+analistas.
+                                                
+18 Este es el precio del futuro al 28 de septiembre; sin embargo, el 15 de octubre el futuro
+del peso al cierre de 2002 se ubicaba en 10.45 pesos por dólar.
+56 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+Gráfica 19 Incrementos Salariales Contractuales
+Variación anual en por ciento
+13
+Incrementos Salariales
+Observados
+8
+12 1. Incrementos Salariales
+3 1 3 Esperados
+1. 1.
+1 1 Media Móvil de 4 Meses
+7
+11 10.4 10.3 10.3 10.4 10. 10.2
+9
+10 9. 7
+9.
+0
+9.
+9
+4
+8.
+1
+8.
+8
+7
+O N D E F M A M J J A S O N
+2000 2001
+FUENTE: Secretaría del Trabajo y Previsión Social. Para octubre y noviembre de 2001 se tomó el dato de los pronósticos del sector
+privado en la Encuesta sobre las Expectativas de los Especialistas en Economía del Sector Privado levantada por el
+Banco de México en septiembre de 2001.
+Los consultores pronostican que el crecimiento anual real
+del PIB en 2001 será de 0.21 por ciento, sensiblemente menor que
+el  reportado  en  junio  (2.07  por  ciento).  Esta  revisión  vino
+acompañada de un aumento considerable en la dispersión de las
+respuestas19. Para todo el año, se pronostican déficit de la balanza
+comercial y de la cuenta corriente menores que los estimados en
+junio, modificándose las estimaciones, respectivamente de 11,359 a
+9,001  millones  de  dólares  y  de  20,866  a  18,413  millones.
+Asimismo,  para  2001  los  consultores  encuestados  estiman  un
+incremento de las exportaciones no petroleras de 0.8 por ciento y
+una disminución de las exportaciones petroleras de 16.2 por ciento.
+Por otra parte, prevén que en 2001 las importaciones aumentarán
+0.9 por ciento. Finalmente, los analistas corrigieron ligeramente su
+pronóstico respecto al flujo de inversión extranjera directa esperado
+para este año, de 17,615 millones de dólares en junio a 17,684
+millones en septiembre.
+El pronóstico relativo al crecimiento real del PIB para
+2002 se ajustó a la baja, de 4.46 por ciento en junio a 2.85 por
+ciento  en  septiembre.    Asimismo,  aumentó  la  dispersión  de  las
+                                                
+19El coeficiente de variación pasó de 0.29 en junio a 1.57 en septiembre de 2001.
+57 BANCO DE MÉXICO
+respuestas20. Por otra parte, para el próximo año se anticipan déficit
+respectivos de la cuenta corriente y de la balanza comercial de
+20,834 y 11,056 millones de dólares. La expectativa relativa al
+flujo anual de inversión extranjera directa pasó de 14,742 millones
+de dólares en junio a 13,885 millones en septiembre.
+Los indicadores relativos al clima de los negocios para las
+actividades productivas del sector privado y del nivel de confianza
+siguieron  mostrando  debilidad.  El  7  por  ciento  de  los  analistas
+expresó  que  durante  el  próximo  semestre  el  ambiente  de  los
+negocios será propicio, 21 por ciento mencionó que se mantendrá
+sin cambio y el resto de los encuestados, 72 por ciento, señaló que
+se deteriorará.
+En  opinión  de  los  especialistas  del  sector  privado,  los
+principales factores capaces de entorpecer la actividad económica
+durante los próximos seis meses son los siguientes: la debilidad de
+los mercados externos y de la economía mundial (28 por ciento de
+las  respuestas);  la  inestabilidad  financiera  internacional  y  la
+incertidumbre política internacional (12 por ciento de las respuestas
+cada una); incertidumbre respecto a la situación de la economía
+nacional y a una posible contracción de la oferta de recursos del
+exterior (8 por ciento de las respuestas cada una); y, por último, la
+disminución del precio de exportación de petróleo y la debilidad
+del mercado interno (7 por ciento de las respuestas cada una).
+IV.1.2.  Pronósticos de Inflación del Sector Privado
+Los  pronósticos  de  la  inflación  mensual  para  octubre,
+noviembre  y  diciembre  de  2001  reportados  en  la  encuesta  de
+septiembre fueron, respectivamente, 0.60, 0.68 y 0.87 por ciento.
+Dichos pronósticos implican que la inflación anual pasará de 6.14
+por ciento en septiembre a 5.64 por ciento en diciembre.
+La  predicción  relativa  a  la  inflación  anual  para  los
+siguientes doce meses se redujo de 6.84 por ciento en junio de 2001
+a 5.72 por ciento en septiembre. La referente al cierre de 2001 se
+modificó  de  6.23  por  ciento  en  junio  a  5.60  por  ciento  en
+septiembre. Bajo el supuesto de que se aprobará la reforma fiscal,
+los consultores estimaron una inflación de 6.55 por ciento para los
+próximos doce meses y de 6.25 por ciento para el cierre de este
+año. La expectativa en cuanto al nivel de la inflación subyacente
+para el cierre del presente año disminuyó de 6.18 por ciento en
+junio a 5.36 por ciento en septiembre. Los consultores anticipan
+                                                
+20El coeficiente de variación aumentó de 0.19 en junio a 0.44 en septiembre de 2001.
+58 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+que la inflación anual al final de 2002 será de 5.24 por ciento,
+menor que la de 5.64 por ciento pronosticada en junio (Gráfica 20).
+Finalmente, la expectativa de la inflación para 2003 es de 4 por
+ciento.21
+Gráfica 20 Evolución de las Expectativas de Inflación
+Variación anual en por ciento
+Cierre de 2001 y Siguientes 12 meses  Cierre de 2002
+8.5 Cierre de 2001 7.0
+8.0 Siguientes doce meses
+7.5 6.5
+7.0
+6.5 6.0
+6.0
+5.5 5.5
+5.0
+4.5 5.0
+O N D E F M A M J J A S N D E F M A M J J A S
+2000 2001 2000 2001
+ FUENTE:  Encuesta sobre las Expectativas de los Especialistas en Economía del Sector Privado, Banco de México.
+                                                
+21Encuesta de Expectativas de Inflación de Infosel Financiero.
+59 BANCO DE MÉXICO
+V.  Balance de Riesgos y Conclusiones
+El desempeño de la economía de México a lo largo de
+2001 ha estado influido principalmente por tres factores:
+(a)  la drástica desaceleración de la economía de los Estados
+Unidos;
+(b)  la disponibilidad y términos del financiamiento externo; y
+(c)  el aumento de los costos unitarios de la mano de obra
+derivado  de  los  elevados  incrementos  de  los  salarios
+contractuales.
+La  notable  caída  que  ha  experimentado  la  actividad
+económica en los Estados Unidos afectó desfavorablemente y de
+manera  inmediata  la  expansión  de  las  exportaciones,  de  la
+inversión  privada  y  del  empleo  en  México.    Asimismo,  vía  la
+incidencia que ha tenido sobre el empleo indujo,  si bien con un
+rezago, una disminución importante del ritmo de crecimiento del
+consumo.    De  esta  manera,  la  demanda  y  la  oferta  internas  se
+acomodaron rápidamente, y de manera ordenada, a la pérdida de
+vigor  de  la  economía  del  principal  socio  comercial  del  país.
+Finalmente, como se menciona en el documento, la reducción que
+registró el crecimiento de la demanda interna es el principal factor
+que explica que la ampliación del déficit de la cuenta corriente
+haya sido significativamente menor que la esperada. Obviamente,
+este fenómeno, a través de su efecto directo sobre los precios y
+también  como  un  elemento  causal  de  la  estabilidad  cambiaria,
+contribuyó  a  las  menores  presiones  inflacionarias  que  se  han
+registrado en 2001.
+El segundo factor que ha condicionado significativamente
+la evolución de la economía en el año ha sido la cuantiosa oferta de
+capitales  del  exterior  observada  en  los  primeros  tres  trimestres.
+Dentro  de  estos  flujos  destacan  nuevamente  los  de  largo  plazo.
+Este fenómeno ha servido para limitar los impactos del entorno
+externo  sobre  los  costos  y  la  disponibilidad  del  financiamiento
+externo para el país y ha contribuido a propiciar la caída de las
+tasas de interés internas y la apreciación del tipo de cambio.
+La desaceleración  económica  y  la  abundante  oferta  de
+capitales han coadyuvado a un entorno favorable para el descenso
+de la inflación.  Ello, debido a que la moderación del crecimiento
+60 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+de la demanda agregada y la amplia oferta de recursos externos,
+limitaron  la  capacidad  de  los  productores  para  trasladar  a  los
+precios  de  los  bienes  no  comerciables  los  aumentos  que  han
+registrado los costos unitarios de la mano de obra.  Asimismo, al
+propiciar la estabilidad del tipo de cambio, los capitales externos
+han  inducido  una  reducción  considerable  de  la  inflación  de  los
+bienes comerciables.
+Por último, los incrementos que han experimentado los
+salarios  contractuales  durante  el  año  han  sido  claramente
+incongruentes con el objetivo de inflación y con las ganancias en la
+productividad de la mano de obra. Ello, sumado a la contracción de
+la demanda externa e interna, ha generado la mayor pérdida de
+empleos  registrada  en  los  primeros  nueve  meses  de  los  últimos
+cinco  años.  Asimismo,  los  aumentos  de  los  costos  unitarios
+laborales han sido un freno para el proceso desinflacionario en el
+sector servicios y han limitado la caída de la inflación general.
+El  comportamiento  de  todos  los  factores  mencionados
+determinará en gran medida la trayectoria de la economía y de los
+precios en México durante los próximos meses. A este respecto,
+cabe  destacar  que  la  evolución  de  la  economía  mundial,  y  en
+particular la de los Estados Unidos, apuntaba ya hacia un periodo
+de debilidad económica más pronunciada aún antes de los ataques
+terroristas del 11 de septiembre. Los atentados confirmaron esta
+percepción e indujeron un aumento en la aversión al riesgo en los
+mercados internacionales de capital, influencia que redundará en un
+incremento del costo y en una disminución de la disponibilidad de
+financiamiento  para  las  economías  emergentes.  Asimismo,  el
+deterioro  de  las  perspectivas  de  crecimiento  para  la  economía
+mundial ha dado lugar a una importante reducción del precio del
+petróleo.  Así,  lamentablemente,  se  han  materializado  los  riesgos
+externos sobre los que el Banco de México alertó en su anterior
+Informe  sobre  la  Inflación:  menor  crecimiento  en  los  Estados
+Unidos, precio del petróleo más bajo y condiciones más estrictas
+del financiamiento externo.
+A  continuación,  se  presentan  los  principales  supuestos
+relativos a la evolución del entorno externo para lo que resta de
+2001 y para 2002 que conforman el escenario base del Banco de
+México:
+(a)  Se  anticipa  que  el  crecimiento  de  la  economía  de  los
+Estados Unidos en 2001 se ubique en alrededor de 1 por
+ciento y que en 2002 se encuentre entre 0.5 y 0.9 por
+ciento. Asimismo, se prevé que en el segundo semestre
+del  año  entrante  tenga  lugar  una  rápida  recuperación,
+61 BANCO DE MÉXICO
+como resultado de las políticas fiscal y monetaria de corte
+expansionista que se han instrumentado en ese país. Cabe
+destacar que, dada la incertidumbre económica y política
+prevaleciente en el mundo, estos supuestos están sujetos a
+un grado de error mayor que el normal. Por otro lado, los
+intervalos referidos no consideran un escenario en el cual
+se  presentaran  nuevos  actos  terroristas  en  los  Estados
+Unidos susceptibles de minar aún más la confianza del
+consumidor y de retrasar la recuperación económica;
+(b)  Con base en la cotización a futuro del precio del petróleo
+WTI y en la brecha entre este precio y el de la mezcla
+mexicana  de  exportación,  se  pronostica  para  2001  un
+precio  promedio  para  dicha  mezcla  alrededor  de  19
+dólares por barril y para 2002 entre 16 y 17 dólares por
+barril;
+(c)  El impacto del deterioro del entorno internacional sobre
+las condiciones de acceso a los mercados financieros se
+seguirá  reflejando  en  un  aumento  del  costo  del
+financiamiento  para  la  gran  mayoría  de  las  empresas
+internacionales y para todos los mercados emergentes; y
+(d)  La  frágil  situación  financiera  por  la  que  atraviesan
+algunas  economías  de  la  región  podría  derivar  en
+desenlaces desordenados con efectos de contagio sobre
+otros países.
+La  mayor  debilidad  del  entorno  internacional  se
+transmitirá  a  la  economía  nacional  a  través  de  varios  canales.
+Destacan entre éstos los siguientes:
+(a)  Disminución  de  las  exportaciones,  de  los  ingresos  por
+turismo y, tal vez, de las remesas de los mexicanos que
+residen en el exterior;
+(b)  Menos  facilidades  para  el  financiamiento  de  la  cuenta
+corriente, tanto por menores flujos de cartera como de
+inversión extranjera directa; y
+(c)  La  agudización  de  la  incertidumbre  llevará  a  que  se
+pospongan  proyectos  de  inversión.  Asimismo,  es
+previsible  que  la  holgura  en  el  mercado  laboral
+eventualmente  induzca  un  más  lento  crecimiento  del
+consumo.
+Con fundamento en lo anterior y en la evolución de los
+indicadores  adelantados  con  los  que  se  cuenta,  se  preparó  un
+62 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+pronóstico  de  la  trayectoria  de  las  principales  variables
+macroeconómicas  para  lo  que  resta  de  2001  y  para  2002.  Los
+principales resultados de este ejercicio de prognosis se presentan a
+continuación:
+(a)  La  información  disponible  hasta  el  momento  de  las
+revisiones a la baja de los pronósticos de expansión para la
+economía de los Estados Unidos, apuntaba a que el PIB de
+México  registraría  en  2001  un  crecimiento  anual  de
+aproximadamente 0.5 por ciento. Sin embargo, el impacto
+del  deterioro  de  las  expectativas  económicas  para  los
+Estados Unidos, de los efectos sectoriales de los atentados
+y de la caída del precio del petróleo sugieren que muy
+probablemente el PIB no crezca en 2001. Por otra parte, se
+espera  que  en  el  año  2002  la  economía  mexicana  se
+expanda a una tasa de aproximadamente 1.5 por ciento. No
+sobra decir que este pronóstico está sujeto a un grado muy
+elevado de incertidumbre, ya que no sólo depende de la
+evolución de la economía mundial y del comportamiento
+de los mercados financieros internacionales, sino también
+de la manera en que la economía nacional responda a esas
+influencias;
+(b)  El  efecto  de  la  modificación  del  entorno  internacional
+sobre la evolución de la inflación interna es incierto. Por
+un lado, el menor crecimiento de la demanda agregada en
+México,  inducido  por  la  desaceleración  global,  podría
+contribuir a debilitar las presiones inflacionarias. Por otro,
+si  bien  la  demanda  agregada  y  las  importaciones  han
+mostrado  un  grado  considerable  de  flexibilidad  para
+acomodarse a la caída de la demanda externa, evitándose
+de esta manera ampliaciones significativas del déficit de
+las cuentas externas, el ajuste ante menores ingresos por
+turismo,  remesas  y  exportaciones  petroleras  podría  no
+darse de manera tan automática, como ha ocurrido ante
+caídas en las exportaciones manufactureras. Ello, debido a
+que  estos  rubros  de  ingreso  no  están  relacionados
+directamente  con  las  importaciones.  En  contraste,  las
+exportaciones  manufactureras  contienen  una  proporción
+significativa de insumos importados. Lo anterior, aunado a
+una  posible  reducción  de  los  flujos  de  capital,  podría
+inducir una mayor volatilidad en el mercado cambiario, lo
+cual  presionaría  a  su  vez  a  los  precios  de  los  bienes
+comerciables.  Asimismo,  los  aumentos  de  los  costos
+unitarios  de  la  mano  de  obra  y  la  rigidez  a  la  baja
+observada  en  la  inflación  subyacente  de  los  servicios
+indican que en ese sector se seguirán gestando presiones
+63 BANCO DE MÉXICO
+inflacionarias incongruentes con el objetivo de inflación
+para 2002;
+Si bien la evolución reciente de la inflación indica que en
+2001 la meta se cumplirá con una alta probabilidad, para
+el año 2002 se vislumbran presiones sobre los precios que
+no hacen aconsejable perseguir activamente condiciones
+monetarias menos restrictivas al menos mientras persista
+la rigidez salarial.  Sin embargo, en un entorno de lento
+crecimiento  económico  y  en  ausencia  de  factores  de
+vulnerabilidad  financiera,  es  muy  probable  que  la
+transmisión a precios de los movimientos cambiarios y de
+los  costos  unitarios  pudiera  ser  más  débil  que  en  el
+pasado; y
+(c)  La desaceleración experimentada en 2001 por la demanda
+agregada es congruente con un déficit anual de la cuenta
+corriente  menor  que  3  por  ciento  del  PIB.  Las
+repercusiones del deterioro del entorno externo sobre las
+exportaciones  y  el  turismo  podrían  redundar  en  una
+ampliación de dicho déficit en 2002, a niveles de alrededor
+de 3 por ciento del producto.
+Cuadro 13 Pronósticos  de  las  Principales  Variables  Macroeconómicas
+para 2002.
+Producto Interno Bruto
+1.5
+   (Crecimiento Anual)
+Consumo Privado
+1.8
+   (Crecimiento Anual)
+Inversión Privada
+3.1
+   (Crecimiento Anual)
+Balanza Comercial
+1.8
+    (Por ciento del PIB)
+Cuenta Corriente
+3.0
+    (Por ciento del PIB)
+Inflación
+4.5
+    (Dic-Dic)
+Precio del Petróleo
+16 - 17
+    (Dls/Barril)
+Economía de los Estados Unidos
+0.7
+    (Crecimiento Anual)
+Pese a la posibilidad de estos efectos desfavorables, es
+pertinente enfatizar que el ciclo económico actual es claramente
+distinto a las crisis financieras y de balanza de pagos ocurridas en
+el  pasado.  La  desaceleración  de  la  economía  nacional  es
+consecuencia  de  un  entorno  mundial  muy  desfavorable  y  no  de
+desequilibrios  internos.    Por  ello,  a  pesar  de  las  grandes
+64 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+perturbaciones a las que ha estado expuesta, la economía mexicana
+no ha experimentado inestabilidad cambiaria, fugas de capital, ni
+aumentos bruscos de las tasas de interés. Por el contrario, se ha
+observado un tipo de cambio estable, niveles elevados de inversión
+extranjera e incluso disminuciones de los réditos. Estos resultados
+se sustentan en gran medida en las fortalezas con que cuenta la
+economía de México. Destacan entre éstas las siguientes:
+-   un régimen de tipo de cambio flexible;
+-   una política fiscal prudente;
+-   una administración de la deuda pública encausada a reducir
+la concentración de las amortizaciones;
+-   una política monetaria orientada al cumplimiento de los
+objetivos de inflación; y
+-   un sistema financiero más sólido.
+A continuación se señalan los principales riesgos externos
+a los que está expuesto el escenario base delineado anteriormente:
+(a)  un menor crecimiento económico en los Estados Unidos; y
+(b)  una drástica caída del precio del petróleo.
+No  obstante,  la  mayoría  de  los  analistas  que  dan
+seguimiento a la economía de los Estados Unidos anticipa que a
+partir del segundo trimestre de 2002 dicha economía empezaría a
+registrar tasas de crecimiento positivas. Empero, la probabilidad de
+que dicho escenario se postergue no es despreciable.
+Ello podría obedecer a que el estímulo fiscal y monetario
+instrumentado por las autoridades de ese país tuviese un efecto
+menor  que  el  previsto  y  que,  por  ende,  la  rápida  recuperación
+esperada para el segundo semestre de 2002 no se materializara. Si
+bien no puede descartarse la posibilidad de que dichos estímulos
+tengan  un  mayor  y  más  rápido  impacto  que  el  supuesto,  todo
+parece indicar que los riesgos están sesgados hacia un crecimiento
+aún menor que el contemplado en el escenario base. Asimismo, de
+ocurrir nuevos atentados terroristas en territorio estadounidense, la
+confianza  del  consumidor  y  el  clima  de  los  negocios  se  verían
+severamente dañados.
+En este contexto, también sería probable que el precio del
+petróleo  experimentase  caídas  adicionales.  De  tener  lugar,  estos
+fenómenos inducirían un crecimiento económico más lento y una
+65 BANCO DE MÉXICO
+menor  creación  de  empleos  en  México.  Como  se  comentó,  el
+impacto de este escenario sobre la inflación sería ambiguo.  Ello,
+debido  a  que  un  crecimiento  económico  más  pausado  estaría
+asociado a un debilitamiento de las presiones inflacionarias. Sin
+embargo,  la  incidencia  desfavorable  sobre  las  exportaciones  y
+sobre la actividad económica en México, también podría propiciar
+una caída de la demanda por activos del país, la cual podría dar
+lugar a una depreciación del tipo de cambio. En la medida en que
+dicha depreciación afectase significativamente la formación de las
+expectativas de inflación, ello requeriría de la aplicación de una
+política monetaria más restrictiva a fin de poder alcanzar las metas
+de inflación propuestas.
+Al  momento  de  publicarse  este  documento,  los
+principales elementos internos de riesgo que podrían dar lugar a la
+modificación del escenario base descrito son:
+(a)  que  un  eventual  rechazo  de  la  reforma  fiscal  o  la
+aprobación  de  una  versión  con  una  menor  capacidad
+recaudatoria que la esperada por los mercados diera lugar
+a un drástico deterioro de las expectativas; y
+(b)  que se ampliara la brecha entre las revisiones salariales
+contractuales y la suma del objetivo de inflación y los
+incrementos previsibles de la productividad de la mano de
+obra.
+La reforma fiscal que en su caso llegue a aprobarse por el
+H.  Congreso  de  la  Unión  deberá  conseguir  tres  finalidades:
+disminuir  la  vulnerabilidad  de  las  finanzas  públicas  ante  los
+ingresos petroleros, incrementar los ingresos públicos y reducir las
+necesidades de financiamiento del Gobierno. Así, dicha reforma
+está  llamada  a  ser  un  coadyuvante  importante  para  que  pueda
+culminar exitosamente el esfuerzo desinflacionario.
+Como  se  ha  reiterado  en  muchas  ocasiones,  la
+incongruencia  entre  las  revisiones  salariales  contractuales  y  la
+suma del objetivo de inflación y las ganancias sostenibles en la
+productividad no sólo es causa de presiones inflacionarias sino que
+también  afecta  negativamente  la  creación  de  empleos  y  las
+utilidades de las empresas.  En el presente año, la menor pérdida de
+empleos ha ocurrido en aquellos sectores en los que las revisiones
+salariales  han  sido  más  moderadas.  Ante  la  desaceleración
+económica  y  la  caída  de  la  demanda  externa,  las  empresas  han
+compensado el aumento de los costos unitarios de la mano de obra
+con recortes de su planta laboral. De ahí la importancia de que se
+alcance la congruencia salarial para defender el empleo y lograr su
+66 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+rápida recuperación en el futuro cercano. De ampliarse la brecha,
+se deterioraría la competitividad de la industria nacional, lo cual
+influiría  negativamente  sobre  el  crecimiento  económico  y  la
+creación de empleos.  En tales circunstancias, con la finalidad de
+hacer  viable  la  consecución  de  los  objetivos  de  inflación  de
+mediano  plazo  y  coadyuvar  a  una  recuperación  más  rápida  del
+empleo, la política monetaria tendría que volverse más restrictiva.
+* * *
+El adverso entorno externo implica que la recuperación
+del crecimiento de las exportaciones y de la economía mexicana en
+general  será  paulatina.  Además,  cuando  esto  ocurra  será  difícil
+esperar que la expansión sea tan vigorosa como la conseguida en
+los últimos dos años. Ello, debido a que no se vislumbra, en un
+futuro  cercano,  que  las  tasas  de  crecimiento  de  la  economía
+estadounidense  regresen  a  sus  elevados  niveles  de  los  pasados
+cinco años.
+La  difícil  coyuntura  por  la  que  está  transitando  la
+economía de México ha llevado a algunos analistas a recomendar
+la  aplicación  de  estímulos  fiscales  y  monetarios.  En  el  ámbito
+monetario,  la  rápida  caída  que  registró  la  inflación  anual  en  el
+transcurso  de  2001  permitió  que  se  diera  una  importante
+disminución  de  las  tasas  de  interés.  Sin  embargo,  en  el  ámbito
+fiscal, la desaceleración económica agravó aún más la debilidad de
+los ingresos del sector público. Por ello, el curso de acción más
+prudente será redoblar los esfuerzos para preservar la disciplina
+fiscal. En este contexto, un déficit fiscal más elevado podría llevar
+a un deterioro de la confianza, a un aumento de las tasas de interés
+y  a  volatilidad  financiera.  Esto  contrasta  con  la  aplicación
+contracíclica de la política fiscal que se ha acordado en los Estados
+Unidos, la cual es posible debido a la posición superavitaria de las
+cuentas públicas de ese país.
+Ante  la  perspectiva  descrita,  es  imperativo  reforzar  los
+elementos internos que permitan a México ampliar su potencial de
+crecimiento:
+(a)  la estabilidad macroeconómica; y
+(b)  el avance en las reformas pendientes.
+Con respecto a la estabilidad macroeconómica, la mejor
+contribución que pueden hacer las políticas fiscal y monetaria, es
+que perseveren en la prudencia que las ha caracterizado hasta la
+67 BANCO DE MÉXICO
+fecha.  Por ello, la Junta de Gobierno del Banco de México ratifica
+el compromiso de alcanzar al cierre del año 2002 una inflación
+menor que 4.5 por ciento y una inflación de 3 por ciento en 2003.
+Asimismo,  resulta  imprescindible  la  aprobación  de  una
+reforma fiscal satisfactoria que fortalezca la solvencia del sector
+público y permita un mayor gasto en salud, educación y programas
+de alivio a la pobreza.
+En el aspecto estructural se necesita avanzar, entre otros
+aspectos prioritarios, en los siguientes:
+(a)  la reforma del sector de energía;
+(b)  la  profundización  del  proceso  de  desregulación
+económica;
+(c)  la promoción del desarrollo del mercado de capitales y el
+logro de tasas más elevadas de ahorro interno; y
+(d)  el estímulo a la inversión en infraestructura, tecnología,
+educación y salud.
+El  avance  en  los  ámbitos  mencionados  permitirá
+incrementar  la  productividad  de  la  economía  nacional.  De  esa
+forma se propiciaría un crecimiento económico más rápido, más y
+mejores empleos y una distribución del ingreso más equitativa.
+Desde la caída del muro de Berlín y hasta la fecha, el
+proceso  de  globalización  de  las  economías  del  mundo  había
+procedido a un ritmo acelerado. Si bien los costos y beneficios del
+mismo  han  sido  objeto  de  amplia  discusión,  se  reconoce  en  lo
+general que ha abierto oportunidades para lograr un mejor nivel de
+vida,  como  ha  ocurrido  en  los  países  del  sudeste  asiático.  Las
+fuerzas que impulsaban dicho proceso y la velocidad a la cual se
+extendía eran aparentemente inexorables.
+Los recientes atentados terroristas han puesto en duda los
+alcances  ulteriores  de  la  globalización.  Es  posible  que  las
+preocupaciones sobre la seguridad nacional a que han dado lugar se
+traduzcan tanto en un mayor control sobre los flujos de mercancías
+y sobre el movimiento de personas provenientes de ciertas regiones
+del mundo, como en un mayor interés por realizar inversiones en
+aquellos lugares donde la percepción de riesgos sea más favorable.
+Lo anterior sugiere que en el futuro el proceso de apertura podría
+replantearse en términos más regionales.
+68 INFORME SOBRE LA INFLACIÓN JULIO-SEPTIEMBRE 2001
+Para aprovechar esta coyuntura, México tiene frente a sí
+la  oportunidad  de  consolidar  su  integración  económica  con  los
+Estados  Unidos  y  Canadá.    Ello  se  lograría  mediante  una
+convergencia  más  amplia  de  las  políticas  macroeconómicas,
+financieras,  laborales,  regulatorias  y  jurídicas,  tal  como  ocurrió
+entre los países de Europa durante la última década. Lo señalado
+podría  conseguirse  sin  perjuicio  de  buscar  una  mayor
+diversificación  de  las  relaciones  comerciales  y  financieras  de
+México con países de otros continentes.
+Además  de  los  económicos,  otros  factores  deben  ser
+tomados en cuenta para que México pueda aprovechar plenamente
+las oportunidades que abren las circunstancias. Entre ellos destaca
+la conveniencia de fortalecer la seguridad colectiva en la zona de
+América del Norte. De lograrse lo anterior México resultaría más
+atractivo como destino de la inversión y del turismo, a la vez que se
+facilitarían  tanto  los  flujos  migratorios  como  la  transferencia  de
+tecnología.
+El  futuro  inmediato  presenta  retos  importantes  a  la
+economía de México. A diferencia del pasado reciente, en el cual el
+entorno  externo  fue  favorable,  hoy  en  día  es  imprescindible
+compensar condiciones mundiales adversas mediante el aumento
+de la competitividad de las empresas mexicanas. Esta aspiración
+sólo  será  realidad  si  se  avanza  decididamente  en  la  agenda  de
+cambio estructural definida por la presente Administración, y en la
+que participa activamente el Congreso, en un ambiente de debate
+democrático y plural. Ese es el camino por el cual se logrará una
+recuperación  más  pronta  y  se  alcanzarán  tasas  de  crecimiento
+elevadas y sostenidas, en un contexto de inflación baja y estable.
+Ambos  son  factores  indispensables  para  mejorar  de  manera
+permanente el bienestar de la población de México.
+69

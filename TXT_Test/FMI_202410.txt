@@ -1,0 +1,2547 @@
+Recalibrar políticas y avanzar con reformas
+OCT
+2024
+PERSPECTIVAS
+ECONÓMICAS
+LAS AMÉRICAS
+FONDO MONETARIO INTERNACIONAL
+LAS AMÉRICAS
+PERSPECTIVAS ECONÓMICAS
+FONDO MONETARIO INTERNACIONAL
+Recalibrar políticas y avanzar con reformas
+OCT
+2024
+©2024 International Monetary Fund
+Edición en español ©2024 Fondo Monetario Internacional
+Cataloging-in-Publication Data
+IMF Library
+Names: International Monetary Fund, publisher.
+Title: Regional economic outlook. Western Hemisphere : Rebalancing policies and pressing on with reforms.
+Other titles: Western Hemisphere : Rebalancing policies and pressing on with reforms. | Rebalancing policies and pressing on with reforms. | Regional economic outlook : Western Hemisphere.
+Description: Washington, DC : International Monetary Fund, 2024. | Oct. 2024. | Includes bibliographical references.
+Identifiers: ISBN
+9798400292774 (edición impresa)
+9798400292798 (edición digital)
+Subjects: LCSH: Economic forecasting—Western Hemisphere. | Economic development—Western Hemisphere. |
+Western Hemisphere—Economic conditions.
+Classification: LCC HC95.R44 2024
+El informe Perspectivas económicas: Las Américas se publica para examinar la evolución económica en América Latina y el Caribe. Tanto las proyecciones como las consideraciones de políticas son las del personal técnico del FMI y no representan necesariamente las opiniones del FMI, su Directorio Ejecutivo o la gerencia del FMI.
+La publicación puede adquirirse en línea, por fax o por correo:
+International Monetary Fund, Publication Services
+P.O. Box 92780, Washington, DC 20090, EE.UU.
+Tel.: +(1) 202.623.7430
+Fax: +(1) 202.623.7201
+publications@IMF.org
+www.IMFbookstore.org
+www.elibrary.IMF.org
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+ii
+Índice
+Agradecimientos..........................................................................................................v
+Grupos de países........................................................................................................vi
+Recalibrar políticas y avanzar con reformas............................................................................1
+Coyuntura económica mundial .......................................................................................1
+Crecimiento mundial estable, pero desinflación lenta...........................................................1
+América Latina y el Caribe: Evolución económica reciente.........................................................2
+Operando cerca del nivel potencial...............................................................................2
+Al margen de las tensiones geopolíticas mundiales.............................................................4
+Inflación dentro de los rangos meta, pero mostrando rigidez..................................................6
+Balances de empresas saludables.................................................................................8
+Perspectivas y riesgos.................................................................................................9
+Desaceleración del crecimiento e inflación persistente.........................................................9
+Riesgos a la baja para el crecimiento, riesgos al alza para la inflación..........................................9
+Perspectivas de crecimiento mediocre a mediano plazo ......................................................11
+Recomendaciones en materia de políticas.........................................................................13
+Consolidación fiscal compatible con crecimiento..............................................................13
+El tramo final del relajamiento de la política monetaria........................................................15
+Avanzar con reformas estructurales para impulsar el crecimiento potencial ................................17
+Resumen del Estudio de referencia 1. Cerrando la brecha: Participación en el mercado laboral
+en América Latina.......................................................................................................31
+Patrones de participación en la fuerza laboral.....................................................................31
+Obstáculos y oportunidades para aumentar la participación....................................................32
+Resumen del Estudio de referencia 2. Dinámica de la deuda pública en América Latina:
+Hora de reconstruir márgenes de maniobra y reforzar marcos fiscales...........................................33
+Comprender la acumulación de deuda............................................................................33
+Perspectivas y vulnerabilidades....................................................................................34
+Notas sobre los países.................................................................................................37
+Referencias..............................................................................................................40
+RECUADROS
+1. América Central, Panamá y la República Dominicana: Convergencia del PIB y diferencias....................22
+2. El Caribe: Fomentar un crecimiento más elevado, sostenible e inclusivo........................................25
+3. Las siete economías principales de América Latina y otros países de América del Sur:
+Análisis de países.....................................................................................................28
+Índice
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+iii
+GRÁFICOS
+Gráfico 1. Coyuntura económica mundial...............................................................................2
+Gráfico 2. Evolución económica reciente...............................................................................3
+Gráfico 3. Estructura del comercio en un contexto de tensiones geopolíticas mundiales..........................5
+Gráfico 4. AL7: Flujos netos de capital...................................................................................6
+Gráfico 5. Inflación........................................................................................................7
+Gráfico 6. AL7: Indicadores de solidez financiera......................................................................8
+Gráfico 7. Riesgos para el crecimiento y la inflación....................................................................9
+Gráfico 8. Crecimiento a mediano plazo..............................................................................12
+Gráfico 9. Política fiscal.................................................................................................14
+Gráfico 10. Política monetaria..........................................................................................16
+Gráfico 11. Clasificación tecnológica de las exportaciones..........................................................17
+Gráfico 12. Tasas de participación en la fuerza laboral por género.................................................18
+Gráfico 13. Reformas estructurales para el crecimiento .............................................................19
+Gráfico del recuadro 1.1. PIB per cápita...............................................................................22
+Gráfico del recuadro 1.2. Convergencia del PIB per cápita y factores contribuyentes............................22
+Gráfico del recuadro 1.3. Consumo per cápita e inversión..........................................................23
+Gráfico del recuadro 1.4. Entradas de IED per cápita y PIB per cápita..............................................23
+Gráfico del recuadro 1.5. Remesas per cápita y PIB per cápita......................................................24
+Gráfico del recuadro 2.1. Crecimiento del PIB real e inflación.......................................................25
+Gráfico del recuadro 2.2. Llegadas de turistas........................................................................25
+Gráfico del recuadro 2.3. Variación de la deuda bruta del gobierno general......................................26
+Gráfico del recuadro 2.4. Crecimiento del PIB real...................................................................26
+Gráfico del Estudio de referencia 1.1. Tasa de participación en la fuerza laboral por género y edad, 2023.....31
+Gráfico del Estudio de referencia 1.2. Motivos declarados de la inactividad.......................................32
+Gráfico del Estudio de referencia 2.1. AL7: Descomposición del cambio en la deuda pública...................33
+Gráfico del Estudio de referencia 2.2. AL7: Evolución de las reglas fiscales........................................34
+CUADROS
+Cuadro 1. América Latina y el Caribe: Crecimiento del PIB real e inflación del final del período.................10
+Cuadro 2. AL7: Prioridades de reforma en favor del crecimiento y reformas en curso ............................20
+Cuadro del apéndice 1. Las Américas: Principales indicadores económicos.......................................35
+Cuadro del apéndice 2. Las Américas: Principales indicadores fiscales............................................36
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+iv
+Agradecimientos
+La edición de octubre de 2024 de Perspectivas económicas: Las Américas fue preparada por Armine Khachatryan, con contribuciones de Lusine Lusinyan, Diego Calderón y Olusegun Akanbi, con la supervisión y orientación de Gustavo Adler y Lusine Lusinyan, y bajo la dirección general de Rodrigo Valdés y Ana Corbacho. Genevieve Lindow brindó un apoyo sobresaliente y coordinó la excelente labor de asistencia en la investigación de Nicolás Gómez Parra, Carlos Guevara y Kenji Moreno.
+Los aportes para los recuadros y anexos en línea fueron proporcionados por Zamid Aligishiev, Francisco Arizala, Bas Bakker, Sophia Chen, Damaris Garza Escamilla, Metodij Hadzi-Vaskov, Spencer Siegel, Ilya Stepanov, Camilo E. Tovar, Hugo Tuesta, Dmitry Vasilyev y los equipos encargados de los países (todo el Departamento del Hemisferio Occidental), Tomohide Mineyama (Departamento de Europa), Oliver Exton, Adam Jakubik, Sergio L. Rodríguez y Lorenzo Rotunno (todo el Departamento de Estrategia, Políticas y Evaluación), y Lorena Corso, Bright Richard Kimuli y Michael Stanger (todo el Departamento de Estadística).
+El informe incluye el contenido de dos estudios de referencia, disponibles en línea. El Estudio de referencia 1, “Cerrando la brecha: Participación en el mercado laboral en América Latina”, fue preparado por Camila Casas (codirectora) y Flavien Moreau (codirector). El Estudio de referencia 2, “Dinámica de la deuda pública en América Latina: Hora de reconstruir márgenes de maniobra y reforzar marcos fiscales”, fue preparado por Juan Treviño (codirector), Juan Passadore (codirector), Santiago Acosta Ormaechea, Luiza Antoun de Almeida, Chao He y Roberto Perrelli. Ambos estudios de referencia fueron preparados con la orientación de Gustavo Adler y Lusine Lusinyan.
+Joan Thangaraj brindó excelente apoyo en las tareas de producción. Cheryl Toksoz, del Departamento de Comunicaciones, contribuyó con una excelente coordinación de las tareas de edición y producción del informe. Las traducciones al español y portugués estuvieron a cargo de Vanesa Demko, Eric Macedo, Carlos Viel, María Celeste Braschi y Emilia Soto Galindo con la revisión de Camila Casas, Juan Passadore, Joana Pereira, Roberto Perrelli y Juan Treviño.
+Este informe refleja la evolución de los acontecimientos y las proyecciones del personal técnico del FMI hasta el 7 de octubre de 2024.
+Agradecimientos
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+v
+Grupos de países
+Grupos de países
+Caribe:
+Países exportadores de materias primas
+(CAREM)
+Caribe: Economías no dependientes del turismo
+(CARNT)
+Caribe: Economías dependientes del turismo
+(CARDT)
+América Central, Panamá y la República Dominicana (CAPRD)
+Unión
+Monetaria del Caribe Oriental (ECCU)
+Siete economías principales de América Latina (AL7)
+Otros países de América del Sur
+(OPAS)
+América
+del Sur
+(AS)
+Guyana
+Suriname
+Trinidad y
+Tabago
+Guyana
+Haití
+Suriname
+Trinidad y
+Tabago
+Antigua y
+Barbuda
+Aruba
+Las Bahamas
+Barbados
+Belice
+Dominica
+Granada
+Jamaica
+Saint Kitts y Nevis
+Santa Lucía
+San Vicente y
+las Granadinas
+Costa Rica
+El Salvador
+Guatemala
+Honduras
+Nicaragua
+Panamá
+República
+Dominicana
+Anguila
+Antigua y
+Barbuda
+Dominica
+Granada
+Montserrat
+Saint Kitts y Nevis
+Santa Lucía
+San Vicente y
+las Granadinas
+Brasil
+Chile
+Colombia
+México
+Paraguay
+Perú
+Uruguay
+Argentina
+Bolivia
+Ecuador
+Venezuela
+Argentina
+Bolivia
+Brasil
+Chile
+Colombia
+Ecuador
+Paraguay
+Perú
+Uruguay
+Venezuela
+Lista de abreviaturas de países
+Antigua y Barbuda
+ATG
+Guyana
+GUY
+Argentina
+ARG
+Haití
+HTI
+Aruba
+ABW
+Honduras
+HND
+Bahamas, Las
+BHS
+Jamaica
+JAM
+Barbados
+BRB
+México
+MEX
+Belice
+BLZ
+Nicaragua
+NIC
+Bolivia
+BOL
+Panamá
+PAN
+Brasil
+BRA
+Paraguay
+PRY
+Canadá
+CAN
+Perú
+PER
+Chile
+CHL
+Puerto Rico
+PRI
+Colombia
+COL
+República Dominicana
+DOM
+Costa Rica
+CRI
+Saint Kitts y Nevis
+KNA
+Dominica
+DMA
+Santa Lucía
+LCA
+Ecuador
+ECU
+San Vicente y las Granadinas
+VCT
+El Salvador
+SLV
+Suriname
+SUR
+Estados Unidos
+USA
+Trinidad y Tabago
+TTO
+Granada
+GRD
+Uruguay
+URY
+Guatemala
+GTM
+Venezuela
+VEN
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+vi
+Recalibrar políticas y avanzar con reformas
+Tras sortear con éxito una serie de shocks, la mayoría de los países de la región están convergiendo hacia su (débil) crecimiento potencial, aunque desde posiciones cíclicas diferentes. La inversión se ha estancado en general, por lo que el crecimiento ha dependido cada vez más del consumo. La inflación ha disminuido considerablemente y, en la mayoría de los países, se encuentra cerca del rango, aunque presenta cierta rigidez producto del dinamismo de los mercados laborales internos.
+Se prevé que el crecimiento se modere a finales de 2024 y en 2025, con riesgos principalmente de deterioro en torno al escenario base. Por otra parte, se proyecta que la inflación continúe su descenso, aunque de forma gradual, y que alcance las metas de los bancos centrales en 2026 en la mayoría de los casos. Los riesgos para la inflación siguen sesgados al alza y se derivan de la estrechez del mercado laboral, la persistente inflación de los servicios, el reanclaje incompleto de las expectativas de inflación y la posibilidad de un relajamiento de la política fiscal.
+Dado que las brechas del producto y la inflación se han cerrado en su mayor parte, pero la política monetaria sigue siendo contractiva y deben fortalecerse las finanzas públicas, es necesario recalibrar la combinación de políticas. La consolidación fiscal, con énfasis en incrementar ingresos, debe avanzar sin demora con la finalidad de reconstruir los márgenes de maniobra, protegiendo al mismo tiempo la inversión pública y el gasto social prioritarios. Esto contribuiría a la normalización de la política monetaria y al afianzamiento de la credibilidad y la resiliencia de los marcos de políticas. La mayoría de los bancos centrales están en condiciones de proceder con la relajación monetaria, balanceando evitar el resurgimiento de presiones sobre los precios y evitar una contracción económica excesiva. Un retorno duradero de la inflación a su nivel meta ayudará, a su vez, a la dinámica de la deuda pública.
+Se prevé que el crecimiento a mediano plazo se mantenga cerca de su promedio histórico bajo, debido a problemas persistentes no resueltos, como la escasa inversión y el bajo crecimiento de la productividad, a lo que se sumará el cambio en la dinámica demográfica. Es preocupante que la agenda de reformas en curso es limitada, lo que podría llevar a un círculo vicioso de bajo crecimiento, descontento social y políticas populistas. Para evitarlo es necesario avanzar con reformas que promuevan todos los motores de crecimiento. Mejorar la gobernanza —mediante el fortalecimiento del Estado de derecho, la mejora de la eficacia del gobierno y la lucha contra la delincuencia— es una prioridad que abarca todos los ámbitos del crecimiento. Para impulsar la acumulación de capital es necesario mejorar el entorno empresarial, fomentar la competencia y promover el comercio internacional. También es necesario ampliar la inversión pública y hacerla más eficaz. Para mantener una fuerza de trabajo dinámica y potenciar la productividad es necesario abordar la informalidad y flexibilizar los mercados laborales formales para que, entre otras cosas, puedan adaptarse a las nuevas tecnologías. El crecimiento de la participación de las mujeres en el mercado de trabajo también puede ayudar a aumentar la fuerza laboral y contrarrestar los cambios demográficos. Las políticas para hacer frente al cambio climático y adoptar la transición energética son cada vez más importantes, aunque para aprovechar los beneficios de esta transformación es necesario fortalecer los marcos de inversión a modo de atraer capital y, al mismo tiempo, aumentar los ingresos provenientes de los recursos naturales para atender las necesidades de inversión social y pública.
+Coyuntura económica mundial
+Crecimiento mundial estable, pero desinflación lenta
+Pese a las expectativas de desaceleración, la coyuntura externa se ha mantenido prácticamente sin cambios desde el año pasado. La economía mundial se expandió 3,3 por ciento en 2023 y se prevé que crezca a un ritmo similar en 2024 y 2025 (gráfico 1, panel 1). En Estados Unidos, se prevé que el crecimiento se mantenga fuerte en 2,8 por ciento
+Recalibrar políticas y avanzar con reformas
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+1
+en 2024 —superando considerablemente las proyecciones de octubre de 2023 (1,5 por ciento)—, pero que se desacelere a 2,2 por ciento en 2025, debido a la moderación del consumo y las exportaciones. En la zona del euro se prevé que, pese a seguir siendo débil, el crecimiento se acelere hasta 0,8 por ciento en 2024 (desde 0,4 por ciento en 2023) —gracias a la mejora de la actividad de los servicios— y que siga aumentando hasta 1,2 por ciento en 2025. Por otra parte, el crecimiento en China ha demostrado ser más resiliente de lo previsto, aunque aún se proyecta que se desacelere de 5,2 por ciento en 2023 a 4,8 por ciento y 4,5 por ciento en 2024 y 2025, respectivamente. Las perspectivas de crecimiento mundial a mediano plazo siguen siendo bajas en comparación con los estándares históricos, con una proyección de crecimiento de la economía mundial de 3,2 por ciento anual entre 2025 y 2029.
+Continúa el proceso de desinflación mundial; en las economías avanzadas (Estados Unidos, zona del euro) la inflación se encuentra actualmente cerca de los objetivos establecidos, ayudada por la desinflación de los precios de los bienes subyacentes, mientras que la inflación de los servicios se mantiene elevada. En un contexto de incipientes señales de debilitamiento del mercado laboral y el inicio del ciclo de relajación por parte de la Reserva Federal de Estados Unidos, los rendimientos a largo plazo en ese país han disminuido recientemente, aunque siguen siendo elevados (gráfico 1, panel 2). Pese a las altas tasas de interés estadounidenses, las condiciones financieras en general se mantienen acomodaticias debido al dinamismo de las valoraciones de las empresas en Estados Unidos. En medio de cierta volatilidad, los precios de las principales materias primas en América Latina y el Caribe (ALC) se han moderado en el último año, lo que ha respaldado el proceso de desinflación, pero a la vez ha reducido el apoyo a la actividad económica en la región (gráfico 1, panel 3).
+América Latina y el Caribe: Evolución económica reciente
+Operando cerca del nivel potencial
+Luego de un fuerte repunte tras la pandemia, el crecimiento de ALC (excluidas Argentina y Venezuela) se ha moderado, de 4,0 por ciento en 2022 a 2,6 por ciento en 2023, y a un ritmo similar a comienzos de 2024, dado que la mayoría de las economías operan ya cerca de su nivel potencial, si bien la
+Índice de condiciones financierasRendimiento de bonos a 10 años (porcentaje; escala derecha)PetróleoCobreMineral de hierroSojaGráfico 1. Coyuntura económica mundialEl crecimiento mundial se ha mantenido estable y la desinflación ha continuado pese a la elevada inflación en servicios.Los rendimientos a largo plazo de Estados Unidos se mantienen elevados, mientras que las condiciones financieras son laxas.Los precios de las principales materias primas se han moderadoFuentes: Bloomberg Finance L.P.; Haver Analytics; FMI, base de datos de Perspectivas de la economía mundial (informe WEO), y cálculos del personal técnico del FMI.Nota: Los agregados son promedios ponderados por el PIB en función de la paridad del poder adquisitivo. ALC = América Latina y el Caribe; IPC = índice de precios al consumidor.1El crecimiento de los socios comerciales está ponderado por las exportaciones.2Muestra de 11 economías avanzadas y 9 economías de mercados emergentes y en desarrollo (que representan aproximadamente el 55 por ciento del producto mundial de 2021).3La metodología y las variables del índice de condiciones financieras pueden consultarse en el Informe sobre la estabilidad financiera mundial (informe GFSR) de octubre de 2018.1. Crecimiento del PIB real e inflación de los socios comerciales de ALCCrecimiento del PIB real1(Variación porcentual interanual)Inflación2(Variación porcentual intertrimestral; anualizada)2. Estados Unidos: Índice de condiciones financieras y rendimientos de los bonos públicos a 10 años3(0 = neutral; +/− = desfavorables/favorables; salvo indicación en contrario)3. Precios de las materias primas deflactadas por el IPC de Estados Unidos(Índice: enero de 2020 = 100; promedio móvil de doce meses)−1,0−0,50,00,51,01,52,001234562020:T120:T321:T121:T322:T122:T323:T123:T324:T124:T3subyacente de bienessubyacente de servicios excl. Estados Unidossubyacente de servicios en Estados Unidos−8−6−4−20246810−2024681012Promedios de 2015–19Ene. 2018Ene. 19Ene. 20Ene. 21Ene. 22Ene. 23Ene. 242017:T118:T119:T120:T121:T122:T123:T124:T15075100125150175Ene.2020Jul.20Ene.21Jul.21Ene.22Jul.22Ene.23Jul.23Ene.24Jul.24
+PERSPECTIVAS ECONÓMICAS: Las Américas
+2
+convergencia se está produciendo desde distintas posiciones cíclicas (gráfico 2, paneles 1 y 2). Dentro de la región, el crecimiento en el grupo de las siete economías principales de América Latina (AL7) se desaceleró de 3,6 por ciento en 2022 a alrededor de 2,4 por ciento en 2023 y 2,0 por ciento en el primer semestre de 2024, aunque con una heterogeneidad notable. En México, el crecimiento se moderó en un contexto de brecha positiva del producto, en parte debido a la débil demanda externa y las políticas restrictivas para combatir la inflación. En Brasil, el crecimiento se mantuvo sólido, con la economía operando por encima de su nivel potencial
+AL7Otros países de América del SurCAPRDCaribe (excl. Guyana)ActualPotencialConsumo privadoInventariosConsumo públicoExportacionesCrecimiento del PIB realConsumo privadoImportacionesMéxicoAL7 (excluido México)2024Mín.-máx. (2000–19)Promedio (2000–19)Salario realProductividadCosto unitario de la mano de obraGráfico 2. Evolución económica recienteEl crecimiento se ha moderado en toda la región… 1. Crecimiento del PIB real1(Variación porcentual interanual)12−12−8−404820192021222324… aunque con cierta heterogeneidad entre países, …2. AL7: PIB real potencial y observado(Índice: 2029 = 100)Brasil, México957075808590201618202224Chile, Colombia201618202224Paraguay, Perú,Uruguay201618202224… y ha estado impulsado principalmente por el consumo interno, …3. AL7: Contribuciones al crecimiento del PIB real2(Variación porcentual interanual; desestacionalizada)… ya que la inversión se ha estancado en general, excepto en México.4. AL7: Formación bruta de capital fijo real(Índice: 2019:T4 = 100)130607080901001101202019:T420:T220:T421:T221:T422:T222:T423:T223:T424:T2El desempleo está en niveles históricamente bajos,…5. Tasa de desempleo(Porcentaje)200481216BrasilChileColombiaMéxicoParaguayPerúUruguay… y los salarios reales han superado la productividad.6. AL7: Salario real, productividad y costo unitariode la mano de obra3(Índice: 2019:T4 = 100)11590951001051102019:T420:T220:T421:T221:T422:T222:T423:T223:T424:T2Fuentes: Haver Analytics; FMI, base de datos Direction of Trade Statistics; FMI, base de datos de Perspectivas de la economía mundial (informe WEO); autoridades nacionales, y cálculos del personal técnico del FMI.Nota: Los agregados son promedios ponderados por el PIB en función de la paridad del poder adquisitivo. AL7 = siete economías principales de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú, Uruguay); CAPRD = América Central, Panamá y la República Dominicana.1Caribe excluye Guyana debido a que sus tasas de crecimiento son muy altas desde finales de 2019, cuando comenzó la producción de petróleo. En 2024, se prevé que el crecimiento de Guyana se acelere a 44 por ciento, debido al aumento de la producción de petróleo.2Inventarios incluye discrepancias estadísticas.3Excluye Paraguay y Uruguay debido a limitaciones en los datos.8−4−202462021:T422:T122:T222:T322:T423:T123:T223:T323:T424:T124:T2
+Recalibrar políticas y avanzar con reformas 3
+como consecuencia principalmente del dinamismo de los mercados laborales y de que las perturbaciones por las inundaciones fueron menores de lo previsto. En Chile y Colombia, el crecimiento se ha afianzado tras la caída que siguió al sobrecalentamiento de la economía, lo que ayudó a cerrar las brechas positivas del producto. En Perú y Uruguay, la actividad económica está repuntando después de que las condiciones climáticas se han normalizado (lluvias excepcionales en Perú y sequías en Uruguay), lo que está contribuyendo a cerrar las brechas negativas del producto. Por otra parte, el crecimiento en Paraguay se mantuvo sólido y continuó con la recuperación tras la sequía de 2022, lo que ayudó a cerrar la brecha negativa del producto.
+En general, el crecimiento de AL7 ha dependido cada vez más del consumo en un contexto de estancamiento de la inversión, excepto en México, y de volúmenes de exportación constantes (gráfico 2, paneles 3 y 4). La resiliencia del consumo se sustenta en el dinamismo del mercado laboral, puesto que el empleo ha vuelto a su tendencia anterior a la pandemia, el desempleo se encuentra en niveles históricamente bajos, especialmente en Brasil y México, y los salarios reales siguen creciendo con fuerza, superando la productividad y contribuyendo a las presiones sobre los precios, particularmente de los servicios (gráfico 2, paneles 5 y 6).
+A principios de 2024, el crecimiento en América Central, Panamá y la República Dominicana (CAPRD) siguió siendo vigoroso, gracias a la solidez del consumo impulsado por las remesas (El Salvador, Guatemala y Honduras) y a la firmeza de las exportaciones (Costa Rica, Panamá y la República Dominicana, recuadro 1)1. Por otra parte, el crecimiento en el Caribe (excluida Guyana) se está desacelerando a medida que el repunte del turismo posterior a la pandemia se disipa tras haber retornado a los niveles previos a la pandemia (recuadro 2).
+Al margen de las tensiones geopolíticas mundiales
+A pesar de las crecientes tensiones geopolíticas mundiales y el aumento de las intervenciones comerciales ”perjudiciales” (distorsionantes del comercio) de las economías sistémicas desde 2017, que incluyen medidas que afectan a las economías de ALC, la estructura de los flujos y las políticas comerciales de la región no han cambiado sustancialmente. Estados Unidos sigue siendo el principal destino de las exportaciones, con una cuota prácticamente invariable de alrededor de la mitad de todas las exportaciones de AL7 (más de 80 por ciento en el caso de México)2. Por otra parte, la cuota de China ha aumentado de aproximadamente 10 por ciento antes de 2017 a alrededor de 15 por ciento en los últimos años (gráfico 3, panel 1), superando el efecto previsto de la creciente importancia de China en la economía mundial y su demanda de materias primas (gráfico 3, panel 2). Sin embargo, este aumento no es un fenómeno nuevo, sino la continuación de una tendencia a largo plazo de creciente intensidad del comercio de la región con China (gráfico 3, panel 3).
+Pese al aumento de las intervenciones comerciales perjudiciales de las economías de importancia sistémica, las medidas de políticas comparables de los países de ALC han sido limitadas (gráfico 3, panel 4), lo que también ha contribuido a que las políticas que distorsionan el comercio sean menos prevalentes en ALC que en otras economías de mercados emergentes o avanzadas3.
+1 Véase también el anexo en línea 1, ”Emigrar pero enviar dinero a casa: El efecto conjunto de la migración y las remesas sobre el crecimiento económico y la fuerza laboral”.
+2 Véase el anexo en línea 2, ”La reubicación de las cadenas mundiales de valor: El papel de México”.
+3 Véase el anexo en línea 3, ”La política industrial en América Latina”.
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+4
+Economías avanzadas de AsiaEMED de EuropaChinaEconomías avanzadas de EuropaALCResto del mundoEMED de AsiaEstados UnidosChinaEstados UnidosEconomías avanzadas de EuropaOtrosPor Estados UnidosPor ChinaPor el resto del mundoChinaEstados UnidosBRACHLCOLMEXPRYPERURYAL7BRACHLCOLMEXPRYPERURYAL7IntroducidaRemovidaPor ALC (que afectan al mundo, netas)Por el mundo (que afectan a ALC, netas) Gráfico 3. Estructura del comercio en un contexto de tensiones geopolíticas mundialesLa estructura del comercio de la región no ha variado sustancialmente pese a las tensiones geopolíticas mundiales, …1. AL7: Cuota en el comercio de mercancías1(Porcentaje de las importaciones/exportaciones mundiales)… aunque el comercio con China ha aumentado más de lo esperado con base en la creciente importancia de China en la economía mundial, …2. Índice de intensidad de las exportaciones2(Puntos)7000100200300400500600… continuando con la tendencia de largo plazo.3. AL7: Índice de intensidad de las exportaciones por socio comercial2(Puntos)035050100150200250300Pese a las medidas comerciales perjudiciales adoptadas por las economías sistémicas, las intervenciones comerciales similares en ALC han sido limitadas.4. Intervenciones comerciales perjudiciales3(Número de intervenciones)−5002.00005001.0001.500Fuentes: Base de datos Global Trade Alert; FMI, base de datos Direction of Trade Statistics; Banco Mundial, Solución Comercial Integrada Mundial, y cálculos del personal técnico del FMI.Nota: En las leyendas de datos se utilizan los códigos de países de la Organización Internacional de Normalización (ISO). AL7 = siete economías principales de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú, Uruguay); ALC = América Latina y el Caribe; EMED = economías de mercados emergentes y en desarrollo.1El promedio de 2018–23 excluye 2020.2El índice de intensidad de las exportaciones, medido como un índice de intensidad comercial basado en la Solución Comercial Integrada Mundial, indica en porcentaje si las exportaciones de un país a un socio comercial son superiores a las exportaciones mundiales destinadas a ese socio comercial. El índice muestra la importancia relativa de un país exportador determinado para un país socio concreto. Un valor superior a 100 indica una relación más intensa con el socio comercial que el promedio mundial. Los agregados son promedios ponderados por el PIB en función de la paridad del poder adquisitivo. 3Incluye las medidas discriminatorias introducidas y eliminadas. Las barras representan intervenciones de Estados Unidos, China y el resto del mundo que afectan a ALC. “Del resto del mundo“ puede incluir medidas de países de ALC que afectan a otros países de ALC. Los datos agregan medidas de políticas únicas para evitar el conteo múltiple en caso de que una intervención afecte a más de un país. Los datos de 2024 están anualizados.Exportaciones de AL7Importaciones de AL72013–172013–172018–232018–230204060801002018–22 (excluido 2020)2013–1701002003004005006007002000020406081012141618202220081012141618202224
+Recalibrar políticas y avanzar con reformas
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+5
+Las tensiones geopolíticas tampoco parecen haber afectado a los flujos de capital hacia América Latina. Estados Unidos y los países avanzados de Europa siguen siendo las principales contrapartes de la inversión extranjera directa (IED), la forma dominante de flujos de capital hacia la región en los últimos años, aunque los datos sobre las inversiones de China en la región son incompletos (gráfico 4).
+En conjunto, las posiciones externas de la región han mejorado en general (tras el deterioro sufrido a raíz de la pandemia), con déficits en cuenta corriente que han caído por debajo de 1 por ciento del PIB y reservas internacionales que se han mantenido en niveles adecuados en la mayoría de los países.
+Inflación dentro de los rangos meta, pero mostrando rigidez
+En consonancia con una actividad económica más moderada, y en línea con otras economías de mercados emergentes, la inflación general y la subyacente han retrocedido en la región desde mediados o finales de 2022 (gráfico 5); la inflación general se ubicó dentro del rango fijado como meta en los últimos meses (excepto en Colombia y México), aunque aún no se sitúa en el punto medio del rango. El proceso de desinflación ha estado impulsado principalmente por la corrección del aumento que se había producido en los precios de los bienes no subyacentes (alimentos y energía) y la apreciación de las monedas nacionales (aunque parte de esta tendencia se ha invertido más recientemente). La inflación subyacente, especialmente la de servicios, se ha mantenido alta en parte debido a un crecimiento salarial aún elevado, en medio del reanclaje todavía incompleto de las expectativas de inflación.
+IEDCarteraOtros flujos económicosGráfico 4. AL7: Flujos netos de capital(Porcentaje del PIB, promedio móvil de cuatro trimestres)La estructura de los flujos de capital, dominadas por la IED, se ha mantenido prácticamente sin cambios.−3−2−1012342019:T119:T320:T120:T321:T121:T322:T122:T323:T123:T324:T1Fuentes: FMI, base de datos de estadísticas de la balanza de pagos; FMI, base de datos de Perspectivas de la economía mundial (informe WEO), y cálculos del personal técnico del FMI.Nota: AL7 = siete economías principales de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú, Uruguay); IED = Inversión extranjera directa.
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+6
+AL7ME AsiaME EuropaBrasilChileColombiaMéxicoParaguayPerúUruguayAL7Bienes subyacentesServicios subyacentesEnergíaAlimentosGeneralÍndice de precios de importación (USD)Tipo de cambioÍndice de precios de importación (ML)IPP internoGráfico 5. InflaciónLa inflación se ha moderado a nivel mundial...1. Inflación general y subyacente(Variación porcentual interanual; línea continua: general;línea discontinua: subyacente)048121620Ene.2020Jul.20Ene.21Jul.21Ene.22Jul.22Ene.23Jul.23Ene.24Jul.24… y en toda la región...2. AL7: Inflación general de precios al consumidor(Desviaciones con respecto a la meta de inflación; puntos porcentuales)Ene.2020Jul.20Ene.21Jul.21Ene.22Jul.22Ene.23Jul.23Ene.24Jul.24−404812… a medida que la inflación de bienes se ha desacelerado…3. AL7: Contribuciones a la inflación general1(Desviación con respecto a la meta de inflación; variación porcentual interanual)−202468Ene.2020Jul.20Ene.21Jul.21Ene.22Jul.22Ene.23Jul.23Ene.24Jul.24… ayudada por la desinflación mundial y, hasta hace poco, por la apreciación de las monedas nacionales.4. AL7: Inflación Importada e inflación de precios de los productores2(Variación porcentual interanual)Jan.2020Jul.20Ene.21Jul.21Ene.22Jul.22Ene.23Jul.23Ene.24Jul.24−30−20−10010203040Fuentes: Haver Analytics; autoridades nacionales, y cálculos del personal técnico del FMI.Nota: Los agregados son promedios ponderados por el PIB en función de la paridad del poder adquisitivo. AL7 = siete economías principales de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú, Uruguay); IPP = inflación de precios de los productores; ME = mercados emergentes; ME Asia = Filipinas, India, Indonesia, Malasia, Tailandia, Vietnam; ME Europa = Hungría, Polonia, Rumanía, Serbia; ML = moneda local.1La inflación de los servicios subyacentes se define como inflación general menos alimentos, energía y bienes subyacentes. AL7 excluye Paraguay y Uruguay debido a limitaciones en los datos.2AL7 excluye Chile y Paraguay debido a limitaciones en los datos.
+Recalibrar políticas y avanzar con reformas
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+7
+Balances de empresas saludables
+Como consecuencia del endurecimiento de la política monetaria para luchar contra la inflación, las condiciones financieras internas se han mantenido restrictivas desde 2022. Sin embargo, los bancos de la región se han mantenido en general líquidos, bien capitalizados y con bajos niveles de préstamos en mora (gráfico 6, panel 1), en un contexto de crecimiento resiliente del crédito, impulsado por los consumidores. Mientras que los indicadores de rentabilidad de los bancos se han mantenido estables en promedio —respaldados por el aumento de los márgenes financieros netos, debido a que las tasas activas han respondido más marcadamente a las tasas de política monetaria que a las tasas pasivas—, la dispersión de los indicadores de rentabilidad se ha ampliado, lo que apunta a posibles focos de debilidad en los balances. En general, la rentabilidad de las empresas se ha mantenido en línea con los niveles previos a la pandemia (gráfico 6, panel 2).
+Gráfico 6. AL7: Indicadores de solidez financiera1. Indicadores financieros de las instituciones de depósito1(Porcentaje)2010121416182. Indicadores financieros de las empresas2(Porcentaje)100020406080701020304050608−2024625−5051015205012342500501001502004012324061218100405060708090Fuentes: Haver Analytics; FMI, base de datos Financial Soundness Indicators; autoridades nacionales, y cálculos del personal técnico del FMI.Nota: AL7 = siete economías principales de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú, Uruguay); CSC = coeficiente de suficiencia de capital; MF = margen financiero sobre ingresos brutos; PM = préstamos en mora; RdA = rendimiento de los activos; RdC = rendimiento del capital.1Las marcas indican los promedios ponderados por el PIB en función de la paridad del poder adquisitivo; los bigotes señalan el rango mínimo-máximo entre los países de AL7. “Liquidez“ se refiere a la relación entre los activos líquidos y los pasivos a corto plazo y no incluye a Chile debido a limitaciones de los datos.2Las marcas indican medianas de empresas de Brasil, Chile, Colombia, México y Perú. Los bigotes denotan el rango entre los percentiles 25 y 75. “Liquidez“ es la relación entre efectivo e inversiones a corto plazo, y los pasivos a corto plazo. “Endeudamiento“ es la relación entre la deuda total y el capital total.Los balances de los bancos se han mantenido sólidos pese a las altas tasas de interés… … al igual que los balances de las empresas.CSCPMLiquidezRdARdCMFEne. 2020Más recienteEne. 2020Más recienteEne. 2020Más recienteEne. 2020Más recienteLiquidezEndeuda-mientoRdARdC2019:T423:T42019:T423:T4Ene. 2020Más recienteEne. 2020Más reciente2019:T423:T42019:T423:T4
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+8
+Perspectivas y riesgos
+Desaceleración del crecimiento e inflación persistente
+Se prevé que el crecimiento en ALC (excluidas Argentina y Venezuela) se modere —de 2,6 por ciento en 2023 y 2024 a 2,2 por ciento en 2025— en un contexto de brechas del producto en su mayoría cerradas y una coyuntura externa prácticamente sin cambios (cuadro 1; recuadro 3). Dentro del grupo AL7, se proyecta que el crecimiento de México se desacelere notoriamente en 2024 y 2025, en parte debido a las limitaciones de capacidad, la consolidación fiscal y el menor crecimiento de Estados Unidos. Se proyecta que el crecimiento de Brasil se mantenga prácticamente sin cambios en 2024, gracias a la fortaleza del consumo, al igual que el de Paraguay, antes de desacelerarse en 2025. Por otra parte, se prevé que el crecimiento de Chile, Colombia, Perú y Uruguay se acelere ligeramente en 2024 y 2025 después del débil crecimiento de 2023. Se prevé que la actividad económica en otras economías de América del Sur (Argentina, Bolivia, Ecuador y Venezuela), como grupo, se contraiga en 2024, pero que repunte significativamente en 2025 en algunos de estos países, debido sobre todo a los importantes esfuerzos de estabilización que están realizando.
+Si bien las economías del Caribe siguen creciendo en general más rápido que el resto de la región, se prevé que se desaceleren en 2024 y 2025, debido a la desaceleración del turismo. Por el contrario, se prevé que el crecimiento en la región de CAPRD siga siendo relativamente sólido, debido a la fortaleza del consumo privado impulsado por las entradas sostenidas de remesas.
+Se proyecta que la inflación en ALC (excluidas Argentina y Venezuela) disminuya gradualmente de 4,7 por ciento a finales de 2023 a 4,3 por ciento y 3,3 por ciento a finales de 2024 y 2025, respectivamente (cuadro 1). Si bien la inflación ya se encuentra dentro del rango de la meta establecida en la mayoría de las economías de AL7, tomará tiempo que alcance la meta —hasta 2026 en la mayor parte de los casos—, en parte debido al efecto rezagado de las políticas restrictivas, el proceso gradual de desinflación mundial y la demora en la normalización de los precios regulados en algunos países. También se proyecta que la inflación se modere en el Caribe, de 8,9 por ciento en 2023 a 6,1 por ciento en 2025, mientras que en CAPRD se prevé que se mantenga baja, y que aumente ligeramente desde su nivel de 2,7 por ciento en 2023 a 3,3 por ciento en 2025.
+Riesgos a la baja para el crecimiento, riesgos al alza para la inflación
+Los riesgos para el crecimiento a corto plazo son en general desfavorables, especialmente en el Caribe, donde predominan los riesgos de deterioro en gran medida debido a la posibilidad de shocks relacionados con el clima y a la desaceleración de la demanda de turismo (gráfico 7). En toda la región, los riesgos externos de deterioro del crecimiento están relacionados principalmente con una contracción mayor que la prevista de la política monetaria estadounidense y una mayor volatilidad de los precios de las materias primas. La incertidumbre en torno a las políticas y las tensiones sociales son los principales riesgos internos de deterioro, ya que
+Inclinados al alzaInclinados a la bajaEquilibradosGráfico 7. Riesgos para el crecimiento y la inflación(Porcentaje de países de ALC)Los riesgos para el crecimiento se inclinan hacia el deterioro, mientras que predominan los riesgos al alza para la inflación, aunque con heterogeneidad entre las subregiones.Fuente: Cálculos del personal técnico del FMI.Nota: AL7 = siete economías principales de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú, Uruguay); ALC = América Latina y el Caribe; CAPRD = América Central, Panamá y la República Dominicana; CARIB = Caribe.CrecimientoInflaciónAL7CAPRDCARIBAL7CAPRDCARIBALCCrecimientoInflación0204060801000201040305060
+Recalibrar políticas y avanzar con reformas
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+9
+Cuadro 1. América Latina y el Caribe: Crecimiento del PIB real e inflación del final del período
+(Variación porcentual interanual)
+Crecimiento del PIB real¹
+Inflación del final del período²
+Proyecciones
+Diferencia con respecto al informe WEO de abril de 2024
+Proyecciones
+Diferencia con respecto al informe WEO de abril de 2024
+2022
+2023
+2024
+2025
+2024
+2025
+2022
+2023
+2024
+2025
+2024
+2025
+América Latina y el Caribe
+4,2
+2,2
+2,1
+2,5
+0,1
+0,0
+14,9
+17,2
+13,2
+6,9
+0,5
+0,4
+AL7
+3,6
+2,4
+2,4
+2,0
+0,2
+0,0
+7,9
+5,0
+4,4
+3,3
+0,6
+0,3
+Otros países de América del Sur
+5,6
+–0,1
+–1,8
+4,0
+–0,6
+0,0
+68,6
+139,1
+95,5
+33,5
+–5,5
+0,0
+CAPRD
+5,4
+4,1
+3,8
+3,8
+–0,1
+0,0
+7,5
+2,7
+3,0
+3,3
+–0,3
+0,0
+Caribe
+13,1
+7,5
+11,9
+5,5
+2,2
+–1,4
+15,5
+8,9
+7,2
+6,1
+0,7
+0,6
+Dependientes del turismo
+9,1
+3,0
+2,8
+2,4
+0,3
+0,3
+7,3
+4,3
+3,5
+3,1
+–0,1
+–0,2
+No dependientes del turismo
+15,4
+10,0
+16,5
+7,1
+2,9
+–2,2
+20,6
+11,5
+9,1
+7,6
+1,0
+0,9
+De las cuales: Exportadores
+de materias primas
+22,7
+14,3
+22,7
+8,7
+3,9
+–2,8
+13,7
+4,8
+3,8
+4,8
+–0,3
+0,0
+Partida informativa
+ALC, excluidas Argentina/Venezuela
+4,0
+2,6
+2,6
+2,2
+0,2
+–0,1
+7,8
+4,7
+4,3
+3,3
+0,6
+0,2
+Fuentes: FMI, base de datos de Perspectivas de la economía mundial (informe WEO), y cálculos del personal técnico del FMI.
+Nota: Diferencia basada en cifras redondeadas correspondientes a los pronósticos de las ediciones de octubre de 2024 y abril de 2024 del informe WEO. Véase la información sobre los grupos de países en la página vi. AL7 = siete economías principales de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú, Uruguay); ALC = América Latina y el Caribe; CAPRD = América Central, Panamá y la República Dominicana; Otros países de América del Sur = Argentina, Bolivia, Ecuador, Venezuela.
+1Los agregados regionales de crecimiento del PIB son promedios ponderados por el PIB en función de la paridad del poder adquisitivo.
+2Inflación del final del período se refiere a la inflación de diciembre a diciembre. Los agregados regionales son promedios geométricos ponderados por el PIB en función de la paridad del poder adquisitivo. Se excluye a Venezuela de todos los agregados de inflación.
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+10
+podrían entorpecer la aplicación de políticas y reformas económicas. Por el lado positivo, un mayor crecimiento de los socios comerciales y una coyuntura mundial más benigna podrían impulsar las exportaciones y las entradas de capital. El repunte de la inversión, debido al mayor interés en los minerales y la energía verde, así como en los proyectos de deslocalización cercana (nearshoring), también puede impulsar el crecimiento.
+Los riesgos para la inflación se inclinan principalmente al alza, aunque con heterogeneidad entre las subregiones, y se derivan de la persistente inflación de los servicios, los mercados laborales aún tensionados y el riesgo de desviaciones fiscales en algunos países. Además, el precio relativo de los bienes subyacentes frente a los servicios aún no ha convergido hacia su tendencia previa a la pandemia, lo que agrava el riesgo de nuevas presiones inflacionarias si el ajuste se produce a través del aumento de los precios de los servicios. La pronunciada apreciación del dólar de EE.UU., el aumento de los precios de las materias primas y el recrudecimiento de las tensiones comerciales mundiales son los principales riesgos externos al alza para la inflación en la región.
+Perspectivas de crecimiento mediocre a mediano plazo
+Pese a la resiliencia a los shocks recientes, las perspectivas de crecimiento a mediano plazo para ALC (excluidas Argentina y Venezuela) siguen siendo débiles, con una expansión proyectada del producto de alrededor de 2½ por ciento anual en los próximos cinco años, en consonancia con el magro promedio histórico de la región, y bajo en comparación con otras economías de mercados emergentes (gráfico 8, panel 1). El ingreso per cápita medio de la región aumentaría solo ligeramente, lo que limitaría los avances en la reducción de la brecha de ingresos con las economías avanzadas (gráfico 8, panel 2). A estas proyecciones subyace el hecho de que el crecimiento potencial de Colombia y Perú ha descendido hacia el promedio regional, debido principalmente a un clima empresarial menos favorable y la mayor incertidumbre en torno a las políticas. Al mismo tiempo, las estimaciones de crecimiento potencial de Brasil se han revisado al alza en vista de los efectos previstos de las reformas estructurales y la aceleración de la producción de hidrocarburos.
+Un factor que subyace a las perspectivas moderadas a mediano plazo de la región es el cambio demográfico; se proyecta que la expansión de la fuerza laboral observada en las últimas décadas —debida al ”dividendo demográfico” del crecimiento de la población y a una proporción creciente de la población en edad de trabajar— se desacelere notablemente y que el aumento de la participación en la fuerza laboral solo compense de forma parcial esta desaceleración (gráfico 8, panel 3; resumen del Estudio de referencia 1).
+Las perspectivas de acumulación de capital también son débiles, ya que se prevé que la inversión siga rondando niveles históricamente bajos —y más bajos que en otras economías de mercados emergentes—, en parte debido a la escasa inversión pública (gráfico 8, panel 4). Por último, pese a la leve mejora en relación con las últimas décadas —gracias a reformas recientes, como la histórica reforma del impuesto sobre el valor agregado en Brasil, y a algunas reformas futuras—, se prevé que el crecimiento de la productividad total de los factores permanezca estancado y bajo en relación con países semejantes (gráfico 8, panel 5), lo que obedece en parte a una mayor concentración de la inversión en los sectores de menor productividad (gráfico 8, panel 6)4.
+4 Véase el anexo en línea 4, “Inversión por actividad económica en América Latina: Subsanar las deficiencias de los datos“.
+Recalibrar políticas y avanzar con reformas
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+11
+Productividad total de los factoresStock de capitalMano de obraCrecimiento del PBI realEstados UnidosAmérica Latina y el CaribeEMED de AsiaEMED de EuropaPoblaciónParticipación en la fuerza laboralFactores demográficosTasa de empleoCrecimiento de la mano de obraAL7ME AsiaME EuropaAL7ME AsiaME EuropaAL7ME AsiaME EuropaAgriculturaIndustrias manufacturerasConstrucciónMinería y extracciónElectricidad, gas y aguaServiciosTotal más MéxicoTotalGráfico 8. Crecimiento a mediano plazo1. Contribuciones al crecimiento del PIB real1(Variación porcentual interanual)2. Producto interno bruto real per cápita(Logaritmos de miles de dólares internacionales,según la PPA de 2017)701234565−101234Fuentes: FMI, base de datos de Perspectivas de la economía mundial (informe WEO); base de datos Penn World Table 10.0; Banco Mundial, base de datos de estimaciones y proyecciones demográficas, y cálculos del personal técnico del FMI.Nota: Los agregados son promedios ponderados por el PIB en función de la paridad del poder adquisitivo. La zona sombreada denota los años de proyección. AL7 = siete economías principales de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú, Uruguay); EMED = economías de mercados emergentes y en desarrollo; ME = mercados emergentes; ME Asia = Filipinas, India, Indonesia, Malasia, Tailandia, Vietnam; ME Europa = Bosnia y Herzegovina, Bulgaria, Hungría, Polonia, Rumanía, Serbia; PPA = paridad del poder adquisitivo.1AL7 excluye Paraguay debido a limitaciones en los datos.2AL7 excluye Uruguay debido a limitaciones en los datos.3Incluye Brasil, Chile, Colombia y Perú. No se muestran los datos de los años correspondientes a la COVID-19 (2020–21). La actividad “construcción” incluye la construcción residencial.3. AL7: Contribuciones al crecimiento de la mano de obra1(Variación porcentual interanual)4. Stock de capital real e inversión públicaCrecimiento del stock de capital real1(Porcentaje)Formación bruta de capital fijo público2(Porcentaje del PIB; promedio móvil de tres años)3−10128024662345El crecimiento de la fuerza laboral se estabilizará con el menor crecimiento poblacional y el fin del "dividendo demográfico”.Las perspectivas de acumulación de capital también son débiles.5. Productividad total de los factores respecto a Estados Unidos1(Porcentaje)6. AL7: Contribuciones al crecimiento de la formación bruta de capital fijo privado por actividad económica3(Variación porcentual interanual)100304050607080906−6−4−2024Se prevé que la productividad total de los factores permanezca estancada, a diferencia de lo que ocurre en países similares…… en parte debido a la concentración de la inversión en los sectores de menor productividad.El crecimiento a mediano plazo se mantendrá débil debido a la baja productividad y la lenta acumulación de capital...... perpetuando la brecha de ingresos de la región con las economías avanzadas.2000–192024–29AL7ME EuropaME AsiaAL7ME EuropaME Asia196065707580859095200005101520252000–0405–0910–1415–1920–2324–29200004081216202428200004081216202428200004081216202428201718192223Antes de la COVID-19 12 PERSPECTIVAS ECONÓMICAS: Las Américas
+Recomendaciones en materia de políticas
+Recalibrar la combinación de políticas —para favorecer el fortalecimiento de las finanzas públicas y la normalización de la política monetaria— contribuiría a reconstruir los márgenes de maniobra y a reforzar la resiliencia macroeconómica. Avanzar con las reformas estructurales será fundamental para elevar el nivel de vida en la región.
+Consolidación fiscal compatible con crecimiento
+Las finanzas públicas de la región, gracias al retiro oportuno del estímulo, resistieron el impacto de la pandemia mejor de lo esperado, pero la deuda pública se mantiene elevada y seguirá aumentando si no se produce una consolidación fiscal adicional (gráfico 9, panel 1). La mayoría de los países tienen planes ambiciosos para fortalecer las finanzas públicas y estabilizar la deuda en sus niveles actuales (gráfico 9, panel 2). Estos planes deben de ejecutarse sin más demoras (gráfico 9, panel 3) y deben estar basados en medidas fiscales previamente identificadas. La consolidación fiscal oportuna respaldará la normalización de la política monetaria y mejorará aún más la credibilidad y la resiliencia de los marcos de políticas, por ejemplo, al reducir las expectativas de inflación y el riesgo país. Para situar decididamente la deuda en una trayectoria descendente serán necesarios esfuerzos mayores y más duraderos, dado el desfavorable diferencial entre las tasas de interés y el crecimiento que enfrenta la región (Estudio de referencia 2).
+Si bien solucionar las ineficiencias del gasto podría ayudar a apuntalar las finanzas públicas, especialmente a corto plazo, una consolidación fiscal exitosa requerirá una movilización de ingresos compatible con el crecimiento —que busque sobre todo mejorar la recaudación del impuesto sobre la renta de las personas físicas—, partiendo de unas tasas impositivas actualmente bajas (gráfico 9, panel 4; FMI, 2021). Estos esfuerzos son fundamentales para proteger la inversión pública que fomenta el crecimiento y el gasto social esencial, al tiempo que se crea espacio fiscal para adelantar el gasto en políticas climáticas y para reducir las tasas relativamente altas del impuesto sobre la renta empresarial en la región.
+En términos más generales, la implementación de las consolidaciones fiscales previstas exigirá una disciplina y unos marcos institucionales más estrictos. Las reglas fiscales y el historial de cumplimiento de la región constituyen la base para lograr los objetivos de consolidación, pero los marcos deben mejorarse para evitar que se repita la acumulación de deuda que se produjo antes de la pandemia bajo el amparo de las reglas fiscales (gráfico 9, paneles 5 y 6). El fortalecimiento del vínculo entre las reglas fiscales más estrictas, las metas operativas y los marcos presupuestarios a mediano plazo, en particular para evitar la relajación frecuente de las metas fiscales, así como la introducción de anclas de deuda, otorgaría más credibilidad a los planes de consolidación y reduciría los elevados costos de financiamiento. Recalibrar políticas y avanzar con reformas
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+13
+ALCAL7Informe WEO de octubre de 2024Informe WEO de octubre de 2023BrasilChileColombiaParaguayPerú2003−132014−19PERBRACOLMEXCHLCAPRDEMEDALCAL5OCDEBRACHLCOLMEXPEREAEMEDBRACHLCOLMEXPERPRYURYEAEMEDGráfico 9. Política fiscalTras el aumento previo a la pandemia, se proyecta que la deuda pública se mantenga elevada, ...1. Deuda bruta del gobierno general1(Porcentaje del PIB)... pese a planes fiscales ambiciosos en comparación con los del pasado y los de economías similares, …2. Balance primario del gobierno general1(Porcentaje del PIB)… y que ya han visto retrasada su implementación.3. AL7: Balance primario estructural del gobierno general1,2(Porcentaje del PIB potencial)La movilización de ingresos fiscales será esencial, ya que los ingresos tributarios se mantienen bajos...4. Recaudación de ingresos tributarios3(Porcentaje del PIB)… y también lo será el fortalecimiento de los marcos fiscales, ya que estos no impidieron la acumulación de deuda…5. Variaciones de la deuda y cumplimiento de las reglas fiscales4 (Eje horizontal: Porcentaje; Eje vertical: Porcentaje del PIB)… debido a la relajación repetida de las metas fiscales.6. Metas fiscales para Reglas de Presupuesto Balanceado5(Porcentaje del PIB)Fuentes: Acosta-Ormaechea, Sola y Yoo (2019); Davoodi et al. (2022); Larch et al. (2023); FMI, base de datos de Perspectivas de la economía mundial (informe WEO); base de datos Tax Revenue Statistics de la OCDE; Ulloa-Suárez y Valencia (2022), y cálculos del personal técnico del FMI.Nota: En las leyendas de los datos del gráfico se utilizan los códigos de país de la Organización Internacional de Normalización (ISO). AL5 = cinco economías principales de América Latina (Brasil, Chile, Colombia, México, Perú); AL7 = siete economías principales de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú, Uruguay); ALC = América Latina y el Caribe (excluidas Argentina y Venezuela); CAPRD = América Central, Panamá y la República Dominicana; CARIB = Caribe; EMED = economías de mercados emergentes y en desarrollo; ME = mercados emergentes; ME Asia = Filipinas, India, Indonesia, Malasia, Tailandia, Vietnam; EA = economías avanzadas; ME Europa = Bosnia y Herzegovina, Bulgaria, Hungría, Polonia, Rumanía, Serbia; OCDE = Organización de Cooperación y Desarrollo Económicos; PPA = paridad del poder adquisitivo.1Los agregados son medianas.2Chile denota el balance primario estructural del gobierno central, excluida la minería. Colombia denota el balance primario estructural del sector público consolidado, excluido el petróleo. Perú denota el balance primario estructural del sector público no financiero.3Véanse los detalles en FMI (2021).4Véase el Estudio de referencia 2. La deuda denota el concepto bruto del gobierno general. Se indica el cumplimiento medio de todas las reglas fiscales de los países de AL7, y en el caso del cumplimiento de las reglas de balance presupuestario se indica para los grupos de EA y EMED. Los agregados son promedios simples.5Indica el objetivo fiscal final establecido para cada año determinado.MEEuropaME AsiaALCAL7CAPRDCARIBURYBRAPERCOLCHLPRYMEX201315171921232527293540455055606570Pandemia202324252627282951525354555PIB real (
+PPA) per cápita, 2017 (
+miles de USD)2005072009111315171930405060708090100Cumplimiento de la regla fiscal−2,0−1,5−1,0−0,50,00,51,01020304050Variación de la deuda−30−20−100102030−4−3−2−1012345Histórico (2013–19)Base (2025–29)−1012−2
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+14
+El tramo final del relajamiento de la política monetaria
+Si bien los bancos centrales de la región han avanzado en el relajamiento de la política monetaria —adelantándose a otros países, en particular Estados Unidos (gráfico 10, panel 1)—, las tasas de política monetaria se han mantenido restrictivas en comparación con episodios de desinflación anteriores (gráfico 10, panel 2), como resultado de los riesgos de inflación que perduran, incluyendo el riesgo a consecuencia de que las expectativas aún no están plenamente ancladas (gráfico 10, panel 3). Además, las actuales tasas de política monetaria se sitúan por encima de los niveles de las estimaciones estándar de la regla de Taylor (gráfico 10, panel 4), reflejando el seguimiento que los bancos centrales hacen de la tasa de política monetaria estadounidense por temor a que la reducción de los diferenciales de tasas de interés afecte a los flujos de capital y las monedas nacionales. Los tipos de cambio no han mostrado efectos direccionales significativos asociados con la actual reducción de los diferenciales, en parte debido a que las expectativas sobre las futuras tasas de política monetaria en la región se han movido en sincronía con las de Estados Unidos, lo que ha moderado las fluctuaciones de los tipos de cambio.
+La incertidumbre en torno a la tasa neutral también condiciona la trayectoria de la política monetaria. Las expectativas del mercado apuntan a que las tasas terminales de este ciclo de relajación serían superiores a los promedios históricos, mientras que las estimaciones de las tasas neutrales también sugieren que aumentarán en el tiempo, aunque esto se asociaría a una mayor incertidumbre en las estimaciones (Calderón, Dhungana y Gales, de próxima publicación) (gráfico 10, paneles 5 y 6). La incertidumbre en torno a las tasas neutrales internas en ALC se ve agravada por la incertidumbre sobre la tasa neutral en Estados Unidos (FMI, 2024), que probablemente afectará a las economías de mercados emergentes (FMI, 2023a), y posiblemente sufrirá presiones al alza debido a la persistencia de grandes déficits fiscales, los aumentos de productividad previstos por la inteligencia artificial, el aumento de las necesidades de inversión en infraestructura y transición energética, y la fragmentación financiera mundial (que podría menguar el flujo de ahorros desde las economías con superávit).
+A pesar de estos factores, con una inflación por lo general dentro del rango fijado como meta, la mayoría de los países deberían continuar la relajación de la política monetaria, sin olvidar mantenerse alerta dada la elevada incertidumbre y los riesgos de inflación al alza. Las medidas de política monetaria futuras deben lograr un equilibrio entre esquivar el riesgo de nuevas presiones sobre los precios (derivadas de mercados laborales aún tensionados, expectativas de inflación aún no plenamente ancladas y desviaciones en los esfuerzos de consolidación fiscal) y evitar una contracción económica excesiva.
+Recalibrar políticas y avanzar con reformas
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+15
+Episodios históricos: inflaciónEpisodios históricos: tasa de política monetariaEpisodio actual: inflaciónEpisodio actual: tasa de política monetariaChileMéxicoPerúEstadosUnidosBrasilColombiaParaguayUruguayRegla de Taylor estándarIncluida la inflación de Estados UnidosIncluidas la inflación y la tasa de política monetaria de Estados UnidosHistóricasAntes de la pandemiaActual (agosto de 2024)Expectativa del mercado para finales de 2025Expectativas del mercado para finales de 2026Gráfico 10. Política monetariaLos bancos centrales han relajado en general su postura…1. Tasas de política monetaria(Nominales; porcentaje)… aunque las tasas de interés reales aún son altas, …2. AL7: Inflación general y tasa real de política monetaria en distintos episodios de inflación1(Puntos porcentuales)… debido en parte a que las expectativas de inflación aún no han vuelto a anclarse por completo…3. AL7: Distribución de las expectativas de inflación a un año de los expertos en pronósticos2(Puntos porcentuales; desviación respecto de la meta de inflación)… y al seguimiento de la tasa de política monetaria de Estados Unidos.4. AL7: Tasas de política monetaria en relación con las predicciones de la regla de Taylor3(Puntos porcentuales; desviación respecto de la predicción de la regla de Taylor)Las expectativas del mercado en torno a las tasas terminales son más elevadas que las vigentes antes de la pandemia…5. Tasas reales ex ante de política monetaria y tasas ”terminales”4(Porcentaje)… al igual que la mayoría de las estimaciones de tasas neutrales.6. Estimaciones de tasas neutrales reales5(Porcentaje)Fuentes: Bloomberg Finance L.P.; Calderon, Dhungana y Wales (de próxima publicación); Consensus Economics; Haver Analytics; FMI, base de datos de Perspectivas de la economía mundial (informe WEO); autoridades nacionales, y cálculos del personal técnico del FMI.Nota: En las leyendas de los datos del gráfico se utilizan los códigos de país de la Organización Internacional de Normalización (ISO). AL7 = siete economías principales de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú, Uruguay).1Inflación es la desviación respecto de la meta de inflación. Se incluye la tasa real ex ante de política monetaria (la diferencia entre las expectativas inflacionarias nominales y a un año). Los episodios históricos se definen como períodos en los que la inflación general sube hasta superar el nivel fijado como meta en 2 puntos porcentuales y retorna hasta menos de 2 puntos porcentuales de la meta en menos de dos años, desde la adopción de regímenes de metas de inflación. Los episodios actuales excluyen Colombia. Los agregados son medianas.2Gráficos de densidad de desviación de los pronósticos de inflación a un año (diciembre a diciembre) con respecto a las metas de inflación de los informes de Consensus Forecasts. 3Desviación mediana de las tasas reales de interés efectivas con respecto a la predicción (regla de política monetaria tipo Taylor). 4Históricas (2001–19) y prepandémicas (2017–19) denotan el promedio de las tasas reales ex ante de política monetaria en los períodos en que la inflación general estaba dentro del rango de 1 punto porcentual en torno a la meta de inflación. Finales de 2025 y finales de 2026 denotan las expectativas del mercado sobre las tasas de interés de política monetaria. Paraguay y Uruguay no se muestran debido a limitaciones de datos.5Los marcadores son los promedios de la muestra de la mediana de las estimaciones de 13 especificaciones del modelo; los bigotes son el rango intercuartílico. Prepandémicas hace referencia al período 2017T1–19T1. Más reciente se refiere a 2023T1–24T2.−4−204628−2−1012345−24−18−6−1201261824Meses desde el nivel máximo de inflación−3−2−101234−2−1003691215Ene.2019Jul.19Ene.20Jul.20Ene.21Jul.21Ene.22Jul.22Ene.23Jul.23Ene.24Jul.24Dic. 22Dic. 23Dic. 18Jun. 23Jun. 24Sep. 2024Jun. 18Dic. 19Jun. 19Dic. 20Jun. 20Dic. 21Jun. 21Jun. 222021:T121:T221:T321:T422:T122:T222:T322:T423:T123:T223:T323:T424:T124:T2Antes dela pandemiaMás recienteBRACHLCOLMEXPRYPERURYBrasilChileColombiaMéxicoPerúAntes dela pandemiaMás recienteAntes dela pandemiaMás recienteAntes dela pandemiaMás recienteAntes dela pandemiaMás recienteAntes dela pandemiaMás recienteAntes dela pandemiaMás reciente02468100123456
+16 PERSPECTIVAS ECONÓMICAS: Las Américas
+Avanzar con reformas estructurales para impulsar el crecimiento potencial
+Dado que las brechas del producto se han cerrado en su mayor parte y que los niveles de inflación están cerca de las metas, la atención de las autoridades debería moverse de políticas cíclicas hacia políticas estructurales destinadas a elevar el crecimiento potencial, que deberían enfocarse en todos los factores que impulsan el crecimiento (capital, mano de obra y productividad). Desafortunadamente, el programa de reformas en curso es reducido. Mejorar la gobernanza es una prioridad clave que abarca todos los ámbitos del crecimiento y encabeza las prioridades de reforma en muchos países de la región (cuadro 2), y comprende fortalecer el Estado de derecho, combatir la corrupción y la delincuencia (FMI, 2023b) e incrementar la eficacia del gobierno.
+Para estimular la acumulación de capital es necesario mejorar el clima empresarial y fomentar la competencia, lo cual comprende reducir la carga administrativa y los costos de entrada para las empresas, mejorar el cumplimiento de los contratos y solucionar los retrasos en el sistema judicial. Promover el comercio internacional y desarrollar sectores de alta tecnología también puede ayudar a incentivar la inversión (y la productividad), dado que existe un amplio margen para aumentar el grado de integración comercial de la región (FMI, 2023c) y para diversificar las economías más allá de las materias primas y los productos de baja tecnología (gráfico 11). Las políticas industriales pueden ser útiles en este sentido, pero deben contar con plazos concretos, deben ser eficaces en función de los costos, transparentes y coherentes con el mantenimiento de la estabilidad macroeconómica, y deben evitar efectos de contagio transfronterizos negativos5. La región también necesita una inversión pública más cuantiosa y eficaz, capaz de catalizar la inversión privada. Para ello es necesario fortalecer la gestión de la inversión pública para garantizar procesos de selección de proyectos más transparentes y competitivos, con mecanismos de financiamiento claros y altos rendimientos económicos y sociales. Para atraer inversiones, también es necesario armonizar las tasas nominales relativamente altas que pagan las empresas con las observadas en otras regiones, siendo conscientes de las implicaciones fiscales (FMI, 2021).
+5 Véase el anexo en línea 3, “La política industrial en América Latina“.
+Alta tecnologíaBaja tecnologíaTecnología mediaPrimarias/basadas en recursosGráfico 11. Clasificación tecnológica de las exportaciones(Porcentaje)Las exportaciones de la región aún se concentran en productos primarios.ME EuropaME AsiaAL72013–172021–222013–172021–222013–172021–22020406080100Fuentes: Banco Mundial, base de datos Solución Comercial Integrada Mundial, y cálculos del personal técnico del FMI.Nota: AL7 = siete economías principales de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú, Uruguay); ME = mercado emergente; ME Asia = Filipinas, India, Indonesia, Malasia, Tailandia, Vietnam; ME Europa = Bosnia y Herzegovina, Bulgaria, Hungría, Polonia, Rumanía, Serbia.
+Recalibrar políticas y avanzar con reformas
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+17
+Por otra parte, para mantener una fuerza laboral dinámica y aumentar la productividad, en particular para mitigar los factores demográficos adversos, es necesario abordar la informalidad y lograr que los mercados laborales sean más flexibles e inclusivos. Esta estrategia debería incluir la revisión de las políticas tributarias y las leyes de protección del empleo a fin de reforzar los incentivos para la formalización de las empresas y los trabajadores y de flexibilizar el mercado laboral para que se adapte a los cambios rápidos, como los derivados de las nuevas tecnologías de la información6. Para esto último también será necesario abordar los desfases en las aptitudes laborales mediante la mejora de la formación vocacional y la educación juvenil. Mejorar la disponibilidad y asequibilidad del cuidado infantil, eliminar las asimetrías en las prestaciones parentales y permitir horarios de trabajo más flexibles aumentaría la participación laboral de las mujeres (gráfico 12), y también puede contribuir a mitigar los factores demográficos adversos sobre la fuerza laboral.
+Mitigar las limitaciones más importantes al crecimiento podría generar aumentos considerables del producto (Budina et al., 2023). Por ejemplo, reducir a la mitad las brechas en reformas estructurales de la región en los ámbitos de la gobernanza, la regulación empresarial y el sector externo —cuyas brechas son algunas de las más altas de la región en relación con los países con mejores prácticas— podría aumentar el producto hasta un 8 por ciento en el corto plazo y un 12 por ciento en el mediano plazo (gráfico 13, paneles 1 y 2).
+Las políticas para gestionar los riesgos relacionados con el cambio climático y aprovechar las oportunidades de la transición verde también son críticas en la coyuntura actual. Las políticas de mitigación pueden aportar beneficios sustanciales para el medio ambiente y la salud, mientras que la inversión en adaptación y el fomento de la innovación en energías verdes podrían generar efectos de contagio positivos en otros sectores de la economía. Las políticas de adaptación también serán clave para limitar las pérdidas económicas derivadas del cambio climático, que podrían ser considerables si no se cumplen los objetivos mundiales de mitigación7.
+Con su riqueza de minerales verdes, la región se encuentra en una posición única para aprovechar las ventajas de la transformación verde mundial, aunque ello requiere fortalecer los marcos de inversión para atraer capital y aumentar los ingresos por recursos naturales para atender las necesidades de inversión pública y social.
+Por último, si bien las reformas son fundamentales para impulsar el crecimiento, el interés por ellas es reducido en la mayoría de los casos, y las perspectivas se ven limitadas por la escasa capacidad de implementación en algunos países. Para avanzar será necesario desarrollar capacidad técnica y consenso en torno a las prioridades, así como prever períodos de transición razonables y mecanismos de compensación que garanticen la aceptabilidad y la durabilidad de la reforma. Para evitar caer en la trampa del bajo crecimiento, el descontento social y las políticas populistas perjudiciales para el crecimiento, los países deben continuar con las reformas.
+6 Véase el anexo en línea 5, “Inteligencia artificial: Riesgos y oportunidades para América Latina y El Caribe“.
+7 Véase el anexo en línea 6, “Pérdidas económicas por fenómenos climáticos de evolución lenta en América Latina y el Caribe“.
+ArgentinaBrasilChileColombiaMéxicoParaguayPerúUruguayGráfico 12. Tasas de participación en la fuerza laboral por género(Porcentaje de la población en edad de trabajar de máximo rendimiento)Pese a los avances, la participación de las mujeres en la fuerza laboral sigue siendo baja.401005060708090Fuentes: ILOSTAT y cálculos del personal técnico del FMI.Nota: Las tasas de participación se basan en la población en edad de trabajar de máximo rendimiento (25–54 años). Se muestran promedios móviles.TotalMujeresHombres200005101520200005101520200005101520
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+18
+AL7Impacto medio para todas las EMEDGráfico 13. Reformas estructurales para el crecimientoEl margen de reforma es amplio en algunas áreas, …1. AL7: Brechas en reformas macroestructurales, 2021–221(Distancia a la frontera de los mercados emergentes; porcentaje)50010203040GobernanzaRegulaciónempresarialMercadolaboralMercadode créditoSectorextermo… y podría producir beneficios considerables.2. Efectos sobre el producto de las reformas de primera generación2(Variación porcentual acumulada)A corto plazoA mediano plazoFuentes: Budina et al. (2023) y cálculos del personal técnico del FMI.Nota: AL7 = siete economías principales de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú, Uruguay); EMED = economías de mercados emergentes y en desarrollo.1Las brechas estructurales se calculan como la desviación de cada ámbito de reforma respecto de su frontera (mejor desempeño en un mismo año). Todos los indicadores de reforma se normalizan entre 0 y 1 en función de la muestra. Gobernanza se refiere a 2022, el resto a 2021. Los marcadores indican las medianas y los bigotes, el rango intercuartílico. 2Reformas de primera generación son aquellas que contribuyen a mitigar las restricciones más críticas a la actividad económica. Efectos de reducir a la mitad las brechas en las reformas de primera generación en relación con la frontera global. Se presentan promedios ponderados por el PIB ajustado en función de la paridad del poder adquisitivo.14024681012
+Recalibrar políticas y avanzar con reformas
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+19
+Cuadro 2. AL7: Prioridades de reforma en favor del crecimiento y reformas en curso
+Primera prioridad
+Segunda prioridad
+Tercera prioridad
+Prioridades de las reformas
+Reformas en curso
+Reformas fiscales estructurales
+Gobernanza y
+seguridad económica
+Reformas del
+mercado laboral
+Reformas de los mercados de productos y crédito
+Liberalización
+del comercio
+Brasil
+•
+Ejecutar la reforma del impuesto al valor agregado y simplificar el sistema tributario
+•
+Reforzar el marco fiscal, sobre la base de la regla fiscal
+•
+Aplicar un plan de transformación ecológica para impulsar el crecimiento verde
+•
+Facilitar la actualización
+de aptitudes
+•
+I
+ncrementar la participación de las mujeres en la fuerza laboral (por ejemplo, aumentar los servicios de guardería, adoptar medidas de transparencia salarial)
+•
+Reducir las barreras arancelarias y no arancelarias al comercio
+•
+Implementación de la reforma del impuesto al valor agregado aprobada en 2023
+Chile
+•
+Reforzar el cumplimiento
+tributario
+•
+Reforzar la gestión de la inversión pública
+•
+Simplificar el proceso de solicitud de permisos de inversión
+•
+Reforzar la seguridad
+•
+Seguir incrementando la participación de las mujeres en la fuerza laboral (por ejemplo, mejorando el servicio de guarderías)
+•
+Fortalecimiento del cumplimiento
+tributario
+•
+Reforma de las pensiones
+•
+Mejora el acceso al servicio de guarderías
+•
+Simplificación del proceso de obtención de permisos de inversión
+Colombia
+•
+Reforzar la aplicación de los marcos jurídicos en materia de gobernanza y transparencia
+•
+Reducir los costos laborales no salariales (contribuciones de empleadores a la seguridad social, impuestos sobre la nómina, indemnizaciones por despido y licencias pagadas)
+•
+Reducir la carga administrativa de las empresas emergentes, flexibilizar las regulaciones para promover la entrada/salida de empresas y la igualdad de condiciones para empresas privadas y públicas
+•
+Eliminar las barreras en los sectores de servicios y redes, así como las barreras al comercio y la inversión
+•
+Facilitar el acceso de las pequeñas y medianas empresas al crédito
+•
+Reducir las barreras no arancelarias al comercio
+•
+Reforzar la infraestructura de comercio
+•
+Reforma de las pensiones
+•
+Reforma tributaria para incentivar las inversiones
+y la transición verde
+•
+Reforma del sistema de salud
+•
+Reducción de la informalidad
+•
+Otorgar mayor remuneración y protección
+a los empleados formales
+México
+•
+Movilizar ingresos no petroleros para financiar necesidades de gasto en infraestructura, salud y educación
+•
+Reforzar la gestión de la inversión pública
+•
+Focalizar mejor los programas de protección social
+•
+Reforzar el Estado de derecho y el control
+de la corrupción
+•
+Mejorar la participación privada en los sectores de agua y energía
+•
+Profundizar el desarrollo y la inclusión financieras
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+20
+Primera prioridad
+Segunda prioridad
+Tercera prioridad
+Prioridades de las reformas
+Reformas en curso
+Reformas fiscales estructurales
+Gobernanza y
+seguridad económica
+Reformas del
+mercado laboral
+Reformas de los mercados de productos y crédito
+Liberalización
+del comercio
+Paraguay
+•
+Reformar las políticas fiscales (impuesto sobre la renta de las personas físicas)
+•
+Introducir reformas institucionales para mejorar la eficiencia de la recaudación de impuestos
+•
+Reforzar la gestión de la inversión pública en el clima y la presupuestación plurianual
+•
+Mejorar la eficacia del gobierno en la prestación de servicios públicos
+•
+Reforzar el control de la corrupción y el Estado de derecho
+•
+Reforzar las prestaciones y explicarlas mejor (atención médica y desempleo) para hacer más atractivo el empleo formal
+•
+Reforzar las políticas de protección del empleo
+•
+Ley de asociaciones público-privadas para incentivar la inversión privada en infraestructura
+•
+Jubilación del sector público
+•
+Marco de inversión de los fondos de pensiones
+•
+Tarifas eléctricas y capacidades operativas/financieras de la empresa pública de electricidad
+•
+Marco para quiebras que agiliza la salida de empresas
+Perú
+•
+Reforzar la gestión de la inversión pública
+•
+Revisar el código tributario para eliminar factores que incentiven la
+informalidad y a las empresas a permanecer
+pequeñas
+•
+Mejorar la cobertura del gasto social y su financiamiento
+•
+Reducir la inestabilidad política y la violencia/terrorismo
+•
+Mejorar la eficacia del gobierno, especialmente a nivel local
+•
+Reforzar el control de la corrupción y la aplicación de la ley
+•
+Liberalizar la protección del empleo
+•
+Reducir los costos laborales no salariales
+•
+Reducir la informalidad laboral
+•
+Modernización el régimen del impuesto sobre la renta de las pequeñas empresas para incentivar
+la formalización
+Uruguay
+•
+Diferenciar la negociación salarial entre los sectores
+•
+Mejorar la educación para mitigar el desfase de aptitudes
+•
+Liberalizar la movilidad laboral y las restricciones migratorias
+•
+Facilitar el acceso al crédito, desarrollar el mercado financiero
+•
+Reducir la propiedad pública (empresas
+estatales)
+•
+Reforzar las políticas y el organismo de competencia
+•
+Eliminar las barreras no arancelarias y mejorar el comercio de servicios no tradicionales dentro del Mercosur
+•
+Mejorar la infraestructura portuaria y la calidad de las vías
+•
+Reducir los aranceles al comercio fuera del Mercosur
+•
+Reforma de la eficiencia del gasto público
+•
+Ajuste de las reglas fiscales
+•
+Continuidad del programa de desdolarización
+•
+Modernización del sistema de pago
+Fuente: Personal técnico del FMI.
+Nota: Para más información sobre los países, véanse los últimos informes del personal técnico sobre las consultas del Artículo IV
+en https://www.imf.org/en/Countries.
+Cuadro 2. (continuación)
+Recalibrar políticas y avanzar con reformas
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+21
+Recuadro 1. América Central, Panamá y la República Dominicana: Convergencia del PIB y diferencias
+En los últimos 25 años, se han observado marcadas diferencias entre los países de América Central, Panamá y la República Dominicana (CAPRD) en la convergencia de su PIB per cápita con el de Estados Unidos (gráfico del recuadro 1.1). Costa Rica, Panamá y la República Dominicana (CPD) experimentaron una rápida convergencia, comparable a la de Asia oriental y Europa central y los países bálticos, mientras que la convergencia del Triángulo Norte (El Salvador, Guatemala y Honduras) y Nicaragua (TNN) fue muy moderada (gráfico del recuadro 1.2, panel 1).
+Estas diferencias no tienen su origen en distintos patrones de creación de empleo, ya que ambas regiones registraron un rápido aumento de sus relaciones empleo/población debido al aumento de la proporción de la población en edad de trabajar y de la participación de la mujer en la fuerza laboral. En su lugar, las diferencias en la convergencia son resultado de las trayectorias divergentes del crecimiento de la productividad de la mano de obra. En CPD, la productividad de la mano de obra aumentó con relación a la de Estados Unidos, mientras que en TNN disminuyó (gráfico del recuadro 1.2, panel 2).
+El autor de este recuadro es Bas Bakker, basado en Bakker (de próxima publicación).
+19972022Gráfico del recuadro 1.1. PIB per cápita(Relación con el PIB per cápita de Estados Unidos)0,00,30,50,20,10,4CRIDOMSLVGTMHNDNICPANFuentes: Banco Mundial, base de datos de Indicadores del desarrollo mundial, y cálculos del personal técnico del FMI.Nota: En las leyendas de los datos del gráfico se utilizan los códigos de país de la Organización Internacional de Normalización (ISO).ECBAOEMED excl. CAPRDCPDTNNECBAOEMED excl. CAPRDCPDTNNGráfico del recuadro 1.2. Convergencia del PIB per cápita y factores contribuyentes(Relación con el PIB de Estados Unidos)1. PIB per cápita en términos de PPA0,00,30,70,50,60,20,10,40,00,30,70,50,60,20,10,4199799200103050709111315171921232. PIB por trabajador19979920010305070911131517192123Fuentes: Banco Mundial, base de datos de Indicadores del desarrollo mundial, y cálculos del personal técnico del FMI.Nota: ALC = América Latina y el Caribe; AO = Asia oriental; CAPRD = América Central, Panamá y la República Dominicana; CPD = Costa Rica, Panamá y la República Dominicana; ECB = Europa central y los países bálticos; PPA = paridad del poder adquisitivo; TNN = Triángulo Norte y Nicaragua.
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+22
+Recuadro 1. (continuación)
+Estas trayectorias divergentes de la productividad están vinculadas a distintos factores impulsores del crecimiento. En TNN, el crecimiento ha estado impulsado principalmente por el consumo, mientras que en CPD las inversiones (y las exportaciones) también han tenido un papel importante. La inversión per cápita en TNN no es mayor ahora de lo que era en la década de 1970, mientras que la inversión per cápita en CPD se ha cuadruplicado (gráfico del recuadro 1.3).
+El contraste entre los dos modelos de crecimiento también es visible en las entradas de la balanza de pagos. CPD registró un fuerte aumento de las entradas de inversión extranjera directa (IED), mientras que las entradas de IED en TNN se mantuvieron estables. Las entradas de IED impulsaron la inversión y trajeron nuevas tecnologías, lo que aumentó la productividad de la mano de obra y el PIB per cápita. Existe una clara relación positiva entre las entradas acumuladas de IED y los niveles de PIB per cápita (gráfico del recuadro 1.4).
+En contraste, las remesas crecieron con más fuerza en TNN, lo que ayudó a respaldar el consumo a pesar del limitado crecimiento del producto per cápita. Por ejemplo, en Honduras, la tasa de crecimiento promedio anual del consumo per cápita entre 1997 y 2022 fue un punto
+InversiónConsumoInversiónConsumoGráfico del recuadro 1.3. Consumo per cápita e inversión(Índice: 1970 = 100)1. Triángulo Norte y Nicaragua02006004005001003000200600400500100300197075808590952000150510202. Costa Rica, Panamá y la República Dominicana19707580859095200015051020Fuentes: Banco Mundial, base de datos de Indicadores del desarrollo mundial, y cálculos del personal técnico del FMI.Nota: Triángulo Norte = El Salvador, Guatemala, Honduras.ALCCPDTNNARGBOLBRACHLCOLECUHTIJAMMEXPRYURYCRIDOMPANGTMHNDNICSLVPERGráfico del recuadro 1.4. Entradas de IED per cápita y PIB per cápita(Miles de dólares de EE.UU.)015211296318PIB per cápita, 20220369121518Entradas acumuladas de IED, 1997–2022 (per cápita en 2022)Fuentes: Banco Mundial, base de datos de Indicadores del desarrollo mundial, y cálculos del personal técnico del FMI.Nota: En las leyendas de los datos del gráfico se utilizan los códigos de país de la Organización Internacional de Normalización (ISO). ALC = América Latina y el Caribe; CPD = Costa Rica, Panamá y la República Dominicana; IED = inversión extranjera directa; TNN = Triángulo Norte y Nicaragua.
+Recalibrar políticas y avanzar con reformas
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+23
+Recuadro 1. (continuación)
+porcentual superior al crecimiento del PIB per cápita y solo ligeramente inferior a la tasa de crecimiento del consumo en Panamá. Del mismo modo, mientras que los niveles del PIB per cápita en Panamá son más de cinco veces superiores a los de Honduras, el consumo per cápita es solo tres veces mayor. Si bien en TNN las remesas impulsaron el consumo, no lo hicieron con el PIB, ya que el aumento de las remesas se tradujo principalmente en mayor consumo y mayores importaciones, en lugar de bienes y servicios producidos en el país. De hecho, mayores remesas no se asocian con un PIB mayor (gráfico del recuadro 1.5); en todo caso, la relación es negativa1. Este vínculo negativo entre las remesas y el crecimiento del PIB probablemente refleja que los mismos factores que impulsan la emigración (alta criminalidad y gobernanza deficiente) también reducen el crecimiento del PIB.
+¿Por qué en CPD recibieron más IED, mientras que en TNN recibieron más remesas? Si bien es posible que la explicación sea polifacética, es probable que tanto la gobernanza como la inseguridad hayan desempeñado un papel importante. Una mejor gobernanza se asocia con mayores entradas de IED, mientras que más delincuencia se asocia con más emigración y remesas. En comparación con CPD, en los últimos 25 años la gobernanza en TNN ha sido más deficiente y la delincuencia mayor (esto último con la notable excepción de Nicaragua). La causalidad también fue en el sentido opuesto: el bajo crecimiento impulsó la emigración y las remesas, mientras que el alto crecimiento indujo más entradas de IED. Para crecer más rápido, TNN necesita atraer más IED, en particular mejorando el clima empresarial, la seguridad y la gobernanza.
+1 El anexo 1 en línea muestra que, si bien las remesas respaldan la actividad económica al impulsar la demanda, solo compensan parcialmente los efectos adversos de la emigración, lo que genera un impacto neto negativo en el crecimiento del producto.
+ALCCPDTNNCRIDOMPANARGBOLBRACHLCOLECUHTIJAMMEXPERPRYURYGTMHNDNICSLVGráfico del recuadro 1.5. Remesas per cápita y PIB per cápita(Miles de dólares de EE.UU.)015211296318PIB per cápita, 2022036912152118Entradas de remesas, 1997–2022 (per cápita en 2022)Fuentes: Banco Mundial, base de datos de Indicadores del desarrollo mundial, y cálculos del personal técnico del FMI.Nota: En las leyendas de los datos del gráfico se utilizan los códigos de país de la Organización Internacional de Normalización (ISO). ALC = América Latina y el Caribe; CPD = Costa Rica, Panamá y la República Dominicana; TNN = Triángulo Norte y Nicaragua.
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+24
+Recuadro 2. El Caribe: Fomentar un crecimiento más elevado, sostenible e inclusivo
+El ímpetu económico en el Caribe se desaceleró en 2023 en comparación con 2022. Se estima que el crecimiento del PIB real de la región (excluida Guyana) fue de 1,4 por ciento en 2023, frente a 4,2 por ciento en 20221. En los países dependientes del turismo, el crecimiento del turismo se desaceleró conforme las llegadas de turistas retornaban a los niveles anteriores a la pandemia, gracias en parte a las medidas tomadas para mejorar la conectividad y ampliar la capacidad hotelera (gráficos del recuadro 2.1 y 2.2). En los países exportadores de materias primas, los factores adversos en el sector de la energía se vieron contrarrestados por los buenos resultados del sector no energético, que se benefició de políticas de apoyo. La inflación se moderó significativamente en 2023—24 en comparación con 2021—22 y, recientemente, ha retornado a los niveles anteriores a la pandemia, debido sobre todo a factores mundiales, como la caída de los precios de las materias primas y el final de los trastornos en las cadenas de suministro. En Haití, sin embargo, el shock de oferta ocasionado por la crisis de seguridad ha generado presiones inflacionarias desde febrero de 2024. Se proyecta que la región (excluida Guyana) crezca 1,1 por ciento en 2024 y 2,2 por ciento en 2025, mientras que se prevé que la inflación se mantenga baja.
+Los autores de este recuadro son Sophia Chen y Camilo E. Tovar, con la colaboración de Spencer Siegel en las tareas de análisis de investigación.
+1 Guyana registró una de las mayores tasas de crecimiento del PIB real del mundo en 2023 (33 por ciento) debido al aumento de la producción de petróleo.
+Exportadores de materias primas (excl. Guyana)Dependientes del turismoTipo de cambio flotante (excl. Guyana)Tipo de cambio fijoGráfico del recuadro 2.1. Crecimiento del PIB real e inflación(Porcentaje)06123920222324Crecimiento del PIB real20222324InflaciónFuentes: FMI, base de datos Perspectivas de la economía mundial (informe WEO), y cálculos del personal técnico del FMI.Nota: Los agregados son promedios ponderados por el PIB en función de la paridad del poder adquisitivo. Para la inflación se indica el promedio anual. Pronósticos del personal técnico del FMI para 2024. Haití es un Estado frágil y afectado por conflictos y no está clasificado como país dependiente del turismo ni como exportador de materias primas. Debido a factores idiosincrásicos, Haití presentó tasas de crecimiento negativas durante el período de análisis.Estadías en el CaribeComparador de estadíasCruceros por el CaribeComparador de crucerosGráfico del recuadro 2.2. Llegadas de turistas(Porcentaje de los niveles de 2019)01251007550175251500125100755017525150Ene. 2020Ene. 21Ene. 22Ene. 23Ene. 24Ene. 2020Ene. 21Ene. 22Ene. 23Ene. 24Fuentes: Banco Central del Caribe Oriental; Organización de Turismo del Caribe; Tourism Analytics; autoridades nacionales, y cálculos del personal técnico del FMI.Nota: La muestra del Caribe incluye Antigua y Barbuda, Aruba, Las Bahamas, Barbados, Belice, Dominica, Granada, Jamaica, Saint Kitts y Nevis, Santa Lucía y San Vicente y las Granadinas. La muestra de comparación incluye Costa Rica, la República Dominicana y México para las llegadas de estadías, y la República Dominicana y México para las llegadas de cruceros.
+Recalibrar políticas y avanzar con reformas
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+25
+Recuadro 2. (continuación)
+Los riesgos para las perspectivas de crecimiento económico continúan siendo desfavorables. Además de los desastres naturales, un riesgo importante para los países dependientes del turismo es la desaceleración económica en los países de origen del turismo. Los países que dependen de los programas de ciudadanía a cambio de inversiones pueden registrar una disminución de los ingresos fiscales —que han respaldado el gasto y la actividad en los últimos años— al ser sometidos a un mayor escrutinio internacional2. En el caso de los países exportadores de materias primas, la volatilidad de los precios de estos productos y la posibilidad de desaceleración mundial podrían crear incertidumbre en la demanda de exportaciones. Sin embargo, los nuevos proyectos energéticos y las reformas estructurales que se están debatiendo pueden ser favorables para las perspectivas a medio plazo. En Haití, un mayor deterioro de la seguridad podría debilitar los recientes esfuerzos para normalizar la actividad económica, encabezados por la implementación de la Misión multinacional de apoyo a la seguridad. La región sigue expuesta a shocks de precios de materias primas, por lo que las presiones inflacionarias podrían reaparecer. La región también sigue siendo sumamente vulnerable al cambio climático y los desastres naturales, como lo demostró el huracán Beryl, que causó muertes y grandes daños materiales a principios de julio, en particular en Granada y San Vicente y las Granadinas (y en menor medida en Barbados y Jamaica). Si bien
+2 Los ingresos derivados de los programas de ciudadanía a cambio de inversiones varían sustancialmente, desde menos de 1 por ciento del PIB en Santa Lucía hasta 30 por ciento en Dominica en 2023.
+Último vs. 20192019–212021–232023–25Gráfico del recuadro 2.3. Variación de la deuda bruta del gobierno general(Puntos porcentuales del PIB)−50−40−30−20−1001020304050JAMGUYBLZATGDMAKNAHTIBRBSURABWTTOLCAGRDVCTBHSFuentes: FMI, base de datos Perspectivas de la economía mundial (informe WEO), y cálculos del personal técnico del FMI. Nota: En las leyendas de los datos del gráfico se utilizan los códigos de país de la Organización Internacional de Normalización (ISO).1980–891990–992010–192020–232024–292000–09Gráfico del recuadro 2.4. Crecimiento del PIB real(Porcentaje; promedio del período)−4−248026Dependientes del turismoExportadores de materias primas (excl. Guyana)Fuentes: FMI, base de datos Perspectivas de la economía mundial (informe WEO), y cálculos del personal técnico del FMI.Nota: Dependientes del turismo incluye Antigua y Barbuda, Aruba, Las Bahamas, Barbados, Belice, Dominica, Granada, Jamaica, Saint Kitts y Nevis, Santa Lucía y San Vicente y las Granadinas. Los exportadores de materias primas incluyen Guyana, Suriname y Trinidad y Tabago.
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+26
+Recuadro 2. (continuación)
+aún se está llevando a cabo una evaluación detallada de la magnitud total de los daños, los informes iniciales indican que los daños y pérdidas en la región pueden superar los USD 500 millones. Los países afectados cuentan con reservas para financiar las necesidades inmediatas de gasto en caso de desastre.
+Pese a los avances realizados, la prioridad fundamental en materia de políticas es seguir reponiendo las reservas fiscales, sin olvidar la protección a los más vulnerables. Se proyecta que la relación deuda pública/PIB continúe disminuyendo en 2024 en la mayor parte de los países, debido principalmente al crecimiento económico y los superávits primarios de varios países. Sin embargo, en muchos países, la deuda se mantiene por encima de los ya elevados niveles de 2019, promediando en estos países 74 por ciento del PIB en 2023 (gráfico del recuadro 2.3). La movilización de ingresos y la mejora de la eficiencia del gasto son fundamentales para la sostenibilidad de la deuda.
+Otra prioridad es lograr un crecimiento mayor y más inclusivo. Las perspectivas de crecimiento moderado a mediano plazo de la región (gráfico del recuadro 2.4) son insuficientes para reducir sustancialmente la tasa de deuda pública y respaldar la convergencia del ingreso. Los niveles de ingreso per cápita del Caribe se han mantenido estancados en alrededor de 40 por ciento del nivel de Estados Unidos desde principios de siglo. Según la evidencia empírica, el bajo crecimiento de la productividad agregada y la insuficiencia de capital humano explican en gran medida este bajo crecimiento potencial. Entre los principales obstáculos para el crecimiento de la productividad se incluyen la asignación ineficiente de los recursos productivos, tanto en el sector de bienes como en el de servicios, y los obstáculos estructurales a la productividad de las empresas, como las cargas regulatorias y la falta de financiamiento. Para fomentar el crecimiento y la inclusión se requieren políticas macroeconómicas sólidas, creíbles y sostenibles que fortalezcan el capital humano, así como medidas para abordar los obstáculos al crecimiento de la productividad. En concreto, es necesario mejorar la asignación de recursos (por ejemplo, reformas de los mercados de productos), ampliar el acceso a servicios financieros (por ejemplo, sistemas de crédito centralizados y reformas del sector financiero para aumentar la competencia), mantener un sector financiero estable y sólido con supervisión y regulación adecuadas, abordar el desempleo estructural y juvenil (por ejemplo, reformas del mercado laboral, programas de educación y capacitación), mejorar la eficiencia de los servicios públicos (por ejemplo, desarrollar infraestructura digital, agilizar el registro de empresas y la administración tributaria), y fomentar la integración dentro y fuera de la región en materia de transporte y comercio.
+Por último, la región ha de acelerar la inversión en resiliencia climática y la transición a la energía verde. Las políticas deben centrarse en integrar las estrategias de adaptación y mitigación en la gestión de la inversión pública, fortalecer las asociaciones público-privadas para la inversión, mejorar la eficiencia de los sistemas energéticos al tiempo que se reduce el consumo interno de combustibles fósiles mediante la electrificación y disminuir la intensidad de carbono de la producción de combustibles fósiles en los países exportadores de materias primas. La movilización de financiamiento privado para el clima y recurrir a financiamiento oficial, incluido el Servicio de Resiliencia y Sostenibilidad del FMI (como han hecho Barbados y Jamaica), pueden ayudar a atender las necesidades de financiamiento externo al catalizar nuevos fondos, incluyendo aquellos provenientes del sector privado.
+Recalibrar políticas y avanzar con reformas
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+27
+Recuadro 3. Las siete economías principales de América Latina y otros países de América del Sur: Análisis de países
+En Argentina, la firme implementación del programa está ayudando a restaurar la estabilidad macroeconómica. En el primer semestre de 2024, las autoridades han logrado un superávit fiscal (el primero en 16 años), han reconstituido las reservas y han reducido la inflación más rápidamente de lo previsto. Están apareciendo signos de estabilización económica, y la actividad económica se expandió a partir de abril, pero el ritmo de recuperación sigue siendo incierto y desigual entre los sectores. Para mantener los avances será necesario que las políticas sigan evolucionando, en particular en los frentes monetario, cambiario y estructural. Con las políticas del escenario base, tras una contracción de alrededor de 3,5 por ciento este año, se proyecta que la economía crezca en torno a 5 por ciento en 2025. Entre tanto, se prevé que la inflación anual termine el año por debajo de 140 por ciento, y que descienda hasta cerca de 45 por ciento para finales de 2025.
+Se proyecta que en Brasil el crecimiento permanezca en un nivel sólido de 3,0 por ciento en 2024, gracias a un consumo privado resiliente —ayudado por transferencias fiscales y el dinamismo de los mercados laborales—, al aumento de la inversión y a disrupciones menos graves de lo previsto a causa de las inundaciones, y que posteriormente se modere a 2,2 por ciento debido a efectos de arrastre estadístico más reducidos, una política monetaria aún restrictiva y el enfriamiento previsto del mercado laboral. A mediano plazo, se prevé que el crecimiento aumente a 2,5 por ciento —lo que supone una revisión al alza de 0,5 por ciento desde la consulta del Artículo IV de 2023—, gracias a factores estructurales favorables, entre ellos la reforma del impuesto al valor agregado, que supone una mejora de la eficiencia, y la aceleración de la producción de hidrocarburos. En vista del crecimiento más fuerte de lo previsto, la tensión del mercado laboral y las expectativas inflacionarias superiores a la meta en Brasil, resulta prudente preservar la flexibilidad con respecto a futuras variaciones de la tasa interés. Es positivo que las autoridades estén comprometidas con mejorar la situación de las finanzas públicas. Para que la deuda entre en una firme trayectoria descendente, el personal técnico del FMI recomienda un esfuerzo fiscal sostenido y más ambicioso.
+La economía de Bolivia enfrenta importantes desafíos. Los graves desequilibrios fiscales y externos —en un contexto de disminución de la producción de gas natural, restricciones al financiamiento externo, la monetización en curso del déficit fiscal y un tipo de cambio sobrevalorado—, han agotado las reservas internacionales. Se prevé que la falta de divisas, la mermada producción agrícola debido al fenómeno de El Niño y las tensiones sociopolíticas provoquen una desaceleración del crecimiento de 3,1 por ciento en 2023 a 1,6 por ciento en 2024. Tras un período prolongado de baja inflación, se prevé que esta alcance el 6 por ciento a finales de 2024 y en un promedio de aproximadamente 4 por ciento de ahí en adelante. Para evitar que la corrección de estos desequilibrios sea más desordenada, será necesario adoptar un plan multianual de consolidación fiscal creíble que contemple la eliminación progresiva de los subsidios a los combustibles, apoyado por el reforzamiento de las redes de protección social, el realineamiento del tipo de cambio y el fomento de un entorno más propicio para la inversión y la creación de empleo impulsadas por el sector privado.
+La economía de Chile va camino de crecer en torno al nivel de su tendencia histórica, pues se han resuelto en gran medida los desequilibrios acumulados durante la pandemia. Las perspectivas a corto plazo también han mejorado gracias a los mayores precios del cobre y el repunte de las exportaciones mineras, con un crecimiento previsto de 2,5 y 2,4 por ciento en 2024 y 2025, respectivamente. La inflación repuntó en el tercer trimestre, y ahora se espera que, debido a factores puntuales, en particular el aumento de las
+Los autores de este recuadro son los equipos encargados de las siete principales economías de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú y Uruguay) y otros países de América del Sur.
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+28
+Recuadro 3. (continuación)
+tarifas de electricidad, la convergencia hacia la meta de 3 por ciento del banco central no se logre hasta el primer semestre de 2026. Debido al crecimiento menor de lo previsto de los ingresos, se requerirán mayores esfuerzos para alcanzar la meta de un déficit fiscal de 1,9 por ciento del PIB en 2024. La política fiscal a mediano plazo sigue debidamente enfocada en lograr una posición fiscal equilibrada a más tardar en 2026, y está orientada por la regla de balance estructural y el ancla de la deuda (45 por ciento del PIB).
+En Colombia, se espera un repunte del crecimiento económico hasta 1,6 por ciento en 2024 y 2,5 por ciento en 2025, a medida que se normalicen las políticas macroeconómicas, mientras que la inflación sigue bajando pese a los factores adversos relacionados con los shocks de oferta y la resiliencia del consumo. Se prevé que la política monetaria se normalice gradualmente, sin dejar de ser restrictiva, para situar la inflación por debajo de 6 por ciento a finales de 2024 y dentro de la banda fijada como meta de 2 por ciento a 4 por ciento a finales de 2025. El personal técnico del FMI recomienda recortes prudentes y más concentrados hacia el final del período con el fin de volver a situar la inflación firmemente en la meta de 3 por ciento durante 2025. La política fiscal se mantiene dentro de los límites de la regla fiscal, pero los aumentos previstos del déficit general y de la deuda plantean riesgos. Niveles de déficit y deuda inferiores a los que requiere la regla fiscal y la reorientación del gasto hacia la inversión salvaguardarían la sostenibilidad fiscal y promoverían el crecimiento potencial.
+En Ecuador, se proyecta que el crecimiento se modere hasta 0,3 por ciento en 2024 y 1,2 por ciento en 2025, debido a los importantes factores adversos para la economía, en particular los derivados de una difícil situación de seguridad y los cortes de electricidad. A mediano plazo, se prevé que el crecimiento aumente gradualmente hasta 2,5 por ciento, a medida que se afiance la estabilidad macroeconómica y se apliquen las reformas en el marco del programa respaldado por el FMI. Se proyecta que la inflación alcance 2,8 por ciento a finales de 2024, impulsada en parte por la subida del impuesto al valor agregado y la reducción de los subsidios a los combustibles, y que baje a 1,7 por ciento en 2025. Se necesita un importante esfuerzo fiscal para sanear las finanzas públicas, al tiempo que se protege a los grupos vulnerables y se preserva el espacio para los gastos prioritarios en seguridad, protección social e inversión pública. Reconstruir las reservas de liquidez sigue siendo fundamental para aumentar la resiliencia.
+En México, tras un pujante crecimiento en 2023, la actividad se ha desacelerado en los últimos trimestres. A pesar de la política fiscal expansiva, se prevé que la desaceleración de las exportaciones a Estados Unidos y la orientación restrictiva de la política monetaria limiten el crecimiento en 2024 a alrededor de 1,5 por ciento. Para 2025 se prevé que la desaceleración continúe hasta 1,3 por ciento, debido al ajuste fiscal previsto y a una coyuntura externa menos favorable. Se prevé que la relajación gradual de la actualmente restrictiva política monetaria, junto con una reducción de la brecha del producto y un menor crecimiento del crédito, ayude a que la inflación vuelva a la meta del Banco de México a finales de 2025. El presupuesto para 2025, previsto para mediados de noviembre, tiene que proveer un plan de consolidación creíble para cumplir las metas fiscales a mediano plazo y mantener la sostenibilidad fiscal.
+Paraguay registró en 2023 una de las cifras de crecimiento económico más elevadas de la región (4,7 por ciento), y las perspectivas a mediano plazo cuentan con el firme respaldo de los grandes proyectos verdes previstos y de dos programas del Fondo Monetario Internacional (el Instrumento de Coordinación de Políticas y el Servicio de Resiliencia y Sostenibilidad). La inflación general cayó de manera pronunciada en 2023 y últimamente se ha estabilizado en torno a la meta del banco central, fijada en 4 por ciento. Aunque el déficit fiscal presupuestario del gobierno central aumentó hasta 4,1 por ciento del PIB en 2023, como resultado del reconocimiento de gastos no registrados durante la pandemia, se está llevando a cabo una consolidación fiscal para que el déficit vuelva a cumplir en 2026 el límite de 1,5 por ciento del PIB estipulado en la Ley de Responsabilidad Fiscal. Recalibrar políticas y avanzar con reformas
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+29
+Recuadro 3. (continuación)
+La deuda pública ha aumentado debido a los recientes shocks externos, pero permanece en un nivel relativamente bajo de alrededor de 40 por ciento del PIB. En julio de 2024, Moody’s mejoró por primera vez la calificación crediticia del país a grado de inversión.
+La economía de Perú se está recuperando, tras contraerse en 2023 debido a la agitación social y los shocks consecutivos relacionados con el clima. Esta recuperación obedece principalmente a la fuerte recuperación de los sectores primarios, una vez disipados los shocks de la oferta. Por el lado de la demanda, el crecimiento se ve impulsado, sobre todo, por la inversión pública, mientras que la recuperación del consumo y la inversión privados es aún modesta, pues la incertidumbre política continúa afectando la confianza. Con la inflación general ya en el punto medio de la banda fijada como meta de 1 por ciento a 3 por ciento, las condiciones permiten una mayor relajación de la política monetaria. Dado el espacio fiscal disponible, se ha pospuesto la consolidación fiscal para evitar poner en peligro la incipiente recuperación, pero se podría mejorar la comunicación sobre la orientación futura de la política fiscal para aumentar la credibilidad, especialmente porque el objetivo revisado de déficit fiscal para 2024 podría no alcanzarse si la recuperación de los ingresos tarda más de lo previsto. A mediano plazo, se necesita una consolidación fiscal para mantener la sostenibilidad fiscal, y es esencial llevar a cabo reformas estructurales para aumentar el crecimiento potencial.
+En Uruguay, se prevé que el crecimiento económico repunte hasta 3,2 por ciento en 2024 y 3 por ciento en 2025, debido a la recuperación tras la peor sequía en un siglo, el aumento de la producción de celulosa, la flexibilización de las condiciones financieras y la normalización de los diferenciales de precios con Argentina. Tras la relajación gradual de la política monetaria y el notable crecimiento de los salarios, se prevé un repunte de la inflación en el segundo semestre de 2024, pero dentro del rango fijado como meta de 3 por ciento a 6 por ciento. El déficit proyectado del sector público no financiero de 3 por ciento del PIB en 2024 permite reducir el déficit salvaguardando a la vez el gasto social. Además, se prevé que la relación deuda/PIB se mantenga estable en términos generales, en consonancia con el objetivo de endeudamiento neto definido en la regla fiscal.
+En Venezuela, se prevé que la economía crezca 3 por ciento en 2024 gracias a la recuperación de la producción de petróleo, aunque la producción propia de PDVSA se ha mantenido relativamente constante. La incertidumbre política ante las elecciones presidenciales ha pesado sobre la demanda interna, que se ha mantenido estable. La inflación se ha desacelerado más rápidamente de lo previsto inicialmente y ahora se proyecta que se sitúe en 60 por ciento a finales de 2024. Dos factores principales explican la desaceleración de la inflación: la estabilidad del tipo de cambio, debido al aumento de las intervenciones cambiarias del banco central, y un aumento moderado del gasto fiscal en vísperas de las elecciones. A pesar de la mejora de las perspectivas en los últimos años que resulta del fin de la hiperinflación y el alivio de las sanciones, el país sigue inmerso en una profunda crisis económica, política y humanitaria, que ha provocado que unos 7,8 millones de personas (25 por ciento de la población) hayan abandonado el país desde 2014.
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+30
+Resumen del Estudio de referencia 1. Cerrando
+la brecha: Participación en el mercado laboral
+en América Latina1
+El crecimiento de la fuerza laboral ha sido un factor fundamental para el crecimiento económico de América Latina en las últimas décadas. Sin embargo, a medida que se desacelere el crecimiento demográfico y la población envejezca, la contribución de los factores demográficos al crecimiento será cada vez menor. Incrementar la participación en la fuerza laboral puede mitigar estos factores demográficos adversos. En este estudio, a partir de microdatos de varias encuestas de hogares de América Latina, se documentan importantes patrones de la participación en el mercado laboral y se identifican grupos demográficos que podrían impulsar la fuerza de trabajo en el futuro. Existe un margen considerable para contrarrestar el cambio demográfico incrementando la participación femenina en la fuerza laboral, pero las responsabilidades domésticas siguen siendo un obstáculo crucial. La aplicación de políticas que mejoren la disponibilidad y asequibilidad de los servicios de guardería, eliminen las asimetrías en las prestaciones parentales y flexibilicen los horarios de trabajo puede atenuar los obstáculos para la participación de las mujeres en la fuerza laboral. Por otro lado, incentivar a las personas mayores para que permanezcan activas más tiempo e integrar más eficazmente a los jóvenes en la fuerza de trabajo puede suponer un impulso adicional para la fuerza laboral.
+Patrones de participación en la fuerza laboral
+América Latina registró un notable aumento de la participación en la fuerza laboral en las décadas anteriores a 2010. Impulsadas por la incorporación de las mujeres a la fuerza laboral, las tasas de participación total pasaron de menos de 60 por ciento en 1951 a alrededor de 80 por ciento en 2010. Sin embargo, considerando que la participación masculina ya se encuentra en niveles relativamente altos, las tasas de participación total en la fuerza laboral de la región están estancadas desde 2010.
+A pesar de los importantes avances logrados a lo largo del tiempo, sigue habiendo disparidades de género en las tasas de participación, y la participación de las mujeres permanece en un nivel relativamente bajo en toda la región. En América Latina, la brecha de género media actual en la participación se acerca a 20 puntos porcentuales, una cifra comparable a la de economías semejantes, pero que duplica a la de las economías avanzadas. Pero ese promedio oculta una gran heterogeneidad en la participación laboral de las mujeres en la edad de máximo rendimiento laboral (25–54 años) entre los países de la muestra, que no llega a 60 por ciento en México y supera 80 por ciento en Uruguay, donde la participación es tan alta como en las economías avanzadas (gráfico del Estudio de referencia 1.1).
+1 Véase la edición de octubre de 2024 de Perspectivas económicas: Las Américas, “Cerrando la brecha: Participación en el mercado laboral en América Latina” (Estudio de referencia 1), preparado por Camila Casas y Flavien Moreau, con el apoyo de Nicolás Gómez Parra y Kenji Moreno, y con la orientación de Gustavo Adler y Lusine Lusinyan.
+ArgentinaBrasilChileColombiaMéxicoParaguayPerúUruguayEconomías avanzadasGráfico del Estudio de referencia 1.1. Tasa de participación en la fuerza laboral por género y edad, 2023(Porcentaje de la población en edad de trabajar)010020406080MujeresHombres20–2425–2930–3435–3940–4445–4950–5455–5960–6420–2425–2930–3435–3940–4445–4950–5455–5960–64Fuentes: ILOSTAT y cálculos del personal técnico del FMI.Nota: Economías avanzadas (EA) es un promedio simple.
+Resumen del Estudio de referencia 1. Cerrando la brecha: Participación en el mercado laboral en América Latina 31
+Las tasas de participación también varían en función del grupo etario. Aunque es de esperar un descenso con la edad, las tasas de participación de las mujeres empiezan a descender a una edad relativamente temprana. Las mujeres de América Latina abandonan la fuerza laboral antes que los hombres, y antes que las mujeres de las economías avanzadas; en algunos casos, lo hacen estando aún en la edad de máximo rendimiento laboral. En el extremo opuesto del espectro de edad, una proporción significativa de los jóvenes, que va de 17 por ciento a 27 por ciento, no estudia, ni trabaja, ni recibe formación, y se explica en gran medida por las mujeres que no ingresan en la fuerza laboral tras concluir sus estudios.
+Obstáculos y oportunidades para aumentar la participación
+Las mujeres enfrentan numerosos obstáculos para participar en la fuerza laboral, pero las responsabilidades domésticas son una razón fundamental para no participar y el principal factor determinante de la brecha de género en la participación (gráfico del Estudio de referencia 1.2), en especial en el caso de las mujeres con menor nivel educativo. Aunque entre esas responsabilidades se encuentran las tareas domésticas y el cuidado de otros familiares, el cuidado de los niños desempeña un papel crucial, pues las brechas de participación se amplían tras la maternidad. Si bien muchas mujeres abandonan la fuerza laboral (en ocasiones permanentemente) en torno al momento de la llegada de su primer hijo, la participación de los hombres apenas se ve afectada. Por lo tanto, las políticas que mejoren la disponibilidad y asequibilidad de los servicios de guardería y que aborden las disparidades en las prestaciones parentales entre hombres y mujeres podrían ayudar a reducir las barreras para algunas mujeres. Contar con modalidades de trabajo más flexibles, que permitan adaptar los esquemas laborales a las necesidades familiares, también facilitaría la participación. Las reformas de los sistemas tributarios que reduzcan la carga fiscal para la segunda persona que contribuye a los ingresos familiares, como la individualización de la tributación y el aumento de la progresividad, pueden reforzar los incentivos a trabajar de las mujeres.
+Más allá del género, estrategias dirigidas a los grupos que están fuera de la edad de máximo rendimiento también pueden incrementar la participación en la fuerza laboral. Aumentar la edad legal de jubilación y generar incentivos para trabajar tras la jubilación, por ejemplo, permitiendo que los trabajadores mejoren su pensión si trabajan más allá de una edad mínima de jubilación, puede impulsar la participación de las personas mayores. En cuanto a los jóvenes, ofrecer formación vocacional u otros programas formativos de ciclo corto puede ayudar a integrar en la fuerza laboral tanto a las personas inactivas como a los desempleados, al dotarlos en poco tiempo de aptitudes para el empleo, con lo que se reducirían los desfases con respecto a las aptitudes requeridas por los empleadores.
+El reloj demográfico sigue corriendo y las economías latinoamericanas deben prepararse mejor para los cambios inminentes. Políticas que hagan más inclusivos los mercados laborales, cerrando las brechas de participación entre géneros y grupos etarios, podrían contribuir sobremanera a aumentar la fuerza laboral y las perspectivas de crecimiento a largo plazo. Reducir las brechas de participación en materia de género hasta niveles comparables a los de las economías avanzadas podría aumentar las tasas de crecimiento anual del PIB alrededor de medio punto porcentual al año, compensando con creces el efecto negativo del cambio demográfico en el crecimiento de varios países de la región.
+Responsabilidades del hogarEstudiantesOtras razonesGráfico del Estudio de referencia 1.2. Motivos declarados de la inactividad(Proporción de la población en edad de trabajar que no forma parte de la fuerza laboral)010020406080ARGBRACHLCOLMEXPERPRYURYARGBRACHLCOLMEXPERPRYURYMujeresHombresFuentes: EPH (INDEC); PNADC (IBGE); ENE (INE); GEIH (DANE); ENOE (INEGI); ENAHO (INEI); ECH (INE), y cálculos del personal técnico del FMI.Nota: Autodeclaración de la población en edad de trabajar que no forma parte de la fuerza laboral. En las leyendas de los datos del gráfico se utilizan los códigos de país de la Organización Internacional de Normalización (ISO).
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+32
+Resumen del Estudio de referencia 2. Dinámica de la deuda pública en América Latina: Hora de reconstruir márgenes de maniobra y reforzar marcos fiscales1
+Comprender los factores que determinan la deuda pública es fundamental para evaluar los riesgos en torno a la sostenibilidad fiscal. En este estudio se analiza la dinámica de la deuda de América Latina en las dos últimas décadas, los factores que explican la acumulación de deuda que precedió a la pandemia y su posible impacto en el futuro. Los factores que determinan la deuda han cambiado de manera sustancial, ya que las fuerzas que la redujeron durante el auge de los precios de las materias primas se invirtieron una vez que este llegó a su fin: el crecimiento se desaceleró y las finanzas públicas se debilitaron notablemente a pesar del cumplimiento de las reglas fiscales. Dado que muchas de estas fuerzas aún prevalecen y que el diferencial entre la tasa de interés y el crecimiento (‘r-g’) es desfavorable, mantener la deuda en una trayectoria sostenible requiere de una estricta disciplina fiscal. Afianzar los marcos fiscales será de suma importancia.
+Comprender la acumulación de deuda
+Los factores que determinan la dinámica de la deuda pública en América Latina han cambiado notablemente en las últimas dos décadas (gráfico del Estudio de referencia 2.1)2. Durante el auge de los precios de las materias primas (2004—13), el endeudamiento se redujo considerablemente (de 45 por ciento a 34 por ciento del PIB), gracias al fuerte crecimiento, los balances fiscales primarios positivos y la apreciación de las monedas nacionales. Sin embargo, en la década posterior al auge (2014—23), estas fuerzas se invirtieron y los superávits primarios se convirtieron en déficits, las monedas se debilitaron y el crecimiento se desaceleró. El resultado fue una acumulación de deuda hasta aproximadamente 47 por ciento del PIB en 2019, a pesar de la prevalencia de reglas fiscales (gráfico del Estudio de referencia 2.2), ya que estas se cumplieron mediante la frecuente modificación y relajamiento de las metas a lo largo del tiempo. El shock de la pandemia incrementó las razones de deuda a PIB hasta cerca de 56 por ciento en 2020, para bajar de nuevo hasta alrededor de 53 por ciento en 2023.
+1 Véase la edición de octubre de 2024 de Perspectivas económicas: Las Américas, ”Dinámica de la deuda pública en América Latina: Hora de reconstruir márgenes de maniobra y reforzar marcos fiscales” (Estudio de referencia 2), preparado por Juan Passadore (codirector), Juan Treviño (codirector), Santiago Acosta Ormaechea, Luiza Antoun de Almeida, Chao He y Roberto Perrelli, con el apoyo de Nicolás Gómez-Parra, Genevieve Lindow y Kenji Moreno, y con la orientación de Gustavo Adler y Lusine Lusinyan.
+2 En este estudio, al hablar de América Latina se hace referencia a Brasil, Chile, Colombia, México, Paraguay, Perú y Uruguay (AL7).
+Crecimiento del PIB realDéficit primarioResiduoTasa de interés realTipo de cambioCambio en ladeuda públicaGráfico del Estudio de referencia 2.1. AL7: Descomposición del cambio en la deuda pública(Promedio anual; Puntos porcentuales del PIB)−53−4−3−2−1012Fuentes: FMI, base de datos Perspectivas de la economía mundial (informe WEO), y cálculos del personal técnico del FMI.Nota: Promedio simple. AL7 = siete economías principales de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú, Uruguay).2004–132014–232024–29
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+33
+Resumen del Estudio de referencia 2. Dinámica de la deuda pública en América Latina
+Perspectivas y vulnerabilidades
+Se proyecta que la deuda pública permanezca en los niveles actuales durante los próximos cinco años, siempre y cuando se apliquen planes ambiciosos de consolidación fiscal, para lo cual será necesario mantener balances primarios considerablemente más elevados que en el pasado y que en otros mercados emergentes, sin dejar de enfrentar un diferencial desfavorable entre la tasa de interés —debido a los altos costos de financiamiento— y el crecimiento económico. La implementación de estos planes de consolidación podría suponer un reto, pues este esfuerzo ya ha sufrido retrasos y se han producido cambios en las metas fiscales dentro de las reglas vigentes, como en el pasado. Además, en algunos casos, los planes de consolidación se basan en medidas aún por determinar.
+Las mejoras en las estrategias de gestión de la deuda durante la última década han contribuido a incrementar el vencimiento promedio y a reducir la proporción en moneda extranjera, reduciendo así la vulnerabilidad de la región ante shocks. No obstante, las finanzas públicas aún son vulnerables a grandes fluctuaciones de los precios de las materias primas y a cambios en las condiciones de financiamiento externo, lo que podría poner en riesgo los esfuerzos actuales para estabilizar las relaciones de deuda a PIB. El aumento de la frecuencia y la intensidad de los desastres naturales también representa un riesgo para las finanzas públicas, que exige una vigilancia atenta y la reconstitución de las reservas fiscales.
+Para asegurar la sostenibilidad de la deuda, es necesario avanzar en la consolidación fiscal sin más demora. Para mejorar la dinámica de la deuda, también es esencial abordar los elevados costos de financiamiento para la región, en particular reforzando los marcos fiscales a mediano plazo a fin de aumentar la credibilidad, junto con un atento seguimiento de los riesgos potenciales. La incorporación de anclas de deuda relevantes —una característica común de las reglas fiscales en otras regiones— también podría ayudar a asegurar que la deuda se mantenga bajo control.
+GastosEquilibrio presupuestarioDeudaGráfico del Estudio de referencia 2.2. AL7: Evolución de las reglas fiscales(Número de reglas)018246810121416Fuentes: Davoodi et al. (2022), y cálculos del personal técnico del FMI.Nota: Cada barra indica el número de países que tienen una regla fiscal determinada (equilibrio presupuestario, deuda, gastos, ingresos). AL7 = siete economías principales de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú, Uruguay).2004060810121416182022
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+34
+Cuadro del apéndice 1. Las Américas: Principales indicadores económicos¹
+Crecimiento del PIB real
+(Variación porcentual interanual)
+Inflación²
+(Fin de período; porcentaje)
+Saldo de la cuenta corriente externa (Porcentaje del PIB)
+Proyecciones
+Proyecciones
+Proyecciones
+2021
+2022
+2023
+2024
+2025
+2021
+2022
+2023
+2024
+2025
+2021
+2022
+2023
+2024
+2025
+América del Norte
+6,0
+2,7
+2,8
+2,5
+2,1
+7,2
+6,6
+3,4
+2,5
+2,1
+–3,2
+–3,5
+–2,9
+–2,9
+–2,8
+Canadá
+5,3
+3,8
+1,2
+1,3
+2,4
+4,7
+6,6
+3,2
+2,0
+1,9
+0,0
+–0,4
+–0,7
+–1,0
+–1,3
+México
+6,0
+3,7
+3,2
+1,5
+1,3
+7,4
+7,8
+4,7
+4,5
+3,2
+–0,3
+–1,2
+–0,3
+–0,7
+–0,9
+Estados Unidos
+6,1
+2,5
+2,9
+2,8
+2,2
+7,4
+6,4
+3,2
+2,3
+1,9
+–3,7
+–3,9
+–3,3
+–3,3
+–3,1
+Puerto Rico3
+0,4
+3,6
+0,6
+1,0
+–0,8
+4,2
+6,1
+1,9
+2,2
+1,6
+…
+…
+…
+…
+…
+América del Sur
+7,5
+4,0
+1,5
+1,8
+2,7
+14,2
+18,4
+24,3
+18,0
+8,7
+–2,3
+–2,6
+–1,4
+–1,2
+–1,3
+Argentina
+10,4
+5,3
+–1,6
+–3,5
+5,0
+50,9
+94,8
+211
+140
+45,0
+1,4
+–0,6
+–3,2
+0,6
+0,6
+Bolivia
+6,1
+3,6
+3,1
+1,6
+2,2
+0,9
+3,1
+2,1
+6,0
+4,0
+3,9
+2,1
+–2,6
+–5,4
+–5,5
+Brasil
+4,8
+3,0
+2,9
+3,0
+2,2
+10,1
+5,8
+4,6
+4,3
+3,3
+–2,4
+–2,1
+–1,0
+–1,7
+–1,8
+Chile
+11,3
+2,1
+0,2
+2,5
+2,4
+7,1
+12,8
+3,9
+4,5
+3,5
+–7,3
+–8,7
+–3,5
+–2,3
+–2,7
+Colombia
+10,8
+7,3
+0,6
+1,6
+2,5
+5,7
+13,2
+9,3
+5,7
+3,5
+–5,6
+–6,1
+–2,5
+–2,5
+–2,6
+Ecuador
+9,8
+6,2
+2,4
+0,3
+1,2
+1,9
+3,7
+1,3
+2,8
+1,7
+2,9
+1,8
+1,9
+2,8
+2,4
+Paraguay
+4,0
+0,2
+4,7
+3,8
+3,8
+6,8
+8,1
+3,7
+4,0
+4,0
+–0,9
+–7,1
+0,3
+–0,6
+–2,5
+Perú
+13,4
+2,7
+–0,6
+3,0
+2,6
+6,4
+8,5
+3,2
+2,4
+2,0
+–2,1
+–4,0
+0,8
+0,3
+–0,1
+Uruguay
+5,6
+4,7
+0,4
+3,2
+3,0
+8,0
+8,3
+5,1
+5,4
+5,3
+–2,5
+–3,9
+–3,8
+–2,7
+–2,6
+Venezuela
+1,0
+8,0
+4,0
+3,0
+3,0
+686
+234
+190
+60,0
+60,1
+–1,2
+3,6
+3,1
+4,1
+3,3
+CAPRD
+11,1
+5,4
+4,1
+3,8
+3,8
+5,1
+7,5
+2,7
+3,0
+3,3
+–1,8
+–2,9
+–1,3
+–1,1
+–1,2
+Costa Rica
+7,9
+4,6
+5,1
+4,0
+3,5
+3,3
+7,9
+–1,8
+0,9
+2,6
+–3,2
+–3,2
+–1,4
+–2,2
+–2,2
+República Dominicana
+12,3
+4,9
+2,4
+5,1
+5,0
+8,5
+7,8
+3,6
+3,7
+4,0
+–2,8
+–5,8
+–3,6
+–3,4
+–3,4
+El Salvador
+11,9
+2,8
+3,5
+3,0
+3,0
+6,1
+7,3
+1,2
+2,0
+1,8
+–4,3
+–6,8
+–1,4
+–2,2
+–2,4
+Guatemala
+8,0
+4,2
+3,5
+3,5
+3,6
+3,1
+9,2
+4,2
+4,0
+4,0
+2,2
+1,3
+3,1
+2,4
+1,8
+Honduras
+12,6
+4,1
+3,6
+3,6
+3,5
+5,3
+9,8
+5,2
+4,7
+4,5
+–5,5
+–6,6
+–3,9
+–5,3
+–5,1
+Nicaragua
+10,3
+3,8
+4,6
+4,0
+3,8
+7,2
+11,6
+5,6
+4,8
+4,0
+–3,8
+–2,4
+7,7
+6,8
+6,1
+Panamá
+15,8
+10,8
+7,3
+2,5
+3,0
+2,6
+2,1
+1,9
+1,3
+2,0
+–1,2
+–0,6
+–4,5
+–0,4
+–0,5
+Caribe
+4,7
+13,1
+7,5
+11,9
+5,5
+9,4
+15,5
+8,9
+7,2
+6,1
+–3,2
+4,8
+2,2
+5,6
+1,7
+El Caribe: Dependientes del turismo
+9,0
+9,1
+3,0
+2,8
+2,4
+5,1
+7,3
+4,3
+3,5
+3,1
+–9,5
+–5,7
+–3,4
+–3,6
+–3,8
+Antigua y Barbuda
+8,2
+9,5
+4,2
+5,8
+3,5
+1,2
+9,2
+3,3
+5,4
+2,0
+–18,0
+–15,9
+–12,8
+–10,5
+–9,8
+Aruba
+27,6
+10,5
+5,3
+5,5
+2,0
+3,6
+5,7
+2,3
+2,7
+2,1
+–2,1
+6,0
+4,8
+6,2
+5,8
+Las Bahamas
+15,4
+10,8
+2,6
+1,9
+1,7
+4,1
+5,5
+1,9
+1,2
+1,7
+–21,4
+–9,1
+–7,7
+–7,9
+–7,2
+Barbados
+–0,3
+17,8
+4,1
+3,9
+3,0
+2,4
+3,8
+3,2
+3,0
+2,4
+–10,3
+–9,9
+–8,6
+–6,4
+–6,1
+Belice
+17,9
+9,8
+1,1
+5,4
+2,5
+4,9
+6,7
+3,7
+2,6
+1,3
+–6,5
+–8,3
+–0,6
+–3,0
+–2,6
+Dominica
+6,9
+5,6
+4,7
+4,6
+4,2
+3,5
+8,7
+2,3
+2,2
+2,0
+–32,9
+–26,7
+–33,9
+–33,1
+–30,7
+Granada
+4,7
+7,3
+4,7
+3,0
+3,9
+1,9
+2,9
+2,2
+2,8
+1,8
+–14,5
+–11,0
+–9,1
+–11,3
+–14,6
+Jamaica
+4,6
+5,2
+2,6
+1,3
+2,1
+7,3
+9,4
+6,9
+5,3
+5,0
+1,0
+–0,8
+2,9
+1,6
+0,5
+Saint Kitts y Nevis
+–1,7
+10,5
+2,3
+4,4
+4,3
+1,9
+3,9
+1,6
+2,3
+2,0
+–5,1
+–10,8
+–13,6
+–10,4
+–12,4
+Santa Lucía
+11,6
+20,4
+2,2
+3,9
+2,6
+4,1
+6,9
+2,1
+0,6
+1,4
+–11,9
+–2,9
+–1,9
+–1,5
+–1,3
+San Vicente y las Granadinas
+2,1
+3,1
+5,8
+4,5
+4,0
+3,4
+6,7
+4,0
+3,0
+2,0
+–22,2
+–18,9
+–17,5
+–18,9
+–15,4
+El Caribe: No dependientes del turismo
+2,1
+15,4
+10,0
+16,5
+7,1
+12,1
+20,6
+11,5
+9,1
+7,6
+1,6
+12,7
+6,7
+12,2
+5,6
+Haití4
+–1,8
+–1,7
+–1,9
+–4,0
+1,0
+13,1
+38,7
+31,8
+29,0
+18,7
+0,4
+–2,3
+–3,5
+–0,4
+–0,9
+Exportadores de materias primas
+4,0
+22,7
+14,3
+22,7
+8,7
+11,5
+13,7
+4,8
+3,8
+4,8
+2,3
+18,9
+10,9
+18,1
+9,0
+Guyana
+20,1
+62,3
+33,0
+43,8
+14,4
+5,7
+7,2
+2,0
+3,5
+5,5
+–26,0
+26,2
+10,3
+36,9
+12,6
+Suriname
+–2,4
+2,4
+2,1
+3,0
+3,0
+60,7
+54,6
+32,6
+12,7
+11,3
+5,7
+2,1
+3,9
+1,8
+1,6
+Trinidad y Tabago
+–1,0
+1,5
+1,1
+1,6
+2,4
+3,5
+8,7
+0,7
+1,8
+2,0
+10,7
+17,4
+12,1
+5,5
+7,2
+Partida informativa
+América Latina y el Caribe
+7,4
+4,2
+2,2
+2,1
+2,5
+11,7
+14,9
+17,2
+13,2
+6,9
+–1,8
+–2,2
+–1,1
+–0,9
+–1,1
+ALC (promedio simple)
+8,3
+7,8
+3,7
+4,1
+3,3
+8,2
+12,5
+11,6
+8,7
+5,0
+–5,6
+–3,5
+–2,7
+–1,9
+–2,8
+ALC, excluidas Argentina y Venezuela
+7,1
+4,0
+2,6
+2,6
+2,2
+7,8
+7,8
+4,7
+4,3
+3,3
+–2,1
+–2,4
+–0,9
+–1,1
+–1,4
+América Latina 7
+6,7
+3,6
+2,4
+2,4
+2,0
+8,3
+7,9
+5,0
+4,4
+3,3
+–2,3
+–2,7
+–1,0
+–1,4
+–1,5
+América Latina 5
+6,8
+3,6
+2,4
+2,3
+2,0
+8,3
+7,8
+5,0
+4,4
+3,2
+–2,4
+–2,7
+–0,9
+–1,4
+–1,5
+Unión Monetaria del Caribe Oriental5
+6,5
+11,4
+3,9
+4,5
+3,6
+2,7
+6,7
+2,4
+2,7
+1,8
+–18,9
+–12,9
+–11,6
+–11,1
+–10,8
+Fuentes: FMI, base de datos del informe WEO, y cálculos y proyecciones del personal técnico del FMI.
+Nota: AL5 = cinco economías principales de América Latina (Brasil, Chile, Colombia, México, Perú); AL7 = siete economías principales de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú, Uruguay); ALC = América Latina y el Caribe; CAPRD = América Central, Panamá y República Dominicana.
+1Los agregados regionales de crecimiento del producto se calculan como promedios ponderados por el PIB en función de la paridad del poder adquisitivo. Los agregados de la inflación del índice de precios al consumidor (IPC) excluyen a Venezuela y son promedios geométricos ponderados por el PIB en función de la paridad del poder adquisitivo. Los agregados de la cuenta corriente son promedios ponderados por el PIB nominal en dólares de EE.UU.. Véanse más detalles sobre los datos en las notas sobre los países. Los datos presentados en esta tabla han sido compilados con base en información disponible al 7 de octubre de 2024, pero pueden no reflejar la información más reciente publicada en todos los casos. Para la fecha de actualización más reciente en cada caso, véanse las notas proporcionadas en la base de datos del informe WEO disponible en línea.
+2Estas cifras generalmente diferirán de las tasas de inflación promedio del período presentadas en el informe WEO del FMI, si bien ambas están basadas en las mismas series básicas.
+3Puerto Rico se clasifica como una economía avanzada. Es un territorio de Estados Unidos, pero sus datos estadísticos se mantienen de forma separada e independiente.
+4Datos correspondientes al año fiscal.
+5La Unión Monetaria del Caribe Oriental (ECCU) comprende Antigua y Barbuda, Dominica, Granada, Saint Kitts, Santa Lucía y San Vicente y las Granadinas; así como Anguila y Montserrat (que no son miembros del FMI).
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+35
+Cuadros de los apéndices
+Cuadro del apéndice 2. Las Américas: Principales indicadores fiscales¹
+Gasto primario del
+gobierno general
+(Porcentaje del PIB)
+Saldo primario del
+gobierno general
+(Porcentaje del PIB)
+Deuda bruta del
+gobierno general
+(Porcentaje del PIB)
+Proyecciones
+Proyecciones
+Proyecciones
+2021
+2022
+2023
+2024
+2025
+2021
+2022
+2023
+2024
+2025
+2021
+2022
+2023
+2024
+2025
+América del Norte
+39,2
+33,0
+32,3
+33,0
+32,7
+–7,9
+–0,9
+–3,1
+–3,4
+–2,8
+120,1
+114,2
+113,9
+116,1
+118,9
+Canadá
+42,8
+38,3
+39,3
+40,0
+39,2
+–3,6
+–0,3
+–0,2
+–1,5
+–0,7
+113,5
+107,4
+107,5
+106,1
+103,2
+México
+22,8
+23,2
+22,4
+24,7
+22,6
+0,0
+0,7
+1,5
+–0,8
+1,0
+56,9
+54,2
+53,1
+57,7
+57,9
+Estados Unidos
+39,9
+33,1
+32,4
+33,0
+32,8
+–8,7
+–1,1
+–3,6
+–3,7
+–3,2
+124,5
+118,6
+118,7
+121,0
+124,1
+Puerto Rico2
+19,2
+19,9
+21,3
+22,0
+22,9
+1,7
+2,5
+1,3
+0,4
+0,4
+48,9
+16,7
+16,7
+17,7
+18,8
+América del Sur
+32,3
+32,5
+33,6
+32,7
+32,7
+–0,8
+0,1
+–1,9
+–0,4
+–0,1
+77,6
+75,1
+85,9
+77,2
+77,6
+Argentina
+36,1
+35,6
+35,3
+30,2
+30,9
+–2,5
+–1,7
+–2,8
+1,8
+2,9
+81,0
+84,5
+155,4
+91,5
+78,5
+Bolivia
+33,0
+33,0
+35,8
+34,2
+33,3
+–8,0
+–5,5
+–8,7
+–7,2
+–6,5
+81,4
+80,1
+88,4
+93,9
+97,9
+Brasil
+33,6
+35,4
+37,2
+37,7
+37,8
+2,0
+1,3
+–2,0
+–0,5
+–0,7
+88,9
+83,9
+84,7
+87,6
+92,0
+Chile
+32,7
+25,6
+26,3
+25,9
+25,8
+–6,9
+1,8
+–1,9
+–1,7
+–0,8
+36,4
+37,8
+39,4
+41,0
+41,6
+Colombia
+31,1
+29,7
+30,8
+28,4
+27,9
+–4,4
+–2,4
+1,1
+–0,1
+0,2
+64,0
+60,1
+54,3
+55,8
+56,1
+Ecuador
+36,1
+37,2
+38,0
+38,1
+35,5
+–1,4
+0,5
+–2,7
+–0,9
+0,2
+61,6
+57,0
+55,3
+56,5
+56,5
+Paraguay
+19,4
+18,9
+19,9
+18,9
+18,2
+–2,3
+–1,4
+–2,2
+–0,3
+0,2
+37,5
+40,5
+41,2
+41,9
+41,2
+Perú
+22,1
+22,0
+20,9
+20,8
+20,6
+–1,2
+0,0
+–1,3
+–1,6
+–0,5
+36,1
+34,0
+33,0
+34,2
+35,3
+Uruguay
+28,2
+28,2
+28,6
+28,8
+28,3
+–0,6
+–0,5
+–0,9
+–0,7
+–0,6
+64,1
+60,3
+64,5
+64,7
+65,0
+Venezuela
+11,8
+14,1
+14,1
+…
+…
+–4,6
+–5,9
+–3,3
+…
+…
+249,7
+160,7
+146,3
+…
+…
+CAPRD
+17,9
+16,9
+16,7
+16,9
+16,7
+–0,9
+0,3
+0,5
+0,4
+0,4
+55,7
+52,8
+51,8
+51,6
+51,3
+Costa Rica
+16,0
+14,3
+13,7
+13,6
+13,3
+–0,3
+2,1
+1,6
+1,3
+1,6
+67,6
+63,0
+61,1
+61,2
+60,9
+República Dominicana
+15,4
+15,7
+15,8
+15,9
+14,8
+0,2
+–0,4
+–0,1
+0,4
+0,5
+63,2
+59,5
+60,0
+59,2
+58,1
+El Salvador
+27,2
+24,2
+26,3
+26,5
+25,9
+–1,0
+2,0
+–0,1
+0,0
+0,6
+88,0
+83,3
+84,7
+84,8
+84,6
+Guatemala
+11,7
+12,6
+12,1
+11,9
+12,9
+0,6
+0,0
+0,4
+0,6
+–0,4
+30,6
+29,0
+27,2
+26,8
+26,8
+Honduras
+26,3
+21,8
+23,4
+24,7
+25,1
+–2,1
+2,7
+0,9
+–0,1
+–0,3
+51,0
+49,8
+45,0
+43,9
+43,2
+Nicaragua
+28,9
+27,2
+24,8
+26,9
+27,1
+–0,1
+2,0
+4,0
+2,0
+1,6
+47,1
+44,6
+41,7
+39,3
+38,2
+Panamá
+21,6
+19,3
+18,4
+18,7
+18,2
+–4,4
+–1,8
+–0,3
+–1,0
+–0,3
+55,6
+53,7
+52,4
+54,6
+55,8
+Caribe
+23,0
+21,1
+21,3
+20,5
+20,2
+–2,4
+1,0
+1,3
+1,4
+0,9
+70,5
+61,1
+59,6
+53,2
+51,3
+El Caribe: Dependientes del turismo
+26,4
+24,2
+23,3
+23,2
+23,0
+–0,4
+2,2
+3,1
+3,6
+3,5
+97,7
+84,9
+80,4
+75,7
+73,5
+Antigua y Barbuda
+21,2
+18,1
+16,3
+16,8
+17,0
+–2,3
+–0,3
+0,4
+0,6
+0,7
+93,0
+82,0
+76,8
+69,6
+67,3
+Aruba
+24,5
+17,8
+18,0
+17,2
+17,3
+–4,8
+3,4
+6,3
+6,4
+5,7
+101,8
+90,1
+78,7
+70,9
+66,3
+Las Bahamas
+27,7
+22,4
+20,1
+18,2
+18,4
+–8,9
+–1,3
+0,3
+2,9
+3,7
+99,7
+88,6
+81,5
+78,7
+79,1
+Barbados
+26,8
+25,2
+23,1
+22,2
+21,8
+–0,8
+2,4
+3,5
+3,8
+4,3
+121,6
+113,2
+110,8
+103,2
+97,5
+Belice
+24,3
+21,2
+22,0
+21,9
+22,0
+–1,9
+1,3
+0,9
+1,1
+1,2
+82,3
+67,1
+66,8
+62,3
+60,8
+Dominica
+64,4
+67,1
+59,3
+59,7
+48,5
+–5,6
+–4,3
+0,2
+0,5
+0,7
+108,5
+103,6
+96,5
+97,1
+93,7
+Granada
+29,5
+30,2
+27,4
+36,1
+35,3
+2,1
+2,5
+9,5
+5,2
+–3,8
+86,6
+78,8
+75,2
+75,3
+74,1
+Jamaica
+24,2
+24,3
+24,8
+25,5
+25,6
+6,8
+5,8
+5,7
+5,6
+4,9
+94,2
+77,0
+73,3
+67,9
+64,9
+Saint Kitts y Nevis
+40,0
+48,0
+40,9
+40,4
+39,3
+6,4
+–3,0
+1,9
+–3,1
+–2,9
+69,1
+60,2
+55,9
+51,0
+52,1
+Santa Lucía
+22,7
+19,8
+20,7
+21,4
+21,5
+–1,7
+1,2
+0,7
+0,9
+0,8
+81,9
+73,4
+74,5
+73,8
+74,1
+San Vicente y las Granadinas
+34,6
+33,6
+35,5
+35,3
+29,8
+–4,9
+–7,1
+–10,1
+–7,1
+–2,2
+88,3
+84,7
+87,1
+88,8
+88,1
+El Caribe: No dependientes del turismo
+20,4
+18,7
+19,7
+18,7
+18,3
+–4,0
+0,0
+–0,1
+–0,2
+–1,0
+49,0
+42,7
+42,8
+36,8
+35,8
+Haití
+9,0
+8,0
+6,1
+4,4
+5,7
+–2,0
+–1,5
+1,2
+7,3
+0,1
+28,9
+29,5
+28,5
+14,0
+11,3
+Exportadores de materias primas
+27,4
+23,2
+25,1
+25,3
+24,9
+–5,2
+0,7
+–0,7
+–3,7
+–1,5
+61,3
+48,3
+48,4
+47,5
+48,6
+Guyana
+25,5
+20,3
+23,1
+23,6
+22,8
+–6,8
+–4,9
+–5,4
+–5,9
+–1,8
+43,2
+26,5
+26,4
+25,5
+26,0
+Suriname
+26,9
+25,8
+23,9
+23,3
+21,9
+–0,5
+1,0
+1,3
+2,8
+3,5
+115,8
+116,9
+90,3
+85,7
+78,6
+Trinidad y Tabago
+28,0
+24,4
+26,4
+27,1
+27,2
+–5,2
+3,5
+1,9
+–3,2
+–2,2
+60,0
+50,7
+56,1
+59,0
+62,5
+Partida informativa
+América Latina y el Caribe
+28,6
+28,8
+29,1
+29,0
+28,5
+–0,6
+0,3
+–0,8
+–0,4
+0,2
+70,5
+68,0
+73,9
+69,4
+69,8
+ALC (promedio simple)
+26,8
+25,6
+25,2
+25,3
+24,5
+–2,0
+–0,2
+0,0
+0,3
+0,4
+76,8
+69,0
+68,7
+65,2
+64,0
+ALC, excluidas Argentina y Venezuela
+28,0
+28,2
+28,6
+29,2
+28,5
+–0,4
+0,6
+–0,5
+–0,6
+0,0
+67,1
+64,3
+63,7
+66,0
+68,0
+América Latina 7
+28,8
+29,2
+29,7
+30,4
+29,8
+–0,2
+0,7
+–0,5
+–0,7
+0,0
+68,1
+65,5
+64,9
+67,8
+70,1
+América Latina 5
+28,9
+29,4
+29,8
+30,5
+29,9
+–0,1
+0,8
+–0,5
+–0,7
+0,0
+68,5
+65,8
+65,1
+68,1
+70,5
+Unión Monetaria del Caribe Oriental3
+31,0
+30,3
+28,9
+29,1
+27,5
+–0,9
+–0,7
+0,6
+1,0
+0,3
+81,9
+73,6
+71,1
+67,6
+65,3
+Fuentes: FMI, base de datos del informe WEO, y cálculos y proyecciones del personal técnico del FMI.
+Nota: AL5 = cinco economías principales de América Latina (Brasil, Chile, Colombia, México, Perú); AL7 = siete economías principales de América Latina (Brasil, Chile, Colombia, México, Paraguay, Perú, Uruguay); ALC = América Latina y el Caribe; CAPRD = América Central, Panamá y República Dominicana.
+1La cobertura del gobierno varía según el país en función de diferencias institucionales específicas de los países, incluido lo que constituye la cobertura apropiada desde una perspectiva de la política fiscal, tal como la define el personal técnico del FMI. Véanse más detalles sobre los datos en las notas sobre los países. Todos los indicadores se presentan en base al año fiscal. Los agregados regionales son promedios del año fiscal ponderados por el PIB nominal en dólares de EE.UU.. Los datos presentados en esta tabla han sido compilados con base en información disponible al 7 de octubre de 2024, pero pueden no reflejar la información más reciente publicada en todos los casos. Para la fecha de actualización más reciente en cada caso, véanse las notas proporcionadas en la base de datos del informe WEO disponible en línea.
+2Puerto Rico se clasifica como una economía avanzada. Es un territorio de Estados Unidos, pero sus datos estadísticos se mantienen de forma separada e independiente.
+3La Unión Monetaria del Caribe Oriental (ECCU) comprende Antigua y Barbuda, Dominica, Granada, Saint Kitts, Santa Lucía y San Vicente y las Granadinas, así como Anguila y Montserrat, que no son miembros del FMI.
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+36
+Notas sobre los países
+Argentina. El índice de precios al consumidor (IPC) oficial empieza en diciembre de 2016. Para períodos anteriores, los datos del IPC de Argentina reflejan el IPC del Gran Buenos Aires (antes de diciembre de 2013), el Índice de Precios al Consumidor Nacional urbano (IPCNu, diciembre de 2013 a octubre de 2015), el IPC de la Ciudad de Buenos Aires (noviembre de 2015 a abril de 2016) y el IPC de la zona del Gran Buenos Aires (mayo de 2016 a diciembre de 2016). Dada la limitada comparabilidad de estas series debido a diferencias de cobertura geográfica, ponderaciones, muestreo y metodología, en el informe WEO no se presenta la inflación media del IPC correspondiente a 2014–16 ni la inflación al final del período para 2015–16. Asimismo, Argentina dejó de publicar datos sobre el mercado laboral a partir del cuarto trimestre de 2015 y se publicaron series nuevas en el segundo trimestre de 2016. Para las series fiscales, el gasto primario y el balance primario incluyen el gobierno federal, las provincias y los fondos de seguridad social. La deuda bruta corresponde al gobierno federal solamente.
+Bahamas, Las. La cobertura de las series fiscales corresponde al gobierno central.
+Barbados. Los balances total y primario abarcan el gobierno central presupuestario. La deuda bruta incluye la deuda del gobierno central, la deuda con garantía del gobierno central y los atrasos.
+Belice. La cobertura de las series fiscales corresponde al gobierno central.
+Bolivia. Sector público no financiero, excluidas las operaciones de las sociedades nacionalizadas de propiedad mixta en los sectores de hidrocarburos y electricidad.
+Brasil. Sector público no financiero, excluidos Petrobras y Eletrobras, y consolidado con el Fondo Soberano de Inversión. La definición incluye las letras del Tesoro en el balance del banco central, incluidas aquellas no utilizadas en el marco de acuerdos de recompra (repos). La definición nacional de deuda bruta del gobierno general incluye el saldo de letras del Tesoro utilizadas para fines de política monetaria por el banco central (aquellas utilizadas como títulos en operaciones de reporto pasivo). Excluye el resto de los títulos públicos mantenidos por el banco central.
+Colombia. Para balances primarios se presentan datos del sector público no financiero (excluidas las discrepancias estadísticas); para deuda pública bruta se presentan datos del sector público combinado, incluido Ecopetrol y excluida la deuda externa pendiente del Banco de la República.
+Costa Rica. El 1 de enero de 2021 se amplió la definición de gobierno central para incluir a 51 entidades públicas conforme a la Ley 9524. Los datos que se remontan a 2019 están ajustados para facilitar la comparación.
+Ecuador. La deuda bruta del sector público incluye los pasivos en el marco de las ventas anticipadas de petróleo, que no se consideran deuda pública en la definición de las autoridades. A finales de 2016, las autoridades cambiaron la definición de deuda a una base consolidada; ahora tanto las cifras históricas como las proyecciones se presentan en una base consolidada.
+El Salvador. Para gasto primario y balance primario se presentan datos del gobierno central; la deuda bruta se presenta en base consolidada.
+Estados Unidos. Para facilitar la comparación entre países, el gasto y el balance fiscal de Estados Unidos se ajustan a fin de excluir las partidas relacionadas con la contabilidad en base al criterio devengado de los planes de pensiones de beneficio definido de los funcionarios, los cuales se contabilizan como gasto en el Sistema de Cuentas Nacionales 2008 (SCN 2008) adoptado recientemente en Estados Unidos, pero no en aquellos países que aún no lo han adoptado. Por lo tanto, los datos del Cuadro del apéndice 2 correspondientes a Estados Unidos pueden diferir de los publicados por la Oficina de Análisis Económico de Estados Unidos.
+Notas sobre los países
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+37
+Guatemala. La cobertura de las series fiscales corresponde al gobierno central.
+Guyana. La cobertura de las series fiscales corresponde al gobierno central.
+Haití. La cobertura de las series fiscales corresponde al gobierno central.
+Jamaica. En el caso del gasto primario y el balance primario, los datos corresponden al gobierno central. La deuda pública incluye gobierno central, deuda con garantía y deuda de PetroCaribe.
+México. Incluye el gobierno central, los fondos de los sistemas de seguridad social, las sociedades públicas no financieras y las sociedades públicas financieras no monetarias.
+Nicaragua. Para gasto primario y balance primario se presentan datos del gobierno central; la deuda bruta ahora se presenta en base consolidada.
+Panamá. Los coeficientes con respecto al PIB se basan en las series del PIB base 2007. Los datos fiscales corresponden al sector público no financiero, excluyendo la Autoridad del Canal de Panamá.
+Paraguay. La cobertura de las series fiscales para el informe WEO es más amplia que el gobierno central presupuestario, que es utilizada por las autoridades para medir las reglas y los objetivos fiscales.
+Perú. La deuda bruta corresponde al sector público no financiero.
+República Dominicana. La deuda pública, el servicio de la deuda y los balances estructural/ajustado en función del ciclo se refieren al sector público consolidado (que incluye el gobierno central, el resto del sector público no financiero y el banco central); el resto de las series fiscales se refiere al gobierno central.
+Suriname. El gasto primario excluye préstamos netos.
+Trinidad y Tabago. Corresponde al gobierno central.
+Unión Monetaria del Caribe Oriental (ECCU, por su sigla en inglés). Para todos los países, gobierno central en el caso del gasto primario y el balance primario; sector público en el caso de la deuda pública.
+Uruguay. En diciembre de 2020, las autoridades comenzaron a declarar las cifras de las cuentas nacionales conforme al SCN 2008, con año base 2016. La nueva serie comenzó en 2016. Los datos anteriores a 2016 reflejan el esfuerzo máximo del personal del FMI por preservar la información declarada anteriormente y evitar cortes estructurales.
+Desde octubre de 2018, el sistema público de pensiones de Uruguay recibió transferencias en el marco de la Ley 19590 de 2017, que compensa a las personas afectadas por la creación del sistema de pensiones mixto. Estos fondos se registran como ingresos, conforme a la metodología del FMI. Por lo tanto, los datos para 2018—22 se ven afectados por estas transferencias, que ascendieron a 1,2 por ciento del PIB en 2018, 1,0 por ciento del PIB en 2019, 0,6 por ciento del PIB en 2020, 0,3 por ciento del PIB en 2021, 0,1 por ciento del PIB en 2022 y 0,0 por ciento de ahí en adelante. Véanse más detalles en el Informe del personal técnico del FMI sobre los países N.º 19/64. La nota aclaratoria sobre el sistema público de pensiones se aplica únicamente a las series de ingresos y de préstamo/endeudamiento neto.
+La cobertura de los datos fiscales de Uruguay pasó del sector público consolidado al sector público no financiero a partir del informe WEO de octubre de 2019. En Uruguay, la cobertura del sector público no financiero abarca el gobierno central, el gobierno local, los fondos de seguridad social, las sociedades públicas no financieras y el Banco de Seguros del Estado. Consiguientemente, los datos históricos fueron revisados. Dentro de este perímetro fiscal más reducido —que excluye al banco central—, los activos y pasivos en poder del sector público no financiero cuya contraparte es el banco central no se deducen de las cifras de la deuda. En este contexto, los bonos de capitalización emitidos por el gobierno al banco central en el pasado ahora forman parte de la deuda del sector público no financiero. PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+38
+Venezuela. Proyectar las perspectivas económicas, incluida la evaluación de la evolución económica pasada y actual utilizada como base para las proyecciones, es una tarea que se dificulta por el hecho de que no se mantienen conversaciones con las autoridades (la consulta del Artículo IV más reciente se llevó a cabo en 2004), por los metadatos incompletos de las limitadas estadísticas declaradas y por las dificultades para conciliar los indicadores declarados con los acontecimientos económicos. Las cuentas fiscales incluyen el gobierno central presupuestario, la seguridad social, el Fondo de Garantía de Depósitos y Protección Bancaria (FOGADE) y una muestra reducida de empresas públicas, entre ellas Petróleos de Venezuela, S.A. (PDVSA). Tras introducir algunas mejoras metodológicas para lograr un PIB nominal más sólido, los datos e indicadores históricos expresados como porcentaje del PIB han sido revisados de 2012 en adelante. Para la mayoría de los indicadores, los datos correspondientes a 2018–22 son estimaciones del personal técnico del FMI. En virtud de los efectos de la hiperinflación y la escasez de datos declarados, los indicadores macroeconómicos proyectados por el personal técnico del FMI deben interpretarse con cautela. Estas proyecciones están sujetas a un amplio margen de incertidumbre. Los precios al consumidor de Venezuela están excluidos de todos los datos agregados del informe WEO.
+Notas sobre los países
+Octubre de 2024 • FONDO MONETARIO INTERNACIONAL
+39
+Referencias
+Acosta-Ormaechea, Santiago, Sergio Sola, and Jiae Yoo. 2019. “Tax Composition and Growth: A Broad Cross-Country Perspective.” German Economic Review 20 (4): e70–e106.
+Amjadi, Azita, Philip Schuler, Hiroaki Kuwahara, and Susanne Quadros. 2011. “World Integrated Trade Solution: User's Manual.” World Bank, Washington, DC.
+Bakker, Bas. Forthcoming. “Remittances versus FDI: Drivers of Economic Growth Differentials in CAPDR Countries.” IMF Working Paper, International Monetary Fund, Washington, DC.
+Budina, Nina, Christian H. Ebeke, Florence Jaumotte, Andrea Medici, Augustus J. Panton, Marina M. Tavares, and Bella Yao. 2023. “Structural Reforms to Accelerate Growth, Ease Policy Trade-offs, and Support the Green Transition in Emerging Market and Developing Economies.” IMF Staff Discussion Note 2023/007, International Monetary Fund, Washington, DC.
+Calderon, Diego, Sandesh Dhungana, and Daniel Wales. Forthcoming. “Natural Interest Rates in Inflation Targeting Emerging Markets.” IMF Working Paper, International Monetary Fund, Washington, DC.
+Davoodi, Hamid R., Paul Elger, Alexandra Fotiou, Daniel Garcia-Macia, Xuehui Han, Andresa Lagerborg, W. Raphael Lam, and others. 2022. “Fiscal Rules and Fiscal Councils Recent Trends and Performance during the COVID-19 Pandemic.” IMF Working Paper 2022/011, International Monetary Fund, Washington, DC.
+International Monetary Fund (IMF). 2021. “Tax Policy for Inclusive Growth in Latin America and the Caribbean” (Background Paper 1). In Regional Economic Outlook: Western Hemisphere. Washington, DC, October.
+International Monetary Fund (IMF). 2023a. “The Natural Rate of Interest: Drivers and Implications for Policy” (Chapter 2). In World Economic Outlook. Washington, DC, April.
+International Monetary Fund (IMF). 2023b. “Crime and its Macroeconomic Consequences in Latin America and the Caribbean” (Online Annex 4). In Regional Economic Outlook: Western Hemisphere. Washington, DC, October.
+International Monetary Fund (IMF). 2023c. “Trade Integration and Implications of Global Fragmentation for Latin America and the Caribbean” (Background Paper 2). In Regional Economic Outlook: Western Hemisphere. Washington, DC, October.
+International Monetary Fund (IMF). 2024. “United States: 2024 Article IV Consultation—Press Release; Staff Report; and Statement by the Executive Director for the United States.” IMF Country Report 2024/232, Washington, DC.
+Larch, Martin, Janis Malzubris, and Stefano Santacroce. 2023. “Numerical Compliance with EU Fiscal Rules: Facts and Figures from a New Database.” Intereconomics 58 (1): 32–42.
+Ulloa-Suarez, Carolina, and Oscar Valencia. 2022. “Do Governments Stick to Their Announced Fiscal Rules? A Study of Latin American and the Caribbean Countries.” Journal of Government and Economics 8: 100058.
+PERSPECTIVAS ECONÓMICAS: Las Américas
+FONDO MONETARIO INTERNACIONAL • Octubre de 2024
+40
+EN ESTE INFORME:
+CAPÍTULO 1
+Recalibrar políticas y
+avanzar con reformas
+PERSPECTIVAS ECONÓMICAS
+LAS AMÉRICAS – OCTUBRE DE 2024
